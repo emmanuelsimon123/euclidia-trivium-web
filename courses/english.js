@@ -25,23 +25,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Grammar",
-       "def": "the study of how words are formed and how they combine into sentences"
+       "def": "the whole study of language, from the letters up through syllables, words, and sentences; its two parts are accidence and syntax"
       },
       {
        "term": "Accidence",
-       "def": "the part of grammar that studies the forms of individual words and how they change"
+       "def": "the first part of grammar in Arnold, beginning with the letters and the forms words take"
       },
       {
        "term": "Syntax",
-       "def": "the part of grammar that studies how words are arranged and combined into sentences"
+       "def": "the part of grammar treating how words are put together to form sentences"
       },
       {
        "term": "Notion",
-       "def": "an idea or conception in the mind, which a word stands for as a sign"
+       "def": "a conception that a word serves as a sign of: words are used as signs of notions"
       },
       {
        "term": "Sentence",
-       "def": "words put together so as to express a complete thought"
+       "def": "words put together so as to express thoughts, opinions, and the like"
       }
      ],
      "examples": [
@@ -176,23 +176,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Part of speech",
-       "def": "a class of words grouped by the job the word does in a sentence"
+       "def": "one of the named classes (substantive, adjective, verb, adverb, pronoun, preposition, conjunction, interjection) words are sorted into"
       },
       {
        "term": "Noun (substantive)",
-       "def": "a word that names a thing having an independent existence"
+       "def": "the name of every object that has, or is conceived by the mind to have, an independent existence"
       },
       {
        "term": "Verb",
-       "def": "a word expressing that something does, is, or has something done to it"
+       "def": "a word by which we express that persons or things do, are, or have anything done to them"
       },
       {
        "term": "Preposition",
-       "def": "a word that marks the relation of one thing to another (in, on, from)"
+       "def": "a word that marks the relation of one thing to another"
       },
       {
        "term": "Interjection",
-       "def": "a word, often a simple sound, that expresses a sudden feeling (oh!, alas!)"
+       "def": "a word, generally a simple sound, used to express some inward feeling such as sorrow, surprise, anger, or pain"
       }
      ],
      "examples": [
@@ -434,23 +434,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Common noun",
-       "def": "a noun naming any individual in a whole class of like things (tree, city)"
+       "def": "a name denoting any of the individuals contained in a class of things; an appellative (tree, flower, soldier)"
       },
       {
        "term": "Proper noun",
-       "def": "the special name of one particular person or place, written with a capital (London, John)"
+       "def": "a name of a person or place, proper, that is peculiar, to the individual bearing it (John, London)"
       },
       {
        "term": "Concrete noun",
-       "def": "a noun naming a thing that really exists in the world (iron, rose)"
+       "def": "the name of a thing that really exists, as distinguished from an abstract substantive (iron, soldier)"
       },
       {
        "term": "Abstract noun",
-       "def": "a noun naming a quality or idea drawn off from things and treated as existing (virtue, strength)"
+       "def": "the name of a quality or property conceived by the mind as having an independent existence, drawn off from appearances (virtue, redness)"
       },
       {
        "term": "Collective noun",
-       "def": "a singular noun naming a whole group of individuals as one (flock, army)"
+       "def": "a singular substantive, a noun of multitude, that expresses a collection of many individuals (flock, swarm, nation)"
       }
      ],
      "examples": [
@@ -633,19 +633,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Number",
-       "def": "the form of a noun showing whether one or more than one is meant"
+       "def": "the alteration in a substantive's form indicating whether one was spoken of, or more than one"
       },
       {
        "term": "Singular",
-       "def": "the number that indicates we are speaking of one"
+       "def": "the number which indicates that we are speaking of one"
       },
       {
        "term": "Plural",
-       "def": "the number that indicates we are speaking of more than one"
+       "def": "the substantive so altered as to express that we are speaking of more than one, generally by adding s"
       },
       {
        "term": "Irregular plural",
-       "def": "a plural not formed by the normal rules (man/men, child/children)"
+       "def": "one of the peculiar plural forms, with a changed vowel or an added syllable in -en (geese, oxen, children)"
       }
      ],
      "examples": [
@@ -755,23 +755,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Case",
-       "def": "the form or position of a noun that shows its relation to other words in the sentence"
+       "def": "one of the altered forms by which the various relations of a noun to other notions may be expressed; the word case means 'fall'"
       },
       {
        "term": "Nominative",
-       "def": "the plain form of a noun used as the subject (the doer): The king rules"
+       "def": "the simple form of the noun, used when we consider it independently; from nominare, to name"
       },
       {
        "term": "Possessive (genitive)",
-       "def": "the case showing belonging or 'of', formed in English with 's: the king's crown"
+       "def": "the case, the one English forms by inflexion, made by adding s with an apostrophe ('s) to the nominative: the king's crown"
       },
       {
        "term": "Objective (accusative)",
-       "def": "the case of the noun that receives the action, answering whom? or what?"
+       "def": "the case of the suffering object immediately affected by the action of the verb, in answer to whom? or what?"
       },
       {
        "term": "Subject",
-       "def": "the noun in the nominative that performs the action of the verb"
+       "def": "the noun in its nominative form, the doer of the action, opposed to the suffering object that the verb affects"
       }
      ],
      "examples": [
@@ -891,19 +891,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Gender",
-       "def": "the class of a noun as masculine, feminine, or neuter"
+       "def": "the sorting of all things as masculine, feminine, or neuter"
       },
       {
        "term": "Masculine",
-       "def": "the gender of words for males (he)"
+       "def": "the class of a male; also things Arnold speaks of as male, as the Sun, Time, and Death"
       },
       {
        "term": "Feminine",
-       "def": "the gender of words for females (she)"
+       "def": "the class of a female; also things Arnold speaks of as female, as the Moon, a Ship, and Virtue"
       },
       {
        "term": "Neuter",
-       "def": "the gender of words for things, 'neither' male nor female (it)"
+       "def": "neither of the two: an object with no distinction of sex, being neither male nor female"
       }
      ],
      "examples": [
@@ -1034,15 +1034,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Apposition",
-       "def": "placing a noun beside another noun to rename or define it"
+       "def": "one substantive put in the same case with another to define it more exactly"
       },
       {
        "term": "Appositive",
-       "def": "the noun that does the renaming"
+       "def": "the second substantive that does the defining, as 'daughter' in 'Maia, the daughter of Atlas'"
       },
       {
        "term": "Substantive",
-       "def": "an older word for a noun (a thing-word)"
+       "def": "Arnold's word for a noun, as Maia or Atlas"
       }
      ],
      "examples": [
@@ -1192,15 +1192,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Article",
-       "def": "one of the words a, an, the that introduces a noun"
+       "def": "Arnold's name for the peculiar adjective-words a or an and the"
       },
       {
        "term": "Indefinite article",
-       "def": "a / an, marking 'some one' of a kind, not a particular one"
+       "def": "a or an, marking that we speak of some one of the objects named"
       },
       {
        "term": "Definite article",
-       "def": "the, marking a particular, known object"
+       "def": "the, marking that we speak of a particular object"
       }
      ],
      "examples": [
@@ -1336,19 +1336,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Adjective",
-       "def": "a word that describes a noun, naming a quality"
+       "def": "a word set before a substantive to denote some property we perceive in objects, as sweet or heavy"
       },
       {
        "term": "Attributive adjective",
-       "def": "an adjective placed directly before its noun (a red rose)"
+       "def": "a quality joined to a substantive to describe it more exactly, but not asserted of it in a sentence, as a red house"
       },
       {
        "term": "Predicate adjective",
-       "def": "an adjective after a linking verb, describing the subject (the rose is red)"
+       "def": "a quality asserted of the subject with the verb to be, as the house is red"
       },
       {
        "term": "Linking verb",
-       "def": "a verb like 'to be' that joins a quality to the subject"
+       "def": "the verb to be, called by Arnold the copula or link, joining the predicate to the subject"
       }
      ],
      "examples": [
@@ -1499,19 +1499,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Degree",
-       "def": "one of the three comparison forms of an adjective"
+       "def": "a form expressing comparison; the comparative and superlative are called degrees of comparison"
       },
       {
        "term": "Positive",
-       "def": "the plain form, with no comparison (tall)"
+       "def": "the adjective in its simple form, the property put down without any comparison, as hot"
       },
       {
        "term": "Comparative",
-       "def": "the degree comparing two things (taller)"
+       "def": "the form (ending in er) showing a property in a greater degree than in some other, as hotter"
       },
       {
        "term": "Superlative",
-       "def": "the degree comparing three or more (tallest)"
+       "def": "the form (ending in est) showing a property in the highest degree of all compared, as hottest"
       }
      ],
      "examples": [
@@ -1660,15 +1660,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Pronoun",
-       "def": "a word that stands in place of a noun (he, she, it, they, who, this)"
+       "def": "a word that stands for a noun; from Latin pro, for, a for-noun, a word used for a noun"
       },
       {
        "term": "Antecedent",
-       "def": "the noun that a pronoun refers back to and replaces"
+       "def": "the noun already named, which the pronoun stands for and so saves us from repeating"
       },
       {
        "term": "Agreement",
-       "def": "the rule that a pronoun must match its antecedent in number and gender"
+       "def": "a pronoun's matching the noun it stands for in number and gender"
       }
      ],
      "examples": [
@@ -1775,23 +1775,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Personal pronoun",
-       "def": "a pronoun naming a person by role: I, you, he, she, it, we, they"
+       "def": "a substantive pronoun classed by person: I/we (first), thou/you (second), he, she, it/they (third)"
       },
       {
        "term": "Case",
-       "def": "the change of form that shows a pronoun's job (subject I vs. object me)"
+       "def": "in the Declension of Pronouns, the form taken as nominative, genitive, or accusative"
       },
       {
        "term": "Subject case",
-       "def": "the form used when the pronoun does the action: I, he, she, we, they"
+       "def": "Arnold's nominative: I, we, thou, ye or you, he, she, it, they"
       },
       {
        "term": "Object case",
-       "def": "the form used when the pronoun receives the action or follows a preposition: me, him, her, us, them"
+       "def": "Arnold's accusative: me, us, thee, you, him, her, it, them"
       },
       {
        "term": "Possessive",
-       "def": "the form showing belonging: my/mine, his, her/hers, our/ours, their/theirs"
+       "def": "the genitive forms, sometimes called possessive pronouns, since the genitive denotes possession: my or mine, his, her or hers"
       }
      ],
      "examples": [
@@ -1909,15 +1909,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Demonstrative pronoun",
-       "def": "a pointing word that singles out which thing is meant: this, that, these, those"
+       "def": "a pointing-out pronoun, from de-monstrare, to point out: this, these, that, those (and such, same)"
       },
       {
        "term": "This / these",
-       "def": "demonstratives for what is near the speaker (these is the plural)"
+       "def": "the demonstrative that points out what is near the speaker, with plural these"
       },
       {
        "term": "That / those",
-       "def": "demonstratives for what is farther from the speaker (those is the plural)"
+       "def": "the demonstrative that points out what is further from the speaker, with plural those"
       }
      ],
      "examples": [
@@ -2063,19 +2063,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Relative pronoun",
-       "def": "a pronoun (who, which, that) that refers back to a noun and introduces a clause describing it"
+       "def": "who for persons, which for things, that for either; so called because it refers to an object already mentioned"
       },
       {
        "term": "Relative clause",
-       "def": "the group of words a relative pronoun introduces, describing a noun (also called an adjective clause)"
+       "def": "the added statement a relative introduces, as 'which you have bought' refers back to 'the house'"
       },
       {
        "term": "Interrogative pronoun",
-       "def": "who?, which?, or what? used to ask a question"
+       "def": "who, which, or what used as a question-asking pronoun, from interrogare, to ask"
       },
       {
        "term": "Whom / whose",
-       "def": "the object and possessive forms of relative/interrogative 'who'"
+       "def": "the accusative and genitive of who; whose is also given as the genitive of which"
       }
      ],
      "examples": [
@@ -2210,23 +2210,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Indefinite pronoun",
-       "def": "a pronoun naming a person or thing vaguely: some, any, none, each, every, all, many, few"
+       "def": "Arnold's indefinite numerals: each, every, either, neither, many, much, few, all, some, any, other, one"
       },
       {
        "term": "Numeral",
-       "def": "a word expressing number or quantity"
+       "def": "a word that expresses the relations of number and quantity"
       },
       {
        "term": "Definite numeral",
-       "def": "a numeral naming an exact number: one, two, three"
+       "def": "a numeral that denotes a particular number, as one, two, three"
       },
       {
        "term": "Indefinite numeral",
-       "def": "a numeral with no exact value: many, few, several, much"
+       "def": "a numeral that denotes no particular number or quantity, as many, some, much"
       },
       {
        "term": "None",
-       "def": "the indefinite pronoun meaning 'not one' or 'not any', used standing alone"
+       "def": "the stand-alone form to 'no' as 'mine' is to 'my'; compounded of no one, yet used singular or plural"
       }
      ],
      "examples": [
@@ -2355,15 +2355,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Verb",
-       "def": "the word that tells what the subject does or is"
+       "def": "a word that combines the notion of some property, the notion of being, and generally the notion of time"
       },
       {
        "term": "Linking verb",
-       "def": "a verb (chiefly 'to be') that joins a subject to a word describing it"
+       "def": "Arnold's one excepted verb, 'to be', which carries the notion of being without naming a property"
       },
       {
        "term": "Property",
-       "def": "the action or state that a verb names (running, sleeping, being red)"
+       "def": "the state a verb names, as in 'John is now in that state which we call running'"
       }
      ],
      "examples": [
@@ -2519,15 +2519,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Transitive verb",
-       "def": "a verb whose action passes over to an object"
+       "def": "a verb whose notion is incomplete without the supplementary notion of an object affected by its action"
       },
       {
        "term": "Intransitive verb",
-       "def": "a verb whose meaning is complete with no object"
+       "def": "a verb whose notion is complete without the addition of any supplementary notion"
       },
       {
        "term": "Object",
-       "def": "the word that receives the action of a transitive verb"
+       "def": "the external object to which the action of a transitive verb is considered to pass over"
       }
      ],
      "examples": [
@@ -2691,19 +2691,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Tense",
-       "def": "the form of a verb that marks the time of its action"
+       "def": "a particular form of the verb appropriated to one division of time, present, past, or future"
       },
       {
        "term": "Preterite",
-       "def": "the past tense (also called the past); what already happened"
+       "def": "Arnold's past tense, from praeteritum (past), generally formed by inflexion"
       },
       {
        "term": "Perfect",
-       "def": "a tense (formed with 'have') showing a completed action"
+       "def": "the perfect definite, formed with 'have', which brings a past action into connexion with present time"
       },
       {
        "term": "Regular verb",
-       "def": "a verb that forms its past by adding -d or -ed"
+       "def": "a verb whose preterite is formed by adding d or ed to the verb"
       }
      ],
      "examples": [
@@ -2872,15 +2872,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Person",
-       "def": "whether the subject is the speaker (1st), the one spoken to (2nd), or another (3rd)"
+       "def": "first refers to the speaker (I), second to the person spoken to (thou), third to any other person or thing spoken of"
       },
       {
        "term": "Number",
-       "def": "whether the subject is singular (one) or plural (more than one)"
+       "def": "the form marking whether the verb's subject is singular or plural; some languages add a dual number besides"
       },
       {
        "term": "Agreement",
-       "def": "matching the verb to its subject in number and person"
+       "def": "Arnold's rule that the verb agrees with its nominative case in number and person"
       }
      ],
      "examples": [
@@ -3001,15 +3001,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Auxiliary verb",
-       "def": "a helping verb (be, have, do) that combines with a main verb"
+       "def": "one of Arnold's auxiliary (helping) verbs, am, have, do, used to form the conjugation"
       },
       {
        "term": "Past participle",
-       "def": "the verb form (often ending -ed, -t, or -en) used with 'have' to form perfect tenses"
+       "def": "Arnold's past participle (been, had, done) joined to 'have' to form the perfect definite"
       },
       {
        "term": "Principal parts",
-       "def": "the basic forms of a verb (present, past, past participle) from which all others are built"
+       "def": "the basic forms of a verb in Arnold's table: infinitive, participles, present, and preterite"
       }
      ],
      "examples": [
@@ -3155,19 +3155,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Mood",
-       "def": "the form of a verb showing the speaker's attitude: stating a fact, commanding, or imagining"
+       "def": "the altered forms a verb assumes to express the different modes of our conceptions"
       },
       {
        "term": "Indicative",
-       "def": "the mood that states a fact or asks a question (The sun rises.)"
+       "def": "the mood that expresses actual existence; named from indicare, to express or indicate simply and absolutely"
       },
       {
        "term": "Imperative",
-       "def": "the mood that gives a command or request, usually with an understood subject 'you' (Sit down.)"
+       "def": "the mood that commands, and also requests, exhorts, permits, and with negatives forbids"
       },
       {
        "term": "Understood subject",
-       "def": "a subject that is not written but clearly meant; in commands it is always 'you'"
+       "def": "the nominative of a command, generally omitted; the second person thou or ye implied before the verb"
       }
      ],
      "examples": [
@@ -3333,19 +3333,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Subjunctive",
-       "def": "the mood expressing wishes, conditions, doubts, and possibilities rather than facts"
+       "def": "the mood that expresses what may be, such as purposes, conditions, and the like"
       },
       {
        "term": "Unreal condition",
-       "def": "an 'if' clause describing something not actually true (If I were rich...)"
+       "def": "a conditional form expressing that possibility which is not conceived as really existing"
       },
       {
        "term": "Wish",
-       "def": "a statement of what one desires but is not so (I wish it were Friday.)"
+       "def": "the use that gives the optative its name, from optare, to wish; one of the subjunctive's uses"
       },
       {
        "term": "Modal verb",
-       "def": "a helper such as may, might, would, should that often carries subjunctive meaning"
+       "def": "an auxiliary such as may or can that supplies the place of the subjunctive when it is conditional"
       }
      ],
      "examples": [
@@ -3473,15 +3473,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Infinitive",
-       "def": "the basic naming form of a verb, normally 'to' + verb (to walk), not tied to any subject"
+       "def": "the notion of the verb in its simplest form, the verb itself with the preposition to before it, without reference to any particular subject"
       },
       {
        "term": "Bare infinitive",
-       "def": "the infinitive with 'to' dropped, used after verbs like can, let, make, see (I can go.)"
+       "def": "the infinitive with to omitted, as after the verbs of mood and see, hear, feel, bid, dare, make"
       },
       {
        "term": "Infinitive of purpose",
-       "def": "an infinitive that explains why something is done (He stopped to rest.)"
+       "def": "the infinitive put to express the end or aim of an action, the work of a that-clause of purpose"
       }
      ],
      "examples": [
@@ -3598,19 +3598,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Participle",
-       "def": "a verbal adjective that describes a noun while keeping a verb's action and time"
+       "def": "a verbal adjective, differing from other adjectives by carrying with it a notion of time"
       },
       {
        "term": "Present participle",
-       "def": "the -ing form with an active meaning (a singing bird)"
+       "def": "the participle ending in ing and having an active meaning"
       },
       {
        "term": "Past participle",
-       "def": "usually the -ed/-en form with a passive or completed meaning (a closed door)"
+       "def": "the participle mostly ending in d, t, or n, with a passive meaning when the verb is transitive"
       },
       {
        "term": "Verbal adjective",
-       "def": "a word built from a verb but used to modify a noun"
+       "def": "a form that partakes of the nature both of verb and adjective, so named from participare, to partake"
       }
      ],
      "examples": [
@@ -3739,23 +3739,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Active voice",
-       "def": "the subject performs the action (She wrote the letter.)"
+       "def": "the voice expressing that the subject does an action, or is in a state not produced by some external power"
       },
       {
        "term": "Passive voice",
-       "def": "the subject receives the action, formed with be + past participle (The letter was written.)"
+       "def": "the voice expressing that the subject is acted upon and suffers an action; made of the verb to be and the past participle"
       },
       {
        "term": "Transitive verb",
-       "def": "a verb that takes a direct object and therefore can be made passive"
+       "def": "a verb that acts upon an object and therefore has a passive voice, which intransitive ones have not"
       },
       {
        "term": "Gerund",
-       "def": "an -ing form used as a noun (Swimming is fun.); also called a verbal noun"
+       "def": "the participial substantive, same in form as the participle but a substantive in use, nearly answering the Latin gerund"
       },
       {
        "term": "Agent",
-       "def": "the doer of the action, often in a 'by' phrase in a passive sentence"
+       "def": "the doer of the action, the one by whom a passive verb's action is performed"
       }
      ],
      "examples": [
@@ -3893,15 +3893,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Adverb",
-       "def": "a word that modifies a verb, adjective, or another adverb, adding a circumstance of how, when, or where"
+       "def": "a particle such as a word of place or time; a preposition standing without a noun should be reckoned an adverb"
       },
       {
        "term": "Modify",
-       "def": "to limit or add detail to the meaning of another word"
+       "def": "to be joined to a word and limit it, as an adverb is joined to a verb to add a circumstance"
       },
       {
        "term": "Manner",
-       "def": "the 'how' of an action, the most common thing an adverb tells us"
+       "def": "the kind of circumstance shown by such adverbs as 'thereafter,' as opposed to adverbs of place or of time"
       }
      ],
      "examples": [
@@ -4097,15 +4097,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Adverb of degree",
-       "def": "an adverb that tells how much, such as very, quite, too, almost"
+       "def": "an adverb that limits a property to a small degree, as 'rather' in 'She is rather pretty'"
       },
       {
        "term": "Intensifier",
-       "def": "a degree adverb that strengthens the word it modifies (very, extremely)"
+       "def": "an adverb that modifies another adverb, as 'very' does in 'very lightly'"
       },
       {
        "term": "Particle",
-       "def": "a general name for the small linking and shading words: adverbs, prepositions, conjunctions, interjections"
+       "def": "one of the words treated in §26, namely the adverbs, prepositions, and conjunctions"
       }
      ],
      "examples": [
@@ -4217,19 +4217,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Preposition",
-       "def": "a word that marks the relation of a noun to the rest of the sentence (on, in, after, with)"
+       "def": "a word expressing primarily the relation of place, and also the relations of time and causality"
       },
       {
        "term": "Object of the preposition",
-       "def": "the noun or pronoun that follows the preposition and completes its meaning"
+       "def": "the substantive under the government of the preposition, as 'heart' is governed by 'with'"
       },
       {
        "term": "Prepositional phrase",
-       "def": "a preposition together with its object, e.g. 'under the bridge'"
+       "def": "a phrase having a prepositional meaning, such as 'on account of' or 'for the sake of'"
       },
       {
        "term": "Govern",
-       "def": "what a preposition does to its object: it requires and controls it"
+       "def": "to hold a substantive under government, as a preposition does the noun that follows it"
       }
      ],
      "examples": [
@@ -4420,19 +4420,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Conjunction",
-       "def": "a word that joins words, phrases, or clauses together"
+       "def": "a connecting particle that cannot be understood by itself, but must be associated with some thoughts before its force is understood"
       },
       {
        "term": "Coordinating conjunction",
-       "def": "a conjunction joining equals: and, but, or"
+       "def": "a connecting particle such as 'and' or 'also' that simply joins notions or assertions together, without steering the verb's mood"
       },
       {
        "term": "Subordinating conjunction",
-       "def": "a conjunction attaching a dependent clause: because, when, if, although"
+       "def": "a conjunction that influences the verb as a preposition does the noun, and requires one of the dependent moods (Buttmann)"
       },
       {
        "term": "Correlative conjunctions",
-       "def": "a matched pair working together: either...or, neither...nor, both...and"
+       "def": "a conjunctional form of two or more separate but mutually dependent words, as 'not only ... but also' or 'as well as'"
       }
      ],
      "examples": [
@@ -4575,15 +4575,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Interjection",
-       "def": "a word or sound expressing sudden feeling, standing apart from the sentence (Oh! Alas! Ouch!)"
+       "def": "a word, generally a simple sound, used to express some inward feeling such as sorrow, surprise, anger, or pain"
       },
       {
        "term": "Exclamation mark",
-       "def": "the punctuation (!) placed after exclamations, invocations, and direct addresses"
+       "def": "the note of exclamation (!), which stands after exclamations, invocations, and direct addresses"
       },
       {
        "term": "Particles",
-       "def": "the four small joining and shading parts of speech: adverb, preposition, conjunction, interjection"
+       "def": "the words taken up in §26 with the interjection: the adverb, preposition, conjunction, and interjection"
       }
      ],
      "examples": [
@@ -4771,19 +4771,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Root",
-       "def": "the core part of a word that carries its main meaning (port = carry)"
+       "def": "the core word that carries the meaning and to which Arnold's prefixes and terminations are added (port = carry)"
       },
       {
        "term": "Prefix",
-       "def": "a piece added to the FRONT of a root to change its meaning (un-, re-, pre-)"
+       "def": "Arnold's word for a syllable fastened in front of a word, the first kind of Derivation (un-, re-, pre-)"
       },
       {
        "term": "Suffix",
-       "def": "a piece added to the END of a root, often changing its part of speech (-tion, -able)"
+       "def": "what Arnold calls a Termination, a word-part added at the end of a word (-tion, -able)"
       },
       {
        "term": "Etymology",
-       "def": "the study of where words come from and how they are built"
+       "def": "the study of Derivation: how secondary and tertiary words are formed from primary Saxon, French, and Latin sources"
       }
      ],
      "examples": [
@@ -4897,23 +4897,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "un-",
-       "def": "prefix meaning 'not' or 'undo the action' (unfair, untie)"
+       "def": "Arnold: 'Un signifies not'; before verbs it denotes the undoing of what was done (to unbind)"
       },
       {
        "term": "in-",
-       "def": "Latin prefix meaning 'not' (invisible); becomes im-, il-, ir- by assimilation"
+       "def": "Latin prefix Arnold glosses 'into, on, against: with adjectives, not'; before b, m, p it becomes im (invisible, imprudent)"
       },
       {
        "term": "dis-",
-       "def": "prefix meaning 'apart, not, opposite' (disagree, disappear)"
+       "def": "Latin prefix Arnold glosses 'asunder; in different directions; away from; un-' (disagree, disappear)"
       },
       {
        "term": "mis-",
-       "def": "prefix meaning 'wrongly, badly' (misspell, misjudge)"
+       "def": "Arnold: a prefix that 'insinuates some errour' (= ill, wrongly), as in misspell, misjudge"
       },
       {
        "term": "Assimilation",
-       "def": "a prefix changing its final letter to match the next letter (in- → im-)"
+       "def": "Arnold: the final consonant of a prefix changed into the initial consonant of the word to which it is prefixed (in to im)"
       }
      ],
      "examples": [
@@ -5039,23 +5039,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "re-",
-       "def": "prefix meaning 'back' or 'again' (return, replay)"
+       "def": "Arnold's Latin prefix glossed 'back, again, away, un-' (sometimes very, or forth from within), as in return, replay"
       },
       {
        "term": "pre-",
-       "def": "prefix meaning 'before' in time or place (preview, predict)"
+       "def": "Arnold's Latin prefix prae, glossed 'before; (with adj.) very', as in preview, predict"
       },
       {
        "term": "sub-",
-       "def": "prefix meaning 'under, below' (submarine, subway)"
+       "def": "Arnold's Latin prefix glossed 'under, away from beneath, from below upwards, somewhat' (submarine, subway)"
       },
       {
        "term": "trans-",
-       "def": "prefix meaning 'across, over, through' (transport, translate)"
+       "def": "Arnold's Latin prefix glossed 'across, through, over to the other side' (transport, translate)"
       },
       {
        "term": "ex-",
-       "def": "prefix meaning 'out of' (exit, export, extract)"
+       "def": "Arnold's Latin prefix glossed 'out of, thoroughly' (exit, export, extract)"
       }
      ],
      "examples": [
@@ -5199,19 +5199,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "-tion / -sion",
-       "def": "suffix making a noun for the act or result of a verb (action, decision)"
+       "def": "Arnold: terminations that 'denote the doing of the action expressed by the root', sometimes the result, the thing done (action, decision)"
       },
       {
        "term": "-able / -ible",
-       "def": "suffix making an adjective meaning 'able to be' (readable, visible)"
+       "def": "Arnold: terminations that 'denote fitness to be done', which Tooke calls Potential Passive Adjectives (readable, visible)"
       },
       {
        "term": "-ous",
-       "def": "suffix making an adjective meaning 'full of' (dangerous, famous)"
+       "def": "adjective ending of Arnold's 'abounding in' kind (his -ose, verbose): full of the root, as in dangerous, famous"
       },
       {
        "term": "Part of speech",
-       "def": "a word's grammatical job: noun, verb, adjective, etc., which a suffix can change"
+       "def": "a word's grammatical class (substantive, adjective, verb) that Arnold's terminations form, as -ity makes a substantive from an adjective"
       }
      ],
      "examples": [
@@ -5337,23 +5337,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "port",
-       "def": "Latin root meaning 'carry' (portable, transport, export)"
+       "def": "the carrying root, from Latin portare (to carry), that takes Arnold's prefixes: portable, transport, export"
       },
       {
        "term": "scrib / script",
-       "def": "Latin root meaning 'write' (describe, manuscript)"
+       "def": "the writing root, from Latin scribere (to write): describe, inscribe, manuscript"
       },
       {
        "term": "dict",
-       "def": "Latin root meaning 'say, speak' (predict, contradict, dictionary)"
+       "def": "the speaking root, from Latin dicere (to say): predict, contradict, dictionary"
       },
       {
        "term": "spect",
-       "def": "Latin root meaning 'look, watch' (spectator, inspect, respect)"
+       "def": "the looking root, from Latin spectare (to look at): spectator, inspect, respect"
       },
       {
        "term": "Greek roots",
-       "def": "common Greek pieces like tele- (far), graph (write), phon (sound), bio (life)"
+       "def": "Greek word-parts English borrows (with Arnold's Greek prepositions like anti, hypo, syn): tele far, graph write, phon sound, bio life"
       }
      ],
      "examples": [
@@ -5494,19 +5494,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Comma",
-       "def": "the mark ( , ) showing a brief pause that separates words or groups within a sentence"
+       "def": "the mark ( , ); the name means a portion cut off, and it divides language as a correct speaker would divide it"
       },
       {
        "term": "Series",
-       "def": "a list of three or more items separated by commas"
+       "def": "words run together as in 'The husband, wife, and children,' separated by commas when their conjunction is omitted"
       },
       {
        "term": "Serial comma",
-       "def": "the optional comma placed before the final 'and' or 'or' in a list"
+       "def": "the comma used before the expressed conjunction when the last of more than two words has 'and' or 'or'"
       },
       {
        "term": "Comma splice",
-       "def": "the error of joining two complete sentences with only a comma"
+       "def": "the fault of joining two complete statements with only a comma, the weakest of Arnold's stops, which cannot end or glue sentences alone"
       }
      ],
      "examples": [
@@ -5617,19 +5617,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Appositive",
-       "def": "a noun phrase placed beside another noun to rename or explain it"
+       "def": "a noun in apposition to another, generally stopt off when accompanied with adjuncts, as 'Paul, the Apostle of the Gentiles'"
       },
       {
        "term": "Set off",
-       "def": "to enclose a phrase with a comma before and after it (Arnold calls this 'stopt off')"
+       "def": "Arnold's 'stopt off,' meaning separated by a comma or commas"
       },
       {
        "term": "Participial phrase",
-       "def": "a describing phrase built on a participle, such as 'approving the plan'"
+       "def": "a participle or adjective with dependent words, generally stopt off, as 'approving the plan'"
       },
       {
        "term": "Vocative",
-       "def": "the name or term used to address someone directly, set off by commas"
+       "def": "a vocative case generally stopt off, as 'My son,' in 'My son, give me thy heart'"
       }
      ],
      "examples": [
@@ -5736,15 +5736,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Semicolon",
-       "def": "the mark ( ; ) linking two complete, closely related sentences"
+       "def": "the mark ( ; ) separating the members of a compound sentence, used instead of a comma wherever a longer pause is required"
       },
       {
        "term": "Colon",
-       "def": "the mark ( : ) that introduces a list, explanation, or quotation"
+       "def": "the mark ( : ) marking a still longer pause; commonly used when an example, a quotation, or a speech is introduced"
       },
       {
        "term": "Independent clause",
-       "def": "a group of words that could stand alone as a complete sentence"
+       "def": "a member of a compound sentence not required by the construction of the other, able to stand as a sentence"
       }
      ],
      "examples": [
@@ -5848,23 +5848,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Period",
-       "def": "the end mark ( . ) closing a statement or command; also the full stop"
+       "def": "the full stop ( . ), one of Arnold's stops, also marked after every abbreviated word, as 'He is an M.P.'"
       },
       {
        "term": "Question mark",
-       "def": "the end mark ( ? ) used only after a direct question"
+       "def": "the note of interrogation ( ? ), used at the end of all questions asked directly"
       },
       {
        "term": "Exclamation mark",
-       "def": "the end mark ( ! ) used after a strong outcry or address"
+       "def": "the note of exclamation, or admiration ( ! ), standing after exclamations, invocations, and direct addresses"
       },
       {
        "term": "Indirect question",
-       "def": "a reported question that is really a statement and takes a period, not a '?'"
+       "def": "an indirect or dependent question, after which Arnold says the note of interrogation is not used"
       },
       {
        "term": "Quotation marks",
-       "def": "the marks ( \" \" ), or inverted commas, that fence off exact spoken or written words"
+       "def": "inverted commas, which Arnold says are used to mark quotations"
       }
      ],
      "examples": [
@@ -5961,19 +5961,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Apostrophe",
-       "def": "the mark ( ' ) that forms possessives or marks dropped letters in contractions"
+       "def": "the mark ( ' ) which, Arnold says, marks that a vowel has been dropt; it forms the genitive as 's"
       },
       {
        "term": "Possessive",
-       "def": "the form showing ownership, made with 's (or s' for plurals ending in s)"
+       "def": "Arnold's genitive, the only English case formed by inflexion, now made by adding s with an apostrophe to the nominative"
       },
       {
        "term": "Contraction",
-       "def": "a shortened pair of words with an apostrophe where letters are dropped, as in 'don't'"
+       "def": "a form where, as the apostrophe marks, a letter has been dropt, like the e omitted in the genitive 's"
       },
       {
        "term": "Proper noun",
-       "def": "the particular name of a person, place, or thing, always capitalized"
+       "def": "a proper name; Arnold notes names ending in s, as Eneas' or Judas's, vary in taking the genitive s"
       }
      ],
      "examples": [
@@ -6097,23 +6097,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Subject",
-       "def": "the person or thing the sentence is about; answers 'who?' or 'what?' before the verb"
+       "def": "the person or thing about which something is asserted or asked"
       },
       {
        "term": "Predicate",
-       "def": "what is said about the subject; built around the verb"
+       "def": "what is said about the subject, from praedicare, to publish, to say"
       },
       {
        "term": "Object",
-       "def": "the noun immediately affected by a transitive verb; answers 'whom?' or 'what?' after it"
+       "def": "the noun representing what is immediately affected by the action of a transitive verb"
       },
       {
        "term": "Transitive verb",
-       "def": "a verb that takes a direct object (chase, hit, build)"
+       "def": "a verb whose action passes on to an object that it affects (chase, hit, build)"
       },
       {
        "term": "Intransitive verb",
-       "def": "a verb that takes no object (sleep, run, exist)"
+       "def": "a verb that affects nothing further and so takes no object (sleep, run, exist)"
       }
      ],
      "examples": [
@@ -6344,19 +6344,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Agreement (concord)",
-       "def": "the matching of one word's form to another's"
+       "def": "a verb being of the same number and person as its nominative case"
       },
       {
        "term": "Number",
-       "def": "whether a word is singular (one) or plural (more than one)"
+       "def": "whether a word stands in the singular or in the plural"
       },
       {
        "term": "Person",
-       "def": "first (I/we), second (you), or third (he/she/they)"
+       "def": "the first, second, or third person, which the verb must share with its nominative"
       },
       {
        "term": "Collective noun",
-       "def": "a noun naming a group as a unit (team, jury, council)"
+       "def": "a noun of multitude, naming a body that represents the individuals composing it"
       }
      ],
      "examples": [
@@ -6527,19 +6527,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Pronoun",
-       "def": "a word used in place of a noun (he, she, it, they, who)"
+       "def": "a word standing for a substantive, so the noun need not be repeated (he, she, it, they, who)"
       },
       {
        "term": "Antecedent",
-       "def": "the noun a pronoun refers back to"
+       "def": "the substantive to which the relative refers, from antecedere, to go before"
       },
       {
        "term": "Gender",
-       "def": "the masculine, feminine, or neuter classification of a noun or pronoun"
+       "def": "the masculine, feminine, or neuter sort that fixes which pronoun stands for a noun"
       },
       {
        "term": "Relative pronoun",
-       "def": "who, which, or that, joining a clause to its antecedent"
+       "def": "who, which, or that, introducing an adjective accessory sentence and referring to an antecedent"
       }
      ],
      "examples": [
@@ -6717,19 +6717,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Government",
-       "def": "when one word controls the case or form of another"
+       "def": "the relation by which a noun stands under the rule of a verb or preposition before it"
       },
       {
        "term": "Governs",
-       "def": "rules over; sets the case of the following word"
+       "def": "rules over a following noun, so that it stands in the accusative (objective) case"
       },
       {
        "term": "Objective case",
-       "def": "the form a noun or pronoun takes as an object (him, her, them); the Latin accusative"
+       "def": "the accusative case after the verb, the form for what is immediately affected (him, her, them)"
       },
       {
        "term": "Preposition",
-       "def": "a word like to, with, for, in that governs a following noun"
+       "def": "a word such as to, with, for, in that takes a following substantive under its government"
       }
      ],
      "examples": [
@@ -6921,27 +6921,27 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Phrase",
-       "def": "a word group with no subject-verb pair (in the garden, very quickly)"
+       "def": "a group of words working together that forms no sentence of its own (in the garden, very quickly)"
       },
       {
        "term": "Clause",
-       "def": "a word group that has its own subject and verb"
+       "def": "a sentence joined within a larger one, having its own subject and verb"
       },
       {
        "term": "Main clause",
-       "def": "a clause that stands alone as a complete sentence (also: principal, independent)"
+       "def": "the principal sentence, on which an accessory sentence depends"
       },
       {
        "term": "Subordinate clause",
-       "def": "a clause that depends on a main clause (also: dependent, accessory)"
+       "def": "an accessory sentence standing in place of a substantive, adjective, or adverb of another sentence"
       },
       {
        "term": "Compound sentence",
-       "def": "two or more main clauses joined as equals (co-ordination)"
+       "def": "two or more sentences connected by way of co-ordination, neither depending on the other"
       },
       {
        "term": "Complex sentence",
-       "def": "a main clause plus one or more subordinate clauses (subordination)"
+       "def": "a sentence connected to an accessory one by way of subordination"
       }
      ],
      "examples": [

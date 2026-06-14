@@ -92,6 +92,9 @@ em{color:var(--gold);font-style:italic}
 .node-body{flex:1;min-width:0}
 .node-body h3{font-size:16px;margin-bottom:2px}
 .node-body p{color:var(--text-dim);font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* mastery upkeep: a finished lesson whose spaced-review items have come due */
+.node.review-due{border-color:var(--gold-border)}
+.node-due{display:inline-block;margin-left:8px;font-size:11px;font-weight:700;color:var(--gold-light);background:var(--gold-pale);border:1px solid var(--gold-border);border-radius:100px;padding:1px 9px;vertical-align:middle}
 
 /* cards / lesson home */
 .card{background:var(--card-bg);border:1px solid var(--gold-border);border-radius:var(--radius-lg);padding:22px 24px;margin-bottom:16px}

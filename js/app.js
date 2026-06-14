@@ -87,10 +87,13 @@
       list.appendChild(h("div", { class: "unit-bar" }, h("div", { class: "unit-bar-fill", style: "width:" + um.pct + "%" })));
       u.lessons.forEach((l, i) => {
         const tier = W.store.masteryTier(l.id), done = tier >= 1, current = l.id === cur;
-        const node = h("div", { class: "node tier" + tier + (done ? " done" : "") + (current ? " current" : ""), onclick: () => openLesson(activeCourse, l.id) },
+        // mastery upkeep: a finished lesson whose SRS items have come due is flagged for refresh,
+        // so "mastered" reflects current retention rather than a single old 100% run.
+        const dueN = done ? W.srs.dueForLesson(l.id) : 0;
+        const node = h("div", { class: "node tier" + tier + (done ? " done" : "") + (current ? " current" : "") + (dueN ? " review-due" : ""), onclick: () => openLesson(activeCourse, l.id) },
           h("div", { class: "node-medallion" }, tier >= 3 ? "★" : done ? "✓" : (i + 1)),
-          h("div", { class: "node-body" }, h("h3", null, l.title), h("p", null, (done ? "Best " + W.store.bestOf(l.id) + "% · " : "") + (l.concept || l.summary || ""))),
-          h("button", { class: (current && !done ? "btn-primary" : "btn-secondary"), onclick: e => { e.stopPropagation(); openLesson(activeCourse, l.id); } }, done ? "Practice" : current ? "Start" : "Open"));
+          h("div", { class: "node-body" }, h("h3", null, l.title, dueN ? h("span", { class: "node-due" }, "🔁 review due") : ""), h("p", null, (done ? "Best " + W.store.bestOf(l.id) + "% · " : "") + (l.concept || l.summary || ""))),
+          h("button", { class: (dueN || (current && !done) ? "btn-primary" : "btn-secondary"), onclick: e => { e.stopPropagation(); openLesson(activeCourse, l.id); } }, dueN ? "Review" : done ? "Practice" : current ? "Start" : "Open"));
         list.appendChild(node);
       });
     });

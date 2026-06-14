@@ -39,6 +39,12 @@
     return prev[b.length];
   }
   function gradeAccept(accept, input) {
+    // 1) raw exact match (case-insensitive, whitespace-collapsed) so answers that ARE punctuation,
+    //    symbols, or bare articles ("," "." "'" "a, an, the") grade correctly even though normEng
+    //    strips exactly those characters. An exact match is always correct, so this only adds passes.
+    const raw = (input || "").replace(/\s+/g, " ").trim().toLowerCase();
+    if (raw && (accept || []).some(a => (a || "").replace(/\s+/g, " ").trim().toLowerCase() === raw)) return true;
+    // 2) normalized (article/punctuation-insensitive, typo-tolerant) match for prose answers.
     const got = normEng(input);
     if (!got) return false;
     return (accept || []).some(a => {
@@ -132,9 +138,11 @@
   function composeLesson(courseId, lessonId, opts) {
     opts = opts || {};
     if (opts.mode === "review") {
-      const due = shuffle(W.srs.dueIds().concat(W.srs.wrongIds()));
-      const seen = new Set(), qs = [];
-      for (const id of due) { if (seen.has(id)) continue; seen.add(id); const q = questionForId(id); if (q) qs.push(q); if (qs.length >= (opts.size || 14)) break; }
+      // surface the weakest / most-overdue items first via the SRS weight(), with light jitter so sessions vary
+      const ids = [...new Set(W.srs.dueIds().concat(W.srs.wrongIds()))];
+      ids.sort((a, b) => (W.srs.weight(b) + Math.random() * 0.6) - (W.srs.weight(a) + Math.random() * 0.6));
+      const qs = [];
+      for (const id of ids) { const q = questionForId(id); if (q) qs.push(q); if (qs.length >= (opts.size || 14)) break; }
       return qs;
     }
     const lesson = findLesson(lessonId); if (!lesson) return [];
@@ -145,15 +153,13 @@
       return qs;
     }
     const qs = [];
-    // a couple of key-term drills first to seat the vocabulary
+    // the lesson's own key-term drills + authored exercises (and ONLY those — we deliberately do NOT
+    // interleave SRS "due" items from other lessons here; spaced review lives in the explicit Review flow).
     (lesson.keyTerms || []).forEach((t, i) => qs.push(termQuestion(courseId, lessonId, t, i)));
-    // then the authored exercises (in order — they are pedagogically sequenced)
-    // NOTE: a lesson contains ONLY its own key-term drills + authored exercises. We deliberately do NOT
-    // interleave SRS "due" items here: that pulled questions from other lessons/courses into a fresh lesson
-    // (e.g. a grammar sentence-diagram surfacing in a rhetoric lesson). Spaced review lives in the explicit
-    // Review flow (home "Review" + per-lesson "Review this skill"), which scopes correctly.
     (lesson.exercises || []).forEach(ex => { const q = exQuestion(ex, lessonId); if (q) qs.push(q); });
-    return qs;
+    // randomize the question SEQUENCE each session so position can't be memorized (answer choices already
+    // shuffle per render). Wrong items still requeue once at the end via the lesson player.
+    return shuffle(qs);
   }
 
   W.content = {

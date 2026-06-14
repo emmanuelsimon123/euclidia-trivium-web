@@ -25,19 +25,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Experience",
-       "def": "the knowledge we gain through our senses by seeing, hearing, and doing"
+       "def": "ideas we gain as we see and hear and do, adding to our knowledge through our senses every day"
       },
       {
        "term": "Imagination",
-       "def": "the power to picture things that have not actually happened, one of the three sources of ideas"
+       "def": "the source by which we recombine ideas into new forms, picturing things that have not actually occurred"
       },
       {
        "term": "Sources of ideas",
-       "def": "the three places ideas come from: experience, imagination, and language"
+       "def": "the three sources from which ideas arise: experience, the imagination, and language by conversation or reading"
       },
       {
        "term": "Copy work",
-       "def": "merely restating ideas that are not your own, which Brooks says is seldom worth doing"
+       "def": "the mere expression of ideas that are not your own, which is seldom worth doing"
       }
      ],
      "examples": [
@@ -128,19 +128,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Essentials of expression",
-       "def": "the two basics Brooks names: to say what you mean, and to say it clearly"
+       "def": "the two essentials of proper expression: first, to say what you mean; and second, to say it clearly"
       },
       {
        "term": "Interest",
-       "def": "the hold a story keeps on the listener; without it a story fails its purpose to entertain"
+       "def": "what a story must arouse and maintain; since its purpose is to entertain, it falls short when it ceases to be interesting"
       },
       {
        "term": "Introduction",
-       "def": "the opening that gives the circumstances a reader needs to understand the event"
+       "def": "the opening that includes the circumstances, telling when and where the event occurred and who were present"
       },
       {
        "term": "Circumstances",
-       "def": "the surrounding facts, chiefly the when, where, who, and why of an event"
+       "def": "the attendant facts the introduction supplies: when, where, and who, with others that usually answer the question, Why?"
       }
      ],
      "examples": [
@@ -235,19 +235,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Point of a story",
-       "def": "the one thing the story leads up to; it should be reached quickly and not given away early"
+       "def": "what the story leads easily and rapidly to; if it is plainly stated near the beginning, or too strongly suggested, the story will drag"
       },
       {
        "term": "Theme",
-       "def": "any written exercise, long or short, assigned for practice in writing"
+       "def": "any written exercise, whether long or short, as the term is used throughout this book"
       },
       {
        "term": "Self-correction",
-       "def": "judging and improving your own theme, which Brooks calls the really valuable part of correction"
+       "def": "the correction you do for yourself, which is the really valuable part, since after school you must decide what is right and best"
       },
       {
        "term": "Conclusion",
-       "def": "the brief ending that follows the point; better omitted than forced or flowery"
+       "def": "the ending after the point is reached; a sentence or two will serve, and it is better omitted than forced or flowery"
       }
      ],
      "examples": [
@@ -328,19 +328,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Observation of actions",
-       "def": "watching and reporting what others do, especially the manner in which they do it"
+       "def": "describing the interesting experiences that arise from observing the actions of others, telling not just what was done but how"
       },
       {
        "term": "Manner",
-       "def": "the way in which an action is performed, which distinguishes one doer from another"
+       "def": "the way in which a thing was done; it shows whether a worker is orderly, methodical, and rapid or a careless, haphazard putterer"
       },
       {
        "term": "Selection of details",
-       "def": "keeping the details that bear on the point and dropping the rest"
+       "def": "telling events that actually happen without including everything that occurs, omitting details that bear little on the main point"
       },
       {
        "term": "Brevity",
-       "def": "keeping the telling short so the point is not too long delayed"
+       "def": "keeping the telling short, which is desirable so the point of your story is not too long delayed"
       }
      ],
      "examples": [
@@ -433,19 +433,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Order of events",
-       "def": "the principle that the sequence in which things happen guides the sequence in which you tell them"
+       "def": "the order in which events occur, which assists in establishing the order in which to relate them"
       },
       {
        "term": "Time order",
-       "def": "telling events in the sequence in which they actually happened"
+       "def": "the order followed in telling about one person: the events as they actually happened"
       },
       {
        "term": "Transition word",
-       "def": "a linking word such as meanwhile, while, or at last that marks how events relate in time"
+       "def": "an expression such as meanwhile, in the meantime, during, at last, or while, regularly used to denote time relations"
       },
       {
        "term": "Relative clause",
-       "def": "a clause beginning with a word like who or which, which can also show a time relation"
+       "def": "a clause beginning with a word like who or which, whose use may indicate the time relation between events"
       }
      ],
      "examples": [
@@ -546,15 +546,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Imagination",
-       "def": "the power of the mind to picture things it has not actually seen or experienced"
+       "def": "the faculty that takes the ideas which spring from experience and merely places them in new combinations"
       },
       {
        "term": "Imaginative writing",
-       "def": "writing that tells about events you have made up rather than ones that really happened"
+       "def": "themes that relate events that did not happen, as distinguished from themes that relate real events as they actually occurred"
       },
       {
        "term": "Probability",
-       "def": "the quality of seeming possible and believable, even in a made-up story"
+       "def": "the quality by which an imaginary story comes nearest to reality, so that everything seems both possible and probable"
       }
      ],
      "examples": [
@@ -633,19 +633,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Euphony",
-       "def": "the ease, smoothness, and pleasantness of a passage to the ear, beyond mere clearness"
+       "def": "that quality of ease or beauty, besides clearness, by which a selection flows with satisfying smoothness, detected better by ear than by eye"
       },
       {
        "term": "Variety",
-       "def": "changing words and sentence beginnings so the writing does not grow monotonous"
+       "def": "the most essential element of euphony; constant repetition of the same thing grows monotonous, while a pleasing variety maintains interest"
       },
       {
        "term": "Synonym",
-       "def": "a different word of the same meaning, used in place of a word you would otherwise repeat"
+       "def": "an equivalent expression substituted for a word, that we may avoid the continual use of the same words when an idea must be repeated"
       },
       {
        "term": "Excessive use of 'and'",
-       "def": "the childish habit of joining sentence after sentence with 'and,' which the reading says must be corrected"
+       "def": "the habit of children, retained even by high school pupils, of beginning and ending sentence after sentence with 'and,' which needs correcting"
       }
      ],
      "examples": [
@@ -738,19 +738,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Sentence length",
-       "def": "the long or short measure of a sentence, which should be varied for euphony"
+       "def": "a measure that should be varied, since euphony is aided by securing a variety in the length of sentences"
       },
       {
        "term": "Tedious (monotony)",
-       "def": "the dull, wearying effect of a whole theme made of short sentences alike in length"
+       "def": "the effect of a theme composed wholly of a succession of short sentences, whose monotony becomes especially apparent when read aloud"
       },
       {
        "term": "Overloaded sentence",
-       "def": "a sentence crammed with so many adjectives, participles, or clauses that its meaning grows obscure"
+       "def": "a sentence with too many adjectives or participles or subordinate clauses, which will render the meaning obscure"
       },
       {
        "term": "Conversation",
-       "def": "reported speech, naturally made of short sentences and set off in separate indented lines with quotation marks"
+       "def": "spoken matter put on paper, in which short sentences predominate; each person's words, however short, are set in a separate indented division"
       }
      ],
      "examples": [
@@ -846,23 +846,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Ideas from pictures",
-       "def": "imagined events a picture suggests, such as what happened just before or just after the scene shown"
+       "def": "imagined events a picture causes to arise; make the situation shown the point of greatest interest, then relate events supposed to precede it"
       },
       {
        "term": "Vocabulary",
-       "def": "one's stock of words; a word is the symbol of an idea, so more words usually means more ideas"
+       "def": "one's stock of words; a word is the symbol of an idea, so adding a word usually means a new idea has been acquired"
       },
       {
        "term": "Reading, writing, speaking vocabularies",
-       "def": "the three differing word-stocks; a word enters the last two only once you actually use it"
+       "def": "three groups of words that differ; a word joins the reading stock by knowing its meaning, but the writing and speaking stocks only by use"
       },
       {
        "term": "Choice of words",
-       "def": "selecting the exact word suited to the occasion and the writer, avoiding bookish or grandiloquent terms"
+       "def": "using words suited to the occasion described and to the person writing, avoiding the wrong or grandiloquent word and choosing the right one"
       },
       {
        "term": "Choice of verbs",
-       "def": "the special care storytelling demands in picking verbs, since narration has to do with action"
+       "def": "the care needed in story telling, since narration has to do with action and a single verb may tell better than a long explanation how one acted"
       }
      ],
      "examples": [
@@ -954,23 +954,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Improbability",
-       "def": "the quality of a story whose events are manifestly impossible, known from the start to be make-believe"
+       "def": "a series of imagined events that are manifestly impossible, which we enjoy when we know from the beginning that they are to be so"
       },
       {
        "term": "Air of reality",
-       "def": "the lifelike feel a wholly impossible story gains when its characters act as real beings would"
+       "def": "the feeling that events are actually happening, given by limiting the improbability to a part and having characters act as real men would"
       },
       {
        "term": "Personified",
-       "def": "given human traits, as the animals are in Thompson-Seton's stories, whose realism hides the impossibility"
+       "def": "represented as a person, as the animals are in Thompson-Seton's stories, where the impossibilities are forgotten because the actions are so real"
       },
       {
        "term": "Use (of a word)",
-       "def": "actually employing a new word in speech and writing; the most important of the four steps to making it your own"
+       "def": "by far the most important of the four things to attend to in a new word: it enters our speaking and writing vocabulary only if we use it"
       },
       {
        "term": "Summary",
-       "def": "the short closing review that gathers the whole chapter's lessons on imaginative writing"
+       "def": "the numbered closing review gathering the chapter's points on imaginative writing, probability, euphony, variety, conversation, and words"
       }
      ],
      "examples": [
@@ -1058,23 +1058,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Language as a medium",
-       "def": "the idea that we take ideas in through language, not only put them out"
+       "def": "language not only a means of expressing ideas but in itself a medium through which ideas are acquired, with a double use."
       },
       {
        "term": "Image-making",
-       "def": "forming a clear mental picture of what the words describe"
+       "def": "when the purpose of a word is to set forth an image, taking care to form the correct mental image of each scene."
       },
       {
        "term": "Incomplete image",
-       "def": "a blurred or partial picture left when an unfamiliar word is not understood"
+       "def": "when an unfamiliar word is introduced, the mind omits it or substitutes something, so the image is incomplete or inaccurate."
       },
       {
        "term": "Word memory",
-       "def": "remembering an author's exact words; less valuable for real understanding"
+       "def": "memory that concerns itself with the writer's words; repeating his language is but memory drill or copy work."
       },
       {
        "term": "Image memory",
-       "def": "remembering the mental pictures behind the words, which shows the idea is your own"
+       "def": "the more valuable memory of the images a writer presents, distinguished from the words he uses."
       }
      ],
      "examples": [
@@ -1165,23 +1165,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Literal comparison",
-       "def": "a plain, real likeness (an okapi is like a striped horse) used to picture the unfamiliar"
+       "def": "telling what an unfamiliar object is like, as that an okapi is a horselike animal with stripes like a zebra's; the comparison is literal."
       },
       {
        "term": "Simile",
-       "def": "an imaginative comparison stated directly with 'like' or 'as'"
+       "def": "an imaginative comparison directly stated, introduced by like, as, similar to, and the rest."
       },
       {
        "term": "Metaphor",
-       "def": "an implied comparison that says one thing simply is another"
+       "def": "the implied comparison of two essentially different things that have a common quality, stated as that one is the other."
       },
       {
        "term": "Personification",
-       "def": "a modified metaphor giving human qualities to a thing, idea, or animal"
+       "def": "giving inanimate objects, abstract ideas, or the lower animals the attributes of human beings; a modified metaphor."
       },
       {
        "term": "Word relations",
-       "def": "the connections between words and word groups, such as main and subordinate clauses, by which we grasp ideas that have no picture"
+       "def": "the relations between words and word groups, phrases and clauses, noting which is the main clause and which the subordinate."
       }
      ],
      "examples": [
@@ -1276,23 +1276,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Words adapted to the reader",
-       "def": "choosing words the reader is likely to know, substituting a plainer one when in doubt"
+       "def": "using words familiar to the reader, and where there is doubt substituting one that is more likely to be understood."
       },
       {
        "term": "Confusion of similar words",
-       "def": "wrongly swapping one word for a look-alike, as council for counsel"
+       "def": "a source of error in which some similarity of spelling causes one word to be substituted for another, as council for counsel."
       },
       {
        "term": "Sentence relations",
-       "def": "the way each sentence takes its meaning from the sentences around it"
+       "def": "the relation in thought each sentence bears to the others, so that each sentence takes a meaning because of its relation to some other."
       },
       {
        "term": "Main thought",
-       "def": "the few important things a passage is really about, set apart from minor details"
+       "def": "the three or four things of importance with which a lesson is really concerned, distinguished from the minor details jumbled with them."
       },
       {
        "term": "Paragraph",
-       "def": "a group of sentences related to each other and to one central idea"
+       "def": "a group of sentences related to each other and to the central idea; men naturally think in sentence groups."
       }
      ],
      "examples": [
@@ -1385,19 +1385,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Topic statement",
-       "def": "a brief, comprehensive summary of what a paragraph is about"
+       "def": "the brief, comprehensive summary of the contents of a paragraph, stating its main thought."
       },
       {
        "term": "Paragraph",
-       "def": "a group of sentences clustered around one central idea"
+       "def": "a set of sentences which cluster around some central idea, given the unity of thought that combines them and sets it forth effectively."
       },
       {
        "term": "Indentation",
-       "def": "the blank space that marks where one paragraph (one main thought) ends and another begins"
+       "def": "what marks a paragraph's beginning but does not make it; like punctuation, it shows when one main thought ends and another begins."
       },
       {
        "term": "Development by details",
-       "def": "making a topic statement clear by giving the particulars it leads us to want"
+       "def": "making the topic statement clearer by giving the details a general statement leads us to desire to know."
       }
      ],
      "examples": [
@@ -1490,23 +1490,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Time-order",
-       "def": "arranging details in the order in which the events occurred"
+       "def": "stating the details of a story in the order in which they occurred, so the reader may follow the thread to its main point."
       },
       {
        "term": "Order by position in space",
-       "def": "naming the parts of a thing in the order the eye would see them"
+       "def": "presenting details in the order determined by the position they occupy in space, as we would naturally see them."
       },
       {
        "term": "Cause and effect",
-       "def": "developing a topic by giving the causes of a thing or the effects that follow"
+       "def": "developing a topic statement by stating the causes which have produced a thing or the effects which follow it."
       },
       {
        "term": "Repetition",
-       "def": "restating a thought in fresh form, each sentence adding something new"
+       "def": "developing the topic sentence by repeating the thought in different form, each sentence adding something rather than merely repeating."
       },
       {
        "term": "Topical recitation",
-       "def": "discussing a paragraph by its topic statement and method of development, an exercise in clear thinking"
+       "def": "discussing a topic from a careful analysis of the paragraph, an exercise in clear thinking rather than in word memory."
       }
      ],
      "examples": [
@@ -1600,11 +1600,11 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Purpose",
-       "def": "the reason you are writing: what you want to do to your reader"
+       "def": "the purpose in the mind of the writer, whether to inform somebody or to entertain somebody, which determines where the emphasis falls"
       },
       {
        "term": "Forms of discourse",
-       "def": "the four chief kinds of writing: narration, description, exposition, and argument"
+       "def": "the divisions of composition based on purpose: description, narration, exposition, and argument (including persuasion)"
       }
      ],
      "examples": [
@@ -1697,23 +1697,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Selecting a subject",
-       "def": "choosing what to write about, guided by your own knowledge of it and your interest in it"
+       "def": "choosing a subject whose suitableness, so far as the writer is concerned, rests on his knowledge of it and his interest in it"
       },
       {
        "term": "Adapted to the reader",
-       "def": "suited to the knowledge and present interest of the people who will actually read it"
+       "def": "a subject of present, vital interest to your readers, which they have some knowledge of and interest in, or can develop"
       },
       {
        "term": "Definite subject",
-       "def": "a specific, concrete subject (like 'A Family of Robins') rather than a broad, general one (like 'Birds')"
+       "def": "a definite and concrete subject, like 'A Family of Robins,' which we really know more about, rather than a general and abstract one"
       },
       {
        "term": "Narrowing the subject",
-       "def": "trimming a broad subject down until it can be treated well in the space and time you have"
+       "def": "bringing a subject within the range of the knowledge and interest of ourselves and our readers, and fit for the space at hand"
       },
       {
        "term": "Title",
-       "def": "the short, inviting name of a theme, which must not promise more than the theme delivers"
+       "def": "a short name, best if brief, that attracts attention without making a promise the theme cannot fulfill"
       }
      ],
      "examples": [
@@ -1806,23 +1806,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Exposition",
-       "def": "writing that explains; it always deals with what is general, not one particular case"
+       "def": "another name for explanation; it is always concerned with that which is general, while description and narration deal with particular cases"
       },
       {
        "term": "Term",
-       "def": "any word, alone or with its modifiers, that calls a single idea to mind"
+       "def": "any word that alone or with its modifiers calls to mind a single idea"
       },
       {
        "term": "General vs. specific term",
-       "def": "a general term names any member of a class ('a lake'); a specific term names one particular thing ('the lake')"
+       "def": "a general term applies to any one of a class ('a lake'); a specific term applies to a particular object ('The Lake')"
       },
       {
        "term": "Definition by synonym",
-       "def": "explaining a word by giving another word of nearly the same meaning (exposition = explanation)"
+       "def": "giving a synonym to make a term's meaning clearer, used for its brevity, though synonyms are seldom exact"
       },
       {
        "term": "General description / narration",
-       "def": "describing or narrating a whole class or process, common to all its members, which becomes an enlarged definition, that is, exposition"
+       "def": "giving the traits common to a whole class, or what is characteristic of a process whenever it happens; an enlarged definition, so exposition"
       }
      ],
      "examples": [
@@ -1917,23 +1917,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Argument",
-       "def": "writing meant to convince a reader, which presupposes that someone does not yet agree"
+       "def": "discourse that presupposes an audience; that we argue implies some one disagrees, and we seek to convince him of a proposition we believe"
       },
       {
        "term": "Proposition",
-       "def": "the claim you are trying to prove or get the reader to accept"
+       "def": "the statement whose truth we ourselves believe and seek to convince some one else of in argument"
       },
       {
        "term": "Expedient",
-       "def": "practical or advisable; many arguments decide not what is right but what is expedient"
+       "def": "what it is advisable to do, determined by balancing advantages against disadvantages; not what is right, but what is expedient"
       },
       {
        "term": "Advantages and disadvantages",
-       "def": "the good and bad results to be weighed against each other when deciding what is expedient"
+       "def": "the results of a course and its opposite, balanced against each other to determine which has the greater weight"
       },
       {
        "term": "Specific instances",
-       "def": "real cases cited to make a proposition clear, or, if meant to make it believed, to prove it"
+       "def": "particular cases cited to make a proposition's meaning clear (exposition) or, if also to make it believed true, to prove it (argument)"
       }
      ],
      "examples": [
@@ -2024,23 +2024,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Debate",
-       "def": "the spoken contest of argument between two sides, giving practice in quick, accurate thinking"
+       "def": "oral argument that furnishes excellent practice in accurate and rapid thinking and in thinking on one's feet"
       },
       {
        "term": "Statement of the question",
-       "def": "the proposition to be debated, worded plainly as a resolution, sentence, or question"
+       "def": "the subject of debate put as a resolution, declarative sentence, or question, worded so no quibbling over terms replaces real arguments"
       },
       {
        "term": "Brief",
-       "def": "a written outline of an argument made of complete sentences, in the order they will be presented"
+       "def": "an outline of the arguments in their order of presentation, differing from an ordinary outline in being composed of complete sentences"
       },
       {
        "term": "Refutation",
-       "def": "indirect argument; the part of a debate that answers and replies to the opponent's points"
+       "def": "indirect argument; the part of our theme in which we reply to our opponents, frankly acknowledging any of theirs that is true and weighty"
       },
       {
        "term": "Exhortation",
-       "def": "urging or pleading; it may persuade to action but is not the same as proving a point by argument"
+       "def": "entreaty, which may persuade one to action; but it is not argument, which should aim to convince the intellect"
       }
      ],
      "examples": [
@@ -2151,19 +2151,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Unity",
-       "def": "the quality of a composition in which everything bears directly upon the subject"
+       "def": "a composition possesses unity if all that it contains bears directly upon the subject"
       },
       {
        "term": "Coherence",
-       "def": "the orderly connection of ideas, one of the three principles named here"
+       "def": "one of the three important principles to be considered in every composition, named here with unity and emphasis"
       },
       {
        "term": "Emphasis",
-       "def": "giving the right weight to the more important parts, the third principle named here"
+       "def": "the third of the three important principles to be considered in every composition"
       },
       {
        "term": "Limited subject",
-       "def": "a narrow subject (with a fitting title) that makes unity easy to secure"
+       "def": "a narrow subject; it is easier to secure unity in a theme treating of a narrow, limited subject than of a broad one"
       }
      ],
      "examples": [
@@ -2271,19 +2271,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Coherence",
-       "def": "an order in which each idea naturally suggests the one that follows"
+       "def": "a composition is given coherence by placing the ideas so that each naturally suggests the one which follows"
       },
       {
        "term": "Emphasis",
-       "def": "making the more important parts stand out"
+       "def": "making one part of a theme more emphatic than another, the purpose served by position and proportion"
       },
       {
        "term": "Position",
-       "def": "the first and last places, the points of greatest emphasis"
+       "def": "the first place and the last, the two positions of greatest emphasis, given to the strongest matter"
       },
       {
        "term": "Proportion",
-       "def": "the amount of space and attention given to a part, kept in step with its importance"
+       "def": "the proportional amount of attention and space given to the different parts, the largest going to what is of greatest worth"
       }
      ],
      "examples": [
@@ -2378,19 +2378,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Outline",
-       "def": "a plan made before writing that helps secure unity, coherence, and emphasis"
+       "def": "a plan that will assist in securing unity, coherence, and emphasis"
       },
       {
        "term": "Rejecting (for unity)",
-       "def": "striking from your jotted notes whatever is irrelevant, trivial, or no longer needed"
+       "def": "to reject from the jotted notes all that seem irrelevant or trivial, or no longer needed to fulfill the theme's purpose"
       },
       {
        "term": "Time-order",
-       "def": "arranging paragraph-groups in the order their events occurred, one way to gain coherence"
+       "def": "grouping events that occurred at a given time as paragraph units and placing them in their actual time-order, which gives coherence"
       },
       {
        "term": "Proportion (for emphasis)",
-       "def": "giving each paragraph space matched to its importance, keeping introduction and conclusion short"
+       "def": "the relative proportion given to different paragraphs; give unimportant ones little space, and keep introduction and conclusion short"
       }
      ],
      "examples": [
@@ -2481,23 +2481,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Time-order",
-       "def": "developing a composition by giving its details in their natural order of time"
+       "def": "developing a composition by giving the details in the natural time-order"
       },
       {
        "term": "Position in space",
-       "def": "developing a composition by arranging details according to where things stand"
+       "def": "developing a composition by relating the details with reference to their position in space"
       },
       {
        "term": "Paragraph relations",
-       "def": "links in thought between paragraphs shown by words like however, nevertheless, moreover"
+       "def": "relations in thought other than time and space, indicated by words like however, nevertheless, consequently, moreover"
       },
       {
        "term": "Transition paragraph",
-       "def": "a whole paragraph that carries the thought from one group of paragraphs to another"
+       "def": "a whole paragraph used to carry over the thought from one group of paragraphs to another in the same theme"
       },
       {
        "term": "Summarizing paragraph",
-       "def": "a closing paragraph that restates the topic sentences of the theme in order"
+       "def": "a concluding paragraph summarizing the main points; in effect a restatement of the topic sentences of our paragraphs"
       }
      ],
      "examples": [
@@ -2595,23 +2595,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Comparison or contrast",
-       "def": "developing a theme by setting an idea beside one like it or opposed to it"
+       "def": "developing a theme by comparison or contrast, since nearly every idea suggests one similar to it or in contrast with it"
       },
       {
        "term": "Generalization and facts",
-       "def": "proving a general proposition by stating the instances that show it true"
+       "def": "giving an entire composition to demonstrate the truth of some general proposition by stating facts or instances that show it to be true"
       },
       {
        "term": "Cause and effect",
-       "def": "developing a theme by stating the causes of an event or condition, usually running from cause to effect"
+       "def": "developing a theme by the statement of the causes of an event or condition; the coherent order usually proceeds from causes to effects"
       },
       {
        "term": "Combination of methods",
-       "def": "weaving several development methods together in one theme"
+       "def": "making the presentation more effective by using some combination of the methods of development rather than a single method"
       },
       {
        "term": "Clearness",
-       "def": "the governing rule; do whatever makes the meaning most clear"
+       "def": "the one rule: we shall do that which makes our meaning most clear, the end for which we seek unity, coherence, and emphasis"
       }
      ],
      "examples": [
@@ -2726,23 +2726,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Heading",
-       "def": "the writer's address and the date, placed in the upper right corner"
+       "def": "includes the address of the writer and the date of the writing, placed in the right-hand upper corner of the first page"
       },
       {
        "term": "Salutation",
-       "def": "the greeting that opens a letter, such as Dear Sir or Dear Mary"
+       "def": "the form of address whose choice depends upon the relations existing between the correspondents, as Dear Sir, Gentlemen, or My dear Mary"
       },
       {
        "term": "Body",
-       "def": "the main part of the letter, where the message is written"
+       "def": "the important part; in fact, it is the letter itself, since it contains the subject-matter"
       },
       {
        "term": "Complimentary close",
-       "def": "the polite ending, such as Yours truly or With love"
+       "def": "the polite form ending a letter, as Yours truly or With love, chosen by the relations existing between correspondents"
       },
       {
        "term": "Signature",
-       "def": "the writer's name, signed below the closing"
+       "def": "the name, signed in full below and a little to the right of the complimentary close"
       }
      ],
      "examples": [
@@ -2867,23 +2867,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Friendly letter",
-       "def": "a personal letter to someone you know, written to share news or keep in touch"
+       "def": "a letter of friendship, a visit on paper, whose real purpose is not to give information but to entertain"
       },
       {
        "term": "Business letter",
-       "def": "a letter written to get something done, such as ordering or asking for information"
+       "def": "a letter whose purpose is to inform, characterized first of all by clearness"
       },
       {
        "term": "Inform",
-       "def": "to give clear facts; the main purpose of a business letter"
+       "def": "to state your questions and facts so clearly that there can be no doubt or possibility of a mistake in the recipient's mind"
       },
       {
        "term": "Brevity",
-       "def": "the quality of being short and to the point"
+       "def": "shortness; the soul of business letters as well as of wit, since business men are busy men"
       },
       {
        "term": "Inside address",
-       "def": "the name and address of the person addressed, written at the left in a business letter"
+       "def": "the address of the person or persons addressed, written at the left-hand side of the page in business letters"
       }
      ],
      "examples": [
@@ -3005,19 +3005,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Tone",
-       "def": "the feeling your words carry; it should fit the reader and stay courteous"
+       "def": "the manner of the letter, suited to the relations existing between correspondents and never abrupt or uncourteous"
       },
       {
        "term": "Courteous",
-       "def": "polite and respectful toward the reader"
+       "def": "marked by courtesy: not abrupt, giving all questions courteous replies, and avoiding what may seem critical or fault-finding"
       },
       {
        "term": "Formal",
-       "def": "more dignified and reserved, used with strangers and in business"
+       "def": "the kind of address used in business letters and toward strangers, as Dear Sir, Madam, or Gentlemen"
       },
       {
        "term": "Familiar form",
-       "def": "a warm greeting or closing used only between people who are close"
+       "def": "the more familiar form used between intimate correspondents, as My dear Mary, Dear Edmund, or Dear Cousin"
       }
      ],
      "examples": [
@@ -3142,19 +3142,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Superscription",
-       "def": "the address written on the envelope; the name and address of the receiver"
+       "def": "the direction on the envelope: the name and address of the person or persons to whom the letter is sent"
       },
       {
        "term": "Title",
-       "def": "a word of address before a name, such as Mr., Mrs., Miss, or Messrs."
+       "def": "a word of address before a name: Miss or Mrs. for women, Mr. for men, Messrs. for a firm, Dr. or Rev. when borne"
       },
       {
        "term": "In care of",
-       "def": "a direction meaning the letter should be delivered through another person"
+       "def": "a special direction in the lower left corner for the speedy transmission of the letter, as In care of Mr. Charles R. Brown"
       },
       {
        "term": "Abbreviation",
-       "def": "a shortened form, such as St. for Street or Ill. for Illinois"
+       "def": "a shortened form, as for a state name, which should be plainly written and not used for one part only of a compound name"
       }
      ],
      "examples": [
@@ -3288,15 +3288,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Description",
-       "def": "writing that gives a word-picture so the reader can imagine a person, place, or thing"
+       "def": "that form of discourse which has for its purpose the formation of an image"
       },
       {
        "term": "Purpose",
-       "def": "the reason you are writing, usually to inform or to entertain"
+       "def": "the end a piece of writing aims at; for description, the forming of an image in the reader's mind"
       },
       {
        "term": "Audience",
-       "def": "the reader or readers a piece of writing is meant for"
+       "def": "the others to whom the writing transmits the ideas gained through the senses"
       }
      ],
      "examples": [
@@ -3377,15 +3377,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Point of view",
-       "def": "the position, in space and time, from which the observer sees what is described"
+       "def": "the position from which an object is viewed; what we shall see first depends upon it"
       },
       {
        "term": "Observer",
-       "def": "the person (often the writer) doing the looking in a description"
+       "def": "the one located at the point of view, from whose place the scene is seen"
       },
       {
        "term": "Vantage point",
-       "def": "the particular spot, and moment, from which a scene is viewed"
+       "def": "the place chosen by the writer, from which only the details that can be seen there may honestly be named"
       }
      ],
      "examples": [
@@ -3464,15 +3464,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Detail",
-       "def": "a single small fact or feature of the thing being described"
+       "def": "a feature added after the general outline, each one adding to the clearness and distinctness of the picture"
       },
       {
        "term": "Significant detail",
-       "def": "a detail that helps build the picture the writer wants the reader to see"
+       "def": "an essential or distinguishing characteristic that makes the picture clearer without changing the general outline"
       },
       {
        "term": "Selection",
-       "def": "the act of keeping useful details and leaving out the rest"
+       "def": "the choosing of which details to include and which to leave out once the point of view and general outline are fixed"
       }
      ],
      "examples": [
@@ -3551,15 +3551,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Dominant impression",
-       "def": "the single overall feeling or idea a description is meant to create"
+       "def": "the single impression that all the selected details are bound together to create"
       },
       {
        "term": "General impression",
-       "def": "the broad first sense of the whole, given before the separate details"
+       "def": "the first sense of the whole object, given before the separate details are added"
       },
       {
        "term": "Unity",
-       "def": "the quality of all the details pulling toward one impression"
+       "def": "the binding together of the successive images by a common purpose, so they form one whole"
       }
      ],
      "examples": [
@@ -3640,15 +3640,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Spatial order",
-       "def": "arranging details by their position in space, following how the eye naturally moves"
+       "def": "arrangement of the details with reference to their natural position in space"
       },
       {
        "term": "Grouping",
-       "def": "placing together the details that occur together, like all the features of a face"
+       "def": "placing together in the description the details that occur together, as the features of a face are kept together"
       },
       {
        "term": "Coherence",
-       "def": "the quality of parts hanging together in a sensible, followable order"
+       "def": "the binding of the parts in a followable order so the description hangs together as a whole"
       }
      ],
      "examples": [
@@ -3735,15 +3735,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Narration",
-       "def": "writing that relates a connected series of events; it tells what happened"
+       "def": "the form of discourse that consists of an account of happenings; it relates life, movement, action"
       },
       {
        "term": "Incident",
-       "def": "a single happening or event, the smallest building block of a story"
+       "def": "a single happening; one of the forms narration may take, alongside anecdotes and short stories"
       },
       {
        "term": "Plot",
-       "def": "the outline of a story told in a few words; its main action briefly stated"
+       "def": "the outline of the story told in a few words; the principal action briefly told"
       }
      ],
      "examples": [
@@ -3862,15 +3862,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Chronological order",
-       "def": "arranging events in the order in which they actually occurred (also called time-order)"
+       "def": "relating our facts in the order of their occurrence, following the real time-order of events"
       },
       {
        "term": "Coherence",
-       "def": "the quality of a narrative in which each part flows naturally from the one before it"
+       "def": "the quality of a theme in which each sentence or paragraph is naturally suggested by the preceding one"
       },
       {
        "term": "Time-words",
-       "def": "signal words such as meanwhile, while, and at the same time that show how events relate in time"
+       "def": "expressions such as at the same time, meanwhile, and already, used to indicate the actual time relations"
       }
      ],
      "examples": [
@@ -3991,15 +3991,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Incentive moment",
-       "def": "the early point in a story where interest begins, sparking the reader's curiosity"
+       "def": "the point at which interest begins; a statement placed near the start to stimulate the reader's curiosity"
       },
       {
        "term": "Climax",
-       "def": "the turning point, usually near the close, where suspense is greatest and the outcome is decided"
+       "def": "the turning point near the close of the story, where the fate of the principal character is being decided"
       },
       {
        "term": "Suspense",
-       "def": "the tension of not yet knowing how things will turn out, which should rise toward the climax"
+       "def": "the suspense of mind, greatest at the climax; our interest increases continually toward it from the incentive moment"
       }
      ],
      "examples": [
@@ -4110,15 +4110,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Point of view",
-       "def": "the position from which a story is told: who tells it and how they refer to the characters"
+       "def": "the position from which a story is told: whether the teller is inside the events or stands outside them"
       },
       {
        "term": "First person",
-       "def": "narration by a character inside the story, using 'I' and 'we'"
+       "def": "narration by a teller who is inside the story, speaking as 'I' and 'we'"
       },
       {
        "term": "Third person",
-       "def": "narration by a teller outside the story, using 'he,' 'she,' and 'they'"
+       "def": "narration by a teller outside the story, who reports the characters as 'he,' 'she,' and 'they'"
       }
      ],
      "examples": [
@@ -4222,15 +4222,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Dialogue",
-       "def": "the recorded conversation of characters in a narrative"
+       "def": "conversation introduced into narration; briefer than when actually spoken, moving quickly because we read with less patience than we listen"
       },
       {
        "term": "Quotation marks",
-       "def": "the marks ( \" \" ) that enclose a speaker's exact spoken words"
+       "def": "the marks that set off the words actually spoken in a conversation introduced into narration"
       },
       {
        "term": "Speech tag",
-       "def": "the 'he said' part that identifies the speaker; vary it (snarled, answered, snapped) for life"
+       "def": "the wording that indicates the speaker; vary it with substitutes for 'He said' instead of repeating 'I said' and 'He said'"
       }
      ],
      "examples": [
@@ -4379,15 +4379,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Exposition",
-       "def": "writing whose purpose is to explain an idea or process and make it clear"
+       "def": "the form of discourse whose purpose is to make clear to others that which we ourselves understand"
       },
       {
        "term": "Inform",
-       "def": "to give knowledge; the primary aim of exposition"
+       "def": "to give information; the primary object of exposition, where description and narration aim to please"
       },
       {
        "term": "Forms of discourse",
-       "def": "the four chief kinds of writing: description, narration, exposition, argument"
+       "def": "the kinds of writing studied here: description and narration, and the exposition now taken up"
       }
      ],
      "examples": [
@@ -4478,19 +4478,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Clearness",
-       "def": "the supreme virtue of exposition; making meaning fully understood"
+       "def": "above all the essential of exposition; outlines aid it by giving unity and coherence"
       },
       {
        "term": "Unity",
-       "def": "including only the facts that serve the purpose, omitting the rest"
+       "def": "secured by including all the facts necessary to make our meaning clear and omitting all that is not"
       },
       {
        "term": "Coherence",
-       "def": "arranging facts in a logical, followable order with smooth transitions"
+       "def": "such an arrangement of topics and groups, with natural transitions, that no confusion arises in the mind"
       },
       {
        "term": "Outline",
-       "def": "a plan of facts in order that secures unity and coherence before writing"
+       "def": "a form in which we express our thoughts to see whether the facts are well chosen and the arrangement orderly"
       }
      ],
      "examples": [
@@ -4585,23 +4585,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Definition",
-       "def": "a statement that sets exact limits on the meaning of a term"
+       "def": "the first step in explaining a term; the logical definition sets exact limits to its meaning"
       },
       {
        "term": "Genus",
-       "def": "the larger class to which the thing being defined belongs"
+       "def": "the class to which the term to be defined belongs, named first in a logical definition"
       },
       {
        "term": "Differentia",
-       "def": "the trait that distinguishes the term from all others in its class"
+       "def": "the characteristic that distinguishes the term from all other members of the same class"
       },
       {
        "term": "Division",
-       "def": "separating a term into its parts or kinds"
+       "def": "the second step in explaining a term: separating into its parts that which the term includes"
       },
       {
        "term": "Classification",
-       "def": "a division that is complete and exact, using a single principle"
+       "def": "a division that is complete and exact, every object included and only a single principle used"
       }
      ],
      "examples": [
@@ -4774,19 +4774,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Development by examples",
-       "def": "making a general statement clear by supplying concrete cases"
+       "def": "developing the general topic statement of a paragraph by furnishing concrete cases the reader may think of"
       },
       {
        "term": "Particulars",
-       "def": "the specific details that fill out and support a general statement"
+       "def": "the details our minds naturally look for after a general statement, given to make its meaning clearer"
       },
       {
        "term": "Process exposition",
-       "def": "explaining how something is done or works, step by step"
+       "def": "explaining how a thing is done, telling the steps as in burnishing a print or splitting a sheet of paper"
       },
       {
        "term": "General narration",
-       "def": "step-by-step explanation of what always happens in a process; a form of exposition"
+       "def": "explaining a process by the natural order of occurrence in time, telling what is always done rather than one event"
       }
      ],
      "examples": [
@@ -4884,19 +4884,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Comparison",
-       "def": "explaining a subject by showing how it is like something familiar"
+       "def": "making an explanation clear by comparing the subject with something already familiar, showing how it is similar"
       },
       {
        "term": "Contrast",
-       "def": "explaining a subject by showing how it differs from something else"
+       "def": "explaining a term by showing in what way it differs from another, as anarchism is contrasted with socialism"
       },
       {
        "term": "Obverse statement",
-       "def": "sharpening an idea by stating clearly what it is not"
+       "def": "adding clearness by saying that the idea is not the related one with which it might be confused"
       },
       {
        "term": "Cause and effect",
-       "def": "explaining by tracing what produces a result, or what a cause produces"
+       "def": "from a cause we ask the effects that result, and from an effect we ask the causes that produce it"
       }
      ],
      "examples": [
@@ -4995,19 +4995,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Argument",
-       "def": "the form of discourse whose object is to prove that a proposition is true or false"
+       "def": "the kind of writing by which we attempt to prove the truth of a proposition"
       },
       {
        "term": "Exposition",
-       "def": "the form of discourse whose object is to make the meaning of something clear"
+       "def": "the kind of writing by which we endeavor to make clear the meaning of a proposition"
       },
       {
        "term": "Proposition",
-       "def": "a complete statement that can be affirmed or denied (judged true or false)"
+       "def": "a statement, expressed or implied, whose truth we wish to establish; we cannot argue about single terms"
       },
       {
        "term": "Purpose",
-       "def": "what a piece of writing is trying to do; it separates argument (prove) from exposition (explain)"
+       "def": "the aim of a piece of writing; argument differs from exposition in its purpose, to prove rather than to explain"
       }
      ],
      "examples": [
@@ -5106,19 +5106,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Proposition of fact",
-       "def": "a claim that something is, was, or will be the case (true or false in reality)"
+       "def": "a proposition that states a fact; the argument attempts to show the actual or probable truth of a specific proposition"
       },
       {
        "term": "Proposition of theory",
-       "def": "a claim about what should be done or believed (also called a proposition of policy)"
+       "def": "a proposition that states a theory; the argument tries to establish the probable truth of a general theory"
       },
       {
        "term": "Resolution",
-       "def": "a proposition stated in formal 'Resolved, that ...' form, common in debate"
+       "def": "one of the three forms a proposition may take for argument, alongside a declarative sentence and a question"
       },
       {
        "term": "Vague claim",
-       "def": "a proposition so broad or unclear that people argue about its meaning instead of its truth"
+       "def": "a proposition not stated definitely enough; its meaning must be made more definite before it can be argued"
       }
      ],
      "examples": [
@@ -5237,31 +5237,31 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Inductive reasoning",
-       "def": "from many individual cases, establishing the probable truth of a general proposition"
+       "def": "the process by which from many individual cases we establish the probable truth of a general proposition"
       },
       {
        "term": "Deductive reasoning",
-       "def": "applying an established general principle to a specific case to reach a conclusion"
+       "def": "the process which applies a general proposition to a specific instance to reach a conclusion"
       },
       {
        "term": "Syllogism",
-       "def": "a set of three statements: major premise, minor premise, and conclusion"
+       "def": "a series of statements consisting of a major premise, a minor premise, and a conclusion"
       },
       {
        "term": "Major premise",
-       "def": "the general truth in a syllogism (e.g., 'All dogs die')"
+       "def": "the general proposition in a syllogism, as 'All articles made of gold are valuable'"
       },
       {
        "term": "Minor premise",
-       "def": "the fact about the specific case in a syllogism (e.g., 'Fido is a dog')"
+       "def": "the statement applying the general proposition to a particular case, as 'This ring is made of gold'"
       },
       {
        "term": "Enthymeme",
-       "def": "a shortened syllogism with one premise left unstated but understood"
+       "def": "a shortened syllogism, that is, a syllogism with one premise omitted"
       },
       {
        "term": "Hasty generalization",
-       "def": "an error of induction: drawing a general conclusion from too few cases"
+       "def": "a common error of induction: concluding something is always so because it was so in the few cases observed"
       }
      ],
      "examples": [
@@ -5374,19 +5374,19 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Proof",
-       "def": "reasoning that convinces the intellect that a proposition is true"
+       "def": "argument by an appeal principally to the reason, by which we aim to convince the hearer of the truth"
       },
       {
        "term": "Persuasion",
-       "def": "an appeal to feeling and will that moves a person toward action"
+       "def": "an appeal mainly to the feelings by which we aim to move the hearer to action and establish the wisdom of a course"
       },
       {
        "term": "Exhortation",
-       "def": "earnest urging or entreaty; it may move someone but does not by itself prove anything"
+       "def": "the urging to action with which persuasion commences; it moves the feelings but does not of itself convince the reason"
       },
       {
        "term": "Audience",
-       "def": "the particular readers or hearers an argument is shaped to convince"
+       "def": "those whom we address, who are not all affected in the same way and whose beliefs we must consider"
       }
      ],
      "examples": [
@@ -5481,23 +5481,23 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Direct argument",
-       "def": "the part of an argument that states your own reasons for the proposition"
+       "def": "the building up of one's own argument, showing the truth of a proposition or the expediency of a course"
       },
       {
        "term": "Indirect argument (refutation)",
-       "def": "the part of an argument that replies to and answers your opponent's reasons"
+       "def": "the tearing to pieces of another's argument, also called destructive argument"
       },
       {
        "term": "Brief",
-       "def": "an ordered outline of an argument, written in complete sentences, listing reasons and their support"
+       "def": "an outline that differs from the ordinary one in being composed of complete sentences rather than of topics"
       },
       {
        "term": "Emphatic positions",
-       "def": "the first and last places in an argument, where the strongest reasons should go"
+       "def": "the first and last places in an argument, kept for the most important reasons"
       },
       {
        "term": "Man of straw",
-       "def": "a weak or unreal objection set up only so it can be easily knocked down; to be avoided"
+       "def": "an objection set up only for the purpose of knocking it down; it is not wise to do this"
       }
      ],
      "examples": [
@@ -5600,15 +5600,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Figure of speech",
-       "def": "a change from the usual form of expression made for the purpose of producing a greater effect, by pleasing us or by adding force"
+       "def": "a change from the usual form of expression for the purpose of producing a greater effect, more pleasing or more forcible"
       },
       {
        "term": "Simile",
-       "def": "an expressed comparison between objects belonging to different classes (usually marked by like or as)"
+       "def": "an expressed comparison between objects belonging to different classes"
       },
       {
        "term": "Different classes",
-       "def": "the requirement that the two things compared in a simile be unlike in kind; comparing two trees or two rivers is not a simile"
+       "def": "the kinds the compared objects must not share for a simile; comparing two trees, two beehives, or two rivers is no simile"
       }
      ],
      "examples": [
@@ -5705,15 +5705,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Metaphor",
-       "def": "a comparison that is implied rather than expressed; we say that one object IS another"
+       "def": "a figure differing from a simile in that the comparison is implied rather than expressed; we say one object is another"
       },
       {
        "term": "Personification",
-       "def": "a special form of the metaphor in which life is attributed to inanimate objects, or the characteristics of persons are attributed to objects, animals, or even abstract ideas"
+       "def": "a special form of the metaphor in which life is attributed to inanimate objects, or the characteristics of persons to objects, animals, or even abstract ideas"
       },
       {
        "term": "Implied comparison",
-       "def": "the mark of a metaphor: the likeness is stated indirectly, without like or as, unlike the expressed comparison of a simile"
+       "def": "the mark of a metaphor: a comparison implied, not stated openly with like or as as the expressed comparison of a simile is"
       }
      ],
      "examples": [
@@ -5813,15 +5813,15 @@ window.COURSE_DATA.courses.push({
      "keyTerms": [
       {
        "term": "Apostrophe",
-       "def": "a figure like personification with an added trait: we directly address inanimate objects or the absent as if they were present"
+       "def": "like personification but with an added trait: we directly address inanimate objects or the absent as if they were present"
       },
       {
        "term": "Metonymy",
-       "def": "substituting one object for another so closely associated with it that the mention of one suggests the other"
+       "def": "substituting one object for another, the two being so closely associated that the mention of one suggests the other"
       },
       {
        "term": "Synecdoche",
-       "def": "substituting a part of anything for the whole, or a whole for the part"
+       "def": "substituting a part of anything for the whole or a whole for the part"
       }
      ],
      "examples": [
@@ -5926,15 +5926,15 @@ window.COURSE_DATA.courses.push({
       },
       {
        "term": "Antithesis",
-       "def": "contrasted statements, found in a single sentence or extended through a whole paragraph"
+       "def": "contrasted statements, found in a single sentence or extended through an entire paragraph"
       },
       {
        "term": "Climax",
-       "def": "an ascendant arrangement of words or ideas, rising in force"
+       "def": "an ascendant arrangement of words or ideas"
       },
       {
        "term": "Interrogation",
-       "def": "a question asked not for information but to make speech more effective; an affirmative question denies and a negative question affirms"
+       "def": "a question asked not to obtain information but to make speech more effective; an affirmative question denies and a negative affirms"
       }
      ],
      "examples": [
