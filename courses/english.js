@@ -3,7 +3,7 @@ window.COURSE_DATA = (window.COURSE_DATA || { meta: { brand: "Euclidia", product
 window.COURSE_DATA.courses.push({
  "id": "eng",
  "title": "English Grammar",
- "subtitle": "The grammar you need before Latin",
+ "subtitle": "Grammar from the ground up",
  "source": "T. K. Arnold, An English Grammar for Classical Schools (1848)",
  "license": "Public domain",
  "lang": "en",
