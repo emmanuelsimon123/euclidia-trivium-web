@@ -337,13 +337,11 @@
   function renderCredits() {
     const body = $("creditsBody"); body.innerHTML = "";
     body.appendChild(h("div", { class: "card" },
-      h("p", null, "Euclidia Trivium is free and open. Its lessons are built on public-domain works whose copyright has long since expired — so the material can be shared with everyone."),
+      h("p", null, "Euclidia Trivium is free and open. Its lessons are built on public-domain works whose copyright has long since expired, so the material can be shared with everyone."),
       h("h3", null, "English Grammar"),
       h("p", null, "Thomas Kerchever Arnold, ", h("em", null, "An English Grammar for Classical Schools"), " (London, 1848). Public domain. Explanations are written fresh for modern learners; the author's original wording is shown verbatim within each lesson."),
       h("h3", null, "Composition & Rhetoric"),
       h("p", null, "Stratton D. Brooks & Marietta Hubbard, ", h("em", null, "Composition-Rhetoric"), " (American Book Company, 1905). Public domain."),
-      h("h3", null, "Latin (coming soon)"),
-      h("p", null, "The Latin course will be built on public-domain sources; medieval readings (Albertus Magnus, Aquinas) are themselves public domain."),
       h("p", { class: "q-sub", style: "margin-top:18px" }, "A Euclidia product · euclidiamath.com")));
   }
 
