@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Euclidia Trivium — Writing & Grammar</title>
+<meta name="description" content="A free, classical writing and grammar trainer from Euclidia. Read T. K. Arnold's grammar and Brooks's composition-rhetoric interactively, with practice drawn from the books themselves." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Euclidia" />
+<meta property="og:title" content="Euclidia Trivium — Writing & Grammar" />
+<meta property="og:description" content="A free, classical writing and grammar trainer: read Arnold's grammar and Brooks's composition-rhetoric, interactively." />
+<meta property="og:url" content="https://trivium.euclidiamath.com/" />
+<meta name="twitter:card" content="summary" />
+<link rel="canonical" href="https://trivium.euclidiamath.com/" />
+<link rel="icon" href="images/favicon.svg" type="image/svg+xml" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<header id="topbar">
+  <button id="homeBtn" class="brand" title="Home">Eucli<span>dia</span><em>Trivium</em></button>
+  <div class="tb-right">
+    <div class="stat streak" id="streakStat" title="Daily streak"><span class="ico" aria-hidden="true">🔥</span><span class="sr-only">Day streak </span><span id="streakVal">0</span></div>
+    <div class="stat freeze" id="freezeStat" title="Streak freezes banked" style="display:none"><span class="ico" aria-hidden="true">❄</span><span class="sr-only">Streak freezes </span><span id="freezeVal">0</span></div>
+    <div class="stat xp" id="xpStat" title="Total XP"><span class="ico" aria-hidden="true">⚡</span><span class="sr-only">Total XP </span><span id="xpVal">0</span></div>
+    <div class="stat goal" id="goalStat" title="Daily goal">
+      <svg class="ring" width="30" height="30" viewBox="0 0 36 36" aria-hidden="true"><circle class="ring-bg" cx="18" cy="18" r="15.9"></circle><circle class="ring-fg" id="goalRing" cx="18" cy="18" r="15.9"></circle></svg>
+      <span class="sr-only">Daily goal progress </span><span id="goalVal" class="goal-val">0</span>
+    </div>
+    <div class="stat hearts" id="heartsStat" title="Hearts"><span class="ico" aria-hidden="true">❤</span><span class="sr-only">Hearts </span><span id="heartsVal">3</span></div>
+    <button id="settingsBtn" class="icon-btn" title="Settings" aria-label="Settings">⚙</button>
+  </div>
+</header>
+
+<main id="app">
+  <!-- HOME: courses + path -->
+  <section id="screen-home" class="screen active">
+    <div class="hero">
+      <div class="hero-text">
+        <span class="section-label">The Trivium · Free &amp; open</span>
+        <h1>Master the grammar <em>under</em> the language.</h1>
+        <p id="heroSub">Learn English grammar the way it actually prepares you for Latin — then composition and rhetoric to write with force and clarity.</p>
+      </div>
+      <button id="continueBtn" class="btn-primary big">Continue ▸</button>
+    </div>
+    <div id="courseTabs" class="course-tabs"></div>
+    <div id="courseDash" class="course-dash"></div>
+    <div class="quicklinks">
+      <button id="reviewLink" class="btn-secondary">🔁 Review</button>
+      <button id="summaryLink" class="btn-secondary">🖨 Print summary</button>
+      <button id="creditsLink" class="btn-secondary">📜 Sources &amp; Credits</button>
+    </div>
+    <div id="pathList" class="path-list"></div>
+  </section>
+
+  <!-- LESSON HOME: teaching page -->
+  <section id="screen-lessonHome" class="screen">
+    <button class="back-link" data-nav="home">‹ All lessons</button>
+    <div id="lessonHead" class="lesson-head"></div>
+    <div id="lessonBody"></div>
+  </section>
+
+  <!-- LESSON PLAYER -->
+  <section id="screen-lesson" class="screen lesson">
+    <div class="lesson-top">
+      <button id="quitLesson" class="icon-btn" title="Quit" aria-label="Quit lesson">✕</button>
+      <div class="progress"><div id="lessonProgress" class="progress-fill"></div></div>
+      <div id="comboChip" class="combo-chip"></div>
+      <div class="lesson-hearts" id="lessonHearts"></div>
+    </div>
+    <div id="questionArea" class="question-area"></div>
+    <div id="feedbackBar" class="feedback-bar" role="status" aria-live="polite">
+      <div class="fb-content"><span id="fbIcon" aria-hidden="true"></span><span id="fbText"></span></div>
+      <button id="fbContinue" class="btn-check">Continue</button>
+    </div>
+    <div class="lesson-foot"><button id="checkBtn" class="btn-check" disabled>Check</button></div>
+  </section>
+
+  <!-- SUMMARY -->
+  <section id="screen-summary" class="screen"><div id="summaryCard" class="summary-card"></div></section>
+
+  <!-- SETTINGS -->
+  <section id="screen-settings" class="screen">
+    <button class="back-link" data-nav="home">‹ Back</button>
+    <h1 class="page-title">Settings</h1>
+    <div id="settingsBody" class="settings-body"></div>
+  </section>
+
+  <!-- CREDITS -->
+  <section id="screen-credits" class="screen">
+    <button class="back-link" data-nav="home">‹ Back</button>
+    <h1 class="page-title">Sources &amp; Credits</h1>
+    <div id="creditsBody"></div>
+  </section>
+</main>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="courses/english.js"></script>
+<script src="courses/composition.js"></script>
+<script src="courses/latin.js"></script>
+<script src="js/store.js"></script>
+<script src="js/srs.js"></script>
+<script src="js/content.js"></script>
+<script src="js/lesson.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
