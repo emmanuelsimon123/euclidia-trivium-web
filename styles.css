@@ -181,9 +181,11 @@ textarea.text-input{resize:vertical;line-height:1.5}
 .dg-stack{display:flex;flex-direction:column;align-items:center;gap:8px}
 .dg-slot{display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:center;min-width:84px;min-height:42px;padding:4px 12px;border-bottom:2px solid var(--gold)}
 .dg-slot:not(:has(.dg-tile))::before{content:attr(data-label);color:var(--text-dim);font-size:11px;font-style:italic;letter-spacing:.04em}
-.dg-rail{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;min-height:30px;padding:6px 10px 0;margin-top:2px;border-left:2px solid var(--gold-border);transform:skewX(-14deg)}
-.dg-rail .dg-tile{transform:skewX(14deg)}
-.dg-rail:not(:has(.dg-tile))::before{content:'modifiers';color:var(--text-dim);font-size:10.5px;font-style:italic;transform:skewX(14deg)}
+/* Modifier rail = a real, rectangular drop target. It used to be a thin skewX(-14deg) sliver
+   with no min-width, which was nearly impossible to click and froze every diagram that has a
+   modifier (e.g. "The wise king ruled the land"). Now sized like .dg-slot so it is easy to hit. */
+.dg-rail{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;align-items:center;min-width:84px;min-height:40px;padding:6px 12px;margin-top:2px;border-left:2px solid var(--gold-border)}
+.dg-rail:not(:has(.dg-tile))::before{content:'modifiers';color:var(--text-dim);font-size:10.5px;font-style:italic}
 .dg-div{align-self:flex-start;width:2px;height:46px;background:var(--gold)}
 .dg-div2{align-self:flex-start;width:2px;height:24px;margin-top:14px;background:var(--gold)}
 .dg-bslash{align-self:flex-start;width:26px;height:42px;border-bottom:2px solid var(--gold);transform:skewX(-30deg);transform-origin:bottom}

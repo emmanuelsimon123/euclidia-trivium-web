@@ -168,6 +168,10 @@
             "aria-label": inZone ? (w + ", placed in " + ZL[placed[i]] + ", activate to remove") : (sel === i ? (w + ", selected") : w),
             onclick: e => {
               e.stopPropagation(); if (L.graded) return;
+              // If another word is already selected, clicking a placed tile drops the selected word
+              // into THAT tile's zone, so several words can stack on one rail (e.g. "The" and "wise"
+              // both modifying "king") without the click being swallowed by the tile already there.
+              if (sel >= 0 && sel !== i && inZone) { placeSel(placed[i]); return; }
               if (inZone) { delete placed[i]; sel = -1; render(); announce(w + " returned to the word bank"); return; }
               sel = (sel === i ? -1 : i); render();
               if (sel === i) { announce(w + " selected. Choose a zone."); const fs = firstEmptySlot(); if (fs) setTimeout(() => fs.focus(), 0); }

@@ -371,29 +371,29 @@ window.COURSE_DATA.courses.push({
       {
        "id": "comp-1-4-e2",
        "type": "mc",
-       "q": "In the turtle story, Leon sees himself surrounded by a circle of glancing eyes on the sand bar, until at last the Indian guide says, \"Turtles.\" Would the incident be interesting if we were told at the beginning that the boy and the Indian had encamped near a hatching place of turtles?",
+       "q": "Brooks says that if you tell a friend about an exciting moment at a picnic, he will not care to hear what train you took or what was in your lunch basket. Why are such details better left out?",
        "choices": [
-        "No, because telling the point at the start would destroy the mystery that holds our interest",
-        "Yes, because the reader prefers to know the answer first",
-        "Yes, because it would make the story longer",
-        "No, because turtles are not interesting at all"
+        "Because details that bear little on the point, and that do not help the listener appreciate it, only delay the point and weaken interest",
+        "Because the reader prefers to know the answer first",
+        "Because they would make the story longer",
+        "Because picnics are not interesting at all"
        ],
        "answer": 0,
-       "why": "Brooks poses this very question to show that if the point is plainly stated near the beginning, the story drags; the suspense of the glancing eyes is what holds interest until the guide says 'Turtles.'",
+       "why": "Brooks writes that brevity is desirable, and details that bear little relation to the main point, and that do not prepare the listener to understand and appreciate it, are better omitted.",
        "src": "Brooks"
       },
       {
        "id": "comp-1-4-e3",
        "type": "mc",
-       "q": "In the railroad story, the officer carried more than two thousand dollars yet never thought to pay his fare, because for years he had ridden everywhere on passes. Where does the interest of this story reach its climax?",
+       "q": "Brooks says a bare list of the tools a carpenter uses and the operations he performs may be dull. What does he say will give such a description added value?",
        "choices": [
-        "At the end, when he realizes it had never occurred to him that he could simply pay his fare and ride",
-        "In the first sentence about his position with the company",
-        "When he sends a telegram from the office",
-        "When he describes the bad roads he feared to travel"
+        "Showing the manner of his work, so the reader can tell whether he is orderly and rapid or a careless putterer",
+        "Naming the brand of every tool he owns",
+        "Listing how many minutes each step took",
+        "Telling where the carpenter bought his lumber"
        ],
        "answer": 0,
-       "why": "The story leads up to the closing surprise: the point lands at the end, when he sees that, with two thousand dollars in his pocket, it had never occurred to him that he could pay his fare and ride.",
+       "why": "Brooks writes that a description gains value if it shows the carpenter's manner of working, so the reader can determine whether he is an orderly, methodical, and rapid worker or a mere putterer who is careless, haphazard, and slow.",
        "src": "Brooks"
       },
       {
@@ -813,7 +813,9 @@ window.COURSE_DATA.courses.push({
         "Along deep, winding ways Loki went, squeezing through narrow crevices and creeping under huge rocks.",
         "Along deep, winding ways Loki went, squeezing through narrow crevices, creeping under huge rocks.",
         "Along deep, winding ways Loki went, squeezing through narrow crevices and creeping under huge rocks",
-        "Loki went along deep, winding ways, squeezing through narrow crevices and creeping under huge rocks."
+        "Loki went along deep, winding ways, squeezing through narrow crevices and creeping under huge rocks.",
+        "Along deep, winding ways Loki went, squeezing through narrow crevices, and creeping under huge rocks.",
+        "Along deep, winding ways Loki went, squeezing through narrow crevices, and creeping under huge rocks"
        ],
        "answer": "Along deep, winding ways Loki went, squeezing through narrow crevices and creeping under huge rocks.",
        "why": "Section 18 shows that combining short sentences into one of greater length, using participles such as squeezing and creeping, secures variety and a smoother flow without making the meaning obscure.",
@@ -1307,7 +1309,7 @@ window.COURSE_DATA.courses.push({
       {
        "id": "comp-3-3-e1",
        "type": "mc",
-       "q": "Brooks: 'The first step in acquiring knowledge is to determine what it is that we do not know. Just which word or words in each of the following sentences keep you from understanding the full meaning of the sentence?' In this sentence, which word is used in a special botanical sense that a general reader would have to look up: 'The aerial foliage stem is the most favorable for studying stem structure.'?",
+       "q": "Brooks: 'The first step in acquiring knowledge is to determine what it is that we do not know. Just which word or words in each of the following sentences keep you from understanding the full meaning of the sentence?' Of the words offered, which one is used in a special botanical sense as part of the technical term 'foliage stem,' the leaf-bearing stem, rather than in its everyday meaning: 'The aerial foliage stem is the most favorable for studying stem structure.'?",
        "choices": [
         "foliage",
         "favorable",
@@ -1728,66 +1730,66 @@ window.COURSE_DATA.courses.push({
       {
        "id": "comp-4-2-e1",
        "type": "mc",
-       "q": "Brooks and Hubbard say that if, in telling about a baseball game, you mentioned a particular 'fly,' it was description or narration; but if some one should ask what you meant by 'a fly,' your answer would belong to which form of discourse?",
+       "q": "According to Brooks, which is the more definite subject for a theme?",
        "choices": [
-        "Exposition",
-        "Narration",
-        "Description",
-        "Argument"
+        "A Family of Robins",
+        "Birds",
+        "Animals",
+        "Living things"
        ],
        "answer": 0,
-       "why": "The answer would apply to all flies, not one, so it is general; explaining a general term is exposition.",
+       "why": "Section 59 calls the narrowed, specific subject the more usable one; 'A Family of Robins' is definite, while 'Birds' is broad and general.",
        "src": "Brooks"
       },
       {
        "id": "comp-4-2-e2",
        "type": "mc",
-       "q": "According to Brooks and Hubbard, which kind of case does exposition always deal with?",
+       "q": "According to Brooks, what two things on the writer's side help decide whether a subject is a good one to write about?",
        "choices": [
-        "That which is general",
-        "A single particular object",
-        "One person's feelings",
-        "A story told in order"
+        "The writer's knowledge of the subject and interest in it",
+        "The length of the subject's name and its spelling",
+        "The number of books written about it",
+        "The season of the year"
        ],
        "answer": 0,
-       "why": "Exposition is always concerned with that which is general, while description and narration deal with particular cases.",
+       "why": "Section 56 says a subject suits a writer when the writer both knows something about it and is interested in it.",
        "src": "Brooks"
       },
       {
        "id": "comp-4-2-e3",
        "type": "mc",
-       "q": "Brooks and Hubbard say a general description of a windmill, which includes only the things common to all windmills, is in effect an enlarged definition. Which form of discourse does such a general description become?",
+       "q": "Which subject is narrow enough for a single short theme?",
        "choices": [
-        "Exposition",
-        "Description",
-        "Narration",
-        "Argument"
+        "The Transportation of Milk at Toledo",
+        "Transportation",
+        "Travel",
+        "The World's Industries"
        ],
        "answer": 0,
-       "why": "When an object is described to give a clear conception of its whole class, the general description becomes exposition rather than description.",
+       "why": "Section 60 says a broad subject like 'Transportation' would fill a book, while a narrowed subject such as 'The Transportation of Milk at Toledo' fits one short theme.",
        "src": "Brooks"
       },
       {
        "id": "comp-4-2-e4",
        "type": "compose",
-       "q": "Theme XXXVII. Write a general description of one of the following: a bicycle; a country hay barn; a dog; a summer cottage; an Indian wigwam; a Dutch windmill. (The purpose is not to picture a particular object, but to give a general notion of a class of objects.)",
-       "model": "A Dutch windmill is a tall, round tower, broad at the base and tapering toward the top, built of brick or stout timber. From its head spring four great arms, or sails, set crosswise and covered with canvas or thin boards, which the wind turns slowly round. Inside, the turning arms drive a shaft that works the millstones below, and a cap at the top can be swung about so that the sails always face the wind. Every Dutch windmill shares these parts, wherever it happens to stand.",
+       "q": "Take a broad subject such as 'Trees' and narrow it, step by step, down to one definite subject you could cover in a single short theme. Then write one sentence saying why the narrowed subject is easier to handle than the broad one.",
+       "model": "Trees, to Shade Trees, to The Maple, to The Sugar Maple on Our Street. The narrowed subject is easier because I can describe one tree I know well in a short theme, while 'Trees' would need a whole book.",
        "rubric": [
-        "Describes a whole class, not one particular object",
-        "Includes only traits common to all members of the class",
-        "Reads as an enlarged definition (exposition), so it would fit any member of the class"
+        "Starts from a broad subject",
+        "Narrows it step by step to one definite, specific subject",
+        "Explains why the narrowed subject suits a short theme"
        ],
        "src": "Brooks"
       },
       {
        "id": "comp-4-2-e5",
        "type": "compose",
-       "q": "Theme XXXIX. Explain one of the following by the use of general narration: baking bread; how paper is made; how to play tennis (or some other game); catching trout; how to pitch curves. (Arrange your details in their proper time-order; do not introduce unnecessary details.)",
-       "model": "To bake bread, the flour is first stirred together with water, yeast, and a little salt until it forms a stiff dough. The dough is kneaded until it is smooth, then set in a warm place to rise until it has doubled. It is punched down, shaped into loaves, and allowed to rise once more in the pans. At last the loaves are slid into a hot oven and baked until they are brown and sound hollow when tapped. This is what happens whenever bread is baked, not on one day only.",
+       "q": "Choose a subject you know well and care about. Write one short paragraph about it aimed at a particular reader (for example a younger student, a parent, or a friend), then name the reader you wrote it for.",
+       "model": "(For a younger student) A bicycle is easy to balance once it is moving, because the spinning wheels help keep it upright; that is why you wobble most when you start. I wrote this for a younger student just learning to ride.",
        "rubric": [
-        "Relates a process or action, not one single occasion",
-        "Arranges the steps in their proper time-order",
-        "Tells what characteristically happens whenever the process occurs, so it reads as general narration"
+        "Picks a subject the writer knows and cares about",
+        "Is written to fit a stated reader",
+        "Names the intended reader"
        ],
        "src": "Brooks"
       }
@@ -2329,13 +2331,13 @@ window.COURSE_DATA.courses.push({
        "src": "Brooks",
        "q": "Discuss the appropriateness of this title for its subject. Title: 'A Blaze of Brilliance.' Subject: Description of a coaching parade. Is the title well chosen?",
        "choices": [
-        "No: it is so vague and overblown that it makes a promise the plain subject cannot fulfill",
+        "No: it is mere fine writing that gives no hint of what the subject is",
         "Yes: it names the coaching parade exactly",
         "Yes: it is the shortest possible title",
         "No: it gives away the ending of the description"
        ],
        "answer": 0,
-       "why": "Brooks warns that a title must not make a promise the theme cannot fulfill; 'A Blaze of Brilliance' raises expectations of splendor that a description of a coaching parade may not meet."
+       "why": "Section 61 wants a short title that rouses curiosity without obvious display and that points honestly at the theme; 'A Blaze of Brilliance' is empty flourish that never indicates the subject is a coaching parade."
       },
       {
        "id": "comp-5-2-e4",
@@ -4297,7 +4299,19 @@ window.COURSE_DATA.courses.push({
         "cried",
         "responded",
         "ventured",
-        "resumed"
+        "resumed",
+        "called",
+        "told",
+        "declared",
+        "stated",
+        "began",
+        "continued",
+        "yelled",
+        "observed",
+        "queried",
+        "sighed",
+        "gasped",
+        "sneered"
        ],
        "answer": "replied",
        "why": "In the selections of this section the speaker is indicated by varied verbs such as replied, answered, demanded, snarled, returned, remarked, resumed, and ventured, all substitutes for 'He said.'",
@@ -4324,7 +4338,9 @@ window.COURSE_DATA.courses.push({
         "\"You must be there at eight o'clock,\" said Joe.",
         "\"You must be there at eight o'clock,\" Joe said.",
         "Joe said, \"You must be there at eight o'clock.\"",
-        "\"Be there at eight o'clock,\" Joe said."
+        "\"Be there at eight o'clock,\" Joe said.",
+        "Joe told the judge, \"You must be there at eight o'clock.\"",
+        "\"You must be there at eight o'clock,\" Joe told the judge."
        ],
        "answer": "\"You must be there at eight o'clock,\" said Joe.",
        "why": "In the selection the words stand in quotation marks with the speaker named: 'No. You must be there at eight o'clock.' Direct dialogue puts the exact words in quotation marks with a speech tag identifying who spoke.",

@@ -258,7 +258,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Substantive"
+        "Substantive",
+        "Verb",
+        "Adjective"
        ],
        "why": "Herring, shoals, sheep, and flocks name things with an independent existence (substantives); the articles, verbs, preposition, and conjunction are not.",
        "src": "Arnold"
@@ -291,7 +293,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Substantive"
+        "Substantive",
+        "Verb",
+        "Adjective"
        ],
        "why": "Dog and spaniel name things with an independent existence; 'my' is a pronoun used adjectively, 'is' a verb, 'a' an article.",
        "src": "Arnold"
@@ -527,15 +531,15 @@ window.COURSE_DATA.courses.push({
       {
        "id": "eng-1-3-e3",
        "type": "parse",
-       "q": "Arnold's exercise: 'What kind of noun is prudence? iron? temperance? robber?' Classify each word from his list as Common, Abstract, Proper, or Collective.",
-       "sentence": "prudence iron temperance robber",
+       "q": "Arnold's exercise: 'What kind of noun is prudence? house? temperance? robber?' Classify each word from his list as Common, Abstract, Proper, or Collective.",
+       "sentence": "prudence house temperance robber",
        "labels": [
         {
          "word": "prudence",
          "tag": "Abstract"
         },
         {
-         "word": "iron",
+         "word": "house",
          "tag": "Common"
         },
         {
@@ -553,14 +557,14 @@ window.COURSE_DATA.courses.push({
         "Proper",
         "Collective"
        ],
-       "why": "Prudence and temperance are qualities drawn off by the mind (abstract); iron is the name of a material that really exists (common, concrete); robber names any member of a class (common).",
+       "why": "Prudence and temperance are qualities drawn off by the mind (abstract); house and robber each name any individual in a class (common).",
        "src": "Arnold"
       },
       {
        "id": "eng-1-3-e4",
        "type": "parse",
-       "q": "Arnold's exercise: 'What kind of noun is Caesar? London? laughter? silver?' Classify each word from his list as Proper, Abstract, or Common.",
-       "sentence": "Caesar London laughter silver",
+       "q": "Arnold's exercise: 'What kind of noun is Caesar? London? laughter? king?' Classify each word from his list as Proper, Abstract, or Common.",
+       "sentence": "Caesar London laughter king",
        "labels": [
         {
          "word": "Caesar",
@@ -575,7 +579,7 @@ window.COURSE_DATA.courses.push({
          "tag": "Abstract"
         },
         {
-         "word": "silver",
+         "word": "king",
          "tag": "Common"
         }
        ],
@@ -585,13 +589,13 @@ window.COURSE_DATA.courses.push({
         "Common",
         "Collective"
        ],
-       "why": "Caesar and London are names peculiar to one individual (proper); laughter is a quality or mode of action conceived as existing (abstract); silver is the name of a material (common, concrete).",
+       "why": "Caesar and London are names peculiar to one individual (proper); laughter is a mode of action conceived as existing (abstract); king names any member of a class (common).",
        "src": "Arnold"
       },
       {
        "id": "eng-1-3-e5",
        "type": "mc",
-       "q": "From Arnold's own list, what kind of noun is 'gravity'?",
+       "q": "Arnold defines an abstract noun as the name of a quality the mind conceives as existing on its own. What kind of noun is 'wisdom'?",
        "choices": [
         "Abstract",
         "Proper",
@@ -599,13 +603,13 @@ window.COURSE_DATA.courses.push({
         "Common"
        ],
        "answer": 0,
-       "why": "Gravity names a quality conceived by the mind as having an independent existence, so it is an abstract substantive.",
+       "why": "Wisdom names a quality, not a thing you can point to or touch, so it is an abstract substantive.",
        "src": "Arnold"
       },
       {
        "id": "eng-1-3-e6",
        "type": "mc",
-       "q": "From Arnold's own list, what kind of noun is 'soberness'?",
+       "q": "Arnold defines an abstract noun as the name of a quality conceived as existing on its own; a concrete noun names something you can perceive, like iron or a rose. What kind of noun is 'honesty'?",
        "choices": [
         "Abstract",
         "Concrete",
@@ -613,7 +617,7 @@ window.COURSE_DATA.courses.push({
         "Collective"
        ],
        "answer": 0,
-       "why": "Soberness names a quality drawn off from things and conceived as existing, so it is an abstract substantive.",
+       "why": "Honesty names a quality conceived by the mind, so it is abstract; it is not something you can see or touch the way you can a concrete noun.",
        "src": "Arnold"
       }
      ]
@@ -968,25 +972,25 @@ window.COURSE_DATA.courses.push({
       {
        "id": "eng-2-1-e5",
        "type": "type",
-       "q": "Arnold (235): some feminine appellatives are formed from the masculine by adding 'ess.' Form the feminine of the title 'earl' (the final syllable is thrown away).",
+       "q": "Arnold (234 a) lists pairs of titles, one for the male and one for the female. Give the female title that answers to the male 'earl'.",
        "accept": [
         "countess",
         "a countess"
        ],
        "answer": "countess",
-       "why": "Arnold (234 a) gives the title pair 'earl, countess'; the feminine is formed by a change of ending.",
+       "why": "Arnold (234 a) pairs the male title 'earl' with the female title 'countess'; this is a fixed pair of words, not an -ess formation.",
        "src": "Arnold"
       },
       {
        "id": "eng-2-1-e6",
        "type": "type",
-       "q": "Arnold (235 a): the ending 'tor' becomes 'tress' by rejection of the vowel. Form the feminine of 'governor' (Arnold notes the termination is rejected).",
+       "q": "Arnold (235): some feminines are formed by dropping the masculine ending and adding '-ess.' Form the feminine of 'governor' (the '-or' is dropped before '-ess' is added).",
        "accept": [
         "governess",
         "a governess"
        ],
        "answer": "governess",
-       "why": "Arnold (235 a): in 'governor' the termination is rejected to give 'governess.'",
+       "why": "Arnold: 'governor' drops '-or' and adds '-ess' to give 'governess.'",
        "src": "Arnold"
       },
       {
@@ -1729,7 +1733,7 @@ window.COURSE_DATA.courses.push({
         "His friendship was a credit to Dolabella, and gratitude obliged him to observe and reverence him."
        ],
        "answer": "His friendship was a credit to Dolabella, and gratitude obliged him to observe and reverence Cicero.",
-       "why": "The repeated 'Dolabella' becomes the pronoun 'him'; the pronoun stands for the noun already mentioned so it need not be repeated.",
+       "why": "The opening possessive 'Cicero's' becomes 'His', and the repeated 'Dolabella' becomes the object pronoun 'him'. The final 'Cicero' is left as a name on purpose, since a second 'him' there could be read as Dolabella and the reader would lose track of which man is being reverenced.",
        "src": "Arnold"
       },
       {
@@ -2011,7 +2015,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Demonstrative"
+        "Demonstrative",
+        "Adjective",
+        "Personal"
        ],
        "why": "Arnold: here 'that' stands simply for 'pleasure'; it is a demonstrative pronoun standing for a noun already named.",
        "src": "Arnold"
@@ -2115,7 +2121,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Relative"
+        "Relative",
+        "Interrogative",
+        "Personal"
        ],
        "why": "Arnold: relatives are so called because they refer to an object already mentioned. Here 'which' refers back to 'the house'.",
        "src": "Arnold"
@@ -2409,7 +2417,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Verb"
+        "Verb",
+        "Substantive",
+        "Adjective"
        ],
        "why": "In Arnold's worked parsing, the predicate is 'the verb left, in the indicative mood, preterite tense, active voice.' It is the one word that tells what the subject did.",
        "src": "Arnold"
@@ -3647,7 +3657,7 @@ window.COURSE_DATA.courses.push({
         "Had I neglected this, I should have betrayed my subject.",
         "If I neglected this, I should have betrayed my subject"
        ],
-       "answer": "If I neglected this, I should have betrayed my subject.",
+       "answer": "If I had neglected this, I should have betrayed my subject.",
        "why": "Arnold (469, 470): a participle may be resolved into an adverbial clause. 'Neglecting this' unfolds to the conditional 'If I neglected this...'",
        "src": "Arnold"
       },
@@ -3957,7 +3967,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Adverb"
+        "Adverb",
+        "Adjective",
+        "Substantive"
        ],
        "why": "In Arnold's own parsing of this sentence he calls 'now' an adverb of time joined objectively to the verb. It tells when we must prepare.",
        "src": "Arnold"
@@ -4014,7 +4026,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Adverb"
+        "Adverb",
+        "Adjective",
+        "Substantive"
        ],
        "why": "Arnold parses 'Soon after this last separation' as words describing 'when' the troubles gushed; 'soon' is the adverb that opens the phrase of time.",
        "src": "Arnold"
@@ -4331,7 +4345,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Preposition"
+        "Preposition",
+        "Adverb",
+        "Substantive"
        ],
        "why": "In Arnold's sentence 'At our first arrival, after a long absence' both 'At' and 'after' are prepositions, each governing a following substantive (arrival, absence).",
        "src": "Arnold"
@@ -4498,7 +4514,9 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "Conjunction"
+        "Conjunction",
+        "Preposition",
+        "Adverb"
        ],
        "why": "Arnold gives 'I wish that I could see him' to illustrate the conjunction: a word that joins notions or assertions together. Here 'that' joins the two clauses.",
        "src": "Arnold"
@@ -4642,7 +4660,7 @@ window.COURSE_DATA.courses.push({
       {
        "id": "eng-6-5-e5",
        "type": "parse",
-       "q": "Parse this passage from Cowper, used in Arnold's parts-of-speech exercises. Label the one interjection-like adverb of degree, the prepositions, and the conjunction; tag the rest with the dash.",
+       "q": "Parse this passage from Cowper, used in Arnold's parts-of-speech exercises. Label the two adverbs, the preposition, and the two conjunctions; tag every other word with the dash.",
        "sentence": "He and my cat are excessively fond of each other and play a thousand gambols together",
        "labels": [
         {
@@ -5432,7 +5450,7 @@ window.COURSE_DATA.courses.push({
        "labels": [
         {
          "word": "amphi",
-         "tag": "around"
+         "tag": "on both sides"
         },
         {
          "word": "peri",
@@ -5448,12 +5466,12 @@ window.COURSE_DATA.courses.push({
         }
        ],
        "tagset": [
-        "around",
+        "on both sides",
         "round",
         "beyond",
         "with/together"
        ],
-       "why": "Arnold (276): amphi = around (on both sides), peri = round, para = by/beyond/against, syn = with, together."
+       "why": "amphi = on both sides, peri = round, para = beyond, syn = with, together."
       }
      ]
     }
@@ -6792,7 +6810,9 @@ window.COURSE_DATA.courses.push({
        "source": "They allow me sixpence a day.",
        "accept": [
         "I am allowed sixpence a day.",
-        "I am allowed sixpence a day"
+        "I am allowed sixpence a day",
+        "I am allowed sixpence a day by them.",
+        "I am allowed sixpence a day by them"
        ],
        "answer": "I am allowed sixpence a day.",
        "why": "Arnold notes verbs like 'allow' may be 'followed in the passive by an objective case.' 'Me' becomes the subject 'I,' and 'sixpence a day' stays as an objective case after the passive verb: 'I am allowed sixpence a day.'"
