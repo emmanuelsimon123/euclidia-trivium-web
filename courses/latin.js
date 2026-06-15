@@ -56,6 +56,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "dixit",
        "def": "said"
+      },
+      {
+       "term": "schola",
+       "def": "school"
+      },
+      {
+       "term": "in",
+       "def": "in, into, on"
       }
      ],
      "exercises": [
@@ -117,7 +125,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "albus -> album, albino; vidit (videre, to see) -> video, vision, evident; venit (venire, to come) -> advent, convene; habuit (habere, to have) -> habit; parvus is harder, but it appears in scientific names like Parvovirus (the tiny virus).",
+       "model": "albus -> album (a blank white tablet), albino; vidit (videre, to see) -> video, vision, evident; venit (venire, to come) -> advent, convene; habuit (habere, to have) -> habit, habitual; parvus is harder, but it appears in scientific names like Parvovirus (the tiny virus).",
        "why": "Cognate hunting fixes the vocabulary in memory.",
        "src": "Most",
        "id": "lat-1-1-e5"
@@ -272,7 +280,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "mundus -> mundane, mundial; nauta -> nautical, astronaut; navis -> navy, naval, navigate; regina -> regal, regina; pecunia -> pecuniary, impecunious; rotundus -> rotund, rotunda.",
+       "model": "mundus -> mundane, mundial (worldwide); nauta -> nautical, astronaut; navis -> navy, naval, navigate; regina -> regal, regnant; pecunia -> pecuniary, impecunious; rotundus -> rotund, rotunda.",
        "why": "Cognate hunting fixes the vocabulary in memory.",
        "src": "Most",
        "id": "lat-1-2-e5"
@@ -412,6 +420,10 @@ window.COURSE_DATA.courses.push({
        "def": "this"
       },
       {
+       "term": "porcus",
+       "def": "pig"
+      },
+      {
        "term": "forum",
        "def": "market, forum"
       },
@@ -494,7 +506,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "forum -> forum/forensic; porcus -> pork/porcine; carnes -> carnivore/carnal/carnage; remansit -> remain/remnant; exclamavit -> exclaim/exclamation; parvus -> (small, compare 'parvovirus').",
+       "model": "forum -> forensic; porcus -> pork/porcine; carnes -> carnivore/carnal/carnage; remansit -> remain/remnant; exclamavit -> exclaim/exclamation; parvus -> (small, compare 'parvovirus').",
        "why": "Spotting cognates makes the vocabulary stick.",
        "src": "Most",
        "id": "lat-1-4-e5"
@@ -744,7 +756,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "regina -> regal/regina/regnal; pecuniam -> pecuniary/impecunious; navem -> navy/naval/navigate; rotundi -> rotund/rotunda; puellam -> (girl, compare French 'pucelle'); invenit -> invent/invention/inventory.",
+       "model": "regina -> regal/regnal; pecuniam -> pecuniary/impecunious; navem -> navy/naval/navigate; rotundi -> rotund/rotunda; puellam -> (girl, compare French 'pucelle'); invenit -> invent/invention/inventory.",
        "why": "Spotting cognates makes the vocabulary stick.",
        "src": "Most",
        "id": "lat-1-6-e5"
@@ -809,6 +821,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "erant",
        "def": "were"
+      },
+      {
+       "term": "thronus",
+       "def": "throne"
       },
       {
        "term": "quando",
@@ -886,7 +902,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "rex -> regal, regent, royal; malus -> malice, malign, malevolent; primus -> primary, prime, primitive; ultimus -> ultimate, ultimatum; bonus -> bonus, bonafide; regnavit -> reign, regnal; terra -> terrain, territory, terrace; urbe (urbs) -> urban, suburb.",
+       "model": "rex -> regal, regent, royal; malus -> malice, malign, malevolent; primus -> primary, prime, primitive; ultimus -> ultimate, ultimatum; bonus -> bona fide (in good faith), bonanza, bounty; regnavit -> reign, regnal; terra -> terrain, territory, terrace; urbe (urbs) -> urban, suburb.",
        "why": "Spotting real cognates anchors the new vocabulary in English.",
        "src": "Most",
        "id": "lat-1-7-e6"
@@ -968,6 +984,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "pugna",
        "def": "battle"
+      },
+      {
+       "term": "tyrannus",
+       "def": "tyrant"
       },
       {
        "term": "sunt",
@@ -1076,7 +1096,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "bellum -> belligerent, bellicose; pugna -> pugnacious, pugilist; ignis -> ignite, igneous; exercitus -> exercise; aqua -> aquatic, aquarium; pons -> pontoon, pontiff; paravit -> prepare, apparatus; expulit -> expel, expulsion.",
+       "model": "bellum -> belligerent, bellicose; pugna -> pugnacious, pugilist; ignis -> ignite, igneous; exercitus -> exercise (the army was the drilled, exercised body); aqua -> aquatic, aquarium; pons -> pontoon, pontiff (the bridge-building priest); paravit -> prepare, apparatus; expulit -> expel, expulsion.",
        "why": "Spotting real cognates fixes the vocabulary in memory.",
        "src": "Most",
        "id": "lat-1-8-e6"
@@ -1165,6 +1185,10 @@ window.COURSE_DATA.courses.push({
        "def": "plebeian(s)"
       },
       {
+       "term": "mons",
+       "def": "mountain, mount"
+      },
+      {
        "term": "venite",
        "def": "come"
       },
@@ -1246,7 +1270,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "consul -> consul, consular; potestas -> potent, potency; civis -> civic, civil, citizen; novus -> novel, novelty, novice; patricius -> patrician; officium -> office, official, officio; plebs -> plebeian, plebs; urbs -> urban, urbane.",
+       "model": "consul -> consular, consulate; potestas -> potent, potency; civis -> civic, civil, citizen; novus -> novel, novelty, novice; patricius -> patrician; officium -> office, official; plebs -> plebeian, plebiscite; urbs -> urban, urbane.",
        "why": "Recognizing real cognates makes the vocabulary easier to remember.",
        "src": "Most",
        "id": "lat-1-9-e6"
@@ -1409,7 +1433,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "senatus -> senate, senator; periculum -> peril, perilous; dictator -> dictator, dictate; consilium -> counsel, consult, consultation; vir -> virile, virtue; fortis -> fortitude, fort; ager -> agriculture, agrarian; legatus -> legate, delegate.",
+       "model": "senatus -> senate, senator; periculum -> peril, perilous; dictator -> dictate, diction; consilium -> counsel, consult, consultation; vir -> virile, virtue; fortis -> fortitude, fort; ager -> agriculture, agrarian; legatus -> legate, delegate.",
        "why": "Spotting cognates anchors the Latin vocabulary in English you already know.",
        "src": "Most",
        "id": "lat-1-10-e6"
@@ -1508,6 +1532,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "anser",
        "def": "goose"
+      },
+      {
+       "term": "humanus",
+       "def": "human"
       }
      ],
      "exercises": [
@@ -1837,6 +1865,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "Epirus",
        "def": "Epirus"
+      },
+      {
+       "term": "elephantus",
+       "def": "elephant"
       }
      ],
      "exercises": [
@@ -2058,6 +2090,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "scire, scivit",
        "def": "know"
+      },
+      {
+       "term": "poeta",
+       "def": "poet"
       }
      ],
      "exercises": [
@@ -2331,7 +2367,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly traces to its Latin source",
         "No invented or false cognates"
        ],
-       "model": "victoria gives victory and Victor; auxilium gives auxiliary; egregius gives egregious; mercatura gives merchant, merchandise, and commerce; medius gives medium, median, and middle; bellum gives belligerent and bellicose; periculum gives peril and perilous.",
+       "model": "victoria gives victory and Victor; auxilium gives auxiliary and auxiliaries; egregius gives egregious (literally standing out from the flock); mercatura gives merchant, merchandise, and commerce; medius gives medium and median; bellum gives belligerent and bellicose; periculum gives peril and perilous.",
        "why": "Connecting Most's vocabulary to English roots makes the words stick and shows Latin living on in English.",
        "src": "Most",
        "id": "lat-2-5-e6"
@@ -2553,7 +2589,7 @@ window.COURSE_DATA.courses.push({
         "The English words really do derive from or resemble the Latin",
         "Checked the meaning, not just the spelling"
        ],
-       "model": "pax -> pacify, pacific, pact; aurum -> aureate, aureole, the chemical symbol Au; pater -> paternal, patron, patriarch; odium -> odious, odium; imperator -> imperial, emperor, imperative; manus -> manual, manuscript, manage; accepit (accipere) -> accept, acceptance; contra -> contrary, contradict, counter.",
+       "model": "pax -> pacify, pacific, pact; aurum -> aureate (gold-colored), aureole (a golden halo), the chemical symbol Au; pater -> paternal, patron, patriarch; odium -> odious, annoy (via Latin in odio, into hatred); imperator -> imperial, emperor, imperative; manus -> manual, manuscript, manage; accepit (accipere) -> accept, acceptance; contra -> contrary, contradict, counter.",
        "why": "Spotting real cognates fixes the vocabulary in memory.",
        "src": "Most",
        "id": "lat-2-6-e6"
@@ -2743,6 +2779,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "probabiliter",
        "def": "probably"
+      },
+      {
+       "term": "historia",
+       "def": "history, account"
       }
      ],
      "exercises": [
@@ -2815,7 +2855,7 @@ window.COURSE_DATA.courses.push({
         "Pairs each English word with the correct Latin source",
         "Avoids invented or false cognates"
        ],
-       "model": "miles gives military and militia; ferox gives ferocious and ferocity; mons gives mountain, mount, and montane; via gives via, viaduct, and deviate; ignis gives ignite and ignition; fortis gives fort, fortify, and fortitude; descendere gives descend and descent.",
+       "model": "miles gives military and militia; ferox gives ferocious and ferocity; mons gives mountain, mount, and montane; via gives viaduct and deviate; ignis gives ignite and ignition; fortis gives fort, fortify, and fortitude; descendere gives descend and descent.",
        "why": "These are genuine derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-3-1-e6"
@@ -3814,7 +3854,7 @@ window.COURSE_DATA.courses.push({
         "Derivations are genuine (no invented or false cognates)",
         "Answer uses commas, contains no dashes"
        ],
-       "model": "senatus gives senate and senator; circum gives circle, circumference, and circus; responsum gives response and responsible; deliberare gives deliberate and deliberation; totus gives total and totality; arena gives the English arena; civis gives civic, civil, civilian, and city.",
+       "model": "senatus gives senate and senator; circum gives circle, circumference, and circus; responsum gives response and responsible; deliberare gives deliberate and deliberation; totus gives total and totality; arena gives arenaceous (sandy) and arenicolous (living in sand); civis gives civic, civil, civilian, and city.",
        "why": "These are real, traceable derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-3-6-e6"
@@ -4510,7 +4550,7 @@ window.COURSE_DATA.courses.push({
         "Derivations are genuine, not invented look-alikes",
         "Answer uses commas, with no dashes"
        ],
-       "model": "From servus come servant, servile, and serve. From labor come labor, laborious, and elaborate. From senator come senate and senatorial. From turba come turbulent, disturb, and perturb. Misericordia, built on miser, gives miser, miserable, and misery. Interficere has no clean English derivative, but its component facere shows up in fact and effect.",
+       "model": "From servus come servant, servile, and serve. From labor come laborious, laboratory, and elaborate. From senator come senate and senatorial. From turba come turbulent, disturb, and perturb. Misericordia, built on miser, gives miserable, misery, and commiserate. Interficere has no clean English derivative, but its component facere shows up in fact and effect.",
        "why": "Practicing real derivations fixes the vocabulary and shows how Latin survives in English.",
        "src": "Most",
        "id": "lat-4-3-e6"
@@ -5542,7 +5582,7 @@ window.COURSE_DATA.courses.push({
         "Derivations are genuine, not invented look-alikes",
         "No em dashes or en dashes, commas only"
        ],
-       "model": "imperium gives empire, imperial, and imperious; pirata gives pirate and piracy; titulus gives title and titular; maior gives major and majority; dictatura gives dictator and dictatorship; caecus is seen in caecum and the medical caecal.",
+       "model": "imperium gives empire, imperial, and imperious; pirata gives pirate and piracy; titulus gives title and titular; maior gives major and majority; dictatura gives dictator and dictatorship; caecus gives caecum (the blind pouch of the gut) and the medical caecal.",
        "why": "These are real Latin-to-English derivations drawn from today's vocabulary.",
        "src": "Most",
        "id": "lat-5-2-e6"
@@ -5701,6 +5741,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "pirata",
        "def": "pirate"
+      },
+      {
+       "term": "captivitas",
+       "def": "captivity"
       }
      ],
      "exercises": [
@@ -5909,16 +5953,8 @@ window.COURSE_DATA.courses.push({
        "def": "richest"
       },
       {
-       "term": "maius",
-       "def": "neuter of maior"
-      },
-      {
        "term": "anser",
        "def": "goose"
-      },
-      {
-       "term": "divisus",
-       "def": "divided"
       }
      ],
      "exercises": [
@@ -5996,7 +6032,7 @@ window.COURSE_DATA.courses.push({
         "Each English word is genuinely related to its Latin source",
         "No invented or false cognates"
        ],
-       "model": "dividere -> divide, division, divisor; consulatus -> consul, consulate, consultation; vinculum -> vinculum (the bar in mathematics); difficilis -> difficult, difficulty; amor -> amorous, amiable, enamored; anser -> anserine.",
+       "model": "dividere -> divide, division, divisor; consulatus -> consul, consulate, consultation; difficilis -> difficult, difficulty; amor -> amorous, amiable, enamored; anser -> anserine (goose-like).",
        "why": "These derivations come straight from the Latin roots in this Lectio's vocabulary.",
        "src": "Most",
        "id": "lat-5-4-e6"
@@ -6408,7 +6444,7 @@ window.COURSE_DATA.courses.push({
         "Each English word is genuinely related to its Latin source, no invented links",
         "No em dashes or en dashes; commas only"
        ],
-       "model": "accusare gives accuse, accusation, accusatory; petere gives petition, petitioner, compete; iudicium gives judicial, judiciary, judgment; inimicus gives inimical, enemy; explicare gives explicate, explicit, explanation; dimittere gives dismiss, dismissal, mission.",
+       "model": "accusare gives accuse, accusation, accusatory; petere gives petition, petitioner, compete; iudicium gives judicial, judiciary, judgment; inimicus gives inimical, enemy; explicare gives explicate, explicit, exploit; dimittere gives dismiss, dismissal, mission.",
        "why": "These are real, standard derivations from each Latin word in this Lectio.",
        "src": "Most",
        "id": "lat-5-6-e6"
@@ -6842,13 +6878,13 @@ window.COURSE_DATA.courses.push({
       },
       {
        "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: nuntius, mortuus/mors, soror, celeriter, putare, confidentia, deditio.",
+       "q": "List the English words that come from or resemble today's Latin words: nuntius, mortuus/mors, soror, celeriter, putare, confidentia.",
        "rubric": [
         "Gives at least three real derivations with a brief link to the Latin word",
         "No invented or false cognates",
         "Connections are dash-free and plausible (mors to mortal, soror to sorority)"
        ],
-       "model": "nuntius gives announce, nuncio, and pronounce. mors and mortuus give mortal, mortuary, and mortician. soror gives sorority and sororal. celeriter (from celer) gives celerity and accelerate. putare gives compute, dispute, and reputation. confidentia gives confidence and confident. deditio (from dare) relates to surrender words like tradition and add.",
+       "model": "nuntius gives announce, pronounce, and nuncio (a papal envoy). mors and mortuus give mortal, mortuary, and mortician. soror gives sorority and sororal. celeriter (from celer) gives celerity and accelerate. putare gives compute, dispute, and reputation. confidentia gives confidence and confident.",
        "why": "These are genuine derivations from the lesson's vocabulary, useful for fixing the Latin in memory.",
        "src": "Most",
        "id": "lat-6-2-e6"
@@ -6995,6 +7031,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "festum",
        "def": "feast"
+      },
+      {
+       "term": "error",
+       "def": "error, mistake"
       }
      ],
      "exercises": [
@@ -7070,7 +7110,7 @@ window.COURSE_DATA.courses.push({
         "No invented or false cognates, only words that truly derive from or clearly resemble the Latin",
         "Briefly notes the meaning link, for example corona to crown or coronation"
        ],
-       "model": "corona gives coronation and corona (the sun's crown) and coronary; mensis gives menstrual and the names for month-long cycles; clementia gives clement and clemency; victus and vicit give victor, victory, and convict; exercitus gives exercise; festum gives festival, feast, and festive.",
+       "model": "corona gives coronation and coronary; mensis gives menstrual and semester (from sex plus mensis, six months); clementia gives clement and clemency; victus and vicit give victor, victory, and convict; exercitus gives exercise; festum gives festival, feast, and festive.",
        "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-6-3-e6"
@@ -7282,7 +7322,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from or resembles the Latin word",
         "No invented or false cognates"
        ],
-       "model": "gladius (sword) gives gladiator and gladiolus; scriptor (writer) gives script, scripture, scribe, and inscription; statua (statue) gives statue and statuary; monitio (warning) gives monition, admonish, and monitor; pes, pede (foot) gives pedal, pedestrian, and pedestal.",
+       "model": "gladius (sword) gives gladiator and gladiolus (the sword-lily, named for its blade-shaped leaves); scriptor (writer) gives script, scripture, scribe, and inscription; statua (statue) gives statuary and statuesque; monitio (warning) gives admonish, monitor, and monition; pes, pede (foot) gives pedal, pedestrian, and pedestal.",
        "why": "These are all genuine English derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-6-4-e6"
@@ -7425,6 +7465,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "melius",
        "def": "better"
+      },
+      {
+       "term": "ars, arte",
+       "def": "art, skill"
+      },
+      {
+       "term": "nobilitas, nobilitate",
+       "def": "nobility, the nobles"
       }
      ],
      "exercises": [
@@ -7496,7 +7544,7 @@ window.COURSE_DATA.courses.push({
         "Each pairing reflects the Latin word's true meaning (no invented links)",
         "Spelling of the English derivatives is reasonable"
        ],
-       "model": "legere (read) gives legible, lecture, legend; liber (book) gives library, librarian; equus (horse) gives equestrian, equine; equestris gives equestrian; notus (known) gives notable, notorious, notice; clarus (famous, brilliant) gives clear, clarity, declare; vivere (live) gives vivid, survive, revive.",
+       "model": "legere (read) gives legible, lecture, legend; liber (book) gives library, librarian; equus and equestris (horse, of horses) give equine and equestrian; notus (known) gives notable, notorious, notice; clarus (famous, brilliant) gives clear, clarity, declare; vivere (live) gives vivid, survive, revive.",
        "why": "These are genuine derivations from the Lectio's own vocabulary.",
        "src": "Most",
        "id": "lat-6-5-e6"
@@ -7706,7 +7754,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative is matched to the correct Latin source word",
         "No invented or false cognates are listed"
        ],
-       "model": "virtus gives virtue and virtuous; superbia gives superb and superbity; peccatum gives peccadillo and impeccable; initium gives initial, initiate, and initiative; princeps gives prince, principal, and principle; comparare gives compare and comparison.",
+       "model": "virtus gives virtue and virtuous; superbia gives superb and superbly; peccatum gives impeccable and peccadillo (a small sin); initium gives initial, initiate, and initiative; princeps gives prince, principal, and principality; comparare gives compare and comparison.",
        "why": "Most's vocabulary words have clear, real English descendants through Latin roots.",
        "src": "Most",
        "id": "lat-6-6-e6"
@@ -7922,7 +7970,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative is matched to the correct Latin source word",
         "No invented or false cognates are listed"
        ],
-       "model": "comprehendere gives comprehend and comprehension; narrare gives narrate, narration, and narrative; probare gives probe, prove, and probation; vehemens gives vehement and vehemence; socius gives social, society, and associate; Gallia gives Gallic and Gaul.",
+       "model": "comprehendere gives comprehend and comprehension; narrare gives narrate, narration, and narrative; probare gives probe, prove, and probation; vehemens gives vehement and vehemence; socius gives social, society, and associate; Gallia gives Gallic.",
        "why": "These derivations are real: comprehend, narrate, prove, vehement, social, and Gallic all descend from the Latin words in today's vocabulary.",
        "src": "Most",
        "id": "lat-7-1-e6"
@@ -8235,6 +8283,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "iudicium",
        "def": "trial"
+      },
+      {
+       "term": "populus, o",
+       "def": "people"
       }
      ],
      "exercises": [
@@ -8310,7 +8362,7 @@ window.COURSE_DATA.courses.push({
         "Each English word is genuinely related to its Latin source",
         "No invented or unrelated words"
        ],
-       "model": "profanare gives profane and profanity; mysterium gives mystery and mysterious; honor gives honor, honorable, and honorary; adoptare gives adopt and adoption; familia gives family and familiar; causa gives cause and causal; iudicium gives judicial, judiciary, and judgment.",
+       "model": "profanare gives profane and profanity; mysterium gives mystery and mysterious; honor gives honorable and honorary; adoptare gives adopt and adoption; familia gives family and familiar; causa gives cause and causal; iudicium gives judicial, judiciary, and judgment.",
        "why": "These are real, traceable derivations from the lesson's vocabulary.",
        "src": "Most",
        "id": "lat-7-3-e6"
@@ -8686,7 +8738,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely traces to its Latin source",
         "No invented or unrelated cognates"
        ],
-       "model": "licentia -> license, licentious; civilis -> civil, civilian, civic; consul -> consul, consular, consulate; monitio -> monition, admonition, monitor; vates -> vatic; avunculus -> avuncular.",
+       "model": "licentia -> license, licentious; civilis -> civil, civilian, civic; consul -> consular, consulate; monitio -> monition, admonition, monitor; vates -> vatic (prophetic, oracular); avunculus -> avuncular (uncle-like).",
        "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-7-5-e6"
@@ -9332,7 +9384,7 @@ window.COURSE_DATA.courses.push({
         "No invented or unrelated cognates",
         "Answer is dash-free and readable"
        ],
-       "model": "lux gives lucid, lucent, and translucent (light); opus gives opus and operate (work); docere gives doctor, docile, and document (teach); separavit gives separate and separation; spiritus gives spirit, spiritual, and inspire; tenebrae gives tenebrous (darkness); creatio gives creation and creature.",
+       "model": "lux gives lucid, lucent, and translucent (light); opus gives opera and operate (work); docere gives doctor, docile, and document (teach); separavit gives separate and separation; spiritus gives spirit, spiritual, and inspire; tenebrae gives tenebrous and tenebrism (both about darkness); creatio gives creation and creature.",
        "why": "These are genuine derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-8-2-e6"
@@ -10206,7 +10258,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely traces to its Latin source, no invented links",
         "Answer uses commas, no dashes"
        ],
-       "model": "fallere (deceive) gives fallacy, false, and fail; offerre (offer) gives offer and offering; mater (mother) gives maternal, maternity, and matron; pastor (herdsman) gives pastor and pastoral; agricola (farmer) gives agriculture and agricultural; virgo (virgin) gives virgin and virginal; omnipotens (omnipotent) gives omnipotent and omnipotence.",
+       "model": "fallere (deceive) gives fallacy, false, and fail; offerre (offer) gives offertory and oblation (from the participle oblatus); mater (mother) gives maternal, maternity, and matron; pastor (herdsman) gives pastoral and pasture; agricola (farmer) gives agriculture and agricultural; virgo (virgin) gives virgin and virginal; omnipotens (all-powerful) gives omnipotence and potent.",
        "why": "These are genuine derivations from this lesson's vocabulary, useful for fixing the Latin in memory.",
        "src": "Most",
        "id": "lat-8-6-e6"
@@ -10435,7 +10487,7 @@ window.COURSE_DATA.courses.push({
         "Connections are genuine, not invented (no made-up cognates)",
         "Answer is written clearly without dashes used as punctuation"
        ],
-       "model": "diluvium gives diluvial and antediluvian; spiritus gives spirit, spiritual, and inspire; corpus gives corporal, corpse, corporation, and corps; genus gives genus, generic, gender, and genre; mens gives mental and mention. The word imber is harder, but it relates to the rare English imbricate (overlapping like roof tiles in the rain).",
+       "model": "diluvium gives diluvial and antediluvian; spiritus gives spirit, spiritual, and inspire; corpus gives corporal, corpse, corporation, and corps; genus gives generic, gender, and genre; mens gives mental and mention (a calling to mind).",
        "why": "These are real derivations from this Lectio's vocabulary, showing how Latin roots survive in English.",
        "src": "Most",
        "id": "lat-8-7-e6"
@@ -10568,24 +10620,8 @@ window.COURSE_DATA.courses.push({
        "def": "wind"
       },
       {
-       "term": "clausit",
-       "def": "closed"
-      },
-      {
-       "term": "aperuit",
-       "def": "opened"
-      },
-      {
        "term": "fons",
        "def": "fountain"
-      },
-      {
-       "term": "ruptus",
-       "def": "broken"
-      },
-      {
-       "term": "territus",
-       "def": "terrified"
       },
       {
        "term": "altus",
@@ -10596,20 +10632,12 @@ window.COURSE_DATA.courses.push({
        "def": "rose"
       },
       {
-       "term": "recordatus",
-       "def": "remembered"
-      },
-      {
        "term": "ventus",
        "def": "wind"
       },
       {
        "term": "minuere",
        "def": "diminish"
-      },
-      {
-       "term": "euntes",
-       "def": "from ire"
       },
       {
        "term": "fenestra",
@@ -10638,6 +10666,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "intellegere",
        "def": "understand"
+      },
+      {
+       "term": "imber",
+       "def": "rain"
       }
      ],
      "exercises": [
@@ -10840,10 +10872,6 @@ window.COURSE_DATA.courses.push({
        "def": "tower"
       },
       {
-       "term": "egressus",
-       "def": "go out"
-      },
-      {
        "term": "recordari",
        "def": "remember"
       },
@@ -11007,16 +11035,8 @@ window.COURSE_DATA.courses.push({
        "def": "finish, complete"
       },
       {
-       "term": "finitus",
-       "def": "ended"
-      },
-      {
        "term": "habitare, avit, atus",
        "def": "dwell, inhabit"
-      },
-      {
-       "term": "habitavit",
-       "def": "dwelt"
       },
       {
        "term": "quam",
@@ -11258,10 +11278,6 @@ window.COURSE_DATA.courses.push({
        "def": "again"
       },
       {
-       "term": "apparuit",
-       "def": "appeared"
-      },
-      {
        "term": "fames",
        "def": "famine"
       },
@@ -11286,10 +11302,6 @@ window.COURSE_DATA.courses.push({
        "def": "about"
       },
       {
-       "term": "Sodoma, is",
-       "def": "Sodom"
-      },
-      {
        "term": "stella",
        "def": "star"
       },
@@ -11300,6 +11312,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "magna fames, fame",
        "def": "hunger, famine"
+      },
+      {
+       "term": "domus",
+       "def": "house, home"
       }
      ],
      "exercises": [
@@ -11373,7 +11389,7 @@ window.COURSE_DATA.courses.push({
         "Pairs each English word with the correct Latin source",
         "Does not invent false cognates"
        ],
-       "model": "polytheista -> polytheist, polytheism; stella -> stellar, constellation; dives -> (Latin 'dives' gives us the proper noun Dives, the rich man); benedicere -> benediction, benedict; fames -> famine, famish; apparere -> appear, apparition.",
+       "model": "polytheista -> polytheist, polytheism; stella -> stellar, constellation; benedicere -> benediction, benedict (a newly wed man); fames -> famine, famish; apparere -> appear, apparition.",
        "why": "These Latin words survive in everyday English vocabulary; tracing them makes the new words easier to remember.",
        "src": "Most",
        "id": "lat-9-4-e6"
@@ -11504,14 +11520,6 @@ window.COURSE_DATA.courses.push({
        "def": "covenant"
       },
       {
-       "term": "ierunt",
-       "def": "went"
-      },
-      {
-       "term": "Domine",
-       "def": "Lord (vocative form)"
-      },
-      {
        "term": "parcere, pepercit, parcitus (or parsus)",
        "def": "spare (takes dat. case)"
       },
@@ -11532,16 +11540,16 @@ window.COURSE_DATA.courses.push({
        "def": "finally, at last"
       },
       {
-       "term": "Abraham",
-       "def": "Abraham (poss. and dat. Abrahae, other forms Abraham)"
-      },
-      {
        "term": "bonus panis, e",
        "def": "bread"
       },
       {
        "term": "bonus sacerdos, dote",
        "def": "priest"
+      },
+      {
+       "term": "angelus",
+       "def": "angel"
       }
      ],
      "exercises": [
@@ -11614,7 +11622,7 @@ window.COURSE_DATA.courses.push({
         "Links each English word to the correct Latin source",
         "Avoids invented or false cognates"
        ],
-       "model": "sacerdos -> sacerdotal, sacerdotalism; gens -> gentile, gens; perseverare -> persevere, perseverance; salvare -> salvage, salvation, save; vinum -> vine, vinegar, vintner.",
+       "model": "sacerdos -> sacerdotal, sacerdotalism; gens -> gentile, genteel; perseverare -> persevere, perseverance; salvare -> salvage, salvation, save; vinum -> vine, vinegar, vintner.",
        "why": "These derivations are genuine, drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-9-5-e6"
@@ -11771,6 +11779,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "certe",
        "def": "certainly"
+      },
+      {
+       "term": "sulphur",
+       "def": "sulphur, brimstone"
       }
      ],
      "exercises": [
@@ -11950,10 +11962,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "redire",
        "def": "to return (a compound of ire)"
-      },
-      {
-       "term": "petentibus",
-       "def": "to those who ask"
       }
      ],
      "exercises": [
@@ -12173,7 +12181,7 @@ window.COURSE_DATA.courses.push({
         "Derivations are accurate, not invented",
         "Answer is dash-free and readable"
        ],
-       "model": "gens (gentem) gives gentile, gens, genus; tangere/tactus gives tangent, tangible, contact, tact; benedicere gives benediction, benedict; monstrare gives demonstrate, monster, remonstrate; aries gives Aries (the ram constellation).",
+       "model": "gens (gentem) gives gentile, gentry; tangere/tactus gives tangent, tangible, contact, tact; benedicere gives benediction, benedictine; monstrare gives demonstrate, monster (a portent or warning sign), remonstrate.",
        "why": "These are genuine derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-10-1-e6"
@@ -12392,7 +12400,7 @@ window.COURSE_DATA.courses.push({
         "Derivations are genuine, not invented look-alikes.",
         "No em dashes or en dashes; uses commas or arrows."
        ],
-       "model": "colere -> cultivate, culture, cult; gens -> gentile, genteel, gentry; voluntas -> voluntary, volunteer, volition; mulier -> muliebrity; camelus -> camel; parentes -> parent, parental, parentage; providere -> provide, providence, provident.",
+       "model": "colere -> cultivate, culture, cult; gens -> gentile, genteel, gentry; voluntas -> voluntary, volunteer, volition; mulier -> muliebrity (womanliness); parentes -> parent, parental, parentage; providere -> provide, providence, provident.",
        "why": "Each derivation traces a real path from the Latin headword to a modern English word, reinforcing this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-10-2-e6"
@@ -12539,6 +12547,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "Hebraicus",
        "def": "Hebrew"
+      },
+      {
+       "term": "domus",
+       "def": "house, home"
       }
      ],
      "exercises": [
@@ -12609,7 +12621,7 @@ window.COURSE_DATA.courses.push({
         "Each pairing links the Latin word to a genuinely related English word",
         "No invented or unrelated cognates"
        ],
-       "model": "campus gives campus and camp; dormire gives dormitory and dormant; numerare gives numerate, number, and enumerate; frater gives fraternal, fraternity, and friar; scala gives scale and escalator; renovare gives renovate and renew.",
+       "model": "campus gives camp and campaign; dormire gives dormitory and dormant; numerare gives numerate, number, and enumerate; frater gives fraternal, fraternity, and friar; scala gives scale and escalator; renovare gives renovate and renew.",
        "why": "These are real derivations that help fix the Lectio's vocabulary through familiar English words.",
        "src": "Most",
        "id": "lat-10-3-e6"
@@ -12963,6 +12975,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "haedus",
        "def": "goat"
+      },
+      {
+       "term": "cisterna",
+       "def": "cistern, pit"
       }
      ],
      "exercises": [
@@ -13357,10 +13373,6 @@ window.COURSE_DATA.courses.push({
        "def": "therefore"
       },
       {
-       "term": "emit",
-       "def": "bought"
-      },
-      {
        "term": "-que",
        "def": "and"
       },
@@ -13391,6 +13403,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "pressit",
        "def": "pressed"
+      },
+      {
+       "term": "innocens",
+       "def": "innocent"
       }
      ],
      "exercises": [
@@ -13463,7 +13479,7 @@ window.COURSE_DATA.courses.push({
         "Pair each English word with the Latin word it comes from",
         "Do not invent cognates that are not genuinely related"
        ],
-       "model": "administrare gives administer and administration; crimen gives crime and criminal; gratia gives grace, gratitude, and gratuity; conspectus gives conspicuous and conspectus; uva gives uvula (little grape).",
+       "model": "administrare gives administer and administration; crimen gives crime and criminal; gratia gives grace, gratitude, and gratuity; conspectus gives conspicuous; uva gives uvula (little grape).",
        "why": "These are genuine derivations that help fix the vocabulary through English.",
        "src": "Most",
        "id": "lat-10-8-e6"
@@ -13719,7 +13735,7 @@ window.COURSE_DATA.courses.push({
         "Pairs each English word with the correct Latin source",
         "Does not invent a cognate that has no real link"
        ],
-       "model": "suspendere gives suspend, suspension, suspense; crux/cruce gives crucify, crucifix, crucial; plenus gives plenty, plenary, plenitude; bos/bove gives bovine; farina gives farinaceous, farina; alienus gives alien, alienate.",
+       "model": "suspendere gives suspend, suspension, suspense; crux/cruce gives crucify, crucifix, crucial; plenus gives plenty, plenary, plenitude; bos/bove gives bovine, bovid; farina gives farinaceous, farinose (mealy); alienus gives alien, alienate.",
        "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-11-1-e6"
@@ -13816,10 +13832,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "recte",
        "def": "rightly"
-      },
-      {
-       "term": "pollicitus",
-       "def": "promised"
       },
       {
        "term": "praecipere",
@@ -13988,7 +14000,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from or resembles the Latin word",
         "No invented or false cognates"
        ],
-       "model": "sapientia (wisdom) -> sapient, sapience; plenus (full) -> plenty, plenary, plenitude; inopia (need) -> (compare copious from the opposite copia); perdere (destroy) -> perdition; tradere (hand over) -> tradition, traitor, betray; providere (provide) -> provide, providence, provision; praeficere (put in charge) -> prefect, prefecture.",
+       "model": "sapientia (wisdom) -> sapient, sapience; plenus (full) -> plenty, plenary, plenitude; perdere (destroy) -> perdition (utter ruin); tradere (hand over) -> tradition, traitor, betray; providere (provide) -> providence, provision, provident; praeficere (put in charge) -> prefect, prefecture.",
        "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-11-2-e6"
@@ -14103,20 +14115,12 @@ window.COURSE_DATA.courses.push({
        "def": "only"
       },
       {
-       "term": "sapientior",
-       "def": "wise"
-      },
-      {
        "term": "numquid",
        "def": "num (see Lesson 58)"
       },
       {
        "term": "solium",
        "def": "throne"
-      },
-      {
-       "term": "constituit",
-       "def": "set up"
       },
       {
        "term": "anulus",
@@ -14129,10 +14133,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "clamare",
        "def": "cry"
-      },
-      {
-       "term": "verto",
-       "def": "change, turn"
       },
       {
        "term": "salvator",
@@ -14221,7 +14221,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely traces to its Latin source",
         "No invented or unrelated cognates"
        ],
-       "model": "vertere (turn, change) -> convert, version, reverse; salvator (savior) -> salvation, salvage; currus (chariot) -> current, course, courier; constituere (set up) -> constitute, constitution; circumire (go around) -> circuit, circumference; os/oris (mouth) -> oral, orifice.",
+       "model": "vertere (turn, change) -> convert, version, reverse; salvator (savior) -> salvation, salvage; currus (chariot) -> curricle (a light chariot), curriculum (a running, course); constituere (set up) -> constitute, constitution; circumire (go around) -> circuit, circumference; os/oris (mouth) -> oral, orifice.",
        "why": "These are real derivations from the lesson's vocabulary, showing how the Latin roots survive in English.",
        "src": "Most",
        "id": "lat-11-3-e6"
@@ -14360,10 +14360,6 @@ window.COURSE_DATA.courses.push({
        "def": "peaceful"
       },
       {
-       "term": "ferte",
-       "def": "carry!"
-      },
-      {
        "term": "exquirere",
        "def": "demand"
       },
@@ -14374,6 +14370,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "saccus",
        "def": "sack"
+      },
+      {
+       "term": "domus",
+       "def": "house, home"
       }
      ],
      "exercises": [
@@ -14448,8 +14448,8 @@ window.COURSE_DATA.courses.push({
         "Each English word is matched to the correct Latin source word",
         "No invented cognates; uses commas, no dashes"
        ],
-       "model": "explorator gives explore, explorer, exploration; interpres gives interpret, interpreter, interpretation; peccare gives peccadillo, impeccable; suspicari gives suspect, suspicion, suspicious; pacificus gives pacific, pacify, pacifist; saccus gives sack, sachet, satchel; flere relates to feeble only loosely, so better to cite frumentum, which relates to frumentaceous (of grain).",
-       "why": "These are genuine derivations students can verify; flere and frumentum are weaker, so the cognate hunt focuses on the clear ones.",
+       "model": "explorator gives explore, explorer, exploration; interpres gives interpret, interpreter, interpretation; peccare gives peccadillo (a small fault), impeccable; suspicari gives suspect, suspicion, suspicious; pacificus gives pacific, pacify, pacifist; saccus gives sack, sachet, satchel; flere gives feeble (via flebilis, lamentable); frumentum gives frumentaceous (of grain).",
+       "why": "These are genuine derivations students can verify across the lesson's vocabulary.",
        "src": "Most",
        "id": "lat-11-4-e6"
       },
@@ -14715,10 +14715,6 @@ window.COURSE_DATA.courses.push({
        "def": "but"
       },
       {
-       "term": "repertus",
-       "def": "found"
-      },
-      {
        "term": "salus",
        "def": "safety"
       },
@@ -14916,10 +14912,6 @@ window.COURSE_DATA.courses.push({
        "def": "dinner"
       },
       {
-       "term": "cognovit",
-       "def": "learned (and so, knew)"
-      },
-      {
        "term": "cogitare, avit, atus",
        "def": "think"
       },
@@ -14962,10 +14954,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "pes",
        "def": "foot"
-      },
-      {
-       "term": "proiecit",
-       "def": "threw"
       },
       {
        "term": "ceteri",
@@ -15050,7 +15038,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely traces to its Latin source, no invented links.",
         "Answer uses commas, no dashes."
        ],
-       "model": "argenteus -> argent, Argentina (silver); auctoritas -> authority, authoritative; consequi -> consequence, consecutive, consequent; portare -> portable, transport, porter; cena -> cenacle (dining room); scyphus -> scyphate, scyphus (a cup shape in science).",
+       "model": "argenteus -> argent, Argentina (silver); auctoritas -> authority, authoritative; consequi -> consequence, consecutive, consequent; portare -> portable, transport, porter; cena -> cenacle (dining room); scyphus -> scyphate (cup-shaped), scyphozoan (cup-bodied jellyfish).",
        "why": "Trains students to spot the Latin roots living in everyday English.",
        "src": "Most",
        "id": "lat-11-7-e6"
@@ -15266,7 +15254,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely traces to its Latin source, no invented links",
         "No em dashes or en dashes in the answer"
        ],
-       "model": "regere (rule) gives regent, regime, and rector; oculus (eye) gives ocular, oculist, and binocular; valere (be well) gives valid, value, and convalesce; durus (hard) gives durable, duration, and endure; alere (nourish) gives aliment and alimony; terror gives terror, terrify, and terrible.",
+       "model": "regere (rule) gives regent, regime, and rector; oculus (eye) gives ocular, oculist, and binocular; valere (be well) gives valid, value, and convalesce; durus (hard) gives durable, duration, and endure; alere (nourish) gives aliment and alimony; terror gives terrify and terrible.",
        "why": "Most's vocabulary here yields many transparent English cognates rooted in the Latin stems.",
        "src": "Most",
        "id": "lat-12-1-e5"
@@ -15546,10 +15534,6 @@ window.COURSE_DATA.courses.push({
        "def": "kiss"
       },
       {
-       "term": "cucurrit",
-       "def": "ran"
-      },
-      {
        "term": "quot",
        "def": "how many"
       }
@@ -15765,10 +15749,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "osculari",
        "def": "kiss"
-      },
-      {
-       "term": "cucurrit",
-       "def": "ran"
       },
       {
        "term": "quot",
@@ -16027,7 +16007,7 @@ window.COURSE_DATA.courses.push({
         "Pairs each English word with the correct Latin source",
         "Avoids invented or false cognates"
        ],
-       "model": "prophetia gives prophecy and prophet; Deus gives deity, deify, and divine; populum gives population, popular, and people; gentes gives gentile, gentle, and gens; terram gives terrain, territory, and terrestrial; mortem gives mortal, mortuary, and mortality; facies gives face, facial, and facade.",
+       "model": "prophetia gives prophecy and prophet; Deus gives deity, deify, and divine; populum gives population, popular, and people; gentes gives gentile and gentle; terram gives terrain, territory, and terrestrial; mortem gives mortal, mortuary, and mortality; facies gives face, facial, and facade.",
        "why": "These are genuine derivations from this lesson's Latin words, reinforcing vocabulary through English cognates.",
        "src": "Most",
        "id": "lat-12-5-e6"
@@ -16314,6 +16294,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "prope",
        "def": "near"
+      },
+      {
+       "term": "poema, atis",
+       "def": "poem"
       }
      ],
      "exercises": [
@@ -16461,28 +16445,8 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "crevit",
-       "def": "grew"
-      },
-      {
-       "term": "mirari",
-       "def": "wonder"
-      },
-      {
-       "term": "animadvertit",
-       "def": "noticed"
-      },
-      {
        "term": "ignorare",
        "def": "not know"
-      },
-      {
-       "term": "contemnere",
-       "def": "despise"
-      },
-      {
-       "term": "quaesivit",
-       "def": "sought"
       },
       {
        "term": "opprimere",
@@ -16503,10 +16467,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "affligere",
        "def": "afflict"
-      },
-      {
-       "term": "onus",
-       "def": "burden"
       },
       {
        "term": "graviter",
@@ -16535,10 +16495,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "procul",
        "def": "far off"
-      },
-      {
-       "term": "spectare",
-       "def": "look at"
       }
      ],
      "exercises": [
@@ -16737,28 +16693,8 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "crevit",
-       "def": "grew"
-      },
-      {
-       "term": "mirari",
-       "def": "wonder"
-      },
-      {
-       "term": "animadvertit",
-       "def": "noticed"
-      },
-      {
        "term": "ignorare",
        "def": "not know"
-      },
-      {
-       "term": "contemnere",
-       "def": "despise"
-      },
-      {
-       "term": "quaesivit",
-       "def": "sought"
       },
       {
        "term": "opprimere",
@@ -16779,10 +16715,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "affligere",
        "def": "afflict"
-      },
-      {
-       "term": "onus",
-       "def": "burden"
       },
       {
        "term": "graviter",
@@ -16813,8 +16745,8 @@ window.COURSE_DATA.courses.push({
        "def": "far off"
       },
       {
-       "term": "spectare",
-       "def": "look at"
+       "term": "venari, venatus est",
+       "def": "hunt"
       }
      ],
      "exercises": [
@@ -17281,10 +17213,6 @@ window.COURSE_DATA.courses.push({
        "def": "bramble bush"
       },
       {
-       "term": "conspexit",
-       "def": "saw"
-      },
-      {
        "term": "comburere",
        "def": "burn up"
       },
@@ -17331,6 +17259,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "sic",
        "def": "thus"
+      },
+      {
+       "term": "flamma",
+       "def": "flame"
       }
      ],
      "exercises": [
@@ -17403,7 +17335,7 @@ window.COURSE_DATA.courses.push({
         "Pairs each English word with the correct Latin source",
         "Avoids made-up or coincidental look-alikes"
        ],
-       "model": "pastor gives pastor and pastoral; dolor gives dolorous and doleful; facies gives face and facial; ardere gives ardent and ardor; fluere gives fluent, fluid, and flux; integer gives integer and integral; immolare gives immolate and immolation.",
+       "model": "pastor gives pastoral and pasture; dolor gives dolorous and doleful; facies gives face and facial; ardere gives ardent and ardor; fluere gives fluent, fluid, and flux; integer gives integral and integrity; immolare gives immolate and immolation.",
        "why": "These are genuine Latin-to-English derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-13-1-e6"
@@ -17478,6 +17410,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "ob (with obj.)",
        "def": "on account of"
+      },
+      {
+       "term": "ars, artis",
+       "def": "art, skill"
       }
      ],
      "exercises": [
@@ -17905,7 +17841,7 @@ window.COURSE_DATA.courses.push({
         "Each English word is genuinely related, not just a lookalike",
         "No invented or false cognates"
        ],
-       "model": "proicere gives project and projectile; diluvium (flood) gives diluvial and antediluvian; sacrificium gives sacrifice; mortis (death) gives mortal and mortality; immortalitatem gives immortality; deus (god) gives deity and deify.",
+       "model": "proicere gives project and projectile; diluvium (flood) gives diluvial and antediluvian; sacrificium gives sacrifice and sacrificial; mortis (death) gives mortal and mortality; immortalitatem gives immortal and immortality; deus (god) gives deity and deify.",
        "why": "These are real worked derivations from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-13-4-e6"
@@ -18128,24 +18064,12 @@ window.COURSE_DATA.courses.push({
        "def": "heart"
       },
       {
-       "term": "prohibuit",
-       "def": "forbade"
-      },
-      {
        "term": "plaga",
        "def": "plague"
       },
       {
-       "term": "percussit",
-       "def": "struck"
-      },
-      {
        "term": "rana",
        "def": "frog"
-      },
-      {
-       "term": "implevit",
-       "def": "filled"
       },
       {
        "term": "malle",
@@ -18225,7 +18149,7 @@ window.COURSE_DATA.courses.push({
         "Each English word is paired with the correct Latin source word",
         "Avoids false matches and keeps answers dash-free"
        ],
-       "model": "prohibere gives prohibit and prohibition. devorare gives devour and voracious. plaga gives plague. cor gives cordial, courage, and core. magus gives magic, magician, and magi. sustinere gives sustain and sustenance. percussit (from percutere) gives percussion and percussive.",
+       "model": "prohibere gives prohibit and prohibition. devorare gives devour and voracious. plaga gives plague. cor gives cordial, courage, and core. magus gives magic and magician. sustinere gives sustain and sustenance. percussit (from percutere) gives percussion and percussive.",
        "why": "These are genuine derivations from this Lectio's vocabulary, reinforcing the link between Latin roots and English.",
        "src": "Most",
        "id": "lat-13-6-e6"
@@ -18463,7 +18387,7 @@ window.COURSE_DATA.courses.push({
         "Links each English word to the correct Latin source",
         "Avoids invented or false cognates"
        ],
-       "model": "digitus gives digit and digital; cor gives cordial and core; musca gives the genus name Musca and musket (via Italian mosca); pulvis gives pulverize and powder; indurare gives endure and durable; orare gives orator and oration.",
+       "model": "digitus gives digit and digital; cor gives cordial and core; musca gives mosquito (a little fly) and musket (via Italian mosca); pulvis gives pulverize and powder; indurare gives endure and durable; orare gives orator and oration.",
        "why": "Real derivations help fix the vocabulary through familiar English relatives.",
        "src": "Most",
        "id": "lat-13-7-e6"
@@ -19182,6 +19106,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "nequaquam",
        "def": "by no means"
+      },
+      {
+       "term": "hora",
+       "def": "hour"
       }
      ],
      "exercises": [
@@ -19256,7 +19184,7 @@ window.COURSE_DATA.courses.push({
         "Uses commas, no dashes",
         "Does not invent false cognates"
        ],
-       "model": "fulgur gives fulgurate and fulgent (flashing, like lightning). augere, auxit, auctus gives augment and auction. tonitruum is related to thunder and to detonate. grando gives Spanish granizo (hail). cessare gives cease, cessation, and incessant. tendere, tetendit, tentus gives tend, extend, tension, and tent.",
+       "model": "fulgur gives fulgurate and fulgent (flashing, like lightning). augere, auxit, auctus gives augment and auction. cessare gives cease, cessation, and incessant. tendere, tetendit, tentus gives tend, extend, tension, and tent. tonitruum (thunder) has no common English derivative, so it is better skipped.",
        "why": "Each derivation traces to a real Latin root in today's vocabulary.",
        "src": "Most",
        "id": "lat-13-11-e6"
@@ -19626,6 +19554,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "armentum",
        "def": "herd (of cattle)"
+      },
+      {
+       "term": "scandalum",
+       "def": "offense, stumbling block"
       }
      ],
      "exercises": [
@@ -19697,7 +19629,7 @@ window.COURSE_DATA.courses.push({
         "Uses no em or en dashes, only commas",
         "Avoids invented or false cognates"
        ],
-       "model": "locusta gives locust; tenebrae gives tenebrous and Tenebrae (the service of darkness); ruber gives rubric, ruby, and rubella; levare gives elevate, lever, and relieve; introire gives introit and introitus; conspectus gives conspectus and conspicuous.",
+       "model": "locusta gives locust; tenebrae gives tenebrous; ruber gives rubric, ruby, and rubella; levare gives elevate, lever, and relieve; introire gives introit (the entrance chant of the Mass); conspectus gives conspicuous and conspicuity.",
        "why": "These are genuine derivations from the Latin headwords in this Lectio's vocabulary.",
        "src": "Most",
        "id": "lat-14-1-e6"
@@ -21705,7 +21637,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the Latin word given, no invented links.",
         "Answer is written clearly without dashes."
        ],
-       "model": "populus gives popular and populace; sanctificare gives sanctify; terminus gives terminus, terminal, terminate; custodire gives custody and custodian; aquila gives aquiline (eagle-like). (buccina has no common everyday English derivative; sacerdotalis survives only in the formal word sacerdotal.)",
+       "model": "populus gives popular and populace; sanctificare gives sanctify; terminus gives terminal and terminate; custodire gives custody and custodian; aquila gives aquiline (eagle-like). (buccina has no common everyday English derivative; sacerdotalis survives only in the formal word sacerdotal.)",
        "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
        "src": "Most",
        "id": "lat-15-5-e6"
@@ -21828,6 +21760,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "perire",
        "def": "perish"
+      },
+      {
+       "term": "densus",
+       "def": "thick, dense"
       }
      ],
      "exercises": [
@@ -21902,7 +21838,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the Latin word given, no invented links.",
         "Answer is written clearly without dashes."
        ],
-       "model": "ignis gives ignite and ignition; fornax gives furnace; vertex gives vertex and vertical; radix gives radish and radical; crescere gives crescent and increase. (castra survives mainly in place names like Lancaster.)",
+       "model": "ignis gives ignite and ignition; fornax gives furnace; vertex gives vertical and vortex; radix gives radish and radical; crescere gives crescent and increase. (castra survives mainly in place names like Lancaster.)",
        "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
        "src": "Most",
        "id": "lat-15-6-e6"
@@ -22069,6 +22005,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "asinus",
        "def": "ass"
+      },
+      {
+       "term": "falsus",
+       "def": "false"
       }
      ],
      "exercises": [
@@ -22147,7 +22087,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the Latin word given, no invented links.",
         "Answer is written clearly without dashes."
        ],
-       "model": "similitudo gives similitude and similar; sanctificare gives sanctify; opus gives opus, opera, and operate; servitus gives servitude; proximus gives proximity and approximate; colere gives cult, culture, and cultivate. (occidere here, to kill, has no common everyday English derivative.)",
+       "model": "similitudo gives similitude and similar; sanctificare gives sanctify; opus gives opera and operate; servitus gives servitude; proximus gives proximity and approximate; colere gives cult, culture, and cultivate. (occidere here, to kill, has no common everyday English derivative.)",
        "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
        "src": "Most",
        "id": "lat-15-7-e6"
@@ -22404,7 +22344,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the Latin word given, no invented links.",
         "Answer is written clearly without dashes."
        ],
-       "model": "aedificare gives edifice and edify; conspectus gives conspectus and conspicuous; species gives species and special; digitus gives digit and digital; sanguis gives sanguine; tegere gives protect (via protegere) and detect (via detegere); aureus relates to aureole.",
+       "model": "aedificare gives edifice and edify; conspectus gives conspicuous (in plain sight); species gives special and especially; digitus gives digit and digital; sanguis gives sanguine; tegere gives protect (via protegere) and detect (via detegere); aureus gives aureole (a golden halo).",
        "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
        "src": "Most",
        "id": "lat-15-8-e6"
@@ -22659,6 +22599,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "mille",
        "def": "1000"
+      },
+      {
+       "term": "dicere",
+       "def": "say, tell"
       }
      ],
      "exercises": [
@@ -23530,7 +23474,7 @@ window.COURSE_DATA.courses.push({
         "Each derivation traces to the listed Latin word",
         "No invented or false cognates"
        ],
-       "model": "thesaurus gives thesaurus and treasure; dubitare gives dubious and doubt; solitudo gives solitude; virga gives verge; ecclesia gives ecclesiastical; vestis gives vestment and vest; incredulus gives incredulous.",
+       "model": "thesaurus gives treasure (via Old French tresor) and treasury; dubitare gives dubious and doubt; solitudo gives solitude; virga gives verge (a rod or staff); ecclesia gives ecclesiastical; vestis gives vestment and vest; incredulus gives incredulous.",
        "why": "Linking these words to English derivations fixes their meanings in memory.",
        "src": "Most",
        "id": "lat-15-12-e6"
@@ -23673,6 +23617,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "tradere",
        "def": "hand over"
+      },
+      {
+       "term": "taedere",
+       "def": "weary, disgust (impersonal)"
       }
      ],
      "exercises": [
@@ -23748,7 +23696,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the listed Latin word.",
         "No Latin word is paired with a mere look-alike that is unrelated."
        ],
-       "model": "serpens gives serpentine; aqua gives aquatic and aquarium; credit gives credible and credit; populus gives popular and populace; vita gives vital and vitamin; aeternam gives eternal and eternity.",
+       "model": "serpens gives serpentine; aqua gives aquatic and aquarium; credit gives credible and creed; populus gives popular and populace; vita gives vital and vitamin; aeternam gives eternal and eternity.",
        "why": "These Latin roots survive in common English words, showing the staying power of the vocabulary.",
        "src": "Most",
        "id": "lat-16-1-e6"
@@ -23941,7 +23889,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the listed Latin word.",
         "No Latin word is paired with an unrelated look-alike."
        ],
-       "model": "oculus gives ocular and oculist; vallis gives valley; plenus gives plenty and plenary; sapientia gives sapient; vigor gives vigor and vigorous; facies gives facial and facade.",
+       "model": "oculus gives ocular and oculist; vallis gives valley; plenus gives plenty and plenary; sapientia gives sapient; vigor gives vigorous and invigorate; facies gives facial and facade.",
        "why": "These Latin roots survive in common English vocabulary about the body, the land, and the mind.",
        "src": "Most",
        "id": "lat-16-2-e6"
@@ -24117,7 +24065,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the listed Latin word.",
         "No Latin word is paired with an unrelated look-alike."
        ],
-       "model": "salus gives salutary and salute; fidelis gives fidelity and infidel; dux gives duke and conduct; flumen gives flume and fluent; terminus gives terminal and terminate; transire gives transit and transient.",
+       "model": "salus gives salutary and salute; fidelis gives fidelity and infidel; dux gives duke and conduct; flumen gives flume (a channeled stream); terminus gives terminal and terminate; transire gives transit and transient.",
        "why": "These Latin roots survive in everyday English words about leadership, faith, and travel.",
        "src": "Most",
        "id": "lat-16-3-e6"
@@ -24378,7 +24326,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely descends from that Latin root, not a lookalike",
         "Spelling of the English words is correct"
        ],
-       "model": "explorator gives explorer and exploration; populus gives popular, population, and populace; lapis gives lapidary and dilapidate; sacerdos gives sacerdotal; exaltare gives exalt and exaltation; humus gives humus, exhume, and inhumation.",
+       "model": "explorator gives explorer and exploration; populus gives popular, population, and populace; lapis gives lapidary and dilapidate (to let fall into ruin); sacerdos gives sacerdotal; exaltare gives exalt and exaltation; humus gives exhume and inhumation.",
        "why": "These reading words have clear, real English descendants, reinforcing vocabulary through derivation.",
        "src": "Most",
        "id": "lat-16-4-e7"
@@ -24625,6 +24573,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "incertus",
        "def": "uncertain"
+      },
+      {
+       "term": "manna",
+       "def": "manna"
       }
      ],
      "exercises": [
@@ -24693,7 +24645,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely descends from that Latin root, not a lookalike",
         "Spelling of the English words is correct"
        ],
-       "model": "murus gives mural and immure; gladius gives gladiator and gladiolus; oculus gives ocular and oculist; spiritus gives spirit, spiritual, and inspire; princeps gives principal, prince, and principle; armatus gives army, armament, and armor.",
+       "model": "murus gives mural and immure (to wall in); gladius gives gladiator and gladiolus (a sword-leaved flower); oculus gives ocular and oculist; spiritus gives spiritual and inspire; princeps gives principal, prince, and principle; armatus gives army, armament, and armor.",
        "why": "These reading words have clear, real English descendants, reinforcing vocabulary through derivation.",
        "src": "Most",
        "id": "lat-16-5-e6"
@@ -25598,7 +25550,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the Latin word given.",
         "No invented or false cognates are listed."
        ],
-       "model": "camelus gives camel; locusta gives locust; potestas has no common direct English descendant (the potens/potentia family, giving potent and potential, is a sibling, not a derivative); liberator gives liberator and liberate; conspectus gives conspicuous and conspectus; gubernator gives governor and gubernatorial.",
+       "model": "camelus gives camel; locusta gives locust; potestas has no common direct English descendant (the potens/potentia family, giving potent and potential, is a sibling, not a derivative); liberator gives liberate and liberation; conspectus gives conspicuous; gubernator gives governor and gubernatorial.",
        "why": "These are standard, real English derivations of the Latin vocabulary in this lesson.",
        "src": "Most",
        "id": "lat-16-8-e6"
@@ -25839,7 +25791,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the Latin word given.",
         "No invented or false cognates are listed."
        ],
-       "model": "consumere gives consume and consumer; destruere gives destroy and destruction; auctor gives author and authority; congregare gives congregate and congregation; salvus gives salvage and salvation; virga gives verge and virgate.",
+       "model": "consumere gives consume and consumer; destruere gives destroy and destruction; auctor gives author and authority; congregare gives congregate and congregation; salvus gives salvage and salvation; virga gives verge (a rod, hence a border) and virgate.",
        "why": "These are standard, real English derivations of the Latin vocabulary in this lesson.",
        "src": "Most",
        "id": "lat-16-9-e6"
@@ -26043,6 +25995,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "mutua caede",
        "def": "in mutual slaughter"
+      },
+      {
+       "term": "hordeum",
+       "def": "barley"
       }
      ],
      "exercises": [
@@ -26339,6 +26295,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "opus",
        "def": "work"
+      },
+      {
+       "term": "filum",
+       "def": "thread"
       }
      ],
      "exercises": [
@@ -26676,6 +26636,22 @@ window.COURSE_DATA.courses.push({
       {
        "term": "sepelire",
        "def": "bury"
+      },
+      {
+       "term": "crinis",
+       "def": "lock of hair"
+      },
+      {
+       "term": "licium",
+       "def": "thread (of a loom)"
+      },
+      {
+       "term": "plectere",
+       "def": "braid, plait"
+      },
+      {
+       "term": "vicis",
+       "def": "turn, time"
       }
      ],
      "exercises": [
@@ -26748,7 +26724,7 @@ window.COURSE_DATA.courses.push({
         "At least three of the words are matched correctly",
         "No Latin word is paired with a mere look-alike homonym"
        ],
-       "model": "columna gives 'column' and 'colonnade'; cor (cordis) gives 'cordial' and 'courage'; somnus gives 'somnolent' and 'insomnia'; vincire (vinctus) gives 'vinculum'; ultio gives the rare legal noun 'ultion' (an act of revenge); fortissimus (fortis) gives 'fortitude' and 'fortify'.",
+       "model": "columna gives 'column' and 'colonnade'; cor (cordis) gives 'cordial' and 'courage'; somnus gives 'somnolent' and 'insomnia'; vincire (vinctus) gives 'vinculum' (a connecting link); ultio gives the rare legal noun 'ultion' (an act of revenge); fortissimus (fortis) gives 'fortitude' and 'fortify'.",
        "why": "These Latin roots survive in common English derivatives.",
        "src": "Most",
        "id": "lat-16-12-e6"
@@ -27299,6 +27275,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "adiuvare",
        "def": "to help"
+      },
+      {
+       "term": "ruina",
+       "def": "downfall, ruin"
       }
      ],
      "exercises": [
@@ -27644,7 +27624,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely descends from the Latin word given",
         "No invented or look-alike cognates"
        ],
-       "model": "avaritia gives avarice and avaricious; unitas gives unity; ius (iuris) gives jurist and justice; currus gives course and current; persuadere gives persuade and persuasion; centuriones gives centurion and century.",
+       "model": "avaritia gives avarice and avaricious; unitas gives unity; ius (iuris) gives jurist and justice; currus gives curricle and curriculum (a chariot, a running course); persuadere gives persuade and persuasion; centuriones gives centurion and century.",
        "why": "Each Latin word has a living English derivative, reinforcing the vocabulary.",
        "src": "Most",
        "id": "lat-17-2-e6"
@@ -27861,6 +27841,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "de industria",
        "def": "on purpose"
+      },
+      {
+       "term": "eminere",
+       "def": "to stand out, project"
       }
      ],
      "exercises": [
@@ -27935,7 +27919,7 @@ window.COURSE_DATA.courses.push({
         "At least four of the six Latin words are matched with a correct English derivative.",
         "Each answer briefly states the shared meaning that links Latin to English."
        ],
-       "model": "populus gives 'popular' and 'populace' (relating to the people); argentum gives 'argentine' and the chemical symbol Ag for silver; clamor gives 'clamor' and 'clamorous' (loud shouting); videns (from videre) gives 'video' and 'evident' (seeing); invitare gives 'invite' and 'invitation'; dominari (from dominus) gives 'dominate' and 'domineer' (to be lord over).",
+       "model": "populus gives 'popular' and 'populace' (relating to the people); argentum gives 'argentine' and the chemical symbol Ag for silver; clamor gives 'clamorous' and 'exclaim' (loud shouting); videns (from videre) gives 'video' and 'evident' (seeing); invitare gives 'invite' and 'invitation'; dominari (from dominus) gives 'dominate' and 'domineer' (to be lord over).",
        "why": "These are authentic Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-17-3-e6"
@@ -28104,6 +28088,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "in sempiternum",
        "def": "forever"
+      },
+      {
+       "term": "secretus",
+       "def": "secret, hidden, remote"
       }
      ],
      "exercises": [
@@ -28177,7 +28165,7 @@ window.COURSE_DATA.courses.push({
         "At least four of the six Latin words are matched with a correct English derivative.",
         "Each answer briefly states the shared meaning that links Latin to English."
        ],
-       "model": "currus gives 'curricle' and is kin to 'current' through currere (running, chariot); litus gives 'littoral' (relating to the shore); spelunca gives 'spelunker' and 'spelunking' (cave-exploring); holocaustum gives 'holocaust' (whole burnt offering); hereditas gives 'hereditary' and 'heredity' (inheritance); congregare gives 'congregate' and 'congregation' (a gathering).",
+       "model": "currus gives 'curricle' and 'curriculum' (a chariot, a running course); litus gives 'littoral' (relating to the shore); spelunca gives 'spelunker' and 'spelunking' (cave-exploring); holocaustum gives 'caustic' and 'cauterize' (sharing the Greek root for burning); hereditas gives 'hereditary' and 'heredity' (inheritance); congregare gives 'congregate' and 'congregation' (a gathering).",
        "why": "These are authentic Latin-to-English derivations drawn from this lesson's vocabulary.",
        "src": "Most",
        "id": "lat-17-4-e6"
@@ -29005,7 +28993,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from its Latin source, not a look-alike",
         "Answer is written without dashes"
        ],
-       "model": "leo gives leonine; canis gives canine; bestia gives bestial; hasta gives hastate; armatus gives armature or army; lorica gives loricate.",
+       "model": "leo gives leonine; canis gives canine; bestia gives bestial; hasta gives hastate (spear-shaped); armatus gives armature or army; lorica gives loricate (sheathed in a hard protective shell).",
        "why": "Spotting true descendants reinforces the Latin vocabulary of the duel.",
        "src": "Most",
        "id": "lat-17-7-e6"
@@ -29311,7 +29299,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from its Latin source, not a look-alike",
         "Answer is written without dashes"
        ],
-       "model": "cadaver gives cadaverous; anima gives animate or animal; palatium gives palace or palatial; invadere gives invade or invasion; festinare gives festinate; tunica gives tunic.",
+       "model": "cadaver gives cadaverous; anima gives animate or animal; palatium gives palace or palatial; invadere gives invade or invasion; festinare gives festinate and festination (a hastening); tunica gives tunic.",
        "why": "Tracing real descendants reinforces the vocabulary of the victory and its aftermath.",
        "src": "Most",
        "id": "lat-17-8-e6"
@@ -29557,7 +29545,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative is a genuine English word from that Latin root (not a translation of the word)",
         "No invented or false cognates are offered"
        ],
-       "model": "statua gives statue and statuary; lancea gives lance and lancet; culpa gives culpable and culprit; gratus gives gratitude, grateful and gratis; uxor gives uxorious; fenestra gives fenestration and defenestrate.",
+       "model": "statua gives statue and statuary; lancea gives lance and lancet; culpa gives culpable and culprit; gratus gives gratitude, grateful and gratis; uxor gives uxorious (doting on one's wife); fenestra gives fenestration and defenestrate.",
        "why": "These Latin nouns and adjectives survive in common English derivatives.",
        "src": "Most",
        "id": "lat-17-9-e6"
@@ -29732,6 +29720,18 @@ window.COURSE_DATA.courses.push({
       {
        "term": "negare",
        "def": "say no, refuse, deny"
+      },
+      {
+       "term": "mors",
+       "def": "death"
+      },
+      {
+       "term": "ora",
+       "def": "edge, border, hem"
+      },
+      {
+       "term": "chlamys",
+       "def": "cloak, mantle"
       }
      ],
      "exercises": [
@@ -30286,7 +30286,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the listed Latin root",
         "Answers are written cleanly without dashes"
        ],
-       "model": "gladius gives us 'gladiator' and 'gladiolus'; murus gives us 'mural' and 'immure'; cadaver gives us 'cadaver' and 'cadaverous'; vulnerare gives us 'vulnerable'; and spoliare gives us 'spoil' and 'despoil'.",
+       "model": "gladius gives us 'gladiator' and 'gladiolus'; murus gives us 'mural' and 'immure'; cadaver gives us 'cadaverous'; vulnerare gives us 'vulnerable'; and spoliare gives us 'spoil' and 'despoil'.",
        "why": "Tracing real English descendants anchors the meanings of these battle and burial words.",
        "src": "Most",
        "id": "lat-17-12-e6"
@@ -30608,7 +30608,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from the listed Latin word",
         "No invented or homonym cognates are offered"
        ],
-       "model": "populus gives popular and populace; currus gives curricle (a light chariot, from the currus and curriculum family); cithara gives guitar and zither; vespera gives vespers and vesper; latro gives the legal sense in larceny via latrocinium; hasta gives hastate (spear-shaped).",
+       "model": "populus gives popular and populace; currus gives curricle (a light chariot) and course (via currere); cithara gives guitar and zither; vespera gives vespers and vespertine (of the evening); latro gives larceny (via latrocinium, robbery) and the legal sense in latrocination; hasta gives hastate (spear-shaped).",
        "why": "Linking the Latin vocabulary to real English descendants reinforces meaning.",
        "src": "Most",
        "id": "lat-18-1-e6"
@@ -30841,7 +30841,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from the listed Latin word",
         "No invented or homonym cognates are offered"
        ],
-       "model": "providentia gives providence and provident; ecclesia gives ecclesiastical and ecclesiastic; grex gives gregarious and aggregate (via gregis); firmare gives firm and confirm; tentorium and tendere give tent and tension; prophetia gives prophecy and prophetic.",
+       "model": "providentia gives providence and provident; ecclesia gives ecclesiastical and ecclesiology; grex gives gregarious and aggregate (via gregis, of the flock); firmare gives firm and confirm; tentorium and tendere give tent and tension; prophetia gives prophecy and prophetic.",
        "why": "Connecting the vocabulary to genuine English descendants reinforces meaning.",
        "src": "Most",
        "id": "lat-18-2-e6"
@@ -31126,7 +31126,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely traces back to the listed Latin root",
         "No invented or homonym pairings"
        ],
-       "model": "crux gives crucify and crucial; psalmus gives psalm and psalter; vermis gives vermin and vermicelli; sors gives sort and sorcery; manus gives manual and manuscript.",
+       "model": "crux gives crucify and crucial; psalmus gives psalter and psalmody; vermis gives vermin and vermicelli (little worms, a pasta); sors gives sort and sorcery (via sortiarius, a caster of lots); manus gives manual and manuscript.",
        "why": "These are genuine English derivations from the Latin roots in the reading.",
        "src": "Most",
        "id": "lat-18-3-e6"
@@ -31197,6 +31197,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "reddere vota",
        "def": "pay vows"
+      },
+      {
+       "term": "vovere",
+       "def": "vow, promise"
       },
       {
        "term": "reducere",
@@ -31376,7 +31380,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely traces back to the listed Latin root",
         "No invented or homonym pairings"
        ],
-       "model": "currus gives current and courier; legio gives legion and legionary; poena gives penal and penalty; bellator gives belligerent and bellicose; latus gives lateral and bilateral; premere gives press and pressure.",
+       "model": "currus gives current and courier (via currere, to run); legio gives legionary and legionnaire; poena gives penal and penalty; bellator gives belligerent and bellicose; latus gives lateral and bilateral; premere gives press and pressure.",
        "why": "These are genuine English derivations from the Latin roots in the reading.",
        "src": "Most",
        "id": "lat-18-4-e6"
@@ -31535,6 +31539,10 @@ window.COURSE_DATA.courses.push({
        "def": "heap"
       },
       {
+       "term": "fovea",
+       "def": "pit"
+      },
+      {
        "term": "contristatus",
        "def": "saddened"
       },
@@ -31649,7 +31657,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from the Latin word given, not from a look-alike.",
         "No invented or false cognates are offered."
        ],
-       "model": "silva yields sylvan and Pennsylvania; computare yields compute and computer; lancea yields lance and lancet; populus yields popular and populace; pronus yields prone.",
+       "model": "silva yields sylvan and Pennsylvania; computare yields compute and computer; lancea yields lance and lancet (a small surgical blade); populus yields popular and populace; pronus yields prone and pronation (turning face or palm down).",
        "why": "Cognate awareness anchors the new vocabulary to familiar English roots.",
        "src": "Most",
        "id": "lat-18-5-e6"
@@ -31848,7 +31856,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely descends from the Latin word given.",
         "No invented or false cognates are offered."
        ],
-       "model": "oleum yields oleo and petroleum; sapiens yields sapient; discernere yields discern and discernment; confirmare yields confirm and confirmation; ceremonia yields ceremony and ceremonial.",
+       "model": "oleum yields oleo and petroleum; sapiens yields sapient and savvy (via sapere, to be wise); discernere yields discern and discernment; confirmare yields confirm and confirmation; ceremonia yields ceremony and ceremonial.",
        "why": "Cognate awareness anchors the new vocabulary to familiar English roots.",
        "src": "Most",
        "id": "lat-18-6-e6"
@@ -32379,7 +32387,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly derives from its Latin source",
         "No invented or look-alike cognates"
        ],
-       "model": "iugum gives conjugal and subjugate; contra gives contrary and counter; adolescens gives adolescent and adolescence.",
+       "model": "iugum gives conjugal and subjugate; contra gives contrary and counter; adolescens gives adolescent and adult (both via adolescere, to grow up).",
        "why": "Tying Most's Latin to its English descendants reinforces the new vocabulary.",
        "src": "Most",
        "id": "lat-18-8-e7"
@@ -32498,6 +32506,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "idololatria",
        "def": "idol worship"
+      },
+      {
+       "term": "symbolum",
+       "def": "symbol"
       }
      ],
      "exercises": [
@@ -32570,7 +32582,7 @@ window.COURSE_DATA.courses.push({
         "At least three of the five words are correctly matched",
         "No Latin word is paired with a mere look-alike that does not share its root"
        ],
-       "model": "populus gives 'popular'; hereditas gives 'hereditary'; finire gives 'finish'; convertere gives 'convert'; aureus gives 'aureate'.",
+       "model": "populus gives popular and populace; hereditas gives hereditary and heredity; finire gives finish and finite; convertere gives convert and conversion; aureus gives aureate (golden) and oriole (the golden bird, via aureolus).",
        "why": "These are real English derivations from the lesson's Latin vocabulary.",
        "src": "Most",
        "id": "lat-18-9-e6"
@@ -32649,10 +32661,6 @@ window.COURSE_DATA.courses.push({
       {
        "term": "siccare",
        "def": "make dry"
-      },
-      {
-       "term": "Sarephta",
-       "def": "Phoenician city"
       },
       {
        "term": "vidua",
@@ -32824,7 +32832,7 @@ window.COURSE_DATA.courses.push({
         "At least three of the five are correctly matched",
         "No pairing relies on a coincidental look-alike instead of a real root"
        ],
-       "model": "pluvia gives 'pluvial'; corvus gives 'corvine'; colligere gives 'collect'; languor gives 'languor/languid'; viscera gives 'visceral'.",
+       "model": "pluvia gives pluvial (of rain) and pluviometer; corvus gives corvine (raven-like) and cormorant (via corvus marinus, sea-raven); colligere gives collect and collection; languor gives languid and languish; viscera gives visceral and eviscerate.",
        "why": "These are real English derivations from the lesson's Latin vocabulary.",
        "src": "Most",
        "id": "lat-18-10-e6"
@@ -33117,7 +33125,7 @@ window.COURSE_DATA.courses.push({
         "Uses no em or en dashes, only commas",
         "Avoids invented or false cognates"
        ],
-       "model": "ignis gives ignite, ignition, and igneous; mensa gives mensa (the flat-topped mountain) and the commensal table-sharing sense; vertex gives vertex and vertical; genu gives genuflect and genuflection; torrens gives torrent and torrential; pallium gives pall and palliate.",
+       "model": "ignis gives ignite, ignition, and igneous; mensa gives commensal (sharing a table) and mesa (a flat-topped hill, via Spanish); vertex gives vertical and vortex; genu gives genuflect and genuflection; torrens gives torrent and torrential; pallium gives pall and palliate (to cloak or ease).",
        "why": "These are genuine derivations from the Latin headwords glossed in this Lectio.",
        "src": "Most",
        "id": "lat-18-11-e6"
@@ -33363,7 +33371,7 @@ window.COURSE_DATA.courses.push({
         "Uses no em or en dashes, only commas",
         "Avoids invented or false cognates"
        ],
-       "model": "potens gives potent and potential; crudelitas gives cruelty and cruel; annales gives annals and annual (all from annus, year); coniuratio gives conjuration and conjure; lavare gives lavatory, lave, and lavish; firmare gives firm, affirm, and confirm.",
+       "model": "potens gives potent and potential; crudelitas gives cruelty and cruel; annales gives annual and anniversary (both from annus, year); coniuratio gives conjuration and conjure; lavare gives lavatory and lavish (an outpouring, via French); firmare gives firm, affirm, and confirm.",
        "why": "These are genuine derivations from the Latin headwords glossed in this Lectio.",
        "src": "Most",
        "id": "lat-18-12-e6"
@@ -33872,7 +33880,7 @@ window.COURSE_DATA.courses.push({
         "Each English word truly descends from the Latin root, not a mere look-alike",
         "Answers are written without dashes"
        ],
-       "model": "construere gives construct and construction; destruere gives destroy and destruction; protegere gives protect; simulacrum gives simulacrum and simulate; catena gives chain (and concatenate); pius gives pious and piety.",
+       "model": "construere gives construct and construction; destruere gives destroy and destruction; protegere gives protect; simulacrum gives simulate and simulation; catena gives chain (and concatenate); pius gives pious and piety.",
        "why": "These Latin words from the Lectio live on in everyday English, reinforcing their meaning.",
        "src": "Most",
        "id": "lat-19-2-e5"
@@ -35459,6 +35467,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "intermittere",
        "def": "interrupt"
+      },
+      {
+       "term": "momentum",
+       "def": "moment, instant"
       }
      ],
      "exercises": [
@@ -36431,7 +36443,7 @@ window.COURSE_DATA.courses.push({
         "No Latin word is paired with a mere English look-alike that does not share its root.",
         "At least three of the six Latin words receive a correct derivative."
        ],
-       "model": "populus gives popular and populace; anulus gives annular and annulus; scriba gives scribe and scribble; talentum gives talent; exaltare gives exalt and exaltation; ceremonia gives ceremony and ceremonial.",
+       "model": "populus gives popular and populace; anulus gives annular (ring-shaped); scriba gives scribe and scribble; talentum gives talent and talented; exaltare gives exalt and exaltation; ceremonia gives ceremony and ceremonial.",
        "why": "These are real English derivations from Most's vocabulary.",
        "src": "Most",
        "id": "lat-19-11-e6"
@@ -36659,6 +36671,22 @@ window.COURSE_DATA.courses.push({
       {
        "term": "compellere",
        "def": "compel, gather"
+      },
+      {
+       "term": "occasio",
+       "def": "occasion, opportunity"
+      },
+      {
+       "term": "splendidus",
+       "def": "splendid, shining"
+      },
+      {
+       "term": "sceptrum",
+       "def": "scepter"
+      },
+      {
+       "term": "paene",
+       "def": "almost"
       }
      ],
      "exercises": [
@@ -36735,7 +36763,7 @@ window.COURSE_DATA.courses.push({
         "No Latin word is paired with a mere English look-alike that does not share its root.",
         "At least three of the seven Latin words receive a correct derivative."
        ],
-       "model": "pectus gives pectoral; salvator gives salvation and savior; clementia gives clement and clemency; furor gives furor and furious; collum gives collar; regalis gives regal and regalia; aspectus gives aspect.",
+       "model": "pectus gives pectoral; salvator gives salvation and savior; clementia gives clement and clemency; furor gives fury and furious; collum gives collar; regalis gives regal and regalia; aspectus gives aspect.",
        "why": "These are real English derivations from Most's vocabulary.",
        "src": "Most",
        "id": "lat-19-12-e6"
@@ -37159,6 +37187,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "promptus",
        "def": "ready"
+      },
+      {
+       "term": "adstare",
+       "def": "stand by, be present"
       }
      ],
      "exercises": [
@@ -37378,6 +37410,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "una",
        "def": "together with"
+      },
+      {
+       "term": "membrum",
+       "def": "limb, member"
       }
      ],
      "exercises": [
@@ -37447,7 +37483,7 @@ window.COURSE_DATA.courses.push({
         "Each English word actually descends from the Latin word given, not merely a look-alike.",
         "States a short, correct meaning for each English word chosen."
        ],
-       "model": "spirare gives respire, to breathe; fiducia gives fiduciary, held in trust; cruciatus gives excruciating, intensely painful; capillus gives capillary, a tiny hairlike vessel; illudere gives illusion, a deceptive appearance; inutilis gives utility through utilis, usefulness; scelestus relates to scelus giving no common modern derivative, so use another from the list.",
+       "model": "spirare gives respire, to breathe; fiducia gives fiduciary, held in trust; cruciatus gives excruciating, intensely painful; capillus gives capillary, a tiny hairlike vessel; illudere gives illusion, a deceptive appearance; inutilis shares its util- root with utility, usefulness.",
        "why": "Each English word descends through Latin from Most's vocabulary in this lesson.",
        "src": "Most",
        "id": "lat-20-3-e6"
@@ -37682,6 +37718,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "propitius",
        "def": "merciful"
+      },
+      {
+       "term": "purus",
+       "def": "pure, clean"
       }
      ],
      "exercises": [
@@ -38695,6 +38735,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "optare",
        "def": "wish"
+      },
+      {
+       "term": "fuga",
+       "def": "flight, rout"
+      },
+      {
+       "term": "hymnus",
+       "def": "hymn"
       }
      ],
      "exercises": [
@@ -38769,7 +38817,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely derives from the Latin word given (no invented links).",
         "No dashes used anywhere in the answer."
        ],
-       "model": "corona gives coronation and coronary; salvator gives salvation and salvage; ornare gives ornament and ornate; impetus gives impetuous and impetus; spolium gives spoliation; tuba gives tuba; gens gives gentile and genteel.",
+       "model": "corona gives coronation and coronary; salvator gives salvation and salvage; ornare gives ornament and ornate; impetus gives impetuous; spolium gives spoliation, the act of plundering; gens gives gentile and genteel.",
        "why": "These are real English derivations from this lesson's Latin vocabulary.",
        "src": "Most",
        "id": "lat-20-8-e6"
@@ -38940,6 +38988,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "etiamsi",
        "def": "even if"
+      },
+      {
+       "term": "sidus",
+       "def": "star, heavenly body"
       }
      ],
      "exercises": [
@@ -39307,6 +39359,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "provincia",
        "def": "province"
+      },
+      {
+       "term": "favere",
+       "def": "to favor, support (with dative)"
       }
      ],
      "exercises": [
@@ -40235,6 +40291,30 @@ window.COURSE_DATA.courses.push({
       {
        "term": "exorare",
        "def": "beg, appease"
+      },
+      {
+       "term": "mirificus",
+       "def": "wonderful"
+      },
+      {
+       "term": "erga",
+       "def": "towards (w. obj.)"
+      },
+      {
+       "term": "remunerator",
+       "def": "rewarder"
+      },
+      {
+       "term": "gustus",
+       "def": "taste"
+      },
+      {
+       "term": "agnitio",
+       "def": "knowledge, recognition"
+      },
+      {
+       "term": "copulare",
+       "def": "join, unite"
       }
      ],
      "exercises": [
@@ -40630,6 +40710,42 @@ window.COURSE_DATA.courses.push({
       {
        "term": "concors",
        "def": "harmonious"
+      },
+      {
+       "term": "votivus",
+       "def": "prayerful, votive"
+      },
+      {
+       "term": "castigare",
+       "def": "chasten"
+      },
+      {
+       "term": "mitigare",
+       "def": "lessen, soften"
+      },
+      {
+       "term": "aptare",
+       "def": "make fit for (w. dat.)"
+      },
+      {
+       "term": "florescere",
+       "def": "flower, blossom"
+      },
+      {
+       "term": "collegium",
+       "def": "order, company"
+      },
+      {
+       "term": "abdicare",
+       "def": "resign, give up"
+      },
+      {
+       "term": "baptisma",
+       "def": "baptism"
+      },
+      {
+       "term": "tueri",
+       "def": "guard, protect"
       }
      ],
      "exercises": [
@@ -41050,6 +41166,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "Dominicus",
        "def": "of the Lord, Lord's"
+      },
+      {
+       "term": "hora",
+       "def": "hour"
+      },
+      {
+       "term": "aliter",
+       "def": "otherwise, in another way"
       }
      ],
      "exercises": [
@@ -41628,7 +41752,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly traces back to the listed Latin root",
         "No invented or coincidental look-alikes are offered"
        ],
-       "model": "evangelium gives 'evangelical' and 'evangelist'; fiducia gives 'fiduciary'; implorare gives 'implore' and 'imploration'; magis (the comparative magis/maior family) gives 'major' and 'majority'; debitor gives 'debtor' and 'debit'.",
+       "model": "evangelium gives 'evangelical' and 'evangelist'; fiducia gives 'fiduciary'; implorare gives 'implore'; debitor gives 'debtor' and 'debit'.",
        "why": "Each Latin word has a recognized English descendant, reinforcing vocabulary.",
        "src": "Most",
        "id": "lat-21-8-e6"
@@ -41878,7 +42002,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative must truly descend from the listed Latin word, not merely resemble it",
         "Keep each answer to a single English word"
        ],
-       "model": "doctor gives doctor and doctrine, unitas gives unit and unity, populus gives popular and populace, oratio gives oration and oratory, concordia gives concord and concordance, simplex gives simple and simplicity.",
+       "model": "doctor gives doctrine and doctoral, unitas gives unit and unity, populus gives popular and populace, oratio gives oration and oratory, concordia gives concord and concordance, simplex gives simple and simplicity.",
        "why": "These Latin words left clear English descendants, reinforcing the vocabulary.",
        "src": "Most",
        "id": "lat-21-9-e6"
@@ -42286,6 +42410,18 @@ window.COURSE_DATA.courses.push({
       {
        "term": "appellare",
        "def": "call, name"
+      },
+      {
+       "term": "ebriosus",
+       "def": "drunken"
+      },
+      {
+       "term": "maledicus",
+       "def": "slanderous, reviling"
+      },
+      {
+       "term": "stridor dentium",
+       "def": "gnashing of teeth"
       }
      ],
      "exercises": [
@@ -43163,6 +43299,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "saevire",
        "def": "rage"
+      },
+      {
+       "term": "fuga",
+       "def": "flight"
       }
      ],
      "exercises": [
@@ -43238,7 +43378,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative genuinely descends from that Latin root, not a coincidental look-alike",
         "Answer is dash-free and pairs each English word with its Latin source"
        ],
-       "model": "radix -> radical (radish); cupiditas -> cupidity; lacus -> lagoon (lake); fera -> feral (ferocious); pauper -> poverty (pauper); victus -> victuals; liber -> liberty (liberate).",
+       "model": "radix -> radical (radish); cupiditas -> cupidity; lacus -> lagoon (lake); fera -> feral (ferocious); pauper -> poverty (impoverish); victus -> victuals; liber -> liberty (liberate).",
        "why": "These reading words have genuine English descendants.",
        "src": "Most",
        "id": "lat-22-2-e6"
@@ -43814,7 +43954,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the given Latin root",
         "Answer contains no em dashes or en dashes"
        ],
-       "model": "tentatio gives temptation; vigilare gives vigil and vigilant; concludere gives conclude and conclusion; securus gives secure and security; tutor gives tutor and tutelage.",
+       "model": "tentatio gives temptation; vigilare gives vigil and vigilant; concludere gives conclude and conclusion; securus gives secure and security; tutor gives tutelage and tutorial.",
        "why": "These Latin words survive in everyday English derivatives, which helps fix their meaning.",
        "src": "Most",
        "id": "lat-22-4-e6"
@@ -44016,7 +44156,7 @@ window.COURSE_DATA.courses.push({
         "Each derivative truly descends from the Latin root, not a chance look-alike",
         "Explanations are short and dash-free"
        ],
-       "model": "magisterium gives magisterial and magistrate (relating to a master or teacher). compendium gives compendium and compendious (a concise summary). maiestas gives majesty and majestic (greatness, grandeur). demonstrare gives demonstrate and demonstration (to show or prove). indoctus relates to doctrine and doctor through doctus, learned (here un-learned).",
+       "model": "magisterium gives magisterial and magistrate (relating to a master or teacher). compendium gives compendious (a concise summary). maiestas gives majesty and majestic (greatness, grandeur). demonstrare gives demonstrate and demonstration (to show or prove). indoctus relates to doctrine and doctor through doctus, learned (here un-learned).",
        "why": "These Latin words have clear, genuine English descendants, reinforcing the vocabulary.",
        "src": "Most",
        "id": "lat-22-5-e6"
@@ -44165,6 +44305,10 @@ window.COURSE_DATA.courses.push({
       {
        "term": "caute",
        "def": "providently"
+      },
+      {
+       "term": "neglegentia",
+       "def": "carelessness, negligence"
       }
      ],
      "exercises": [
@@ -44411,7 +44555,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely derives from its Latin source",
         "No invented or homonym pairings"
        ],
-       "model": "arbor gives arboreal and arborist; sterilis gives sterile and sterilize; auditor gives auditor and audition; centurio gives century and centurion; benignus gives benign and benignity; operatio gives operation and operative.",
+       "model": "arbor gives arboreal and arborist; sterilis gives sterile and sterilize; auditor gives audition and auditory; centurio gives century and centurion; benignus gives benign and benignity; operatio gives operation and operative.",
        "why": "These Latin nouns and adjectives left clear English descendants.",
        "src": "Most",
        "id": "lat-22-7-e4"
@@ -44524,6 +44668,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "Deum foenerat",
        "def": "he lends at interest to God"
+      },
+      {
+       "term": "egenus",
+       "def": "needy, poor"
+      },
+      {
+       "term": "lumen",
+       "def": "light"
       }
      ],
      "exercises": [
@@ -44655,6 +44807,14 @@ window.COURSE_DATA.courses.push({
       {
        "term": "vivificare",
        "def": "make alive"
+      },
+      {
+       "term": "hora",
+       "def": "hour"
+      },
+      {
+       "term": "iam pridem",
+       "def": "long ago, now for a long time"
       }
      ],
      "exercises": [
@@ -44703,7 +44863,7 @@ window.COURSE_DATA.courses.push({
         "Each English word genuinely derives from its Latin source",
         "No invented or homonym pairings"
        ],
-       "model": "victor gives victor and victory; Trinitas gives trinity and trinitarian; consummare gives consummate; declarat gives declare and declaration; vivificare gives vivify; celebrare gives celebrate and celebration.",
+       "model": "victor gives victory and victorious; Trinitas gives trinity and trinitarian; consummare gives consummate; declarat gives declare and declaration; vivificare gives vivify; celebrare gives celebrate and celebration.",
        "why": "These Latin verbs and nouns yield familiar English words.",
        "src": "Most",
        "id": "lat-22-9-e4"
@@ -44904,13 +45064,13 @@ window.COURSE_DATA.courses.push({
       },
       {
        "type": "compose",
-       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: matutinus, contemplari, nocturnus, vidua, imitari, admirabilis, curatio.",
+       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: matutinus, contemplari, nocturnus, imitari, admirabilis, curatio.",
        "rubric": [
         "Give a real English word for at least three of the listed Latin words",
         "Each English word genuinely derives from its Latin source",
         "No invented or homonym pairings"
        ],
-       "model": "matutinus gives matins and matutinal; contemplari gives contemplate and contemplation; nocturnus gives nocturnal and nocturne; vidua gives widow; imitari gives imitate and imitation; admirabilis gives admirable and admire; curatio gives cure and curative.",
+       "model": "matutinus gives matins and matutinal; contemplari gives contemplate and contemplation; nocturnus gives nocturnal and nocturne; imitari gives imitate and imitation; admirabilis gives admirable and admire; curatio gives cure and curative.",
        "why": "These Latin words are the roots of common English derivatives.",
        "src": "Most",
        "id": "lat-22-10-e5"
