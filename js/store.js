@@ -8,7 +8,7 @@
     version: SCHEMA_VERSION,
     // hearts default OFF: gentle "mastery" mode for serious learners (mistakes become practice,
     // never a lockout). Turning hearts ON makes lessons a stakes-bearing "Challenge mode".
-    settings: { hearts: false, dailyGoal: 30, sound: true, audioEngine: "system", pronunciation: "ecclesiastical", voiceURI: null },
+    settings: { hearts: false, oratio: false, dailyGoal: 30, sound: true, audioEngine: "system", pronunciation: "ecclesiastical", voiceURI: null },
     stats: { xp: 0, streak: 0, lastActive: null, freezes: 0, dailyXp: {}, achievements: [], totalCorrect: 0, totalAnswered: 0, lessonsDone: 0 },
     lessons: {},   // lessonId -> { seen, c, t, done, best }
     srs: {}        // itemId -> { box, due(dayIdx), reps, lapses, last }

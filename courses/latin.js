@@ -20,6 +20,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Read this familiar nursery story in Latin and watch how every verb ends in -it.",
      "original": "Maria habuit parvum agnum. Agnus fuit albus. Maria venit in scholam. Agnus venit in scholam. Agnus venit cum Maria. Marcus vidit agnum in schola. Agnus dixit: baa, baa.",
      "explanation": "This is a Natural-Method reading. Do not look up every word; read the Latin and let the meaning come. Notice that each verb ends in **-it** (the singular perfect-tense ending): *habuit* had, *fuit* was, *venit* came, *vidit* saw, *dixit* said. Notice too that the lamb appears as *agnus* (the doer, nominative) and as *agnum* (the thing seen, objective) with an **-m** on the object. The main grammar note comes with the next story.",
+     "divisio": {
+      "overview": "The nursery rhyme unfolds as a short chain of statements that introduce the lamb, then follow it from home to school and end on its voice.",
+      "parts": [
+       {
+        "label": "The lamb introduced",
+        "detail": "Mary owns the lamb and we learn it is white."
+       },
+       {
+        "label": "Off to school",
+        "detail": "Both Mary and the lamb come into the school, the lamb alongside her."
+       },
+       {
+        "label": "Seen and heard",
+        "detail": "Marcus sees the lamb at school and the lamb bleats baa."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "habuit",
@@ -127,6 +144,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Read the story, then study the grammar note on subject (nominative) and object (objective) in the singular.",
      "original": "Columbus fuit nauta. Sed Columbus non habuit navem. Columbus venit ad Reginam Isabellam. Columbus dixit: Mundus est rotundus. Mundus non est planus. Regina dedit pecuniam. Columbus non invenit Indiam. Columbus invenit Americam. America non fuit parva.",
      "explanation": "**Now let's think.** Take the English sentence *Marcus saw the lamb* (Marcus vidit agnum). It has three important words. *Marcus* is the subject; it is in the **nominative** case. The verb is *saw*. The object is *lamb*; it is in the **objective** case. Notice that the Latin verbs all end in **-it**. In English the word *lamb* comes after the verb, so we know it is the object. In Latin we do not depend on the order of words to show the object; we depend on the **ending**. Many words above end in **-m**: that is the ending for the object. Some have -am, some -um, some -em. The nominative case has various endings, but we need not worry about them today. After words like *ad*, *cum*, and *in* there are still other endings; do not bother about them today, since we can understand the story without them. Also, *Marcus* is just one person, so the subject is **nominative singular**; there is only one lamb, so *agnum* is **objective singular**. There is no Latin word for *the*, and none for *a* or *an*: just supply these in English when you need them.",
+     "divisio": {
+      "overview": "The narrative moves from Columbus's situation, to his appeal and argument, to the queen's gift, and finally to the outcome of his voyage.",
+      "parts": [
+       {
+        "label": "The sailor without a ship",
+        "detail": "Columbus is a sailor but lacks a ship."
+       },
+       {
+        "label": "The appeal to Isabella",
+        "detail": "He goes to the queen and argues the world is round, not flat."
+       },
+       {
+        "label": "The gift",
+        "detail": "The queen hands over money."
+       },
+       {
+        "label": "The discovery",
+        "detail": "He misses India but finds America, which is not small."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "dedit",
@@ -255,6 +293,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Read these contrasting sentences and notice how the same words shift between nominative and objective forms.",
      "original": "Columbus non fuit puella. Maria fuit puella. Columbus non fuit planus. Fuit Columbus rotundus? Columbus non habuit pecuniam. Isabella habuit pecuniam. Isabella non habuit parvum agnum. Isabella habuit pecuniam. Columbus non habuit parvum agnum. Maria habuit parvum agnum. Maria non dedit pecuniam. Isabella dedit pecuniam. Sed Maria non dedit parvum agnum. Isabella non venit in scholam. Columbus non venit in scholam. Columbus venit in Americam. Columbus non venit in Americam cum agno. Columbus non venit in Americam cum Isabella. Isabella non venit in Americam cum Columbo. Isabella non venit in navem. Agnus albus non venit in navem. Maria non venit in navem. Agnus albus non fuit in India. Columbus non fuit in India. India non est agnus. India non est navis. Columbus fuit albus. Sed India non fuit alba. Mundus fuit rotundus. Sed India non fuit alba. Mundus fuit rotundus. Sed India non fuit rotunda.",
      "explanation": "No new grammar here: this is Natural-Method reading practice. Enjoy the gentle, repetitive jokes and keep watching the **-it** verbs and the **-m** object endings you met above. You may notice that after *cum* and *in* some words look different (*cum agno*, *cum Columbo*, *in Americam*); as Most says, do not bother about those endings yet. Just read for the sense.",
+     "divisio": {
+      "overview": "The drill marches through clusters of contrasting yes-and-no sentences, each cluster turning on one trait and using one character to deny it and another to affirm it.",
+      "parts": [
+       {
+        "label": "Who is what",
+        "detail": "Identity and shape are sorted out: Maria is a girl, Columbus is not, and he is not flat."
+       },
+       {
+        "label": "Who has what",
+        "detail": "Money and the lamb are assigned: Isabella has money, Maria has the lamb, Columbus has neither."
+       },
+       {
+        "label": "Who goes where, with whom",
+        "detail": "Travel is denied or allowed: Columbus reaches America, but not with the lamb, Isabella, or aboard ship."
+       },
+       {
+        "label": "What India is not",
+        "detail": "Closing jokes deny that India is a lamb, a ship, white, or round."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "fuit",
@@ -333,6 +392,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the plural verb dixerunt (they said): when the subject is more than one, the -it ending becomes -erunt.",
      "original": "Hic (this) parvus porcus venit in forum. Hic parvus porcus remansit domi. Hic parvus porcus habuit carnes bovinas assas. Hic parvus porcus non habuit. Hic parvus porcus exclamavit: Oui! Oui! Oui! Porci dixerunt: Oink! Oink!",
      "explanation": "**VERBS:** Last time we saw verbs ending in **-it**. They were singular, because the subject was singular. But when the subject is plural, the verb must be plural too. To make the verb plural, we change the ending **-it** to **-erunt**. So *porci dixerunt* means **the pigs said**. We do not care whether the object is plural; that does not affect the verb. To sum up, we now have two verb endings: **-it** for singular, **-erunt** for plural. **ADJECTIVES:** Words like *parvus* (small) and *magnus* (large) are adjectives. For now, just be satisfied to get their meaning, which is easy.",
+     "divisio": {
+      "overview": "The rhyme runs through the five piggies one by one with singular verbs, then closes with all of them together taking a plural verb.",
+      "parts": [
+       {
+        "label": "Each piggy in turn",
+        "detail": "Four piggies are taken one at a time: to market, staying home, having roast beef, and having none."
+       },
+       {
+        "label": "The fifth piggy's cry",
+        "detail": "The last little pig shouts Oui, oui, oui on its own."
+       },
+       {
+        "label": "All together",
+        "detail": "The pigs as a group say Oink, the plural subject porci taking the plural verb dixerunt."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "hic",
@@ -427,6 +503,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the new plural verbs (amaverunt, dixerunt, fundaverunt, fuerunt) and the 'dixerunt quod' pattern for reporting what someone said.",
      "original": "Roma fuit urbs magna. Romani amaverunt Romam. Roma fuit antiqua. Romani dixerunt quod Romulus et Remus fundaverunt Romam. Sed non dixerunt veritatem.\n\nIn anno millesimo (1000 BC) ante Christum, viri iam fuerunt in terra Romana. Etrusci (Etruscans) fundaverunt Romam. Etrusci amaverunt Romanos. Romani amaverunt terras Romanas. Sed non habuerunt urbes magnas.",
      "explanation": "**NOUNS, the plural object:** Last time the object (objective case) was singular. Now it can be plural too. Look at one noun of each family with its singular and plural objective endings: *terram / terras*, *porcum / porcos*, *urbem / urbes*. So the six objective endings now are **-am / -as**, **-um / -os**, **-em / -es**. Notice that some words are much longer in the objective case than in the nominative, for example *veritas / veritatem* and *urbs / urbem*. **QUOD:** Notice how *quod* is used here. We use it only in combinations like *he says that* or *he thinks that*. We call this the **dixit quod pattern**, or the indirect statement: we tell, without quotation marks and in an inexact way, what someone says or thinks.",
+     "divisio": {
+      "overview": "The passage sets up the Romans' beloved but false belief about the founding, then a paragraph break introduces the truth and its consequences.",
+      "parts": [
+       {
+        "label": "Rome and its legend",
+        "detail": "Rome is a great old city the Romans love, and they claim Romulus and Remus founded it."
+       },
+       {
+        "label": "The verdict on the legend",
+        "detail": "A blunt closing line states they did not tell the truth."
+       },
+       {
+        "label": "The Etruscan fact",
+        "detail": "After 1000 BC men were already there, and the Etruscans founded Rome."
+       },
+       {
+        "label": "Mutual affection, modest cities",
+        "detail": "Etruscans loved the Romans and Romans their lands, yet they had no great cities."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "urbs",
@@ -549,6 +646,27 @@ window.COURSE_DATA.courses.push({
      "lead": "No new grammar here: this is Natural-Method reading practice. Watch the 'dixit quod' reports and the plural objects (agnos, porcos).",
      "original": "Maria et Marcus viderunt agnum. Agnus fuit in schola. Marcus et Maria dixerunt quod agnus fuit in schola. Viderunt agnum in schola. Non viderunt Columbum in schola. Non dixerunt quod Columbus fuit in terra Romana. Sed agnus exclamavit in schola. Agnus dixit: baa. Columbus dixit quod agnus dixit: baa. Porci non fuerunt in schola. Porci fuerunt in terra Romana. Porci dixerunt: oink. Porci dixerunt: oui! Porci non fuerunt albi. Porci fuerunt rotundi. Hic porcus fuit in urbe. Agnus non dixit: oink. Columbus non dixit quod agnus dixit: oink. Columbus dixit quod agnus dixit: baa. Columbus veritatem dixit. Marcus dixit quod agnus dixit: oink. Marcus veritatem non dixit. Columbus non habuit porcos. Agni venerunt in navem. Columbus amavit agnos. Columbus non amavit porcos. Columbus invenit agnos in America. Regina non fuit parva. Regina dedit pecuniam. Marcus amavit puellam.",
      "explanation": "No new grammar in this story: it is reading practice that recycles everything so far. Two things to notice. First, the **dixit quod** pattern keeps reporting what someone said: *Columbus dixit quod agnus dixit baa* (Columbus said that the lamb said baa). Second, the **plural object** endings are now in action: *Columbus amavit agnos* (he loved the lambs, -os) and *non amavit porcos* (he did not love the pigs, -os). Compare the singular *agnum* and *porcum* from before.",
+     "divisio": {
+      "overview": "The practice piece cycles through its cast in blocks, first the lamb at school, then the pigs, then a truth-telling contest, and finally Columbus and the queen.",
+      "parts": [
+       {
+        "label": "The lamb at school",
+        "detail": "Maria and Marcus see and report the lamb in school, which bleats baa."
+       },
+       {
+        "label": "The pigs elsewhere",
+        "detail": "The pigs are in Roman land, round not white, grunting oink and oui."
+       },
+       {
+        "label": "Who told the truth",
+        "detail": "Columbus rightly reports baa and tells the truth, Marcus wrongly reports oink and does not."
+       },
+       {
+        "label": "Columbus, lambs, and the queen",
+        "detail": "Columbus loves lambs not pigs and finds lambs in America, while the queen gives money and Marcus loves the girl."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "amavit",
@@ -623,6 +741,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the endings on words after prepositions, especially the ablative -a, -o, -e after in, and notice how Most contrasts the good early kings with the bad last king Tarquin.",
      "original": "In primis annis Romani habuerunt reges. Reges fuerunt Etrusci. Etrusci erant in throno Romano. Etrusci regnaverunt in terra Romana. Primi reges fuerunt boni. Sed rex ultimus fuit malus. Hic rex ultimus fuit Tarquinius. Romani non amaverunt Tarquinium. Tarquinius fuit rex malus. Non fuit rex bonus. Non fuit rex magnus. Rex malus non est rex magnus. Rex malus est rex parvus. Tarquinius non fuit magnus. Fuit malus. Ergo Romani non amaverunt Tarquinium regem. Ante Tarquinium reges fuerunt boni. Sed Tarquinius non fuit bonus. Ergo Tarquinius non remansit in terra Romana. Tarquinius non amavit veritatem. Romani dixerunt quod Tarquinius fuit malus. Ergo non remansit in urbe. Sed Romani remanserunt in urbe.",
      "explanation": "**The ablative case.** There isn't much brand-new here, so let's catch up on some old business. Look at the phrases **in terra Romana**, **in throno Romano**, **in urbe**. They all have the preposition **in**, and notice the endings on the words after it: **-a**, **-o**, **-e**. These are in a special case, the **ablative**. So we see three families (declensions) of nouns again, just as we did in the nominative and objective. The singular ablative endings are **-a**, **-o**, **-e**. Now turn back to the earlier lessons for other prepositions. **cum** ALWAYS takes the ablative (cum Maria). **ad** ALWAYS takes the objective (ad scholam). But **in** can go either way. Compare **Maria venit in scholam** (Mary is moving into school) with **Maria fuit in schola** (Mary is just sitting in school, no motion). So **in** plus the objective means **into** (motion), while **in** plus the ablative means **in** or **on** (no motion).",
+     "divisio": {
+      "overview": "The history moves from the good early Etruscan kings to the bad last king, develops a maxim about him, and ends with his expulsion.",
+      "parts": [
+       {
+        "label": "Kings and good beginnings",
+        "detail": "Early Rome had Etruscan kings on the throne, and the first ones were good."
+       },
+       {
+        "label": "The bad last king",
+        "detail": "The final king Tarquin was bad, and the Romans did not love him."
+       },
+       {
+        "label": "Bad is not great",
+        "detail": "A repeated maxim insists a bad king is a small king, not a great one, so Tarquin was small."
+       },
+       {
+        "label": "Driven out",
+        "detail": "Because he loved no truth and the Romans called him bad, he did not stay, while the Romans remained."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "malus",
@@ -742,6 +881,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Nothing new today: we review the old. Watch the perfect tense (verbs ending in -it and -erunt) and the three cases (nominative, objective, ablative) at work in this famous story.",
      "original": "Postquam Romani expulerunt Tarquinium bellum habuerunt. Tarquinius enim Etruscus fuit. Ergo Etrusci venerunt ad bellum cum Romanis. Etrusci dixerunt quod Romani mali fuerunt: expulerunt Tarquinium. Romani dixerunt quod Tarquinius malus fuit: ergo expulerunt Tarquinium. Bellum non parvum fuit. Bellum fuit magnum. Multi viri magni fuerunt in bello. Viri Romani amaverunt Romam. Exclamaverunt quod Tarquinius malus tyrannus fuit. Viri Romani dixerunt veritatem. Tarquinius fuit tyrannus malus.\n\nEtiam rex Etruscus venit cum Tarquinio ad bellum. Rex Etruscus fuit Lars Porsenna. Romani viderunt exercitum Etruscum. Exercitus Etruscus magnus fuit. Romani viderunt quod exercitus Etruscus magnus fuit. Sed exercitus Romanus etiam magnus fuit. Viri Romani magni fuerunt. Sed viri Etrusci etiam magni fuerunt. Non parvi fuerunt. Ergo viri Romani et viri Etrusci paraverunt ad pugnam. Viri Etrusci dixerunt: Romani mali sunt: expulerunt Tarquinium. Sed Romani dixerunt quod Tarquinius malus fuit. Romani non agni fuerunt-viri fuerunt. Romani fuerunt ad urbem. Steterunt ad pontem. Etiam Etrusci steterunt ad pontem Romanum. Romani iecerunt ignem in pontem. Vir Romanus magnus stetit in ponte. Hic vir fuit Horatius. Amavit Romam. Sed Etrusci venerunt in pontem. Ignis venit in pontem. Pons cecidit in aquam. Horatius etiam cecidit in aquam.",
      "explanation": "**Nihil novi hodie: veteribus studeamus** (Nothing new today, let's study the old things). **VERBS:** We review every verb form learned so far, and there are only two. Verbs that end in **-it** and **-erunt**. They are third person singular and third person plural. Both belong to the tense we call the **perfect**, which refers to something past (so *stetit* = he stood, *steterunt* = they stood). **NOUNS:** We have used three cases. The **nominative** is the case for the subject. The **objective** is the case for the direct object of a verb, and also for the object of some prepositions: *ad*, *ante*, and *in* (when *in* means *into*, that is, motion). The **ablative** has been used only after some prepositions: *cum* and *in* (when *in* means *in* or *on*, no motion). We know the objective endings in three declensions (1. -am -as, 2. -um -os, 3. -em -es) and the ablative singular endings (1. -a, 2. -o, 3. -e). **CONSTRUCTIONS:** *quod* introduces indirect statements after verbs of saying, *quando* means *when*, and *postquam* means *after* (it never means *afterwards*). **ENIM:** Notice the odd word **enim**. It means *for*. But it can never be the first word in its own clause. You may say *Romani enim fuerunt magni*, but never *Enim Romani fuerunt magni*.",
+     "divisio": {
+      "overview": "The famous story builds from the cause of war and the dueling accusations, to the muster of the two armies, to the stand at the bridge and its collapse.",
+      "parts": [
+       {
+        "label": "War breaks out",
+        "detail": "After Tarquin's expulsion the Etruscans come to war, each side blaming the other over Tarquin."
+       },
+       {
+        "label": "The great war and its tyrant",
+        "detail": "The war is large, and the Romans rightly proclaim Tarquin a wicked tyrant."
+       },
+       {
+        "label": "The two armies muster",
+        "detail": "King Lars Porsenna comes with Tarquin, and both great armies prepare for battle at the bridge."
+       },
+       {
+        "label": "Horatius holds the bridge",
+        "detail": "Romans throw fire on the bridge, Horatius stands on it, and bridge and hero fall into the water."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "postquam",
@@ -888,6 +1048,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new ablative plural endings (-is and -ibus) on words like civibus, patriciis, and tribunis, and notice how plebs takes sometimes a singular, sometimes a plural verb.",
      "original": "Romani expulerunt Etruscos. Nunc Etrusci non sunt reges in terra Romana. Romani non sunt reges in terra Romana, sed Romani fecerunt consules duos (two). Consules fuerunt viri boni. Reges Etrusci fuerunt mali. Sed consules non sunt mali, viri magni sunt. Consules habuerunt magnam potestatem. In urbe Romana cives pugnaverunt cum civibus. Romani patricii fuerunt divites: magnam pecuniam habuerunt. Patricii etiam magnam potestatem habuerunt. Sed plebs Romana fuerunt pauperes. Plebs non habuerunt pecuniam. Plebs non habuerunt potestatem in urbe. Plebs voluerunt potestatem. Plebs voluerunt pecuniam. Patricii non dederunt pecuniam. Patricii non dederunt potestatem in urbe. Ergo plebs pugnaverunt cum patriciis. Plebs non remanserunt in urbe. Plebs venerunt in Sacrum Montem. Patricii exclamaverunt: Venite in urbem! Sed plebs remansit in Monte Sacro. Magni patricii venerunt ad plebem. Dixerunt: VENITE! venite in urbem Romanam! Sed plebs remansit in Monte Sacro. Ergo patricii creaverunt officium novum. Creaverunt tribunos plebis (of the plebs). Fuerunt duo (two) tribuni plebis. Ergo plebs non remansit in Monte Sacro. Plebs venit in urbem. Plebs venit cum tribunis. Tribuni magnam potestatem habuerunt. Consules habuerunt magnam potestatem. Sed tribuni etiam habuerunt magnam potestatem.",
      "explanation": "**Nouns in the vocabulary now show two forms.** Up to now we have learned only the nominative singular in our vocabularies. Now that we have the ablative, we shall learn both the nominative AND the ablative singular of each noun. The ablative singular does two things for us: 1. it shows which declension the noun belongs to (so we know which set of endings to use), and 2. it shows the **base** on which we build the endings (ablative singular minus its ending). **Ablative plural endings.** The three families form their ablative plural like this: First declension singular -a, plural **-is** (e.g., nautis). Second declension singular -o, plural **-is** (e.g., agnis). Third declension singular -i or -e, plural **-ibus** (e.g., civibus). Notice that some third declension nouns have -i in the singular while some have -e; it makes little difference to us for now. **Expletive 'there'.** Look at the sentence Non sunt reges in terra Romana. We can translate it as 'Kings are not in the Roman land' or as 'There are not kings in the Roman land.' The word **there** in the second version is an expletive, a filler we add in English before the verb 'to be.' Latin does very well without it, so we simply fill it in in English whenever we need it. **Plebs is a collective noun.** Its form is singular, but its sense is plural, so we can use either a singular or a plural verb with it. In this story you will see both plebs remansit (singular) and plebs voluerunt (plural).",
+     "divisio": {
+      "overview": "The account moves from the founding of the consulship, to the split between rich patricians and poor plebs, to the secession to the Sacred Mount, and to its resolution by the tribunes.",
+      "parts": [
+       {
+        "label": "Kings replaced by consuls",
+        "detail": "The Etruscans expelled, the Romans make two good consuls with great power."
+       },
+       {
+        "label": "Rich against poor",
+        "detail": "Citizens fight as wealthy patricians hold money and power while the poor plebs have neither."
+       },
+       {
+        "label": "The secession",
+        "detail": "The plebs want money and power, are refused, and walk out to the Sacred Mount despite appeals to return."
+       },
+       {
+        "label": "The tribunes created",
+        "detail": "The patricians make the new office of two tribunes, so the plebs come back into the city with great power of their own."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "fecit",
@@ -1021,6 +1202,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the nominative subject endings (-a, -us/-r, -es and their plurals) as you read, and notice ex / e meaning 'from, out from'.",
      "original": "Romani habuerunt bellum cum Aequis. Consul Romanus venit cum exercitu Romano ad pugnam. Exercitus Romanus pugnavit cum Aequis. Aequi pugnaverunt cum Romanis. Aequi viri fortes fuerunt. Sed Romani etiam viri fortes fuerunt. Ergo viri fortes pugnaverunt cum viris fortibus. Sed exercitus Romanus venit in magnum periculum. Viri Romani exclamaverunt: in magno periculo sumus (we are)! Sed viri Romani fortes fuerunt. Et in urbe Romana fuit senatus Romanus. Viri boni fuerunt in senatu Romano. Ergo senatus Romanus fecit consilium: Dictatorem creaverunt. Cincinnatus fuit vir bonus, vir fortis. In veritate, Cincinnatus fuit Romanus bonus. Legati ex senatu venerunt ad Cincinnatum. Cincinnatus fuit in agris. Legati ex senatu dixerunt quod exercitus Romanus in periculo magno fuit. Dixerunt quod senatus creavit Cincinnatum dictatorem. Ergo Cincinnatus non remansit in agris. Cincinnatus fuit dictator. Cincinnatus venit cum viris fortibus. Cincinnatus pugnavit cum Aequis. Cincinnatus vicit Aequos. Sed Cincinnatus non remansit Dictator. Cincinnatus non voluit magnam potestatem. Cincinnatus voluit agros bonos. Ergo Cincinnatus venit in senatum. Cincinnatus dixit in senatu quod non voluit magnam potestatem. Cincinnatus venit rursus in agros. Nunc Cincinnatus non est Dictator.",
      "explanation": "**Nominative endings (the subject case).** You have been using these subject endings for a while, so let's add them up across the three declensions you know. - **First declension:** singular **-a** (nauta), plural **-ae** (nautae).\n- **Second declension:** singular **-us** or **-r** (agnus, ager, vir), plural **-i** (agni, agri, viri).\n- **Third declension:** plural **-es**. Notice that no ending is given for the nominative singular of the third declension. That is because it comes in so many shapes that you simply learn each word as it is. A few words you have already met do not fit this table; do not worry about them yet, you can still use them easily. Just be sure to learn the nominative and the ablative singular of every word, and they will not be hard to handle. **The preposition ex.** It has two forms, **e** and **ex**, both meaning 'from, out from'. Use **e** before consonants and **ex** before vowels (and sometimes before consonants too): Legati **ex** senatu venerunt, the legates came **out from** the senate.",
+     "divisio": {
+      "overview": "The biography proceeds from the war and the army's peril, to the senate's choice of Cincinnatus, to his victory, and to his voluntary return to the farm.",
+      "parts": [
+       {
+        "label": "War and danger",
+        "detail": "Rome fights the brave Aequi until the Roman army is caught in great peril."
+       },
+       {
+        "label": "The senate's plan",
+        "detail": "The good Roman senate forms a plan and creates a dictator, and Cincinnatus is introduced as a good and brave Roman."
+       },
+       {
+        "label": "Called from the fields",
+        "detail": "Legates find Cincinnatus farming, report the danger and his appointment, and he leaves the fields."
+       },
+       {
+        "label": "Victory and resignation",
+        "detail": "He defeats the Aequi, then refuses great power, tells the senate so, and returns again to his fields."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "creavit",
@@ -1150,6 +1352,27 @@ window.COURSE_DATA.courses.push({
      "summary": "After many wars, the Romans still had no peace. In 390 B.C. the Gauls invaded Italy. They conquered many peoples and even defeated a Roman army. They entered Rome, and captured all but the Capitoline. There the geese awakened the sleeping Romans.",
      "lead": "Watch for adjectives standing alone as nouns (multis = many peoples) and for ablatives of the 4th and 5th declensions (exercitu, die).",
      "original": "In rebus humanis, periculum non est rarum. Romani bellum habuerunt in multis diebus et in multis annis. Romani bellum habuerunt cum Etruscis. Etiam bellum habuerunt cum Aequis. Habuerunt bellum cum multis. Sed Romani fortes fuerunt. Viri magni in exercitibus Romanis fuerunt. Ergo Romani vicerunt Etruscos. Etiam vicerunt Aequos. Sed Romani non semper vicerunt. In anno trecentesimo nonagesimo (390) ante Christum, barbari venerunt ex Gallia in Italiam. Galli fuerunt barbari. Galli pugnaverunt cum multis in Italia. Galli vicerunt multos. Galli etiam pugnaverunt cum Etruscis. Galli vicerunt Etruscos in pugna. Galli etiam venerunt in terram Romanam. Galli pugnaverunt cum exercitu Romano. Galli vicerunt exercitum Romanum. In exercitu Romano fuerunt multi viri magni et fortes. Sed Galli etiam fuerunt magni et fortes. Galli vicerunt Romanos. Galli venerunt etiam in urbem Romanam. Galli ceperunt fere totam urbem. Sed Galli non ceperunt totam urbem. Galli non ceperunt Capitolium. In Capitolio viri fortes fuerunt. Sed viri fortes dormiebant (were sleeping) in Capitolio. Viri non audiverunt Gallos in Capitolio. Sed anseres fuerunt etiam in Capitolio. Anseres non dormiebant. Anseres audiverunt Gallos. Anseres exclamaverunt. Romani audiverunt anseres. Romani pugnaverunt cum Gallis.",
+     "divisio": {
+      "overview": "A narrative that moves from Rome's earlier victories to the Gallic disaster and its last-minute reversal, in four stages.",
+      "parts": [
+       {
+        "label": "Rome's earlier wars",
+        "detail": "Opens that danger is common, recalls Rome's brave armies defeating the Etruscans and Aequi, but adds that the Romans did not always win."
+       },
+       {
+        "label": "The Gauls invade (390 B.C.)",
+        "detail": "The barbarian Gauls cross from Gaul into Italy, conquering many peoples and the Etruscans."
+       },
+       {
+        "label": "Defeat and capture",
+        "detail": "The Gauls beat the Roman army, enter the city, and take almost all of it except the Capitoline."
+       },
+       {
+        "label": "The geese save the Capitoline",
+        "detail": "While the brave men sleep, the geese hear the Gauls, cry out, and rouse the Romans to fight."
+       }
+      ]
+     },
      "explanation": "**ADJECTIVES USED ALONE:** Notice the use of multis in pugnaverunt cum multis. It means: They fought with many. Of course, multis means many peoples or nations. We may leave a word understood with an adjective. We must then supply the right word in English; we usually supply one of these: men, things, etc. **OBJECTIVE AND ABLATIVE OF THE FOURTH AND FIFTH DECLENSIONS:** So far we have studied only three declensions. We have used some words from the fourth declension, and now we look more closely at the new forms. In the fourth declension the objective singular is **exercitum** and the ablative singular is **exercitu** (objective plural exercitus, ablative plural exercitibus). In the fifth declension the objective singular is **diem** and the ablative singular is **die** (objective plural dies, ablative plural diebus). The fourth declension has the same objective singular as the second declension, and the same ablative plural as the third. In the fifth declension all four of these forms are the same as the third (although the third sometimes has the ablative singular in -i), except that the ablative plural has -ebus instead of -ibus. How can we tell which declension a word belongs to? We look at the ablative singular ending: 1st in -a, 2nd in -o, 3rd in -e or -i, 4th in -u, 5th in -e. The fifth and the third can both end in -e, but there are very few fifth declension words, so we simply mark them, like dies, -e (5). **THE ABLATIVE USED WITHOUT A PREPOSITION:** It is possible to use the ablative case without a preposition. It can then have various meanings. Study these examples: Romani non vicerunt pecunia (The Romans did not conquer by money); Romani fuerunt multi numero (The Romans were many in number); Romani exclamaverunt voce magna (The Romans shouted with a great voice). Notice the English prepositions we may supply: in, by, with. Whenever we see an ablative without a preposition, we try that little list of prepositions to find the meaning.",
      "keyTerms": [
       {
@@ -1276,6 +1499,31 @@ window.COURSE_DATA.courses.push({
      "summary": "Legend tells how the Roman laws came to be written: at first only the patricians knew the law, so a commission was sent to Greece to study Solon's laws, and the laws were finally written down.",
      "lead": "A review Lectio, nothing new today, let us study the old things; watch for the familiar forms of all five declensions, and notice the 4th-declension senatus and 5th-declension dies.",
      "original": "Romani narraverunt fabulam de legibus Romanis. In primis diebus Romani habuerunt leges. Sed soli patricii sciverunt leges Romanas. Plebs non scivit leges. Ergo plebs in periculo fuit. Plebs non amavit periculum. Et plebs non amavit patricios. Plebs dixerunt quod patricii non amaverunt plebem-patricii non scripserunt leges. Plebs in periculo est quia patricii non scripserunt leges. Patricii mali sunt. Non sunt boni. Ergo rursus pugna fuit in urbe. Cives pugnaverunt cum civibus. Patricii pugnaverunt cum plebe. Plebs pugnavit cum patriciis. In primis diebus, quando plebs pugnavit cum patriciis, plebs non remansit in urbe. Plebs venit in Montem Sacrum. Sed plebs non remansit semper in Monte Sacro. Plebs rursus venit in urbem quando patricii dederunt tribunos plebis. Sed nunc plebs remansit in urbe. Plebs non venit in Montem Sacrum. Plebs non remansit in urbe quia amaverunt patricios. Plebs remansit in urbe quia amaverunt Romam. Ergo senatus Romanus misit viros in Graeciam. Viri Romani viderunt leges Solonis (of Solon). Leges Solonis bonae fuerunt. Postquam viri Romani viderunt leges Solonis in Graecia, rursus venerunt in terram Romanam. Rursus venerunt in urbem. Senatus scripsit leges. Plebs rursus vicit patricios. Patricii enim scripserunt leges. Postquam patricii scripserunt leges, plebs non habuit pugnam cum patriciis. Plebs non fuit in periculo magno. Plebs sciverunt leges. Leges bonae fuerunt.",
+     "divisio": {
+      "overview": "A legend told in five movements, from the problem of secret law to the lasting peace that written law brings.",
+      "parts": [
+       {
+        "label": "The problem",
+        "detail": "Only the patricians know the unwritten laws, so the plebs are left in danger and resentment."
+       },
+       {
+        "label": "Class conflict",
+        "detail": "Strife breaks out in the city, citizen against citizen, plebs against patricians."
+       },
+       {
+        "label": "Secession and return",
+        "detail": "The plebs withdraw to the Sacred Mount and come back only when granted tribunes of the plebs."
+       },
+       {
+        "label": "The mission to Greece",
+        "detail": "The senate sends men to study the good laws of Solon and they return to Rome."
+       },
+       {
+        "label": "Laws written, peace gained",
+        "detail": "The senate writes the laws, the strife ends, and the plebs at last know good laws."
+       }
+      ]
+     },
      "explanation": "RURSUS VIDEAMUS FORMAS VETERES (let us review the old forms again). We have learned that there are five sets of endings for nouns, which we call the five declensions. We distinguish one declension from another by the ablative singular form (we add the number 5 for the fifth since it has **-e**, and the third declension also has **-e** on some nouns). A noun never changes its declension, it always stays in the same family of endings. We have now seen nearly all the forms of three cases in all five declensions, except the nominative of the fourth and fifth. Compare the singular and plural across the five: **nauta, nautae** (1st), **agnus, agni** (2nd), **lex, leges** (3rd), **senatus, senatus** (4th), **dies, dies** (5th). Note the new nominative singulars **senatus** (4th declension) and **dies** (5th declension). Remember too that the nominative singular of the second declension may have other forms (such as **vir, ager**), and the nominative of the third may have various forms. In Lesson Nine we shall learn the nominative plurals of the fourth and fifth.",
      "keyTerms": [
       {
@@ -1389,6 +1637,31 @@ window.COURSE_DATA.courses.push({
      "summary": "The Greeks of southern Italy, afraid of Rome, invite King Pyrrhus of Epirus, who frightens the Romans with elephants but fails to take Rome and finally goes home.",
      "lead": "Today Most begins the present infinitives (all ending in -re, translated with 'to'): watch for voluit videre, voluit capere, rogaverunt venire.",
      "original": "Romani fere semper bellum habuerunt. Quando bellum cum aliis nationibus non habuerunt, patricii pugnaverunt cum plebe. Quando patricii non pugnaverunt cum plebe, bellum habuerunt cum aliis. Ergo fere semper Roma in bellis fuit. Roma fuit magna bellis. Graeci non solum in Graecia fuerunt: Graeci etiam fuerunt in Italia meridionali. Dixerunt quod Italia meridionalis fuit \"Magna Graecia.\" Graeci timuerunt potestatem Romanam. Graeci voluerunt servare urbes Graecas a Romanis. Voluerunt defendere terram Graecam a Romanis. Voluerunt servare terram Graecam a Romanis. Ergo Graeci miserunt legatos in Epirum. In Epiro rex fuit Pyrrhus. Graeci rogaverunt Pyrrhum venire. Pyrrhus venit in Italiam. Venit cum exercitu. Venit etiam cum elephantis. Romani timuerunt elephantos. Romani non viderunt elephantos ante hoc (this) bellum. Multi Romani non remanserunt in pugna quando viderunt elephantos. Romani voluerunt servare Romam. Romani voluerunt defendere terram Romanam. Sed Romani dixerunt quod in periculo fuerunt ab elephantis. Romani potuerunt pugnare cum viris magnis et fortibus. Sed Romani timuerunt pugnare cum elephantis. Elephanti magni fuerunt-viri parvi fuerunt. Romani non potuerunt stare ante elephantos. Ergo Pyrrhus vicit Romanos. Sed Pyrrhus non potuit capere urbem Romanam. Pyrrhus voluit capere urbem Romanam. Graeci rogaverunt Pyrrhum capere urbem Romanam. Sed non potuit. Romani vicerunt Pyrrhum aliis pugnis. Romani pugnaverunt etiam cum elephantis. Voluerunt servare Romam. Ergo Pyrrhus non remansit in Italia. Pyrrhus venit rursus in Epirum.",
+     "divisio": {
+      "overview": "A narrative framed by Rome's constant warfare, tracing how the Greeks' appeal brings Pyrrhus, his elephant victory, and his eventual departure.",
+      "parts": [
+       {
+        "label": "Rome always at war",
+        "detail": "Sets the background that Rome fights either foreign nations or, failing that, its own plebs."
+       },
+       {
+        "label": "The Greeks' fear and appeal",
+        "detail": "The Greeks of Magna Graecia, dreading Roman power, send envoys to invite King Pyrrhus of Epirus."
+       },
+       {
+        "label": "Pyrrhus and the elephants",
+        "detail": "He arrives with army and elephants, which the Romans had never seen, terrifying them so he wins."
+       },
+       {
+        "label": "He cannot take Rome",
+        "detail": "Despite victory and Greek urging, Pyrrhus fails to capture the city itself."
+       },
+       {
+        "label": "Rome prevails, Pyrrhus leaves",
+        "detail": "The Romans beat him in later battles, even fighting the elephants, and he returns to Epirus."
+       }
+      ]
+     },
      "explanation": "**Infinitives.** Today we begin to use the present infinitive. In Latin these present infinitives all end in **-re**, and we translate them with the word **to** in English. For example, *servare* means **to save**, *videre* means **to see**, *venire* means **to come**, *capere* means **to seize**. From now on the vocabulary gives two forms for each verb: first the infinitive, then the perfect tense we have been using. All regular infinitives end in -re (only *posse*, to be able, is irregular). The vowel ahead of the -re differs from verb to verb: you will meet -are, -ere, and -ire. **Nominative of the fourth and fifth declensions.** There are only two new endings to learn, and we already know them as nominative singulars: the fourth declension has **-us** (for example *exercitus*, army; *senatus*, senate), and the fifth has **-es** (for example *res*, thing). In these two declensions the nominative plural is the same as the singular. So we now know nearly all the endings of the five declensions, with just a few other forms to come later.",
      "keyTerms": [
       {
@@ -1563,6 +1836,27 @@ window.COURSE_DATA.courses.push({
      "summary": "There was a great mercantile city in north Africa, Carthage, founded from Phoenicia; her ships sailed every sea for trade, while Rome preferred farming and fighting.",
      "lead": "Watch for neuter nouns whose plurals end in -a (maria, multa maria, aliud nomen): the new grammar of this Lectio.",
      "original": "In Africa septentrionali fuit urbs magna-Carthago. Carthaginienses fuerunt mercatores. Multas naves habuerunt. Mercaturam fecerunt cum multis nationibus. Carthaginienses boni fuerunt mercatura. Multam pecuniam habuerunt. Poeta Romanus, Vergilius, dixit quod Dido fundavit Carthaginem. Sed veritatem non dixit. Coloni ex Phoenicia fundaverunt Carthaginem. (Phoenicia est terra in Asia). Vergilius putavit quod Dido fundavit Carthaginem in saeculo duodecimo (XII). Sed Vergilius non dixit veritatem. Coloni ex Phoenicia fundaverunt Carthaginem (probabiliter saeculo nono (IX) ante Christum). Ergo Vergilius non narravit veritatem-narravit fabulam. Quia Carthaginienses venerunt ex Phoenicia, Romani dederunt aliud nomen: Punici. Carthaginienses fuerunt Punici. Punici miserunt naves in multa maria, in multas terras. Carthaginienses etiam habuerunt exercitum. Sed viri Carthaginienses non voluerunt pugnare-Carthaginienses voluerunt mercaturam facere-voluerunt habere multam pecuniam. Mercatores Punici venerunt etiam in Siciliam. Multae naves venerunt in mari ad Siciliam. Romani non fuerunt magni mercatura. Romani amaverunt agros. Romani amaverunt pugnare et fortes esse. Romani fuerunt boni fortitudine.",
+     "divisio": {
+      "overview": "A descriptive sketch of Carthage that introduces the trading city, corrects its founding legend, names its people, and contrasts it with Rome.",
+      "parts": [
+       {
+        "label": "Carthage the merchant city",
+        "detail": "Presents a great city in north Africa whose people are wealthy traders with many ships."
+       },
+       {
+        "label": "Correcting the legend",
+        "detail": "Rejects Vergil's story of Dido and credits Phoenician colonists with the actual founding."
+       },
+       {
+        "label": "The Punici and their trade",
+        "detail": "Explains the name Punici and shows their ships ranging across many seas and reaching Sicily."
+       },
+       {
+        "label": "Carthage contrasted with Rome",
+        "detail": "Notes that the Carthaginians chose trade over war, while the Romans loved farmland, fighting, and courage."
+       }
+      ]
+     },
      "explanation": "**Neuter nouns with nominative and objective plural in -a:** some nouns have a nominative and objective plural ending in **-a**. These belong to the second and third declensions (a few are fourth, seen later). So far we have met seven: **bellum** (plural **bella**), and likewise **consilium** (consilia), **forum** (fora), **periculum** (pericula), **saeculum** (saecula), **mare** (maria), **nomen** (nomina). For every neuter noun, the nominative singular is the same as the objective singular, in all declensions. The nominative and objective plurals always have **-a**, but some have **-ia** instead. In the second declension, when the nominative singular ends in -ium the plural is -ia. In the third declension, words that use -e for the ablative have only -a (nomen, nomine, plural nomina), while words that use -i for the ablative have -ia (mare, -i, plural maria). Rule of thumb: in the second declension, all nouns whose nominative ends in -um take the -a endings; in the third declension, nouns whose nominative ends in -n, -t, -men, -ma, -e, -al, or -ar are neuter and take the -a endings.",
      "keyTerms": [
       {
@@ -1768,6 +2062,27 @@ window.COURSE_DATA.courses.push({
      "summary": "There were three Punic wars. The Mamertini, a band of brigands in control of Messana, were at war with Hiero of Syracuse. The Mamertini appealed to Rome to help. This meant war with Carthage, whose trade interests were involved in Sicily. Carthage, a great sea power, had the advantage. But Rome overcame it, and won the war.",
      "lead": "Watch how each adjective (magnam, bonas, multas, magno) matches its noun in gender, number, and case.",
      "original": "Roma gessit tria (III) bella cum Carthagine. Fuerunt ergo tria bella Punica. Bellum Punicum est bellum Carthaginiense. Primum bellum Punicum venit in medio saeculo tertio (III) ante Christum. Messana fuit urbs in Sicilia. Viri mali regnaverunt in Messana. Nomen eorum fuit Mamertini. Mamertini pugnaverunt cum Hierone. Hiero fuit rex in alia urbe in Sicilia. Hiero fuit rex Syracusarum. Ergo Mamertini, viri mali, pugnaverunt cum rege Syracusarum. Mamertini in periculo fuerunt. Mamertini miserunt legatos ad senatum Romanum. Legati rogaverunt senatum mittere auxilium. Romani miserunt exercitum ad Mamertinos.\n\nSed Carthaginienses non voluerunt Romanos esse in Sicilia. Carthaginienses voluerunt mercaturam facere in Sicilia. Ergo voluerunt expellere Romanos. Itaque Romani bellum gesserunt cum Carthaginiensibus. Primum bellum Punicum fuit. Punici habuerunt multas et bonas naves. Romani non habuerunt bonas naves. Sed Romani fecerunt naves multas. Miserunt viros fortes multos in naves. Carthaginienses non habuerunt multos fortes viros in navibus. Ergo Romani potuerunt vincere Carthaginienses. Punici non remanserunt in Sicilia. Punici dederunt pecuniam multam. Itaque Romani vicerunt Carthaginem in primo bello Punico. Vicerunt anno ducentesimo quadragesimo primo (241) ante Christum. Carthaginienses non amaverunt Romanos. Oderunt Romanos. Sed Romani laeti fuerunt. Habuerunt victoriam egregiam.",
+     "divisio": {
+      "overview": "A historical account in four steps, moving from the three wars in general to the local quarrel, the wider war, and Rome's victory.",
+      "parts": [
+       {
+        "label": "The three Punic Wars",
+        "detail": "States that Rome waged three wars with Carthage and dates the first to the mid third century B.C."
+       },
+       {
+        "label": "The Mamertine appeal",
+        "detail": "The wicked Mamertini of Messana, at war with Hiero of Syracuse, ask the Roman senate for help, and Rome sends an army."
+       },
+       {
+        "label": "War with Carthage",
+        "detail": "Carthage, wanting Sicily for trade, tries to expel the Romans, and so the first Punic War begins."
+       },
+       {
+        "label": "Rome's naval victory",
+        "detail": "Lacking good ships, Rome builds many and mans them with brave men, beating Carthage and winning in 241 B.C. to its great joy."
+       }
+      ]
+     },
      "explanation": "**Use of medius:** Notice the expression in medio saeculo tertio, in the middle of the third century. The word **medius** in Latin is an adjective, but when it goes with a noun we must supply the word **of** in English between middle and the noun: we say middle **of**. **Gender:** There are three genders, masculine, feminine, and neuter. In English a word is masculine if it stands for something male, feminine if something female, neuter if a thing. But Latin has an artificial, grammatical gender, and does not care about the sex of the object. For example a ship is a thing, but **navis** (ship) is feminine, and **mercatura** (trade) is feminine too. We do not memorize every gender; handy rules cover many words: 1. First declension nouns are feminine unless they obviously denote a male (nauta, sailor, is masculine). 2. In the second declension, nouns in -um are neuter, others masculine. 3. In the fourth declension, all -us nouns are masculine except domus (feminine, house) and manus (feminine, hand or band). 4. In the fifth declension all are feminine except dies (masculine). 5. In the third declension there is no good rule to tell masculines from feminines, so we learn the gender with each noun. **Types of adjectives:** There are two classes. 1. The **bonus type** has three sets of endings: second declension for masculine, first declension for feminine, second declension for neuter. We list these as **bonus, a, um**, the nominative singular masculine, feminine, and neuter. 2. The **third declension type** has all its endings in the third declension for every gender (seen later, in Lesson 13). **Agreement of adjectives and nouns:** AN ADJECTIVE MUST AGREE WITH ITS NOUN IN THREE THINGS: 1. gender 2. number 3. case. Take bonus civis: civis is masculine, so is bonus; civis is singular, so is bonus; civis is nominative, so is bonus. But bonus does not agree in **declension**: bonus takes second declension endings when masculine or neuter (and first declension when feminine), but never a third declension ending.",
      "keyTerms": [
       {
@@ -1923,6 +2238,27 @@ window.COURSE_DATA.courses.push({
      "summary": "After the first Punic War, Carthage needs money and trade; Hamilcar takes his son Hannibal to Spain, Hannibal swears eternal hatred of Rome, attacks Saguntum, Rome demands his recall, it is refused, and war begins.",
      "lead": "Nothing new today: review the old. Watch the perfect verbs (-it and -erunt), the three cases, the dixit quod reports, and the infinitives (invenire, venire, capere, revocare).",
      "original": "Post bellum Punicum primum pax fuit. Sed Carthaginienses non habuerunt pecuniam multam. Roma enim accepit aurum multum a Carthaginiensibus post bellum primum. Carthago ergo non habuit multum aurum. Necesse fuit invenire terras novas. Necesse fuit venire in Hispaniam. Quia in Hispania fuit aurum multum. Et mercatores Carthaginienses potuerunt facere mercaturam multam in Hispania. Hannibal fuit puer Carthaginiensis. Pater Hannibalis (of Hannibal) fuit imperator Carthaginiensis magnus. Pater Hamilcar fuit. Hamilcar fuit vir fortis, et imperator bonus. Hamilcar fuit bonus consiliis. Romani narraverunt fabulam de Hannibale. Dixerunt quod Hannibal, quando in Hispania fuit cum patre, Hamilcare, posuit manum in altare et promisit odium aeternum contra Romanos. Fuitne veritas in fabula? Nescimus (we do not know). Sed Hannibal, quando vir fuit, gessit bellum magnum cum Romanis. Urbs magna fuit in Hispania-nomen urbis (of the city) fuit Saguntum. Hannibal voluit capere Saguntum. Sed Saguntini amaverunt Romanos. Et Romani amaverunt Saguntinos. Ergo Saguntini miserunt legatos ad Romanos. Legati venerunt in senatum Romanum. Legati Saguntini rogaverunt auxilium. Rogaverunt Romanos venire exercitu magno. Ergo Romani miserunt legatos in senatum Carthaginiensem. Legati Romani dixerunt quod necesse fuit revocare Hannibalem. Sed Carthaginienses non revocaverunt Hannibalem. Carthago odit Romam. Ergo Romani miserunt exercitum magnum contra Hannibalem. Itaque gesserunt bellum Punicum secundum.",
+     "divisio": {
+      "overview": "A narrative of the war's origins that runs from Carthage's poverty through Hannibal's oath to the diplomatic breakdown that starts the war.",
+      "parts": [
+       {
+        "label": "Carthage impoverished",
+        "detail": "After losing the first war and its gold to Rome, Carthage must find new lands and turns to Spain for wealth."
+       },
+       {
+        "label": "Hannibal and his oath",
+        "detail": "Introduces Hannibal, son of the able general Hamilcar, and the story that in Spain he swore eternal hatred of Rome."
+       },
+       {
+        "label": "The attack on Saguntum",
+        "detail": "Grown to manhood, Hannibal moves to take Saguntum, whose people, friends of Rome, send envoys for help."
+       },
+       {
+        "label": "Demand and refusal",
+        "detail": "Rome demands Hannibal's recall, Carthage refuses, and so the second Punic War begins."
+       }
+      ]
+     },
      "explanation": "**Nihil novi hodie, veteribus studeamus** (Nothing new today, let's study the old things). This Lectio reviews everything so far, so let us look again at the old forms (**Iterum videamus formas veteres**). **INFINITIVES:** Notice the verbs that name an action without a subject, the infinitives. They all end in **-re**: *invenire* (to find), *venire* (to come), *capere* (to capture), *facere* (to do, make), *revocare* (to recall). They often follow words like *necesse fuit* (it was necessary) or *voluit* (he wished): *Necesse fuit invenire terras novas*, it was necessary to find new lands. Recall the other infinitives you have met: *vincere* (to conquer), *cadere* (to fall), *esse* (to be), *dare* (to give), *velle* (to wish), *mittere* (to send), *scire* (to know), *iacere* (to throw). **ADJECTIVES:** Words like *magnus*, *bonus*, *novus*, *multus*, *fortis*, *aeternus* are adjectives, and their endings match the noun they describe. So *terras novas* (objective plural) but *aurum multum* (objective singular), *vir fortis* (nominative) but *consiliis* (ablative plural). For now, just be satisfied to get their meaning and let the matching endings come naturally. **VERBS and CASES:** The verbs are all the perfect tense, **-it** (singular) and **-erunt** (plural). The three cases are still the nominative (subject), the objective (direct object and the object of *ad*, *contra*, *post*, *in* with motion), and the ablative (after *cum*, *a*, and *in* without motion). **QUOD** still reports indirect statements: *Dixerunt quod Hannibal posuit manum in altare* (they said that Hannibal put his hand on the altar).",
      "keyTerms": [
       {
@@ -2132,6 +2468,31 @@ window.COURSE_DATA.courses.push({
      "title": "Hannibal Crosses the Alps",
      "summary": "Saguntum fell, the soldiers plundered the town, then marched through Spain and Gaul to the Alps, where after Hannibal calmed their fears they crossed and, by heating and splitting a steep cliff, even the elephants came down.",
      "lead": "Watch for third declension adjectives (fortis, acer, ferox) and pluperfect 'had' forms (voluerat, venerat).",
+     "divisio": {
+      "overview": "A march narrative tracing Hannibal's route from a captured town to the descent of the Alps, closing with a debunked legend.",
+      "parts": [
+       {
+        "label": "Fall and plunder of Saguntum",
+        "detail": "Saguntum falls, the Punic soldiers enter the city and seize gold and other goods."
+       },
+       {
+        "label": "The march toward Rome",
+        "detail": "Hannibal refuses to stay, leads the army through Spain and across the Pyrenees into Gaul, then on toward Rome."
+       },
+       {
+        "label": "Fear and resolve at the Alps",
+        "detail": "The soldiers dread the great mountains until Hannibal's courage and words calm them, and they begin the climb."
+       },
+       {
+        "label": "The cliff and the descent",
+        "detail": "Army and elephants reach a steep cliff they cannot descend."
+       },
+       {
+        "label": "The legend questioned",
+        "detail": "The account of splitting the rock with fire and vinegar is reported and then doubted, yet all descend."
+       }
+      ]
+     },
      "original": "Saguntum cecidit. Milites Punici venerunt in urbem. In urbe ceperunt multum aurum. Etiam ceperunt alia bona. Sed Hannibal non voluit remanere. Hannibal voluit venire in terram Romanam. Ergo Hannibal et milites fecerunt iter. Venerunt per Hispaniam. Venerunt trans montes Pyrenaeos in Galliam. Sed Hannibal non remansit in Gallia. Voluit videre Romam. Necesse fuit pugnare fortitudine magna. Hannibal ergo, cum militibus, iter fecit per Galliam. Venerunt ad Alpes. Alpes sunt montes magni. Milites timuerunt Alpes. Sed Hannibal fortis fuit. Hannibal dixit quod non fuit necesse timere Alpes. Milites laudaverunt Hannibalem. Non iam timuerunt Alpes. Itaque ascenderunt montes. Exercitus Romanus voluit pugnare cum Hannibale in Gallia. Sed non potuerunt, quia Hannibal non remansit in Gallia. Hannibal et milites ascenderunt Alpes. Etiam elephanti venerunt cum Hannibale et exercitu Punico. Sed in Alpibus venerunt ad rupem arduam. Milites non potuerunt descendere. Elephanti non potuerunt descendere. Historia Romana scripsit fabulam magnam de rupe ardua. Fabula dixit quod milites Punici fecerunt viam in rupe: ignem posuerunt in rupe-rupes mollitur (is softened) aceto-itaque vias fecerunt in rupe. Estne veritas in fabula? Probabiliter non est veritas in fabula. Sed-fabula dixit-Hannibal et exercitus Punicus descenderunt, cum elephantis per viam in rupe.",
      "explanation": "**Third declension adjectives.** Most of them decline like **fortis**. In the singular the nominative has two forms, **fortis** (masculine and feminine) and **forte** (neuter); the objective is **fortem** and **forte**; the ablative is **forti** for both. In the plural the nominative is **fortes** and the neuter **fortia**, the objective the same, and the ablative **fortibus**. The ablative ending -i is the key signal of these adjectives. Some have three forms in the nominative singular, like **acer, acris, acre**, which behaves exactly like fortis except for the special feminine **acris**. Others have only one form, like **ferox**, which serves all three genders; its objective is **ferocem** (masculine and feminine) but **ferox** in the neuter, and the plurals are **feroces** and **ferocia**. In the vocabulary Most gives the one, two, or three nominative forms followed by the ablative singular. **Pluperfect tense.** To say 'he had come,' take **venit** and change -it to -erat, giving **venerat**, 'he had come,' and **venerant**, 'they had come.' This works on any verb and is one notch farther in the past than the perfect (dixit). **Adjectives as nouns.** Just as the masculine form can stand alone (boni, 'good men'), so can the neuter: **bonum** means a good thing, **bona** means good things, while **bonus** means a good man and **boni** good men.",
      "keyTerms": [
@@ -2328,6 +2689,31 @@ window.COURSE_DATA.courses.push({
      "title": "Hannibal's Trap at the Trebia",
      "summary": "After crossing the Alps, Hannibal won a small victory over Scipio at the Ticinus river. Sempronius then took command for the Romans. Sempronius was rash and impatient, and Hannibal knew it; he made a trap. He fed his men early, and sent horsemen across the Trebia river to entice the Romans over. The Romans had not eaten-they went through cold water, and then tried to fight. Other Carthaginians came up behind them. Hannibal nearly wiped out the Roman army.",
      "lead": "Watch for the perfect passive: forms like victus est (was conquered) and missus est (was sent), where the subject is being acted on rather than acting.",
+     "divisio": {
+      "overview": "A battle account built as setup, baited trap, and ruinous result, turning on Sempronius's impatience.",
+      "parts": [
+       {
+        "label": "Arrival and first clash",
+        "detail": "Hannibal descends into Italy, beats Scipio at the Ticinus, and Sempronius takes command."
+       },
+       {
+        "label": "The bait laid",
+        "detail": "Knowing Sempronius is impatient, Hannibal feeds his own men, then sends fed horsemen across the Trebia to provoke."
+       },
+       {
+        "label": "The Romans drawn over",
+        "detail": "Sempronius sends his unfed soldiers across the cold river against the Punic horsemen."
+       },
+       {
+        "label": "The ambush sprung",
+        "detail": "Cold, hungry Romans must fight while fresh Carthaginians strike from behind, and they cannot win."
+       },
+       {
+        "label": "Outcome and mood",
+        "detail": "Hannibal wins a great victory, few Romans survive, and the Punic soldiers shout for joy while the Romans grieve."
+       }
+      ]
+     },
      "original": "Hannibal et exercitus Punicus descenderant ex Alpibus. Venerant in Italiam. In Italia invenerunt exercitum Romanum ad flumen Ticinum. Scipio fuit imperator Romanus. Scipio fuit imperator egregius et acer. Sed Hannibal vicit Scipionem et exercitum Romanum. Nunc imperator Romanus est Sempronius.\nHannibal scivit quod Sempronius fuit impatiens. Hannibal ergo fecit insidias. Hannibal dedit cibum militibus (to the soldiers). Sed milites Romani non acceperant cibos. Hannibal ergo misit equites (postquam cibum acceperant) trans flumen Trebiam. Sempronius vidit equites. Romani milites non acceperant cibum. Sed Sempronius misit milites Romanos contra equites Punicos. Romani venerunt per flumen.\nAqua frigida fuit-et Romani non habuerant cibos. Equites Punici habuerant cibos ante pugnam. Postquam Romani venerunt trans flumen, necesse fuit pugnare cum militibus Punicis. Pugna ferox fuit. Milites Punici acres sunt-sed milites Romani non acceperant cibos-venerant per flumen frigidum. Alii milites Punici venerunt post Romanos. Ergo Romani non potuerunt vincere Punicos. Hannibal habuit victoriam egregiam. Non multi Romani remanserunt post pugnam. Romani non fuerunt laeti. Sed milites Punici exclamaverunt quia laeti fuerunt.",
      "explanation": "This Lectio introduces the **perfect passive**. So far we could say The Roman army conquered (active): Romanus exercitus vicit. But suppose the army loses, then we say The Roman army was conquered, or has been conquered. The active forms (vicit, vicerunt) mean the subject is acting on someone else. The passive forms mean the subject is **being acted on**. In Latin the passive is built from a new part of the verb, the **perfect passive participle**, used like an adjective together with **est** or **sunt**: victus est, victi sunt. The participle is half verb and half adjective, so its endings agree with the subject, just like an adjective. For example, The Roman soldiers were heard is Milites Romani auditi sunt; for one soldier, Miles auditus est; for girls, Puellae auditae sunt; for one girl, Puella audita est. You always need two words for the third person perfect passive: the participle (the third part of the verb) plus est or sunt. Sometimes these participles are used alone, without est or sunt, simply as adjectives, for example exercitus victus, the conquered army, or fabula scripta, a written legend.",
      "keyTerms": [
@@ -2473,6 +2859,31 @@ window.COURSE_DATA.courses.push({
      "title": "The Trap at Lake Trasimene",
      "summary": "The year after Trebia, Hannibal lured the consul Flaminius into a narrow pass at Lake Trasimene and annihilated the Roman army.",
      "lead": "Watch for the perfect passive 'victus est' (was conquered) and the preposition 'ab' meaning 'by'.",
+     "divisio": {
+      "overview": "A second ambush story moving from a new Roman commander's miscalculation to Hannibal's repeated trap and total victory.",
+      "parts": [
+       {
+        "label": "From Trebia to a new year",
+        "detail": "Recalling the defeat at the Trebia, the text turns to a fresh victory and the new consul Gaius Flaminius."
+       },
+       {
+        "label": "Flaminius's wrong assumption",
+        "detail": "Flaminius believes the snowy Apennines block Hannibal, but Hannibal crosses and places himself between Flaminius and Rome."
+       },
+       {
+        "label": "Rome and Flaminius alarmed",
+        "detail": "Both the city and the consul fear, and Flaminius comes out to battle."
+       },
+       {
+        "label": "The ambush at the pass",
+        "detail": "Hannibal hides troops behind the narrows so the emerging Romans find enemies before and behind them."
+       },
+       {
+        "label": "Defeat in the mist",
+        "detail": "Brave Romans cannot win amid the lakeside fog, the army is conquered, and Hannibal is praised as a good and brave general."
+       }
+      ]
+     },
      "original": "Romanus exercitus victus est ab Hannibale ad flumen Trebiam. In proximo anno, Hannibal fecit aliam magnam victoriam. Iam alius consul fuit imperator Romanus. Hic consul fuit Gaius Flaminius. Gaius Flaminius dixit quod Hannibal non potuit venire trans montes Apenninos, quia nix fuit in montibus. Sed Hannibal non timuit nivem. Hannibal venit cum exercitu trans montes. Venit inter Flaminium et Romam. Roma timuit. Flaminius timuit. Non voluerunt Hannibalem capere Romam. Flaminius ergo venit ad pugnam. Sed Hannibal rursus fecit insidias. Hannibal amavit pugnare insidiis. Flaminius et exercitus Romanus venerunt per angustias. Hannibal posuerat milites Punicos post angustias in insidiis. Itaque quando exercitus Romanus venit ex angustiis, invenerunt milites Punicos in insidiis. Milites Punici fuerunt ante et etiam post exercitum Romanum. Romani milites pugnaverunt. Viri fortes fuerunt. Sed non potuerunt vincere milites Punicos. Punici enim fuerunt ante Romanos. Et etiam fuerunt post Romanos. Romani milites vix potuerunt videre milites Punicos, quia nebulae fuerunt ad Lacum Trasimenum. Ergo exercitus Romanus fortis victus est ab Hannibale. Hannibal rursus vicerat Romanos. Hannibal fuit imperator bonus et fortis.",
      "explanation": "Nothing really new today. Let us digest what we learned in the last lesson. But we might notice the new meaning we can get from the preposition **a, ab**: when we use it with one of these passive forms, it means **by**. We have already seen many samples, e.g., **Exercitus victus est ab Hannibale**: The army was conquered by Hannibal.",
      "keyTerms": [
@@ -2646,6 +3057,31 @@ window.COURSE_DATA.courses.push({
      "title": "Fabius the Delayer and the Disaster at Cannae",
      "summary": "After the disaster at Lake Trasimene, Q. Fabius Maximus was made Dictator; his cautious delaying made him unpopular, and when the consuls Paulus and Varro replaced him, Hannibal lured Varro into battle at Cannae, another terrible Roman defeat.",
      "lead": "Watch the passive participles and passive verbs (victus est, creatus est, facta est) and how Fabius chooses to wait rather than fight.",
+     "divisio": {
+      "overview": "A contrast study of two Roman strategies, the patient dictator who is rejected and the eager consul who brings disaster.",
+      "parts": [
+       {
+        "label": "Fabius made Dictator",
+        "detail": "After Trasimene, Fabius Maximus is appointed and chooses to wait rather than fight Hannibal at once."
+       },
+       {
+        "label": "The nickname and discontent",
+        "detail": "Romans call him Cunctator, fail to see his delay as wisdom, and the citizens crave a great battle."
+       },
+       {
+        "label": "New consuls elected",
+        "detail": "The next year Paulus and Varro replace Fabius, sharing command on alternate days."
+       },
+       {
+        "label": "Livy's report of the two consuls",
+        "detail": "By Livy's account Paulus did not want to fight Hannibal while Varro did, and Hannibal knew it."
+       },
+       {
+        "label": "The defeat at Cannae",
+        "detail": "Hannibal prepares on Varro's day, the rash consul gives battle, and Rome is beaten again at Cannae."
+       }
+      ]
+     },
      "original": "Postquam exercitus Romanus victus est ad Lacum Trasimenum, vir magnus creatus est Dictator Romanus: Quintus Fabius Maximus. Fabius vidit quod non potuit vincere Hannibalem statim. Ergo Fabius voluit expectare. Quia Fabius semper voluit expectare, Romani dederunt novum nomen: vocaverunt Fabium \"Cunctatorem.\" Romani non viderunt quod Fabius bonum faciebat (was doing). Sed necesse fuit expectare. Hannibal voluit pugnare magnam pugnam cum exercitu Romano. Cives Romani voluerunt magnam pugnam cum Hannibale. Sed bonum fuit expectare. Fabius voluit vincere consilio bono. Fabius ergo expectavit. Fabius non pugnavit. Sed cives Romani non amaverunt expectare. Dixerunt: Fabius non est bonus imperator.\nErgo proximo anno (217 BC) elegerunt duos (II) consules: Lucium Aemilium Paulum, et Gaium Terentium Varronem. Non iam habuerunt Fabium Dictatorem. Scriptor Romanus, Livius, dixit quod Aemilius Paulus non voluit pugnare cum Hannibale, sed Varro voluit pugnare. Dixitne Livius veritatem? Non est clarum. Sed, secundum Livium, Hannibal voluit pugnare--et Hannibal scivit quod Paulus non voluit pugnare, sed Varro voluit. Paulus et Varro fuerunt imperatores in alternis diebus. Itaque, quando Varro fuit imperator, Hannibal paravit ad pugnam. Et Varro fecit pugnam cum Hannibale. Sed Hannibal fuit imperator bonus. Et Varro non fuit imperator bonus. Ergo Hannibal iterum vicit Romanos. Pugna facta est ad Cannas.",
      "explanation": "Nothing brand new in grammar today, so this is a chance to make the passive participles solid. Watch the passive forms that fill this story: **victus est** (was conquered), **creatus est** (was made), **facta est** (was made or happened). Each is a passive participle joined with a form of **esse**, and the participle agrees with its subject in gender, number, and case, exactly as an adjective would. Notice too the ablative of means without a preposition, **consilio bono** (by a good plan), and the verb **voluit** (he wanted), which recurs again and again as Fabius keeps choosing to wait. Learn the parts of the rest of the verbs listed in Lesson 14.",
      "keyTerms": [
@@ -2801,6 +3237,31 @@ window.COURSE_DATA.courses.push({
      "title": "Scipio Defeats Hannibal at Zama",
      "summary": "Hannibal stayed powerful for a few years after Cannae, but Rome rallied: Scipio won in Spain, carried the war into Africa with Masinissa's help, cut Carthage off from grain, and defeated Hannibal at Zama to end the Second Punic War.",
      "lead": "Watch for the ablative absolute, a two-word ablative phrase like Hoc facto (this having been done) that compactly sets the stage for the main clause.",
+     "divisio": {
+      "overview": "A reversal narrative carrying Rome from post-Cannae weakness through Scipio's African campaign to final victory at Zama.",
+      "parts": [
+       {
+        "label": "Lean years after Cannae",
+        "detail": "For three years Rome wins little, then Marcellus takes some cities and Scipio rises as the greatest commander."
+       },
+       {
+        "label": "The debate over Africa",
+        "detail": "After winning in Spain Scipio still wants to invade Africa, the senate hesitates because Hannibal is in Italy, then grants the power but no money."
+       },
+       {
+        "label": "Crossing and the siege of supply",
+        "detail": "Privately funded, Scipio sails to Africa, gains King Masinissa's aid, and cuts Carthage off from grain."
+       },
+       {
+        "label": "Carthage sues for peace and breaks it",
+        "detail": "Carthage asks for peace and recalls Hannibal, but with him back the Carthaginians do not keep it."
+       },
+       {
+        "label": "Zama and the settlement",
+        "detail": "Scipio defeats Hannibal at Zama, peace is made, and a beaten Carthage hands over much money and many ships."
+       }
+      ]
+     },
      "original": "Postquam victi sunt ab Hannibale ad Cannas, Romani non habuerunt victorias magnas per tres (III) annos. Sed post tres annos Marcellus factus est consul Romanus. Marcellus cepit aliquas (some) urbes. Sed Scipio Africanus fuit maximus imperator Romanus in ultimis annis. Scipio enim vicit exercitum Punicum in Hispania. Post victorias in Hispania, Scipio nihilominus voluit mittere exercitum in Africam. Ergo senatus Romanus non voluit mittere exercitum Romanum in Africam. Quidam (certain) senatores dixerunt: \"Non est necesse mittere exercitum in Africam: Hannibal enim, maximus imperator Punicus, est in Italia.\" Sed Scipio nihilominus voluit mittere exercitum in Africam. Ergo senatus dedit potestatem mittere exercitum in Africam. Sed non dederunt pecuniam pro exercitu. Ergo alii Romani pecuniam dederunt pro expeditione.\nScipio posuit milites in naves, et navigaverunt in Africam multis navibus. In Africa fuit rex Masinissa. Masinissa fuit rex Numidiae (of Numidia). Masinissa dedit auxilia. Scipio et Masinissa intercluserunt Carthaginem a frumento. Ergo Carthago pacem rogavit. Etiam Hannibalem in Africam revocaverunt. Itaque Hannibal et exercitus Punicus venerunt rursus in Africam. Hoc facto (this having been done) Carthaginienses pacem non servaverunt.\nSed Scipio fuit imperator magnus. Scipio vicit Hannibalem in pugna ad Zamam. Ergo pax facta est. Roma vicerat Carthaginem in bello Punico secundo. Carthago dedit multam pecuniam et multas naves.",
      "explanation": "**ABLATIVE ABSOLUTE.** Latin has a handy short-cut for setting up a sentence. In English we say, \"This being the case, let us go ahead.\" Latin does the same sort of thing, but puts the pattern in the ablative case, and in a greater variety than English: **Rege expulso, Romani pugnaverunt.** This pattern is called the ablative absolute. A literal, crude translation is useful as a start: \"The king HAVING BEEN expelled, the Romans fought.\" Here **rege** is simply \"the king,\" and the participle **expulso** becomes \"having been expelled.\" The HAVING BEEN formula is a good way to get the sense. That crude version can then be expanded with a connecting word: 1. **When** (or after) the king was expelled, the Romans fought. 2. **Because** (or since) the king was expelled, the Romans fought. 3. **Although** the king was expelled, the Romans fought. 4. **If** the king was expelled, the Romans fought. There is also a fifth, handy type: make an independent clause out of the absolute and join it with **and**, as in \"The king was expelled AND the Romans fought.\" These absolutes are extremely important, since almost every page of a Latin author has at least one. Memorize one model sentence with its translation, and at very least memorize the words when, after, because, although, and if.",
      "keyTerms": [
@@ -2955,6 +3416,31 @@ window.COURSE_DATA.courses.push({
      "title": "Popilius and the Circle in the Sand",
      "summary": "After the Second Punic War Rome was the greatest power in the world, and even kings learned to fear her: Popilius drew a circle in the sand around King Antiochus and ordered him out of Egypt at once.",
      "lead": "Watch for the possessive (\"of\") case: notice endings like senatus, Antiochi, Romanorum, and Bithyniae that mean \"of\" something.",
+     "divisio": {
+      "overview": "A power study moving from a general claim of Roman supremacy to two illustrating episodes, Antiochus and Prusias.",
+      "parts": [
+       {
+        "label": "Rome supreme after the war",
+        "detail": "With Carthage beaten Rome holds the greatest power in the world, yet must wage further wars against Macedonia, Antiochus, and Greece."
+       },
+       {
+        "label": "Kings learn to fear Rome",
+        "detail": "The text notes that even kings knew they were in danger when they waged war with Rome."
+       },
+       {
+        "label": "The circle in the sand",
+        "detail": "Popilius orders Antiochus out of Egypt, draws a circle around him, and demands an answer before he leaves it, so the king departs at once."
+       },
+       {
+        "label": "Prusias and Pergamum",
+        "detail": "When Prusias of Bithynia wants Pergamum, Rome forbids it and is obeyed, and Prusias keeps to his own land."
+       },
+       {
+        "label": "The closing moral",
+        "detail": "Prusias knows the truth that closes the piece: the Romans were greatest in power in the whole world, and whatever Rome ordered had to be done."
+       }
+      ]
+     },
      "original": "Post bellum Punicum secundum, Carthagine victa, Roma potestatem maximam habuit in toto mundo. Sed necesse fuit gerere multa alia bella. Romani bella gesserunt cum Macedonia, cum Rege Antiocho (Antiochus fuit rex in Seleucia) et cum Graecia. Sed etiam reges sciverunt quod in periculo fuerunt quando bellum cum Roma gesserunt. Exempli gratia (for the sake of example) Antiochus rex, in saeculo secundo ante Christum voluit capere Aegyptum. Sed unus ex senatoribus Romanis, Popilius nomine, venit ad regem Antiochum in Aegyptum. Popilius, in nomine Romano, iussit regem Antiochum discedere ex Aegypto. Hoc (this) facto, Antiochus dixit quod deliberare voluit. Popilius itaque scripsit circulum in arena circum Antiochum. Popilius dixit quod necesse fuit non discedere ex circulo antequam daret (before giving) responsum. Hoc (this) audito, Antiochus rex statim discessit ex Aegypto.\nSed potestas magna est visa etiam quando rex Prusias Bithyniae (of Bithynia) voluit Pergamum capere. Roma iussit--et factum est. Prusias Pergamum non cepit. Prusias remansit in terra Bithyniae. Prusias scivit quod necesse fuit timere potestatem Romanam. Et Prusias veritatem scivit: Romani fuerunt maximi potestate in toto mundo. Quando Roma iusserat -necesse fuit facere iussa.",
      "explanation": "**POSSESSIVE CASE:** The possessive case is the \"of\" case, or the \"'s\" case. All Latin nouns have endings for the possessive case. We form it by substituting the possessive endings for the ablative singular endings, thus: nautae, nautarum; agni, agnorum; legis, legum. So agni means either the lamb's or of the lamb. Notice the two third-declension samples: in the singular both end in -is, but in the plural one has -um and the other has -ium. Which one a noun takes depends on its ablative singular. Nouns (and adjectives) that have ablative singular in -i take the -ium possessive plural; those with ablative singular in -e take only -um. Gender makes no difference: all three genders in the third declension use the same possessive endings, with -um versus -ium decided by the ablative. The same neuters that have -i in the ablative singular and -ia for nominative and objective plurals also have -ium for the possessive plural. The -i's have it. Adjectives use the same declensions as the nouns: bonus-type adjectives use Masculine -i, -orum; Feminine -ae, -arum; Neuter -a, -orum. Since nearly all third-declension adjectives have ablative singular in -i, their possessive forms are -is and -ium. Some possessive endings are duplicates of other cases, so nautae could be possessive singular or nominative plural, and agni likewise; the way the patterns are used will soon tell us how to distinguish them.\n**PARTICIPLES USED AS NOUNS:** In the last sentence, necesse fuit facere iussa, the word iussa is the neuter nominative-objective plural of the participle of iubere. Just as bona can mean good things, iussa can mean ordered things, so facere iussa means to do the things ordered.",
      "keyTerms": [
@@ -3132,6 +3618,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the forms of ille (ille, illa, illud, illos, illa) meaning 'that' or 'he/she/it', and for the recurring line necesse est delere Carthaginem.",
      "original": "Marcus Porcius Cato fuit vir fortis. Sed Cato odit Carthaginem. Roma iam vicerat Carthaginem in primo et in secundo bellis Punicis. Sed Hannibal fere vicerat Romam. Ergo multi Romani timuerant Carthaginem. Hannibale victo, Romani timuerunt etiam victam Carthaginem. Quia timuerunt Carthaginem, et quia Hannibal fere vicerat Romam, facile fuit odisse Carthaginem. Cato ergo odit Carthaginem. Cato fuit censor Romanus. Cato etiam habuit orationes multas in senatu Romano. Cato dixit multa in senatu Romano contra Carthaginem, etiam contra Carthaginem victam. In fine omnis orationis, Cato semper dixit: necesse est delere Carthaginem. Ergo senatus Romanus saepe audivit: necesse est delere Carthaginem. Catone saepe audito, etiam senatus dixit: necesse est delere Carthaginem.\nCarthago fecit bellum cum Masinissa, rege Numidiae. Sed Carthago non debuit facere bellum in Africa sine licentia Romanorum. Carthago non voluit facere bellum. Sed Masinissa fuit malus. Fere necesse fuit gerere bellum cum rege Numidiae. Ergo Carthaginienses fecerunt bellum.\nRomanus senatus audivit quod Carthago fecerat bellum sine licentia Romanorum. Ergo senatus dixit: necesse est delere Carthaginem. Itaque senatus misit consules cum exercitu ad Carthaginienses. Consules dixerunt: senatus Romanus iussit Carthaginienses deponere arma. Consulibus auditis, Carthaginienses fecerunt iussa. Timuerunt enim potestatem Romae.\n(Continued tomorrow-continuabitur cras.)",
      "explanation": "NUNC COGITEMUS. Nominative, objective, and ablative of **ille**: the forms of ille are almost all like bonus, bona, bonum. Masculine: nom. ille / illi, obj. illum / illos, abl. illo / illis. Feminine: nom. illa / illae, obj. illam / illas, abl. illa / illis. Neuter: nom. illud / illa, obj. illud / illa, abl. illo / illis. Where does ille differ from bonus? Only in three forms of those given, the nominative singular masculine **ille** and **illud** (twice), the nominative and objective singular neuter. So out of the whole table we really have only two forms to learn. In fact, if we learn the top row of singulars, ille, illa, illud, we have it. ille is in that list; illud is also in that list; and the third form is only a repetition of the second, according to the rule that nominative and objective are the same in neuters. What does ille mean? It can serve as an adjective: **ille vir**, that man; **illud bellum**, that war. It can serve as a noun (pronoun): **ille**, he, that one; **illa**, she, that one; **illud**, it, that thing. In the plural: **illi**, those men.",
+     "divisio": {
+      "overview": "The reading opens on Cato's hatred of Carthage, explains the fear behind it, repeats his demand, then narrates the Masinissa pretext and Rome's response.",
+      "parts": [
+       {
+        "label": "Cato the brave man who hated Carthage",
+        "detail": "Opens by calling Cato vir fortis and stating that he hated Carthage."
+       },
+       {
+        "label": "Why hating Carthage was easy",
+        "detail": "Recalls the Punic wars and Hannibal's near victory so that facile fuit odisse Carthaginem, returning to Cato ergo odit Carthaginem."
+       },
+       {
+        "label": "Cato's refrain in the senate",
+        "detail": "As censor he closes every speech with necesse est delere Carthaginem until the senate itself echoes it."
+       },
+       {
+        "label": "Carthage's war on Masinissa",
+        "detail": "Reports that Carthage fought the Numidian king without Roman permission."
+       },
+       {
+        "label": "Rome sends the consuls",
+        "detail": "The senate orders disarmament and the Carthaginians comply out of fear of Rome's power."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "facile",
@@ -3330,6 +3841,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the subject-object-verb word order Most introduces here, and for the new vocabulary about war and the city (femina, capillus, pars, locus).",
      "original": "Heri audivimus de prima parte belli Punici tertii. Marcus Porcius Cato saepe in senatu Romano dixerat: necesse est delere Carthaginem. Carthago fecerat bellum cum Masinissa, rege Numidiae. Bello facto, senatus Romanus miserat consules ad Carthaginienses. Consules iusserant illos deponere arma. Consulibus auditis, Carthaginienses deposuerant arma.\n\nSed quid dixit senatus Romanus? Postquam viri Carthaginis deposuerunt arma, senatus dixit: necesse est delere Carthaginem. Licet aedificare novam urbem-sed non ad mare. Carthaginienses boni mercatura fuerunt-necesse est habere urbem ad mare. Ergo Carthaginienses, sine armis, bellum gesserunt cum Romanis. Bellum factum est in anno centesimo quadragesimo nono (149) ante Christum. Per tres (III) annos Carthaginienses fortiter pugnaverunt. Feminae Carthaginienses etiam dederunt capillos capitis pro catapultis. Etiam feminae Carthaginienses fortes fuerunt. Sed non potuerunt vincere Romanos. Romani enim multi fuerunt. Romani bona arma habuerunt. Carthaginienses non habuerunt bona arma: omnia arma dederant Romanis. Non fuit facile pugnare sine armis. Ergo Romani deleverunt Carthaginem. Nihil illius (of that) urbis remansit--omnia deleta sunt. Romani mali fuerunt. Non debuerunt delere Carthaginem. Masinissa etiam malus fuit. Non debuit lacessere Carthaginem.\n\nEodem anno, Romani etiam deleverunt Graecam urbem, Corinthum. Nemo remansit in illo loco per centum (100) annos.",
      "explanation": "Most's grammar note here is about a new word order. The Romans did not always put words in the same order as English. Today we begin to practice one new variety in earnest. Take the sample **Maria agnum habuit** (Mary had the lamb): notice the three pieces come in this order, **1. subject, 2. object, 3. verb**. Do not rearrange them in your own mind, but learn to feel them just as the Romans did. If you must rearrange them the first few times that is all right, but then go back and re-read the same Latin sentence several times without thinking of the English. You will find that you can follow the thought easily in Latin. Also review your old forms: decline two words together (bonus vir, ille vir, illud caput, pars magna), add up all the prepositions with the ablative you have seen, and practice the possessive forms (of the sea, of the seas, of the citizen, of the citizens, and so on).",
+     "divisio": {
+      "overview": "The reading recaps yesterday's events, states the ultimatum, narrates the doomed resistance, and closes with a parallel destruction.",
+      "parts": [
+       {
+        "label": "Recap of part one",
+        "detail": "Begins heri audivimus and restates the disarmament before the new action."
+       },
+       {
+        "label": "The senate's verdict",
+        "detail": "Carthage may rebuild but not by the sea, a condition impossible for a trading people."
+       },
+       {
+        "label": "Three years of resistance",
+        "detail": "The unarmed Carthaginians, even the women cutting their hair for catapults, fight bravely yet lose."
+       },
+       {
+        "label": "The author's judgment",
+        "detail": "Calls the Romans and Masinissa wicked for the destruction that left nothing standing."
+       },
+       {
+        "label": "Corinth in the same year",
+        "detail": "Adds that Rome also razed the Greek city, deserted for a hundred years."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "heri",
@@ -3507,6 +4043,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new pronoun hic (this) and for the pluperfect passive (had been done) formed with erat or erant.",
      "original": "Tiberius Gracchus fuit patricius nativitate. Sed motus est misericordia pro pauperibus. Viri enim pauperes multi fuerunt in urbe Romana. Illi pauperes habuerant agros. Pauperes non potuerant remanere in agris. Habuerant enim parvos agros. Sed divites habuerunt magnos et multos agros. Divites habuerunt multos servos. Servi non acceperunt pecuniam pro laboribus. Ergo pauperes non potuerunt tenere agros suos. Pauperes venerunt in urbem. Sed etiam in urbe fuerunt multi servi. Pauperes non voluerunt esse servi. Sed fere nihil acceperunt pro laboribus in urbe. Et fere nemo voluit conducere illos.\nTiberius Gracchus ergo voluit dare agros pauperibus (to the poor). Itaque proposuit legem novam in senatu. Sed senatores non amaverunt novam legem. Per legem novam enim senatores debuerunt dare partem agrorum suorum pauperibus. Non omnes agri senatorum re vera erant agri senatorum. Senatores enim tenuerunt etiam multos agros publicos. Illi agri re vera non erant agri senatorum--erant agri publici. Sed senatores non voluerunt dare illos agros pauperibus. Quia senatores non voluerunt novam legem, Gracchus venit in comitia tributa. Plebs in comitiis tributis voluerunt habere novam legem Gracchi. Gracchus etiam fecit multa alia quae (which) senatus non amavit. Ergo quidam senatores fecerunt turbam. Illa turba interfecit Tiberium Gracchum.",
      "explanation": "**NUNC COGITEMUS.** **Nominative, objective, and ablative of hic.** Hic is the mate to ille. Ille means **that**; hic means **this**. The forms of hic are almost as easy. The masculine runs hic, hunc, hoc in the singular and hi, hos, his in the plural; the feminine runs haec, hanc, hac and hae, has, his; the neuter runs hoc, hoc, hoc and haec, haec, his. The factor that confuses the picture somewhat is the addition of the letter c to some of the endings. Without that, we could easily see that hunc and hanc once had endings in -um and -am, and the ablative singulars hoc and hac are obvious without the c. We must admit that the three nominative singular forms hic, haec, hoc are just plain odd, as is also the neuter plural haec, but hic is such a common word that we shall soon get used to it.\n**Pluperfect passive.** We know how to say He was conquered or has been conquered, using the last part of the verb with est or sunt. If we want to say He had been conquered, we use erat or erant. Thus Romanus exercitus victus erat means The Roman army had been conquered, and Multi milites interfecti erant means Many soldiers had been killed. Recall that in making the pluperfect active we also used erat and erant, but in the active they became endings, not separate words, as in vicerat, vicerant.\n**Suus.** Recall the sentence in the story, Non potuerunt tenere agros suos, They were not able to keep their fields. Suus may mean his own, her own, their own, and the word **own** need not be used, but suus really means that. If their fields meant someone else's fields rather than their own fields, we could not use suus; we would need eius for the singular and eorum for the plural, which are possessive forms of a pronoun and do not agree in gender, number, and case as suus does.",
+     "divisio": {
+      "overview": "The reading sets up the plight of the poor, then traces Gracchus's reform from proposal to deadly opposition.",
+      "parts": [
+       {
+        "label": "The poor driven off the land",
+        "detail": "Explains how slave-worked estates of the rich left small farmers landless and jobless in the city."
+       },
+       {
+        "label": "Gracchus proposes the law",
+        "detail": "Moved by pity, he brings a land bill to the senate to give fields to the poor."
+       },
+       {
+        "label": "Senate resistance over public land",
+        "detail": "Senators refuse because the law would force them to surrender public fields they held."
+       },
+       {
+        "label": "Appeal to the assembly and his death",
+        "detail": "Gracchus turns to the comitia tributa, and certain senators raise a mob that kills him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "erant",
@@ -3691,6 +4248,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the present active singular verbs (parat, monstrat, manet, habet, vult) running alongside the past-tense narration.",
      "original": "Diebus Tiberi Gracchi senatus Romanus corruptus erat. Tiberius ambitiosus fuerat: fecit quaedam mala. Fecit quaedam etiam contra consuetudinem. Sed senatus non debuit interficere illum. Hoc re vera monstravit corruptionem senatus Romani. Erat etiam alius Gracchus, Gaius nomine. Tiberio interfecto, Gaius non timuit. Hic etiam proposuit legem de agris. Sed hic etiam non potuit contra senatum pugnare. Sed corruptio senatus praesertim monstrata est in bello cum Iugurtha.\nAudivimus de Masinissa, rege Numidiae. Filius Masinissae erat Micipsa. Quando Micipsa mortuus est (died) Hiempsal et Adherbal debuerunt accipere Numidiam. Hiempsal et Adherbal erant filii Micipsae. Iugurtha erat nepos Micipsae. Iugurtha debuit accipere partem Numidiae, cum filiis Micipsae. Sed Iugurtha interfecit Hiempsalem. Hiempsale interfecto, Iugurtha expulit Adherbalem ex Numidia. Adherbal rogavit senatum Romanum mittere auxilium. Sed senatus dedit partem orientalem Numidiae illi (to him) et partem occidentalem Iugurthae (to Jugurtha). Iugurtha probabiliter dederat aurum: pars enim occidentalis erat melior.\nParte occidentali accepta, Iugurtha bellum fecit cum Adherbale. In hoc bello, Iugurtha interfecit Adherbalem. Sed senatus Romanus voluit nihil facere-probabiliter acceperant aurum ab Iugurtha. (Continued tomorrow--continuabitur cras.)",
      "explanation": "**NUNC COGITEMUS.** Some time ago we learned the present active infinitive: all such infinitives end in **-re**, but the vowel ahead of the -re differs, and that difference marks four classes of verbs, the four conjugations. Counting the ending as the -re plus the letter ahead of it, the conjugations are: 1. -are, 2. -ere (long e), 3. -ere (short e), 4. -ire. The only difference between the second and third is the accent, since the e is short in the third and long in the second. To form the present active third singular, remove the ending -are, -ere, -ere, -ire and add: 1. -at, 2. -et, 3. -it, 4. -it. Except for the third conjugation, the vowel in these endings is the same as in the infinitive ending. So we get samples: 1. parat, 2. habet, 3. ponit, 4. venit. The meaning of parat can be rendered he prepares, he does prepare, or he is preparing, since the Latin will stand any of the three translations equally well.",
+     "divisio": {
+      "overview": "The reading argues that the senate is corrupt, first from Gracchus's murder and then through the unfolding Jugurtha affair.",
+      "parts": [
+       {
+        "label": "Gracchus's murder as proof",
+        "detail": "Grants Tiberius did some wrong yet says killing him exposed senatorial corruption."
+       },
+       {
+        "label": "The Numidian succession",
+        "detail": "Lists Micipsa's heirs so the rightful sharers of Numidia are clear before Jugurtha acts."
+       },
+       {
+        "label": "Jugurtha's crimes and the bribe",
+        "detail": "He kills Hiempsal, expels Adherbal, and likely buys the better western part with gold."
+       },
+       {
+        "label": "Second murder and a silent senate",
+        "detail": "Jugurtha kills Adherbal while the bribed senate chooses to do nothing."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "monstrare, monstravit, monstratus",
@@ -3840,6 +4418,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the present third-person plural verbs (the -ant, -ent, -unt, -iunt endings) as the story tells how Marius built a loyal volunteer army.",
      "original": "Senatus iam monstraverat corruptionem suam. Iugurtha enim interfecerat Adherbalem. Sed senatus, probabiliter quia acceperat aurum ab Iugurtha, vult facere nihil. Senatus debet punire Iugurtham. Sed plebs, in comitiis tributis, exclamant: senatus iniustus est. Senatus debet bellum movere cum Iugurtha. Necesse est punire illum. Ergo senatus, coactus a plebe, movit bellum. Sed exercitus Romanus non pugnavit fortiter contra Iugurtham. Et Iugurtha non pugnavit fortiter contra Romanos. Senatus enim non vult bellum cum Iugurtha. Et hic non vult bellum cum Roma. Simulaverunt bellum. Finis belli venit anno centesimo undecimo (111 BC) ante Christum. Mox Iugurtha interfecit virum quando in urbe Romana erat. Magna audacia erat. Itaque Roma rursus movit bellum cum Iugurtha. Etiam senatus nunc ira motus est contra Iugurtham.\n\nSed Roma non habet victoriam statim. Itaque plebs creavit novum imperatorem: facit Marium imperatorem. Marius electus est consul anni centesimi septimi (107). Marius non voluit habere milites ex delectibus. Milites ex delectibus non voluerunt pugnare. Marius voluit habere milites meliores. Itaque promisit agros et pecuniam-hoc modo accepit milites meliores. Hi milites voluerunt pugnare fortiter. Voluerunt accipere bonos agros et pecuniam multam a Mario. Itaque hi milites amaverunt Marium. Speraverunt accipere pecuniam et agros ab illo-non a Roma. Ergo milites Marii vicerunt Iugurtham.",
      "explanation": "This Lectio teaches the **present tense, third person plural** in all four conjugations. Just as the third singular was easy, the third plural simply removes the infinitive ending (-are, etc.) and adds: conjugation 1, **-ant**; conjugation 2, **-ent**; conjugation 3, **-unt**; conjugation 4, **-iunt**. For example: parant, habent, ponunt, veniunt. A few third-conjugation verbs behave like the fourth and take **-iunt**. So far we have met exactly five: accipiunt (from accipere), capiunt (from capere), faciunt (from facere), iaciunt (from iacere), and interficiunt (from interficere). To flag such a verb, the vocabulary will print its -iunt form ahead of the usual three parts, for example accipere: [accipiunt], accipere, accepit, acceptus, receive. Note also the irregular verb velle (to wish): its third singular present is **vult**, and its third plural is simply **volunt**, they wish.",
+     "divisio": {
+      "overview": "The reading runs from the plebs forcing a sham war to Marius's volunteer army that finally wins.",
+      "parts": [
+       {
+        "label": "Plebs compel the senate to war",
+        "detail": "Outraged at the bribed senate's inaction, the assembly forces war on Jugurtha."
+       },
+       {
+        "label": "The sham war",
+        "detail": "Neither side fights hard and the conflict is merely feigned until 111 BC."
+       },
+       {
+        "label": "Murder in Rome reignites it",
+        "detail": "Jugurtha's killing of a man in the city angers even the senate and war resumes."
+       },
+       {
+        "label": "Marius and his volunteer army",
+        "detail": "The plebs make Marius commander; he recruits volunteers with land and money who stay loyal to him and beat Jugurtha."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cogere, coegit, coactus",
@@ -4000,6 +4599,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the ablative absolute (Tarquinio expulso) and the family-of-words verbs built on vocare, ponere, capere, and facere.",
      "original": "In Asia Minore est terra parva, Pontus nomine. Rex Ponti erat Mithradates. Sed ille voluit multas terras vincere. Itaque bellum movit cum aliis terris in Asia Minore. Mithradates enim voluit expellere Romanos ex Asia Minore. In hoc tempore, Romani provinciam habuerunt in parte occidentali Asiae Minoris. Vocaverunt hanc provinciam Asiam. Sed re vera \"Asia\" erat solum pars parva Asiae Minoris. Mithradates etiam interfecit legatum Romanum in hac provincia. Mithradates dixit \"Romani amant aurum.\" Itaque Mithradates infudit aurum calidum in guttur Romani.\n\nSine dubio necesse erat bellum habere cum Mithradate. Romani ergo faciunt Sullam imperatorem contra Mithradatem. Sulla fuerat legatus in exercitu Mari in bello Iugurthino. Sulla erat patricius nativitate, et vir magni ingenii. Sulla non iam amat Marium: Marius est ex parte plebis. Sulla est ex parte senatus.\n\nSed Sulla factus est imperator contra Mithradatem. Sulla ergo discessit ex urbe, cum exercitu magno. Dum Sulla abest ex urbe, tribunus plebis, Sulpicius nomine, proponit novas leges. Una (one) lex revocat Sullam et facit Marium imperatorem. Sulla audivit de nova lege. Ergo Sulla venit rursus ad urbem cum exercitu suo. Sulla interfecit Sulpicium et multos amicos Sulpici. Sed non poterat invenire Marium.\n\n( Continuabitur cras)",
      "explanation": "FAMILIES OF WORDS: It is a great help to our memory to notice that many words come in families. For example, in today's vocabulary we have **revocare**. It belongs to the family of **vocare**, to call. **Re** means back or again, so **re-vocare** means to call back. In the same way **ad** means near or to, giving advocare, adesse, admovere, apponere (ad-ponere), advenire, adstare. **A** or **ab** means from or away, giving abesse, avocare, amovere, abs-tinere (from tenere). Watch for words, mostly verbs, that come in families like these.",
+     "divisio": {
+      "overview": "The reading introduces the eastern threat, names Sulla as commander, and then turns his army back on Rome itself.",
+      "parts": [
+       {
+        "label": "Mithradates attacks Roman Asia",
+        "detail": "The king of Pontus overruns Asia Minor and kills the legate with molten gold."
+       },
+       {
+        "label": "Sulla chosen against him",
+        "detail": "Rome names the patrician Sulla, now estranged from Marius by faction, as commander."
+       },
+       {
+        "label": "Sulpicius revokes the command",
+        "detail": "While Sulla is away a tribune passes a law transferring the command to Marius."
+       },
+       {
+        "label": "Sulla marches on Rome",
+        "detail": "He returns with his army, kills Sulpicius and his allies, but fails to find Marius."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "tempus",
@@ -4203,6 +4823,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the pronoun is, ea, id (he, she, it) and idem (the same), and notice how Sulla uses the proscription lists to license killing.",
      "original": "Sulla in urbem venerat cum exercitu et interfecerat Sulpicium et multos amicos Sulpici. Sed Marium non invenerat-Marius enim evaserat in Africam. Sulla ergo discessit ad Orientem cum exercitu contra Mithradatem. Sed antequam venit in Asiam Minorem, Sulla per Graeciam venit. Mithradates habuit exercitum in Graecia. Sulla itaque pugnavit cum illo in Graecia. Sulla cepit multas Graecas urbes. Sed Sulla etiam rapuit multas res pretiosas ex Graecia. Deinde Sulla navigavit in Asiam Minorem. Ibi multa proelia secunda fecit. Sulla vicit Mithradatem, sed non omnino fregit potestatem illius. Sulla enim non timuit Mithradatem, sed timuit Marium et amicos Mari in urbe. Sulla debuit frangere potestatem Mithradatis, sed hoc non fecit. Mithradates enim potuit pugnare postquam Sulla discessit.\n\nIn urbe, dum Sulla erat in Oriente, bellum civile fuerat inter amicos Mari et senatum. Multi Romani interfecti erant, Marius enim venerat in urbem cum exercitu. Per quinque (V) dies, trucidatio fuerat in urbe. Decem millia (10,000) interfecti erant.\n\nErgo quando Sulla venit in urbem, rursus bellum civile venit. Marius non iam erat in urbe. Marius non iam erat in hac vita. Sed Sulla quotidie posuit in foro nomina proscriptorum: Sulla dixit \"licet interficere hos proscriptos.\" Ergo fere quinque (V) millia interfecti sunt. (Continuabitur cras)",
      "explanation": "**Is, ea, id** can serve either as a pronoun or as a demonstrative adjective. As a pronoun it means he, she, it, and the plural is they. As an adjective it means this or that. Its forms are not hard to learn. The singular runs Nom. **is, ea, id**, Obj. **eum, eam, id**, Abl. **eo, ea, eo**, and the plural Nom. **ei (ii), eae, ea**, Obj. **eos, eas, ea**, Abl. **eis (iis)**. Which forms differ from bonus type adjectives? Only two, **is** and **id** (the neuter nominative and objective are the same, but that is usual). So if we memorize just the top three forms, **is, ea, id**, the rest is obvious. What is the difference between **is, ea, id** meaning this or that, and **hic** or **ille**? It is much weaker, it cannot even make up its mind whether to be this or that. **Idem** means the same. Its declension is easy, just add **-dem** to is, ea, id: **idem, eumdem, eodem; eidem, eosdem, eisdem** (masc.), **eadem, eamdem, eadem; eaedem, easdem, eisdem** (fem.), **idem, idem, eodem; eadem, eadem, eisdem** (neut.). We do not keep two d's, so we do not write iddem but **idem**, and never isdem. Sometimes **eumdem** is spelled **eundem**, and similarly **eamdem** may be spelled **eandem**. A word of warning about secundus: we have taken for granted that it means second, and it does, but sometimes an old familiar word has talents we do not dream of. Thus **secundus** can also mean favorable or successful, so in Latin we have to watch even our friends.",
+     "divisio": {
+      "overview": "A narrative that follows Sulla's movements in four stages: his seizure of Rome, his eastern campaign against Mithradates, the civil war that erupts at Rome while he is away, and the proscriptions after his return.",
+      "parts": [
+       {
+        "label": "Sulla seizes Rome and Marius escapes",
+        "detail": "Sulla enters the city with his army, kills Sulpicius and his friends, but Marius slips away to Africa."
+       },
+       {
+        "label": "The eastern campaign",
+        "detail": "Sulla marches east, fights Mithradates through Greece, plunders treasures and wins battles in Asia Minor, yet fails to break Mithradates' power because he fears Marius at home."
+       },
+       {
+        "label": "Civil war at Rome in Sulla's absence",
+        "detail": "While Sulla is away, war breaks out between Marius' friends and the senate, with five days of butchery and ten thousand dead."
+       },
+       {
+        "label": "Sulla's return and the proscriptions",
+        "detail": "Sulla comes back to find Marius gone and dead, posts the names of the proscribed daily, and authorizes the killing of five thousand more."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "evadere, evasit, evasus",
@@ -4374,6 +5015,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the relative pronoun qui, quae, quod (who, which, that) and notice how it points back to a noun named earlier.",
      "original": "Sulla ergo et amici Sullae interfecerunt fere quinque millia civium Romanorum. Fecerunt haec in anno octogesimo secundo (82) ante Christum. Eodem anno, Sulla factus est Dictator. Cincinnatus fuerat Dictator per paucos dies. Sulla amavit senatum, sed non amavit plebem. Ergo Sulla fecit multas leges. Hae leges fecerunt potestatem senatus maiorem. Sed Sulla non debuit facere potestatem senatus maiorem. Senatus enim corruptus erat. Sed Sulla erat caecus. Postquam leges multas (multae ex eis erant malae) fecit, Sulla Dictaturam deposuit in anno septuagesimo nono (79). In anno septuagesimo octavo (78) discessit ex hac vita.\nIn exercitu Sullae fuerat Gnaeus Pompeius. Is fortiter pugnaverat pro Sulla contra amicos Mari. Pro his laboribus acceperat titulum \"Magnus.\" Pompeius enim humilitatem non amavit. Sed postquam Sulla discessit ex hac vita, Pompeius fecerat nomen suum magnum multis bellis. Pompeius etiam factus est consul anni septuagesimi (70). Crassus fuit consul cum Pompeio. Crassus fuerat legatus Sullae. Sed Pompeius et Crassus, quamquam fuerant amici Sullae, deleverunt fere omnes leges novas Sullae. Itaque omnes labores Sullae ad nihil venerunt! Post hunc annum septuagesimum ante Christum, Pompeius accepit alia imperia extraordinaria: pugnavit contra piratas Ciliciae, contra Mithradatem, contra Tigranem, et contra Judaeos.",
      "explanation": "Today's grammar note is the relative pronoun **qui, quae, quod**, meaning who, which, that. Its three nominative forms are the only really strange ones: qui (masculine), quae (feminine), quod (neuter). The other forms jump about the first three declensions: the feminine stays mostly first declension (quae, quam, qua), the masculine and neuter borrow from the second and third (qui, quem, quo, plural qui, quos, quibus), and the ablative plural for all genders is quibus. Here is the key principle: **the relative agrees with its antecedent in gender and number, but NOT in case**. Its case is decided by its own job in its own clause. For example, in Marcus vidit Mariam, quae amavit agnum (Marcus saw Mary, who loved the lamb), quae is feminine and singular because it refers back to Mary, the antecedent, but it is nominative because it is the subject of amavit.",
+     "divisio": {
+      "overview": "The passage moves from the close of Sulla's career to the career of Pompey, with the two men's deeds set in deliberate contrast.",
+      "parts": [
+       {
+        "label": "Sulla as Dictator",
+        "detail": "After the killing of five thousand citizens in 82, Sulla becomes Dictator and passes many laws to enlarge the corrupt senate's power, though he should not have."
+       },
+       {
+        "label": "Sulla abdicates and dies",
+        "detail": "Blind to the danger, Sulla lays down the dictatorship in 79 and departs this life in 78."
+       },
+       {
+        "label": "Pompey rises through Sulla's wars",
+        "detail": "Gnaeus Pompeius, who fought bravely for Sulla, wins the title 'Magnus' and builds his name through many wars."
+       },
+       {
+        "label": "Pompey and Crassus undo Sulla's work",
+        "detail": "As consuls in 70 the two former friends of Sulla repeal nearly all his new laws, and Pompey then takes on extraordinary commands against pirates and foreign kings."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "quamquam",
@@ -4530,6 +5192,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the pronouns quidam (a certain), ipse (himself, herself), and se (the reflexive that refers back to the subject).",
      "original": "Sed primo saeculo ante Christum fuerunt multi viri magni. Inter hos erat Gaius Iulius Caesar. Caesar venit in hunc mundum in anno centesimo (100) ante nativitatem Christi. Bellum civile inter Marium et Sullam accidit in iuventute Caesaris. Caesar erat ex parte Mari. Ex exemplo Mari et Sullae, Caesar didicit quod vir audax cum exercitu poterat capere Romam et facere omnia quae voluit. Anno octogesimo tertio (83), Caesar duxit Corneliam, filiam Cinnae in matrimonium. Cinna erat amicus Mari. Sulla ergo motus est ira. Sulla iussit Caesarem relinquere hanc uxorem. Sed Caesar negavit. Necesse erat fugere ex urbe. Caesar ergo fugit in montes. Sed inventus est ab amicis Sullae, et ductus est ad Sullam. Sulla voluit punire Caesarem. Amici Caesaris rogaverunt Sullam, et non punivit Caesarem. Sed Sulla dixit: \"Multi Marii sunt in illo viro.\"\nSed Caesar non remansit in urbe. Postquam autem Sulla discessit ex hac vita, Caesar venit rursus in urbem. Sed voluit esse orator magnus. Ergo navigavit ad insulam Rhodum, in qua erat magister magnus rhetoricae artis: Molo. Sed navis in qua Caesar erat capta est a piratis. Necesse erat dare multam pecuniam piratis (to the pirates). Hoc modo Caesar evasit ex manibus piratarum. Sed antequam navigavit ad insulam in qua Molo erat, Caesar voluit piratas punire. Itaque invenit naves alias et invenit piratas. Crucifixit omnes.\nHoc enim promiserat, quando erat in captivitate piratarum.",
      "explanation": "**QUIDAM:** The English word certain is tricky. Sometimes it means something definite (I am certain it is true), but sometimes it is indefinite (a certain man is coming). Latin uses certus when it really is certain, but **quidam** when it is indefinite. Quidam is easy to decline, just add -dam to the relative qui, quae, quod. Sometimes an m of the ending before -dam is changed to n, but not always. The neuter nominative-objective singular may be either quoddam (the adjective form, when it modifies something) or quiddam (the pronoun form, when it stands alone), for quidam may be either adjective or pronoun. **IPSE** is declined exactly like ille except for the neuter nominative-objective singular, which is ipsum. **Ipse** means himself, herself, themselves, myself, yourself, and so on. It is a strengthener, adding the suffix -self to any pronoun in English. So He himself came is **Ipse venit**, and Caesar himself killed them is **Caesar ipse interfecit eos**. **SE (the reflexive):** But Caesar killed himself is different. Here himself is a pronoun that refers BACK TO THE SUBJECT, so it is a REFLEXIVE. We may not use ipse; we need **se**: Caesar interfecit se. In the ipse examples above, himself is part of the subject and cannot refer back to it. Put both together in Caesar himself killed himself: **Caesar ipse interfecit se**. **FORMS OF SE** (no nominative): possessive sui, dative sibi, objective se (or sese), ablative se (or sese). Singular and plural are the same. Sometimes ipse reinforces se: Caesar interfecit seipsum.",
+     "divisio": {
+      "overview": "The reading introduces Caesar, then tells two episodes of his youth: his defiance of Sulla over his marriage, and his later capture by and revenge upon the pirates.",
+      "parts": [
+       {
+        "label": "Introducing Caesar",
+        "detail": "Caesar is named among the great men of the first century, born in 100, raised on Marius' side, and quick to learn from Marius and Sulla what a bold man with an army could do."
+       },
+       {
+        "label": "The clash with Sulla over Cornelia",
+        "detail": "Caesar marries Cinna's daughter, refuses Sulla's order to leave her, flees to the mountains, is caught, and is spared only when his friends intercede."
+       },
+       {
+        "label": "Return and capture by pirates",
+        "detail": "After Sulla's death Caesar sails toward Rhodes to study rhetoric under Molo, but his ship is taken and he buys his freedom with money."
+       },
+       {
+        "label": "Revenge on the pirates",
+        "detail": "Caesar hunts down the pirates with other ships and crucifies them all, fulfilling the promise he had made in captivity."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "accidere, accidit",
@@ -4723,6 +5406,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Caesar gains nearly all the power, ties himself to Pompey by marriage, and finds Gaul divided into three parts.",
      "original": "Caesar factus est consul anni quinquagesimi noni (59). Collega Caesaris erat Bibulus. Sed Bibulus non erat vir magnus. Caesar ergo habuit fere omnem potestatem. Caesar, Pompeius, et Crassus facti sunt amici. Vocaverunt se \"Triumviri.\" Id est, fecerunt Primum Triumviratum. Hi tres fecerunt omnia quae voluerunt facere in urbe. Pompeius enim et Caesar erant viri militares magni. Crassus erat vir divitissimus in urbe. Non ergo erat difficile rapere omnem potestatem. Pompeius duxit Iuliam in matrimonium. Iulia erat filia Caesaris. Hoc modo novum vinculum creatum est inter Caesarem et Pompeium.\nIn hoc tempore, Caesar erat bonus imperator, sed voluit facere nomen maius. Pompeius enim, multis nationibus victis, erat maximus imperator. Et Caesar non habuit magnum amorem humilitatis. Caesar ergo voluit accipere magnam provinciam et magnum exercitum post consulatum suum.\nProvincia Caesaris erat Illyricum et Gallia. In exercitu quem accepit, Caesar habuit quattuor legiones. Cum his legionibus, Caesar venit in Galliam. Pompeius et Crassus autem non venerunt in Galliam: remanserunt in urbe. Exercitu in Galliam ducto, Caesar invenit quod Gallia erat divisa in tres partes. Galli pugnaverunt saepe inter se. Caesar etiam scivit quod Galli olim ceperant Romam-id est, fere totam urbem-sed anseres servaverant Capitolium.",
      "explanation": "This Lectio reviews old forms (VIDEAMUS FORMAS VETERES) rather than teaching a new one. Practice declining together a noun with its modifier, such as **quidam vir** (a certain man), **Maria ipsa** (Mary herself), **quoddam vinculum** (a certain bond), and **idem exercitus** (the same army), keeping each pair in agreement. Review the present tense of verbs you have met, for example it happens (accidit), they are learning (discunt), they receive (accipiunt), they do capture (capiunt), they are fighting (pugnant), they come (veniunt), they do have (habent). Then review the pluperfect passive: it had been broken (fractum erat), he had been seized (captus erat), she had been recalled (revocata erat). Notice in the story how the ablative absolute works, as in **multis nationibus victis** (many nations having been conquered) and **Exercitu in Galliam ducto** (the army having been led into Gaul), where a noun and participle in the ablative set the scene for the main clause.",
+     "divisio": {
+      "overview": "The passage traces Caesar's path to the Gallic command in four steps: his consulship and the triumvirate, his ambition for a greater name, his arrival in a divided Gaul, and a closing note on the Gauls' earlier sack of Rome.",
+      "parts": [
+       {
+        "label": "Consulship and the triumvirate",
+        "detail": "Caesar is consul in 59 beside the weak Bibulus, joins Pompey and Crassus as the First Triumvirate, and seals it by marrying his daughter Julia to Pompey."
+       },
+       {
+        "label": "Caesar's ambition",
+        "detail": "Though already a good commander, Caesar envies Pompey's greater fame and, loving no humility, seeks a large province and army after his consulship."
+       },
+       {
+        "label": "Arrival in Gaul",
+        "detail": "Granted Illyricum and Gaul, Caesar brings four legions while Pompey and Crassus stay in Rome, and finds Gaul divided into three parts."
+       },
+       {
+        "label": "The Gallic background",
+        "detail": "Caesar recalls that the Gauls, who often fought among themselves, had once taken nearly all of Rome, though the geese saved the Capitol."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "dividere, divisit, divisus",
@@ -4910,6 +5614,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Most introduces the present passive: an active verb plus the letters -ur, so that Caesar vincit (Caesar conquers) becomes vincitur (he is conquered). Notice the new passive forms scattered through Caesar's Gallic campaign.",
      "original": "Quia Caesar scivit quod Galli olim ceperant Romam, voluit vincere ipsos. Romani enim semper timuerant Gallos. Caesar etiam voluit habere exercitum magnum-scivit ea quae Marius et Sulla fecerant cum exercitibus. Marius enim et Sulla habuerunt exercitus qui exspectaverunt praemia ab illis, non a Roma. Itaque hi exercitus semper fecerunt omnia quae Marius et Sulla iusserunt-etiam ceperunt Romam ipsam. Caesar probabiliter potuit praevidere bellum cum Pompeio; itaque voluit habere exercitum virorum qui exspectaverunt praemia ab ipso, non a Roma. Talis exercitus pugnaret (would fight) etiam in bello civili.\n\nCaesar erat in Gallia per novem (9) annos. In his annis vicit omnem Galliam. Ante hoc tempus, Romani tenuerant solum parvam partem Galliae-partem quae vocata est \"Provincia.\" Illa provincia erat in Gallia meridionali.\n\nCaesar etiam venit trans flumen Rhenum in Germaniam. Insuper navigavit in Britanniam. Sed non vicit omnem Britanniam. Nec vicit omnem Germaniam. Germani enim et Britanni fuerunt viri fortes. Verum est quod quidam Britanni victi sunt, sed non omnes. Difficile erat tenere Britanniam.\n\nSed Pompeius remanserat in urbe. Ille audivit de victoriis magnis Caesaris. Victoriis Caesaris auditis, Pompeius motus est invidia contra Caesarem. Uxor enim Pompei (quae fuerat filia Caesaris) discesserat ex hac vita. Pompeius ergo fecit consilia contra Caesarem; voluit delere Caesarem. (Continuabitur cras)",
      "explanation": "**Present passive, third singular and plural.** You already know the present active third person, as in **Caesar vincit Galliam** (Caesar conquers, does conquer, is conquering Gaul). To say Caesar **is conquered** or **is being conquered**, simply add the two letters **-ur** to the active endings. So the third singular endings become -atur, -etur, -itur, -itur, and the third plural endings become -antur, -entur, -untur (some have -iuntur), and -iuntur. So **interficiuntur** means they are killed, **ducuntur** they are led, **videntur** they are seen. **Present infinitive passive.** You know **invenire**, to find. To make it say to BE found, in all but the third conjugation just change the final e of the infinitive to i: parari (to be prepared), haberi (to be had), inveniri (to be found). In the third conjugation, substitute the letter i for the whole -ere, so **capere** becomes **capi** (to be seized). This is why the key sentence reads **Hannibal interfici debet**, Hannibal ought to be killed.",
+     "divisio": {
+      "overview": "The passage gives Caesar's two motives for the Gallic war, then summarizes the nine years of campaigning, and closes by turning back to Pompey's growing hostility.",
+      "parts": [
+       {
+        "label": "Why Caesar wanted to conquer Gaul",
+        "detail": "Because the Gauls had once taken Rome and were always feared, Caesar resolves to defeat them."
+       },
+       {
+        "label": "The army loyal to himself",
+        "detail": "Recalling how the armies of Marius and Sulla looked to their generals rather than to Rome, Caesar wants such a force for a likely war with Pompey."
+       },
+       {
+        "label": "The nine years of conquest",
+        "detail": "Caesar subdues all Gaul, crosses the Rhine into Germany and sails to Britain, but cannot fully hold those lands of brave men."
+       },
+       {
+        "label": "Pompey turns against Caesar",
+        "detail": "Hearing of Caesar's victories and now that Julia is dead, Pompey is moved by envy and begins to plot Caesar's destruction."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "exspectare, avit, atus",
@@ -5061,6 +5786,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Most introduces the dative case while telling how Pompey schemed to strip Caesar of his special privilege.",
      "original": "Hic est modus quo Pompeius voluit delere Caesarem: voluit cogere eum redire in urbem sine exercitu et sine magistratu. Vir enim qui tenet magistratum, non potest in iudicium vocari. Pompeius voluit accusare Caesarem. Sed Caesar scivit consilia Pompei-Caesar ergo rogaverat et acceperat privilegium a plebe: Caesar poterat petere consulatum quamquam in urbe non erat. Pompeius voluit delere hoc privilegium. Pompeius ipse non erat in senatu Romano in hoc tempore. Pompeius enim habuit exercitum. Necesse erat aut dimittere exercitum aut non venire in senatum. Pompeius non voluit dimittere exercitum, quia praevidit bellum cum Caesare. Ergo Pompeius ipse non venit in senatum, sed amici Pompei venerunt in senatum pro eo.\nCaesar miserat epistulam ad senatum, in qua explicavit id quod voluit. Etiam explicavit privilegium quod habuit a plebe. Quamquam haec vera erant, inimici Caesaris in senatu habuerunt orationes multas contra Caesarem. His orationibus auditis (et quia multi inimici Caesaris erant in senatu) senatus iussit Caesarem dimittere exercitum ante certum diem.\nSed in senatu fuerunt etiam duo tribuni plebis. Hi erant amici Caesaris. Hi duo tribuni intercesserunt pro Caesare. Senatus ergo debuit revocare decretum contra Caesarem. Quia tribuni habuerant hanc potestatem ex tempore in quo plebs discessit ex urbe in Montem Sacrum. Sed senatus non voluit revocare decretum. Senatus corruptus erat: non facit id quod debet facere. Quid ergo debent tribuni facere? Quid debet Caesar ipse facere? (Continuabitur)",
      "explanation": "USE OF THE DATIVE CASE: The last of the generally used cases that we need to learn is the dative, the indirect object case. It expresses many ideas which English expresses by **to** or **for**. But notice a difference in these two sentences: (1) Venit ad urbem, He came to the city. (2) Dedit praemium militibus, He gave a reward to the soldiers. Both sentences have the same word **to**, but in one we use **ad**, in the other we use the dative. Why? Because in the first sentence someone is going somewhere, there is motion from place to place. But in the second sentence there is no motion from place to place. Therefore the idea of **to** is expressed by **ad** with the objective when it involves motion from place to place, and by the **dative** when it does not involve motion from place to place. FORMS OF THE DATIVE CASE (the endings for the five declensions, gender makes no difference): 1st nautae, nautis; 2nd agno, agnis; 3rd militi, militibus; 4th senatui, senatibus; 5th diei, diebus. Notice that in the plurals the datives are the same as the ablatives, so out of the ten new endings, five are not really new. WORD ORDER SANDWICHES: Sometimes we find sandwiches in the word order, such as Caesar magnum habuit exercitum, Caesar had a LARGE army. We take the phrase magnum exercitum, cut it open, and insert another word, habuit. Some writers use this only for emphasis, much like capitals on the word LARGE; others use it often merely because they like it.",
+     "divisio": {
+      "overview": "The passage unfolds in four moves: Pompey's plan against Caesar and Caesar's protective privilege, Pompey acting through friends from outside the senate, the senate's order that Caesar disband his army, and the tribunes' veto met by a defiant senate, ending in open questions.",
+      "parts": [
+       {
+        "label": "Pompey's plan and Caesar's privilege",
+        "detail": "Pompey wants to force Caesar back to Rome without office so he can be accused, but Caesar has won from the people the privilege of seeking the consulship while absent."
+       },
+       {
+        "label": "Pompey works from outside the senate",
+        "detail": "Keeping his army and so staying out of the senate himself, Pompey has his friends act there on his behalf."
+       },
+       {
+        "label": "The senate orders Caesar to disband",
+        "detail": "Caesar's letter explaining his case is outweighed by his enemies' many speeches, and the senate orders him to dismiss his army by a fixed day."
+       },
+       {
+        "label": "The tribunes' veto and an open question",
+        "detail": "Two friendly tribunes veto the decree, but the corrupt senate refuses to recall it, leaving the reader to ask what the tribunes and Caesar should now do."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "accusare, avit, atus",
@@ -5232,6 +5978,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for deponent verbs (passive in form but active in meaning, like locutus est and secutus est) and for town names used without a preposition (Brundisium, Brundisio).",
      "original": "Senatus fecerat rem malam--egerat contra intercessionem tribunorum. His factis, tribuni fugerunt ad Caesarem. Caesar ergo dixit: \"Senatus egit contra leges. Necesse est defendere leges.\" Flumen Rubico erat finis meridionalis provinciae Caesaris. Lex dixit quod Caesar non debuit iter facere trans Rubiconem cum exercitu-sed senatus iam egerat contra leges. Caesar ergo dixit quod debuit defendere leges. Caesar duxit exercitum suum trans Rubiconem. Sed non necesse erat pugnare statim. Oppida enim Italiae aperuerunt portas Caesari sine pugna.\n\nPompeius et senatus audiverunt quod oppida aperuerant portas Caesari sine pugna. His auditis timuerunt remanere in urbe. Fere omnes senatores et amici fugerunt ex urbe, et venerunt in partem meridionalem Italiae. Sed Pompeius et exercitus venerunt in quoddam oppidum quod vocatum est Brundisium. Brundisium enim erat portus ex quo naves navigaverunt in Graeciam.\n\nSed Caesar et exercitus etiam venerunt Brundisium (to Brundisium). Voluerunt pugnare cum Pompeiano exercitu. Sed non poterant pugnare cum eis, quia Pompeius posuit milites suos in naves, et navigavit ad Graeciam. Caesar non poterat sequi (to follow) eos, quia nullae naves remanserunt in illo oppido. Caesar ergo discessit Brundisio (from Brundisium), et iter fecit in Hispaniam. In Hispania enim legati Pompei habuerunt exercitum alium. Interea naves factae sunt pro Caesare. (Continuabitur)",
      "explanation": "**Deponent verbs** are friendly: they have only two parts, not three, because they have nothing but passive forms. So we get (1) the passive infinitive (recognize the conjugation as usual, for example -ari is first but -i is third) and (2) the perfect passive third singular. But although the forms are passive, the meanings are all active. Therefore **sequi** has a passive form but means to follow (not to be followed), and **secutus est** means he followed (not he was followed). Likewise **loqui** means to speak and **locutus est** means he spoke, and **conari** means to attempt. **Going to or from towns and cities:** there is an odd thing about the construction used with names of towns and cities. We would expect venit ad Romam, or in Romam, or ex Roma, or a Roma. But we get venit Romam, or Romam, or Roma, or Roma. In other words we use the same cases, the objective to go to and the ablative to go from, but as a rule no preposition. Sometimes the preposition is used, especially when we mean the vicinity of a town, but usually we get no preposition. So the story says venerunt Brundisium (to Brundisium) and discessit Brundisio (from Brundisium).",
+     "divisio": {
+      "overview": "A chronological march of cause and pursuit, moving from the senate's provocation to Caesar's advance, the enemy's flight to Brundisium, and Caesar's redirection toward Spain.",
+      "parts": [
+       {
+        "label": "Provocation and crossing",
+        "detail": "The senate acts against the tribunes' veto, the tribunes flee to Caesar, and he claims the laws must be defended and leads his army across the Rubicon."
+       },
+       {
+        "label": "Bloodless advance",
+        "detail": "Italian towns open their gates without a fight, so no immediate battle is needed."
+       },
+       {
+        "label": "Flight to Brundisium",
+        "detail": "Pompey and the senate, hearing the towns have yielded, fear to stay and withdraw to the port of Brundisium to sail for Greece."
+       },
+       {
+        "label": "Pursuit blocked and redirected",
+        "detail": "Caesar reaches Brundisium but, lacking ships, cannot follow, so he departs for Spain while ships are built for him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "agere, egit, actus",
@@ -5394,6 +6161,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the deponent verbs (moriuntur, sequi, loqui) and the reflexive phrase recipere se, to retreat, as Caesar chases Pompey across the Mediterranean.",
      "original": "Quia non habuit naves in quibus posset (he could) sequi Pompeium, Caesar discessit Brundisio, et iter fecit cum exercitu suo in Hispaniam. Pompeius ipse cum exercitu navigavit in Graeciam. Sed in Hispania fuit exercitus Pompei magnus. Tres legati Pompei duces erant exercitus in Hispania: Afranius, Petreius, et Varro. Caesar mox vicit Petreium et Afranium. Varro etiam se in deditionem dedit. His exercitibus victis, Caesar discessit ex Hispania et rediit Romam. Ibi Lepidus, qui praetor erat, creavit Caesarem Dictatorem. Sed post undecim (XI) dies, Caesar deposuit dictaturam, et consul factus est. In Ianuario, in anno quadragesimo octavo (48), Caesar navigavit in Graeciam. Ibi Pompeius magnum collegerat exercitum. Caesar fere victus est a Pompeio, et coactus est recipere se ad Thessaliam. Thessalia est pars septentrionalis Graeciae. Ibi Caesar pugnavit pugnam magnam cum exercitu Pompei. Pompeius habuit exercitum maiorem, sed milites Caesaris fortiores (braver) erant. Pompeiani enim nimiam confidentiam habuerunt. Pompeius ipse, cum multis ex exercitu suo, fugit in montes. Caesar secutus est eos. Pompeius fugit in Aegyptum; putavit enim quod habuit amicos in illa terra. Sed milites Aegyptii interfecerunt eum. Hoc modo Pompeius, olim magnus imperator, mortuus est. Pompeio mortuo, Caesar pugnavit in Aegypto. Rex enim Aegypti, Ptolomaeus, bellum movit cum sorore sua, Cleopatra. Post finem belli in Aegypto, Caesar iter fecit per Syriam et Asiam Minorem. In hoc itinere vicit Pharnacem, filium Mithradatis. Pharnaces enim auxilium dederat Pompeio. Sed Caesar vicit eum celeriter. Ergo nuntium misit ad senatum. Nuntius dixit, \"Veni, Vidi, Vici.\" (All three words are first person singular perfect) (Continuabitur)",
      "explanation": "This Lectio reviews **deponent verbs**, verbs that are passive in form but active in meaning. Notice **moriuntur** (they die), **sequi** (to follow), **conari** (to attempt), and **loqui** (to speak), along with the reflexive **recipere se** (to retreat, literally to take oneself back). It also drills the present passive: forms like **providetur** (it is foreseen), **rogatur** (it is asked), and **fit** (it is done), which you can then make plural. Watch too the comparative adjectives **maior** (greater) and **fortiores** (braver), and review the ablative-of-place and ablative-of-separation words like **Brundisio** (from Brundisium) and **Romam** (to Rome). The closing message of Caesar, **Veni, Vidi, Vici**, gives three first-person singular perfects.",
+     "divisio": {
+      "overview": "A geographic sweep of campaigns, tracing Caesar from Spain back to Rome, across to Greece against Pompey, into Egypt, and through Asia Minor to the triumphant dispatch.",
+      "parts": [
+       {
+        "label": "Spanish victory",
+        "detail": "Lacking ships, Caesar goes to Spain and defeats Pompey's three legates, taking Varro's surrender."
+       },
+       {
+        "label": "Dictator then consul",
+        "detail": "Caesar returns to Rome, is made Dictator by Lepidus, lays the office down after eleven days, and becomes consul."
+       },
+       {
+        "label": "Great battle in Greece",
+        "detail": "He sails to Greece, is nearly beaten and forced to retreat to Thessaly, then wins a great battle because his smaller force is braver while Pompey's larger, overconfident army falters."
+       },
+       {
+        "label": "Pursuit and Pompey's death",
+        "detail": "Caesar chases Pompey, who flees to Egypt expecting friends but is killed by Egyptian soldiers."
+       },
+       {
+        "label": "Egypt, Asia, and the dispatch",
+        "detail": "Caesar fights in Egypt, then crosses through Syria and Asia Minor to beat Pharnaces and sends the message Veni, Vidi, Vici."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "moriuntur, mori",
@@ -5586,6 +6378,27 @@ window.COURSE_DATA.courses.push({
      "lead": "This Lectio teaches the imperfect tense (continuous or repeated past action). The story itself still leans on the perfect, but watch for the true imperfect forms poterat and erat, and for the third-person singular and plural endings -bat and -bant in the practice sentences like veniebat, colligebat, parabat, monstrabat.",
      "original": "Pharnace victo, Caesar rediit Romam. Sed non remansit diu in urbe. Scivit enim quod amici Pompei, Scipio et Cato, collegerant exercitum magnum in Africa. Caesar celeriter vicit eos. Cato, quia non poterat defendere Uticam, interfecit se. Caesar ergo reversus est Romam, in fine mensis Iulii, anno quadragesimo sexto (46). Quamquam Caesar habuit potestatem maximam, clementiam ostendit inimicis suis. Non odit eos qui pugnaverant pro Pompeio, sed dixit quod non debuit esse differentia inter Pompeianos et Caesarianos. Etiam correxit calendarium, nam diebus illis erat error nonaginta (90) dierum in calendario. Fere habuerunt Iunium in Ianuario!\nSed quamquam ostendit magnam clementiam inimicis, et fecerat nullam differentiam inter Caesarianos et Pompeianos, necesse erat pugnare in novo bello. Pompeius enim habuit duos filios, Sextum et Gnaeum. Hi duo collegerant exercitum novum in Hispania, contra Caesarem. Caesar ergo profectus est in Hispaniam in fine anni quadragesimi sexti. Sed Caesar celeriter vicit eos. Victi sunt in pugna ad Mundam, in mense Martio, anno quadragesimo quinto (45). Pompeianis victis, Caesar reversus est Romam, et venit in urbem mense Septembri. Celebravit triumphum magnum. Re vera, Caesar habuit potestatem regis, sed non habuit nomen regis, nec coronam regalem. Voluitne Caesar accipere coronam regalem? Quidam amicus Caesaris, Marcus Antonius, nomine, voluit dare coronam Caesari in quodam festo publico. Sed Caesar non accepit coronam. Quare non accepit? Quia non voluit an quia timuit accipere eam? Difficile est dicere. (Continuabitur)",
      "explanation": "How to form the **imperfect** tense: begin with the infinitive (the first principal part), as we did with the present tense, and remove the last three letters (-are, -ere, -ere, -ire). For a deponent verb, remove the shorter passive ending, which is -i in the third conjugation. To the remaining base add **-abat** in the first conjugation, and **-ebat** or **-iebat** in the others (verbs whose third plural ends in -iunt take the -iebat form). For the third **plural**, merely insert -n before the final -t, giving forms like parabat / parabant, habebat / habebant, ponebat / ponebant, capiebat / capiebant, audiebat / audiebant. Both the imperfect and the perfect are past tenses, covering English like he heard, he did hear, he was hearing, he has heard. The fourth is especially typical of the perfect, the third especially typical of the imperfect. The difference is like two cameras filming the same fight: the **imperfect** views the continuity or repeated character of an action, like a movie, while the **perfect** merely reports that something happened, like a snapshot. In case of doubt when turning English into Latin, use the perfect. The imperfect active of esse, posse, and velle is irregular: **erat, erant, poterat, poterant, volebat, volebant**.",
+     "divisio": {
+      "overview": "A run of mopping-up victories followed by Caesar's peacetime acts in Rome, closing on the unresolved question of the crown.",
+      "parts": [
+       {
+        "label": "Africa and Cato",
+        "detail": "Caesar quickly beats Scipio and Cato in Africa, where Cato kills himself rather than fail to defend Utica."
+       },
+       {
+        "label": "Clemency and the calendar",
+        "detail": "Back in Rome with supreme power, Caesar shows mercy to enemies, denies any difference between the parties, and corrects the ninety-day calendar error."
+       },
+       {
+        "label": "Spain and Munda",
+        "detail": "Pompey's sons gather a fresh army in Spain, but Caesar defeats them at Munda."
+       },
+       {
+        "label": "Triumph and the refused crown",
+        "detail": "Caesar returns to a great triumph holding a king's power without the name, and refuses the crown Mark Anthony offers, his motive left in doubt."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "colligere, collegit, collectus",
@@ -5767,6 +6580,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the imperfect passive verbs (videbantur, monebatur) and the possessive pronouns (eius, eiusdem, cuius) as the conspiracy against Caesar unfolds.",
      "original": "Caesar non accepit coronam ex manibus Marci Antoni. Sed nihilominus (nevertheless) quidam senatores coeperunt odisse Caesarem. Itaque hi senatores coniurationem fecerunt contra Caesarem. Volebant enim interficere eum. In hac coniuratione erant multi qui videbantur (seemed) esse amici Caesaris. Praesertim Marcus Brutus erat amicus Caesaris. Sed oderunt eum, quia putabant quod volebat facere se regem. Hi coniuratores paraverunt multas sicas. Quidam scriptores dixerunt quod hi coniuratores interfecerunt Caesarem quia amabant Romam. Probabiliter verum est quod amabant Romam; sed etiam sperabant accipere potestatem magnam. Ergo parabant mortem Caesari.\n\nAnte diem mortis, multi monuerunt Caesarem de morte. Sed Caesar nihil fecit de his monitionibus. Coniuratores voluerunt interficere eum in senatu, Idibus Martiis (id est, die decimo quinto mensis Martii). Quidam poeta Britannicus, qui vocatur Shakespeare, scripsit de morte Caesaris. Ille poeta dixit quod in ipso die mortis, quidam vates vidit Caesarem. Vates monuit Caesarem quod debuit cavere Idus Martias. Caesar responsum dedit: \"Idus Martiae iam venerunt\"--et vates respondit: \"Idus Martiae venerunt-sed non discesserunt, Caesar!\" Caesar ergo venit in senatum. Coniuratores circumsteterunt eum. Interfecerunt eum sicis. Hoc modo Caesar mortuus est. Mortuus Caesar cecidit ad pedes statuae Pompei. Pompeius ceciderat in bello cum Caesare. Caesar cecidit ad pedes Pompei!",
      "explanation": "**IMPERFECT PASSIVE:** This is really too easy. We know how to make the imperfect active, so we just add the letters **-ur** to the active endings, singular and plural. Of course, deponent verbs use these passive endings, with active meaning. **POSSESSIVE CASE OF PRONOUNS:** This is also too easy. We are thinking of the pronouns (which are also used as adjectives, as we know): **hic, ille, ipse, is, idem,** and **qui**. The possessive plural pronouns have the same endings as bonus (-orum, -arum, -orum). The singular is still easier, since they all have just one ending for all three genders, and it is **-ius**. Thus: huius, illius, ipsius, eius, eiusdem, and cuius (cuius is from qui). Notice especially the one little word **eius**. It (and the plurals eorum, earum, eorum) serve in place of possessive adjectives when we do not want a reflexive. Of course, they are not adjectives, they are possessive case of a pronoun, so they cannot be made to agree in gender, number, and case like adjectives. But they are very common. The reflexive adjective is **suus**. For example, Marcus interfecit patrem suum means his own father (reflexive), but Marcus interfecit patrem eius means someone else's father (not reflexive). When we mean their in a non-reflexive way (not their own), we use **eorum**.",
+     "divisio": {
+      "overview": "A buildup from conspiracy through ignored warnings to the assassination, ending with an ironic image at Pompey's statue.",
+      "parts": [
+       {
+        "label": "Conspiracy formed",
+        "detail": "Senators who seem to be Caesar's friends, including Brutus, plot against him, prepare daggers, and mix love of Rome with hope of power."
+       },
+       {
+        "label": "Warnings ignored",
+        "detail": "Before the day many warn Caesar, but he does nothing about the warnings as the conspirators fix on the Ides of March."
+       },
+       {
+        "label": "The soothsayer's exchange",
+        "detail": "Shakespeare's scene is cited, where the seer warns Caesar to beware the Ides and answers that they have come but not departed."
+       },
+       {
+        "label": "The murder and its irony",
+        "detail": "In the senate the conspirators surround Caesar and stab him, and he falls dead at the foot of the statue of the Pompey he had defeated."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cavere, cavit, cautus",
@@ -5934,6 +6768,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for present active participles (the -ns words ending in -ing in English) and for ablative absolutes built on them.",
      "original": "In diebus in quibus vivebant Caesar et Pompeius, vivebat etiam alius vir Romanus cuius nomen notum est omnibus. Ille vir erat Marcus Tullius Cicero. Cicero natus est in quodam oppido quod vocabatur Arpinum. Natus est anno centesimo sexto (106) ante Christum. Pater eius non erat ex senatu. Cicero ergo erat vir equestris. Viri equestres (id est, equites) non erant ex senatoria nobilitate, sed nec erant ex plebe. Erant ex ordine inter senatores et plebem. Primis diebus Romae, equites re vera habebant equos, et pugnabant ex equis in exercitibus. Sed diebus Ciceronis, equites non debebant habere equos. Equites habebant pecuniam multam. Cicero ergo erat ex ordine equestri. Cicero habuit fratrem qui vocabatur Quintus. Pater eorum vidit quod volebant discere. Itaque misit eos Romam in scholas bonas. Cicero et frater eius didicerunt multa in scholis. Habuerunt multos magistros claros. Inter hos erant Mucius Scaevola et Archias. Legerunt multos libros bonos. Cicero etiam navigavit in insulam Rhodum. Didicit multa de arte rhetorica a Molone (Caesar etiam didicit artem rhetoricam in schola Molonis). Post haec Cicero reversus est Romam, et coepit habere orationes claras. Defendit Sextum Roscium. Sed etiam offendit Sullam (ille clarus Dictator erat in hac vita illis diebus); ergo melius erat Ciceroni discedere Roma. Navigavit in Graeciam. Ibi invenit quendam Romanum qui vocabatur Atticus. Cicero factus est amicus eius. (Continuabitur)",
      "explanation": "**Present active participles.** We have already met perfect passive participles, which are half verb and half adjective. Present participles are also half verb and half adjective, but they are present and active instead of perfect and passive. Their basic meaning ends in -ing: **milites pugnantes**, fighting soldiers. To form one, take the imperfect tense of the verb, remove the -bat, and add **-ns**: parabat goes to parans, habebat to habens, ponebat to ponens, capiebat to capiens, audiebat to audiens. To decline it, treat it as a third declension adjective, except that its ablative singular may end in either **e** or **i** (a bit more broad-minded than other adjectives); the genitive plural is -ium and the neuter plural is -ia. Use the present participle just as you used the perfect passive, only now it is present and active: as an adjective (milites pugnantes, the fighting soldiers) or in an ablative absolute, where the basic sense is the English -ing form, as in **Caesare exclamante, milites vicerunt** (With Caesar shouting, the soldiers conquered). This can be expanded just like the Lesson 17 patterns: When Caesar was shouting, Because Caesar was shouting, Although Caesar was shouting, If Caesar was shouting, or Caesar was shouting and the soldiers conquered. Finally, the verb to be (est) has no present participle, so when an ablative absolute needs to be, we simply leave the participle out: **Caesare duce, milites pugnaverunt fortiter** (With Caesar being leader, the soldiers fought bravely).",
+     "divisio": {
+      "overview": "A biographical sketch ordered by life stages, from birth and rank through schooling, study abroad, and a return that ends in trouble and another departure.",
+      "parts": [
+       {
+        "label": "Birth and equestrian rank",
+        "detail": "Cicero is introduced beside Caesar and Pompey, born at Arpinum in 106 BC into the equestrian order between senators and the plebs."
+       },
+       {
+        "label": "Education with his brother",
+        "detail": "His father, seeing that he and Quintus wished to learn, sends them to good schools in Rome under famous teachers like Scaevola and Archias."
+       },
+       {
+        "label": "Study at Rhodes",
+        "detail": "Cicero sails to Rhodes to learn rhetoric from Molon, the same teacher Caesar had."
+       },
+       {
+        "label": "Return, offense, and flight",
+        "detail": "Back in Rome he gives famous speeches and defends Roscius, but offends Sulla, so he leaves for Greece and there befriends Atticus."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "legere, legit, lectus",
@@ -6117,6 +6972,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Most contrasts Roman superbia (pride) with Christian humilitas, and how a man not born in the senatorial order could still become consul.",
      "original": "Post annos duos, Cicero reversus est Romam, anno septuagesimo septimo (77). Sulla enim mortuus erat anno septuagesimo octavo. Multas orationes claras habuit. Sed voluit esse consul Romanus. Via ad consulatum erat difficilis homini qui non erat natus in ordine senatorio. Tales homines, qui facti sunt consules, sed non nati sunt in ordine senatorio, vocantur \"homines novi.\" Id est, novi sunt in consulatu et in ordine senatorio. Cicero erat vir equestris. Propter hoc, difficile erat Ciceroni consul fieri.\n\nChristiani habent magnum amorem virtutis humilitatis. Sed Romani non habuerunt magnum amorem huius virtutis. Romani erant superbi. Romani fere amaverunt superbiam. Sed, quamquam Romani erant superbi, videntur esse humiles, si comparantur cum Cicerone. Quamquam Romani non amaverunt humilitatem, tamen non amaverunt superbiam Ciceronis. Et re vera, Sacra Scriptura dicit quod superbia est initium omnis peccati.\n\nCicero electus est consul anni sexagesimi tertii (63). Erat coniuratio in hoc anno. Catilina erat princeps coniurationis huius. Catilina erat vir malus. Catilina debebat multam pecuniam multis hominibus. Voluit habere maximam potestatem. Catilina conatus erat consul fieri, sed non potuit. Cicero et Antonius facti sunt consules. Catilina ergo voluit interficere Ciceronem et rapere omnem potestatem. Quid accidit? (Continuabitur cras)",
      "explanation": "This Lectio reviews old forms (VIDEAMUS FORMAS VETERES) rather than teaching a brand new rule: nihil novi hodie, veteribus studeamus, nothing new today, let us study the old things. Notice the irregular verb **fieri** (to become, to be made), built from the perfect **factus est**: facti sunt consules means they were made consuls, and consul fieri means to become consul. Watch the contrast of two abstract nouns, **superbia** (pride) and **humilitas** (humility, here as virtus humilitatis, the virtue of humility). Most also distinguishes **homo** (a human being in general) from **vir** (a man in the strictly masculine sense): a novus homo is a new man, one not born in the ordo senatorius (senatorial order). The phrase **initium omnis peccati**, the beginning of every sin, shows the genitive of the whole.",
+     "divisio": {
+      "overview": "A narrative interrupted by a moral digression, framing Cicero's rise as a new man and then setting up the Catilinarian threat.",
+      "parts": [
+       {
+        "label": "Return and the new man",
+        "detail": "Cicero comes back to Rome after Sulla's death, gives famous speeches, and seeks the consulship though not born into the senatorial order, the situation that defines a novus homo."
+       },
+       {
+        "label": "Digression on pride",
+        "detail": "Most contrasts Christian love of humility with Roman superbia and even Cicero's pride, citing Scripture that pride is the beginning of every sin."
+       },
+       {
+        "label": "Election and Catiline's menace",
+        "detail": "Elected consul for 63 with Antonius, Cicero faces the wicked debt-ridden Catiline, who, failing to win the consulship, plots to kill Cicero and seize power."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "[fiunt], fieri, factus est",
@@ -6302,6 +7174,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the future tense in the third person: -bit and -bunt in the first and second conjugations, -t and -nt in the third and fourth, plus their passives in -ur.",
      "original": "Vir quidam bonus ex Gallia dixit: Cherchez la femme-id est, necesse est cavere feminas. Et dixit veritatem. Catilina ipse potest dicere Ciceroni: necesse est cavere feminas. Unus enim ex viris qui fuerunt in coniuratione Catilinae habuit amicam. Nomen huius feminae fuit Fulvia. Q. Curius, vir in coniuratione Catilinae, amabat Fulviam. Curius scivit omnia consilia Catilinae. Sed Fulvia semper rogabat eum: \"Quid facit meus vir magnus nunc?\" Et Curius narrabat omnia Fulviae. Fulvia celeriter narrabat omnia quae audiverat Ciceroni. Hoc modo Cicero sciebat omnia consilia Catilinae. Sed Cicero non poterat probare haec in foro. Itaque Cicero non voluit comprehendere Catilinam. Cicero ipse in magno periculo erat. Catilina enim conatus est interficere Ciceronem. Sed Cicero, monitus a Fulvia, semper poterat servare seipsum.\n\nQuodam die Catilina venit in senatum. Cicero habuit magnam et vehementem orationem contra Catilinam. Cicero ostendit Catilinae quod ipse semper poterat scire, sine ulla difficultate, consilia quae Catilina faciebat. Cicero dixit quod Catilina debuit discedere Roma, cum omnibus sociis suis. Catilina, putans quod erat in magno periculo, discessit ex urbe. Sed non solum Fulvia narrabat consilia Catilinae Ciceroni. Etiam quidam viri ex Gallia (non dixerunt cherchez la femme) narraverunt multa de coniuratione. Hoc modo Cicero sciebat viros qui erant in coniuratione. Cicero ergo comprehendit multos ex eis. (Continuabitur)",
      "explanation": "**FUTURE ACTIVE AND PASSIVE.** We have learned how to form the imperfect tense from the infinitive, by dropping the -are, etc., and adding -abat (first conjugation) or -ebat (all others, except that -iunt verbs have -iebat). Now, using the same vowels that we use ahead of the -bat, we can form the future tense with the future endings: **-bit, -bunt** in the first and second conjugations, and **-t, -nt** in the third and fourth conjugations. Thus: parabit, habebit, ponet, capiet, audiet; parabunt, habebunt, ponent, capient, audient. These endings are active, meaning for example he will prepare or he will be preparing. But it is just as easy to make the forms passive, just add **-ur** to any of the above, for example habebitur, habebuntur, capietur, capientur. The meanings of the passive are easy too: he will be captured, they will be captured. FUTURE ACTIVE OF **esse, posse, velle**: erit, erunt, poterit, poterunt, volet, volent.",
+     "divisio": {
+      "overview": "The passage moves from a proverb about women to the chain of informers, then to Cicero's helplessness and danger, and closes with the senate scene that drives Catiline out and the arrests.",
+      "parts": [
+       {
+        "label": "Maxim and its application",
+        "detail": "Opens with the Gaul's 'cherchez la femme' and applies it to Catiline, who must beware women."
+       },
+       {
+        "label": "The chain of leaks",
+        "detail": "Traces how Curius tells Fulvia, who relays Catiline's plans to Cicero."
+       },
+       {
+        "label": "Cicero's dilemma and danger",
+        "detail": "Cicero knows everything but cannot prove it in the forum and is himself nearly assassinated."
+       },
+       {
+        "label": "The senate confrontation",
+        "detail": "One day Catiline enters the senate, Cicero's fierce speech exposes him, and he leaves the city."
+       },
+       {
+        "label": "The Gallic evidence and arrests",
+        "detail": "Other Gauls also reveal the plot, letting Cicero identify and arrest many conspirators."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Gallia",
@@ -6459,6 +7356,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the interrogative pronoun quis, quid (who? what?) and the new perfect infinitives, e.g. interfecisse (to have killed), interfectus esse (to have been killed).",
      "original": "Cicero nunc, quia Galli dederunt epistolas quas acceperunt a coniuratoribus, potest probare ea quae sciverat de coniuratione. Itaque mittit multos coniuratores in carcerem; non omnes mittit in carcerem, quia multi erant cum exercitu Catilinae. Cicero nunc consulit senatum. Multi senatores habuerunt orationes in senatu de hac re. Caesar voluit tenere coniuratores in carcere per reliquam vitam. Sed multi timuerunt facere hoc. Dixerunt: \"Forsan evadent ex carcere. Amici enim eorum venient et liberabunt eos.\" Oratione Caesaris habita, Cato habuit orationem suam. Cato voluit interficere coniuratores in carcere. Senatus ergo consilium dedit Ciceroni. Consilium enim Catonis placuit senatui. Cicero ergo iussit hos coniuratores interfici in carcere. Et factum est.\nSed Catilina ipse non erat in carcere. Erat cum exercitu suo. Catilina sperabat capere Romam. Sed Cicero et senatus etiam habuerunt exercitum magnum. Consul Gaius Antonius erat dux huius exercitus. Sed Antonius aeger pedibus erat. Ergo Marcus Petreius (qui erat legatus Antoni) ducebat exercitum. Catilina habuit orationem magnam. Dixit militibus suis quod necesse erat pugnare fortiter, \"Mors enim exspectabit eos qui capientur.\" Exercitus ergo Catilinae et Catilina ipse fortiter pugnaverunt in magno proelio, sed non poterant vincere. Multi interfecti sunt in proelio, inter quos erat Catilina ipse.",
      "explanation": "**The interrogative quis, quid:** These words mean Who? What? They are pronouns, that is, they stand alone and do not modify anything. (If we want an interrogative adjective, e.g., which thing?, we merely use the same forms as the relative pronoun, qui, quae, quod.) To decline quis, quid, all forms are the same as the relative, except these: **quis** instead of qui, and **quid** instead of quod. In addition, the masculine and feminine are the same in the singular (as in omnis). Therefore we use **quem** and **quo** for both masculine and feminine (not quam and qua). In the plural, everything is exactly the same as qui, quae, quod. So the singular runs: Nom. quis / quid, Poss. cuius / cuius, Obj. quem / quid, Abl. quo / quo. **Perfect infinitives:** The perfect active infinitive is made by substituting -isse for the third singular ending -it. Thus paravisse, to have prepared; habuisse, to have had; cepisse, to have taken. The perfect infinitive passive is made by using the infinitive to be, esse, with the proper form of the perfect passive participle, e.g. interfectus esse, to have been killed. So **Catilina dicitur interfectus esse** means Catiline is said to have been killed, and **Multi dicuntur interfecti esse** means Many are said to have been killed.",
+     "divisio": {
+      "overview": "The passage first resolves the captured conspirators in Rome (Cicero's proof and arrests, the senate debate, the execution), then shifts to the battlefield where Catiline's army loses and he dies.",
+      "parts": [
+       {
+        "label": "Proof and arrests",
+        "detail": "With the Gauls' letters Cicero can now prove the plot and jails many conspirators."
+       },
+       {
+        "label": "The senate debate",
+        "detail": "Caesar urges life imprisonment, others fear escape, and Cato's call for death prevails."
+       },
+       {
+        "label": "Execution ordered",
+        "detail": "The senate advises Cicero, who orders the conspirators killed in prison, and it is done."
+       },
+       {
+        "label": "Catiline's army and command",
+        "detail": "Catiline, still free, hopes to seize Rome, while the sick consul Antonius yields command to Petreius."
+       },
+       {
+        "label": "The final battle",
+        "detail": "Catiline urges his men to fight bravely, they lose the great battle, and he falls among the slain."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "consulere, consuluit, consultus",
@@ -6606,6 +7528,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for indirect statement (objective with the infinitive): a subject in the objective case plus an infinitive verb, instead of a quod clause.",
      "original": "Catilina interfecto, Cicero multos honores accepit. Sed non omnes Romani amaverunt Ciceronem. Multi enim, quamquam in coniuratione ipsa non fuerant, non oderunt consilia Catilinae. Praesertim quidam tribunus plebis, Clodius Pulcher nomine, odit Ciceronem.\nClodius fuit patricius nativitate. Sed Clodius vir malus erat-anno sexagesimo secundo (62) profanaverat mysteria cuiusdam deae quae vocabatur \"Bona Dea.\" Quia Clodius hoc fecerat, Cicero accusavit eum. Sed Clodius dixit quod non fuerat in urbe illo tempore; dixit quod alibi fuerat, in alia urbe. Cicero autem poterat probare quod Clodius re vera fuerat in urbe illo tempore. Propter hanc causam Clodius odit Ciceronem, et voluit habere vindictam.\nItaque, quamquam iam vir adultus erat, Clodius rogavit familiam plebeiam adoptare se, quia voluit esse tribunus plebis. Sed patricii (et Clodius erat patricius nativitate) non poterant fieri tribuni plebis. Propter hanc causam Clodius adoptari voluit. Hoc modo Clodius factus est plebeius. (Nomen Clodi fuerat Claudius-sed plebeii semper dicebant litteram o, pro au. Ergo se vocavit Clodium, non Claudium. Itaque Clodius, iam plebeius factus, non iam patricius, poterat esse tribunus plebis--et re vera factus est tribunus in anno quinquagesimo octavo (58).)\nClodius accusabat Ciceronem quia Cicero iusserat coniuratores interfici sine iudicio coram populo. Dixitne Clodius verum? Difficile est dicere. Sed senatus consilium dedit Ciceroni. Senatus dixit Ciceronem debere interficere coniuratores. Et Cicero fecit id quod senatus voluit. Cicero dixit se non velle comprehendere Catilinam statim. Dixit se velle Catilinam discedere ex urbe cum omnibus sociis. Catilina ergo discessit, sed non omnes socii eius discesserunt cum eo; quidam ex eis comprehensi sunt a Cicerone. Cicero, epistolis a Gallis acceptis, poterat probare illos esse coniuratores contra Romam. Itaque iecit illos in carcerem. Consulit senatum de eis, et placuit senatui interficere eos in carcere. Multi coniuratores interfecti sunt in carcere, sed reliqui coniuratores erant in exercitu Catilinae. Catilina dixit eis necesse esse pugnare fortiter pro vita ipsa, et re vera hoc fecerunt.\nAntonius erat consul in illo anno cum Cicerone, sed Antonius dixit se non posse pugnare. Dixit se esse aegrum pedibus. Et veritatem dixit.",
      "explanation": "INDIRECT STATEMENTS. Take the sentence: He says that Caesar is coming, Dicit quod Caesar venit. There is another way to say the same thing: **Dicit Caesarem venire**. Notice what we have done: we have made Caesar, the subject, to be in the objective case, and we have turned the verb venit (is coming) into an infinitive, venire. The rules are: 1) do NOT translate the English word **that** (English often omits it anyway); 2) make the subject of the **that** clause in the objective case; 3) make an infinitive the verb of the **that** clause. Because we use the objective with the infinitive here, this structure is often called the **objective with the infinitive**. The infinitive is not always present: sometimes we use the perfect, He says that Caesar has come, Dicit Caesarem venisse. If the English begins He said instead of He says, we merely change dicit to dixit: Dixit Caesarem venire, He said that Caesar was coming. Old writers use this structure almost always rather than the quod venit type, so memorize: Dicit Mariam agnum amare (He says that Mary loves the lamb); Dixit Mariam agnum amare (He said that Mary loved the lamb); Dicit Mariam agnum amavisse (He says that Mary has loved the lamb); Dixit Mariam agnum amavisse (He said that Mary had loved the lamb). NOTE: this indirect statement structure comes not only after dixit, but also after other verbs that mean say, think, believe, and so on.",
+     "divisio": {
+      "overview": "The passage explains the origin of Clodius's hatred of Cicero, then narrates his adoption scheme, and finally recapitulates the conspiracy events that gave Clodius his charge.",
+      "parts": [
+       {
+        "label": "Cicero honored, Clodius hostile",
+        "detail": "After Catiline's death Cicero gains honors but the tribune Clodius hates him."
+       },
+       {
+        "label": "The sacrilege and the lie",
+        "detail": "Clodius profaned the Bona Dea rites, lied about being absent, and Cicero disproved him."
+       },
+       {
+        "label": "The adoption stratagem",
+        "detail": "To become tribune of the plebs, the patrician Clodius gets adopted into a plebeian family."
+       },
+       {
+        "label": "The recapitulated charge",
+        "detail": "Clodius accuses Cicero of executing conspirators without trial, retelling the arrests and prison killings."
+       },
+       {
+        "label": "Antonius's excuse",
+        "detail": "Closes by noting that the co-consul Antonius truly pleaded he was sick in the feet."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "profanare, avit, atus",
@@ -6789,6 +7736,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the irregular forms of ire (to go), ibunt, exire, and the new verbs afficio (move, affect) and aggredior (attack), as Clodius drives Cicero out of the city.",
      "original": "Clodius, olim patricius, iam plebeius et tribunus plebis, accusabat Ciceronem quia Cicero iusserat coniuratores interfici sine iudicio coram populo. Cicero re vera hoc fecerat, sed quaestio erat: feceratne hoc iure an non? Multae leges Romanae iam scriptae erant, sed lex fundamentalis, quae vocatur hodie lex constitutionalis-haec lex nullo modo scripta erat in diebus Ciceronis. Difficile erat ergo scire de hac re. Sed certum erat quod Clodius odit Ciceronem, et propter hanc causam aggressus est eum. Tribuni plebis habebant magnam potestatem in illis temporibus, et Clodius non solum conatus est mittere Ciceronem in exsilium, verum etiam poterat mittere eum. Cicero ergo per legem novam coactus est ire in exsilium. Hoc accidit anno quinquagesimo sexto (56). Cicero ergo affectus est maximo dolore. Amavit enim Romam magno amore. Sed lex iussit eum exire et Cicero exivit. Multas epistolas scripsit ex exsilio ad amicum suum Atticum. Hae epistolae etiam nunc habentur et legi possunt. Sed Cicero habuit multos bonos amicos in urbe. Hi amici multa fecerunt pro eo. Per labores eorum, Cicero revocatus est ab exsilio in anno quinquagesimo quinto (55).\n\nCicero, reversus ab exsilio, non iam dedit se vitae publicae. Nihilominus, iussus est ire in Ciliciam anno quinquagesimo secundo (52). Ibi erat gubernator Romanus. Reversus est in Italiam in fine anni quinquagesimi et venit Romam in initio belli civilis inter Caesarem et Pompeium. Bellum enim civile coepit in Ianuario anni quadragesimi noni (49).",
      "explanation": "This Lectio introduces the irregular verb **ire** (to go). Its present tense is irregular: **it** and **eunt** for the 3rd person singular and plural, **ibat** and **ibant** in the imperfect, and **ibit** and **ibunt** in the future. The present active participle is **iens, euntis**, and the infinitive **exire** means to go out. Two new verbs also appear: **afficio** (afficiunt, afficere, affecit, affectus), to affect or move, often with an ablative of feeling such as **maximo dolore affectus est**, he was moved with very great grief; and **aggredior** (aggrediuntur, aggredi, aggressus est), to attack. Notice also the correlative pair **non solum ... verum etiam**, not only ... but also. The grammar note for this Lectio is on word order: now that we are used to the type Maria agnum habet and the sandwich style magnum habuit exercitum, we can become a bit more free, since the three words Maria agnum habet could be put in almost any order and still mean the same thing.",
+     "divisio": {
+      "overview": "The passage poses the legal question behind Clodius's charge, then narrates the exile, recall, and Cicero's later career down to the eve of civil war.",
+      "parts": [
+       {
+        "label": "The unresolved legal question",
+        "detail": "Asks whether Cicero acted lawfully, noting Rome then had no written constitutional law to decide it."
+       },
+       {
+        "label": "Clodius drives him out",
+        "detail": "Using a tribune's great power, Clodius forces Cicero by a new law into exile in 56."
+       },
+       {
+        "label": "Grief and letters",
+        "detail": "Stricken with grief at leaving beloved Rome, Cicero writes the surviving letters to Atticus."
+       },
+       {
+        "label": "Recall by friends",
+        "detail": "His many loyal friends work to have him recalled from exile in 55."
+       },
+       {
+        "label": "Cilicia and return",
+        "detail": "Withdrawn from public life, he governs Cilicia in 52 and returns just as the civil war begins in 49."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ire, iit, iturus",
@@ -6947,6 +7919,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new subjunctive purpose clauses with ut and ne (so that, in order that, lest), and how Most uses the imperfect subjunctive after a past-tense main verb.",
      "original": "Cicero venerat Romam in initio belli civilis inter Caesarem et Pompeium. Caesar et Pompeius nullum auxilium dederant Ciceroni quando Clodius aggressus est eum. Cicero non voluit pugnare in hoc bello. Sed Pompeius dixerat: \"Si vir non pugnabit pro me, putabitur esse inimicus meus.\" Cicero ergo venit in castra Pompei, sed fere nihil fecit. Pompeius, sicut iam dictum est, victus est in hoc bello et coactus est fugere in Aegyptum. Ibi interfectus est a quibusdam militibus. Sed Caesar misericordiam magnam habuit; celeriter ignovit Ciceroni et etiam dedit licentiam reverti Romam. Sed Cicero non voluit se dare vitae publicae post hoc bellum. Itaque, per tres vel quattuor (3-4) annos, scripsit multos libros de rebus philosophicis et rhetoricis.\n\nAnnus quadragesimus quartus (44) venit, et, in mense Martio, Idus etiam venerunt. Caesar monitus est a multis. Etiam vates monuit eum: \"Necesse est cavere Idus Martias!\" Sed Caesar respondit: \"Idus Martiae venerunt!\"-\"Sed non discesserunt,\" dixit vates. Caesar nihil fecit de his monitionibus sed-venit in senatum. Ibi interfectus est a coniuratoribus. Caesare mortuo, Cicero venit rursus in vitam publicam. Multas orationes vehementes habuit contra Marcum Antonium, amicum Caesaris.\n\nBella civilia venerunt post mortem Caesaris. Caesar filium non habuit. Sed adoptaverat Gaium Octavium (qui postea vocatus est Augustus). (Iulius Caesar etiam erat avunculus magnus huius Gai Octavi.) Post mortem Caesaris Octavius venit in Italiam, et pugnavit contra Antonium. Antonius victus est, et fugit trans Alpes. Octavius reversus est Romam, et factus est consul. (Continuabitur cras)",
      "explanation": "IMPERFECT TENSE OF THE SUBJUNCTIVE: So far we have used infinitives and indicative forms of the verb. Now we meet the subjunctive. The imperfect tense is wonderfully easy to form: merely add **-t** or **-nt** to the present active infinitive. Thus: pararet, pararent; haberet, haberent; poneret, ponerent; audiret, audirent. How do we translate the subjunctive? The translation varies with the use, so we observe each use separately. Sometimes we translate it just like an indicative, but other times we use English forms with **may** or **might**. PURPOSE (FINAL) CLAUSES have chiefly two forms in English: \"He went out to see Caesar\" and \"He went out that he might see Caesar.\" In Latin purpose clauses are easy. Two examples: **Exivit ut videret Caesarem** (He went out that he might see Caesar), and **Imperavit ut milites pugnarent** (He ordered that the soldiers fight). The negative form (lest, or that ... not) uses **ne** instead of ut: **Discessit ne videret mortem coniuratorum** (He left, lest he see the death of the conspirators; or, that he might not see ...). As to tenses, we ordinarily use the imperfect in a purpose clause after a past tense of the main verb. NOTE: we never use ut in place of quod for an indirect statement.",
+     "divisio": {
+      "overview": "The passage follows Cicero through the civil war and his retirement, then the Ides of March and the new round of civil war ending with Octavius as consul.",
+      "parts": [
+       {
+        "label": "Reluctant choice of Pompey",
+        "detail": "Pressed by Pompey's threat, Cicero joins his camp but does almost nothing in the war."
+       },
+       {
+        "label": "Pompey's fall and Caesar's mercy",
+        "detail": "Pompey is defeated and killed in Egypt, while Caesar pardons Cicero and lets him return."
+       },
+       {
+        "label": "Retirement to writing",
+        "detail": "Cicero withdraws from public life and spends three or four years writing philosophy and rhetoric."
+       },
+       {
+        "label": "The Ides of March",
+        "detail": "Despite the soothsayer's warning, Caesar enters the senate and is killed by the conspirators."
+       },
+       {
+        "label": "Renewed civil war",
+        "detail": "Cicero attacks Antony in speeches, and Octavius defeats Antony, returns to Rome, and becomes consul."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ignoscere, ignovit, ignotus (with dat. and obj.)",
@@ -7113,6 +8110,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for purpose clauses with the imperfect subjunctive (often passive, ending in -ur) and for the dative case of pronouns and the nine special adjectives.",
      "original": "Octavius (qui postea vocatus est Augustus) iam vicerat Antonium. Sed brevi tempore factus est amicus Antoni. Caesar, Pompeius, et Crassus fecerant \"Primum Triumviratum,\" et vocati erant \"Triumviri.\" Iam Antonius, Octavius, et Lepidus fecerunt \"Secundum Triumviratum.\" Sulla quotidie posuerat in foro nomina proscriptorum. Hoc modo Sulla interfecerat multos homines. Simili modo hi triumviri, id est, Antonius, et Octavius, et Lepidus, interfecerunt multos, in quibus erant fere duo millia equitum (2000) et trecenti senatores (300). Cicero, sicut iam dictum est, habuerat multas et vehementes orationes contra Antonium. Propter hanc causam Antonius voluit nomen Ciceronis esse inter proscriptos. Cicero auxilium dederat Octavio, sed nihilominus, Octavius permisit Antonio ut scriberet nomen Ciceronis inter proscriptos. Milites Antoni ergo venerunt ut invenirent Ciceronem. Cicero conatus est fugere; sed milites secuti sunt eum, et ceperunt eum. Servi Ciceronis voluerunt defendere eum-Cicero enim bonus fuerat servis suis-sed Cicero noluit. Cicero enim dixit necesse esse mori. Milites decollaverunt eum. Itaque Cicero mortuus est, die septimo Decembris, in anno quadragesimo tertio (43) ante nativitatem Christi. Habuerat fere annos sexaginta et quattuor (64). Augustus et Antonius navigaverunt in Graeciam, et vicerunt Brutum et Cassium in proelio magno ad Philippos. (Brutus et Cassius fuerant in coniuratione quae interfecit Caesarem.) Hoc proelium factum est in anno quadragesimo secundo (42). In anno trigesimo sexto (36) Augustus vicit Sextum Pompeium (ille erat filius Gnaei Pompei Magni, victi a Caesare in bello civili). Sextus Pompeius post mortem Caesaris, cepit Siciliam classi magna. Sextus Pompeius, victus ab Octavio, fugit in Asiam, sed ibi interfectus est in anno trigesimo quinto (35). (Continuabitur cras)",
      "explanation": "**IMPERFECT SUBJUNCTIVE PASSIVE:** To form the passive, just add the letters **-ur** to the active forms of the third singular and plural. Thus: pararetur, pararentur. With deponent verbs, we use what looks like an active infinitive form, and then add endings, e.g., conaretur (1st conjugation), loqueretur (3rd conjugation). **DATIVE CASE OF PRONOUNS:** Just as the possessive singulars all ended in -ius and the plurals were like bonus, in the dative the singulars all end in **-i** (all genders the same): huic, illi, ipsi, ei, eidem, cui, cuidam. The plurals are not all like bonus now, but they are the same as the ablative plurals of the same words (all genders the same): his, illis, ipsis, eis, eisdem, quibus, quibusdam. The interrogative quis also has cui and quibus for all genders. **POSSESSIVE AND DATIVE OF SOME ADJECTIVES:** Nine adjectives behave like the pronouns in the possessive and dative singulars (otherwise they are normal): alius, solus, ullus, unus, totus, nullus, alter, uter, neuter. Their datives are alii, soli, ulli, uni, toti, nulli, alteri, utri, neutri. Note that alter and alius are close in meaning, both meaning one, another, but alter is used when there are only two, alius when there are more than two.",
+     "divisio": {
+      "overview": "The passage sets up the Second Triumvirate and its proscriptions, narrates Cicero's death in detail, then lists the later victories at Philippi and over Sextus Pompey.",
+      "parts": [
+       {
+        "label": "Formation of the Second Triumvirate",
+        "detail": "Octavius reconciles with Antony, and with Lepidus they form the triumvirate, recalling the first."
+       },
+       {
+        "label": "The proscriptions",
+        "detail": "Like Sulla's lists, the triumvirs proscribe and kill many, including knights and senators."
+       },
+       {
+        "label": "Cicero proscribed and slain",
+        "detail": "Antony has Cicero listed, soldiers hunt him down, and he submits to beheading on 7 December 43."
+       },
+       {
+        "label": "Victory at Philippi",
+        "detail": "Augustus and Antony sail to Greece and defeat Brutus and Cassius in 42."
+       },
+       {
+        "label": "Defeat of Sextus Pompey",
+        "detail": "In 36 Augustus beats Sextus Pompey, who flees to Asia and is killed in 35."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "decollare, avit, atus",
@@ -7269,6 +8291,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for cum as a conjunction (when, although, because) plus a pluperfect subjunctive verb, and notice how Most contrasts it with cum as the preposition meaning with.",
      "original": "Lepidus erat unus ex triumviris. Navigavit in Siciliam cum Augustus pugnaret cum Sexto Pompeio ut auxilium daret Augusto. Augustus vicit Sextum Pompeium (sicut iam dictum est), sed etiam privavit Lepidum potestate. Lepidus enim, cum Sextus fugisset, conatus est maiorem potestatem capere. Sed milites Lepidi deseruerunt eum. Augustus non interfecit Lepidum; misit eum Romam. Ibi Lepidus remansit per reliquam vitam suam. Erat pontifex maximus. Iam erant duo soli qui habebant potestatem in mundo Romano: Augustus et Antonius.\nAntonius duxerat Octaviam in matrimonium. Octavia erat soror Augusti (qui erat Octavius). Sed Antonius navigavit in Aegyptum. In Aegypto vidit Cleopatram, quae erat regina Aegypti. Videns Cleopatram, Antonius putavit se amare eam. Antonius putavit Cleopatram esse pulchram; sed re vera erat pinguis. Antonius ergo dimisit uxorem suam, Octaviam. Octavia ira affecta est contra Antonium, et locuta est cum fratre suo, Augusto. Ille, motus dolore et ira, movit bellum cum Antonio. In anno trigesimo primo (31), ad Actium, classis Augusti pepulit classem Antoni. Sed Antonius ipse (et Cleopatra cum eo) evasit ex manibus Augusti, et iit in Aegyptum. Augustus itaque, in proximo anno (id est, in anno trigesimo) navigavit in Aegyptum. Antonius et Cleopatra, audientes Augustum venire, interfecerunt se.\nOmnibus inimicis victis, Augustus reversus est Romam. Habuit multas potestates extraordinarias, a senatu acceptas. In anno vigesimo septimo (27), venit in senatum Romanum, et reddidit omnem potestatem senatui. Sed, non post multos annos, senatus et populus Romanus reddidit omnem potestatem Augusto.",
      "explanation": "**PLUPERFECT SUBJUNCTIVE ACTIVE:** You already know the perfect active infinitive, made by substituting **-isse** for the third singular ending -it (so paravisse). To make the pluperfect subjunctive, just add **-t** or **-nt** for third singular and plural, active: **paravisset**, **paravissent**. **CUM CLAUSES:** So far cum has been a PREPOSITION with the ablative meaning **with**, as in Venit cum militibus (He came with the soldiers), where cum militibus is a phrase. But cum can also be a CONJUNCTION that begins a whole clause and means **when (or while), after, although,** or **because (since)**. A conjunction starts a whole clause, a preposition starts a phrase. So Cum Augustus pugnaret, Lepidus venit means When Augustus was fighting, Lepidus came. Notice the three meanings: 1) Cum Lepidus venisset, Augustus misit eum (When Lepidus had come, Augustus sent him); 2) Cum Lepidus auxilium dedisset, Augustus privavit eum potestate (Although Lepidus had helped, Augustus deprived him of power); 3) Cum Antonius vidisset Cleopatram, putavit se amare eam (Because Anthony had seen Cleopatra, he thought he loved her). How do you know which English meaning to use? Only from the general sense of the story, but when in doubt try **when** or **while** first, since they are the vaguest and most likely to fit. **RULES:** When cum means because or although, always use the subjunctive. When cum means when (while or after), sometimes the subjunctive, sometimes the indicative. **TENSE OF SUBJUNCTIVE:** If the main verb is past tense, you will always find an imperfect or pluperfect subjunctive (if a subjunctive at all). The difference between them is plain from the examples.",
+     "divisio": {
+      "overview": "The passage narrates the reduction of the triumvirate to one ruler in three stages, each removing a rival until Augustus alone holds power.",
+      "parts": [
+       {
+        "label": "Lepidus removed",
+        "detail": "Lepidus helps against Sextus, then overreaches, is deserted by his troops, and is sent to Rome, leaving two rulers."
+       },
+       {
+        "label": "Antony and Cleopatra",
+        "detail": "Antony abandons Octavia for Cleopatra, provoking Augustus to war and defeat at Actium, then the suicides in Egypt."
+       },
+       {
+        "label": "Augustus alone",
+        "detail": "Victorious over all rivals, Augustus returns to Rome, hands power back to the senate, and has it returned to him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "pellere, pepulit, pulsus",
@@ -7441,6 +8480,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how God simply speaks and things come to be: notice the contrast between God's effortless 'Fiat' and the toil of human work.",
      "original": "Augusto imperatore, Christus natus est in Bethelehem in Iudaea. Sed nunc tempus est ut relinquatur historia Romana. Bonum erit legere historiam sacram veteris testamenti. Liber primus veteris testamenti vocatur Genesis. In hoc libro narratur historia creationis mundi totius.\n\nIn principio enim, solus Deus erat; nulla creatura adhuc facta erat. Scriptor huius libri Geneseos scripsit de septem diebus creationis, vel potius de sex diebus creationis--in septimo enim die Deus requievit ab operibus suis. Sed sacer scriptor huius libri non voluit dicere quod Deus re vera fecit omnia in septem diebus. Forsan illi dies erant re vera multi anni. Sed bonum erat docere hoc modo quod fecit omnia. Itaque, dixit quod in primo die Deus creavit coelum et terram. Sed adhuc nihil erat in terra; nulla alia creatura erat facta. Sed Spiritus Dei erat super aquas. Deus iussit lucem fieri. Et lux facta est. Et Deus vidit lucem esse bonam. Deus etiam separavit lucem a tenebris. Vocavit lucem diem. Et vocavit tenebras noctem. Haec Deus fecit in primo die creationis. Sed Deus non fecit haec cum magno labore. Homines, quando faciunt opera sua, faciunt ea saepe cum magna difficultate vel cum labore magno. Deus loquitur--et res fit. Si Deus solummodo dicit: \"Fiat\"-statim factum est. Hoc modo ergo Deus fecit mundum et omnia quae in eo sunt. Iussit: \"Fiant hae res,\" et factae sunt. Deus etiam vidit quod ea quae fecit erant bona. Hoc necesse est, Deus enim non potest facere malum.",
      "explanation": "This Lectio reviews the subjunctive in clauses of various kinds. Notice **ut relinquatur historia Romana** (it is time that Roman history be left aside), a noun clause of result/purpose with a passive present subjunctive. The grammar focus, headed VIDEAMUS FORMAS VETERES, asks you to drill old forms: the imperfect subjunctive (active and passive) of verbs like docere, nolle, esse, pellere, and the pluperfect subjunctive active of verbs like permittere, proscribere, reddere, ignoscere. Also watch the new perfect system parts in the vocabulary, for example **docere, docuit, doctus** and **relinquere, reliquit, relictus**, and the third-declension noun and adjective forms given with their ablatives, for example **magna lux, luce** and **vetus, vetere**.",
+     "divisio": {
+      "overview": "The passage moves from a transition out of Roman history into a framed account of the first day of creation, capped by a reflection on the ease of God's making.",
+      "parts": [
+       {
+        "label": "Turn to sacred history",
+        "detail": "Most sets aside Roman history and introduces Genesis as the book that tells of the world's creation."
+       },
+       {
+        "label": "Note on the seven days",
+        "detail": "The writer cautions that the six or seven days need not be literal, but teach that God made all things."
+       },
+       {
+        "label": "The first day",
+        "detail": "God creates heaven and earth, makes light, sees it is good, and separates light called day from darkness called night."
+       },
+       {
+        "label": "Effortless making",
+        "detail": "Contrasting human toil, God merely speaks Fiat and it is done, and sees that all he made is good."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "relinquere, reliquit, relictus",
@@ -7643,6 +8703,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how the lone Horatius turns flight into strategy, drawing the wounded Curiatii apart so he can fight them one at a time.",
      "original": "Diebus antiquis Romae, Romani multa gesserunt bella. Sed non solum antiquis diebus, sed fere omni anno Romani bellum gesserunt. Inter alia bella, bella cum Albanis habuerunt. Sed in hoc bello Albano, duces Romani venerunt ad duces Albanorum. Romani locuti sunt: \"Non est necesse ut multi viri ex exercitu Romano interficiantur, et etiam multi ex exercitu Albano. Romani mittere volunt solummodo tres viros bonos et fortes in pugnam, si Albani idem facient.\" Hoc consilium Albanis bonum visum est. Itaque Romani tres viros fortes miserunt. Hi tres Romani Horatii vocabantur. Albani etiam tres viros fortes miserunt, ut cum tribus Romanis pugnarent. Hi tres Albani Curiatii vocabantur.\n\nIn prima parte pugnae, duo ex tribus Horatiis interfecti sunt. Romani milites qui pugnam videbant, magno affecti sunt dolore. Sed etiam ille unus Horatius qui remansit maximo affectus est dolore. Dixit enim, \"O! O! Necesse est timere. Sed adhuc spes (hope) remanet. Quamquam difficile est interficere tres-unus solus interfici potest!\" Itaque celeriter currere (run) coepit. Tres Curiatii venerunt ut eum caperent. Post breve tempus, Romanus vidit quod tres Curiatii adhuc sequebantur-sed sequebantur intervallis magnis (at large intervals). Romanus itaque stetit. Primus ex Curiatiis venit; Romanus celeriter eum interfecit. Sed duo alii adhuc veniebant. Romanus itaque currere celeriter coepit. Post breve tempus, vidit duos Curiatios sequi intervallo magno. Stetit ergo. Unus ex reliquis Curiatiis ad eum venit. Romanus celeriter eum interfecit. Post breve tempus alius Curiatius solus venit ad unum Romanum. Romanus fortis erat; etiam tertium interfecit Curiatium. Hoc modo Romani Albanos vicerunt. Romani servi non sunt facti Albanis. Romani adhuc libertatem habent.\n\nHoratius unus, cum alios Horatios duos interfecissent Curiatii, nihilominus pugnare voluit. Quamquam enim in periculo sunt magno, boni Romani fortes erunt semper. Ut Roma servaretur, multi ex his fortibus et bonis viris sunt mortui. Hac ergo in pugna, propter unius Romani virtutem, non sunt facti Albanis servi Romani. Libertas enim Romae adhuc remanet.",
      "explanation": "This story is the practice section, headed NUNC EXERCEAMUS NOS. Notice the purpose and result clauses with the subjunctive: **ut cum tribus Romanis pugnarent** (so that they might fight with the three Romans), **ut eum caperent** (to catch him), and **Ut Roma servaretur** (that Rome might be saved). Watch also the inline reading aids Most leaves in the Latin, such as **spes (hope)**, **currere (run)**, and **intervallis magnis (at large intervals)**, which simply translate the hard word so you can keep reading.",
+     "divisio": {
+      "overview": "The passage frames a war reduced to a duel of champions, narrates how the lone Horatius defeats the three Curiatii one by one, and closes by drawing the moral of Roman courage.",
+      "parts": [
+       {
+        "label": "The pact",
+        "detail": "Amid constant Roman wars, the leaders agree to settle the Alban war with three champions a side, the Horatii against the Curiatii."
+       },
+       {
+        "label": "Horatius alone",
+        "detail": "Two Horatii fall, and the surviving one runs off, resolving that three can be killed one at a time."
+       },
+       {
+        "label": "Three kills",
+        "detail": "He stops as the pursuing Curiatii string out at large intervals and dispatches them in turn, winning Rome's freedom."
+       },
+       {
+        "label": "The moral",
+        "detail": "A closing reflection praises the one Roman's valor, by which Romans stayed free rather than enslaved to the Albans."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "libertas, libertatis",
@@ -7797,6 +8878,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new pluperfect subjunctive passive (factus esset, facti essent) and result clauses with tam ... ut.",
      "original": "Sacer scriptor docet nos quod Deus omnia fecit. Narrationem suam divisit in sex dies. Non est necesse credere quod sacer scriptor voluit dicere omnia facta esse hoc ordine. Forsan in alio ordine omnia facta sunt. Sed bonum est audire narrationem libri sacri. Dicit quod Deus fecit lucem in die primo. Quid fecit in secundo die? Secundo die fecit firmamentum, id est, coelum. Deus fecit firmamentum ut divideret aquas quae super firmamentum erant ab aquis quae sub firmamento erant. Deinde Deus iussit aquas, quae sub firmamento erant, colligi in locum unum. Et factum est sicut Deus iusserat. Hoc modo terra facta est, et maria facta sunt. Deus etiam iussit terram proferre herbas. Et terra profert herbas sicut Deus iusserat. Haec facta sunt die tertio. Et Deus vidit omnia esse bona quae fecerat.\nProximo die, id est, die quarto, Deus fecit solem et lunam, ut essent signa dierum et temporum et annorum. Sed adhuc erant nulla animalia in toto mundo. Quinto die ergo Deus fecit animalia in aquis, id est, pisces, et fecit etiam aves. Hi omnes etiam boni erant, quia Deus fecit eos. Sexto die Deus fecit animalia quae vivunt in terra. Sed adhuc homo non erat factus. Deus dixit se velle facere hominem ad imaginem suam. Ergo fecit hominem de limo terrae et inspiravit in faciem eius spiraculum vitae. Et Deus vocavit hunc primum hominem Adam.\nIn lingua enim Hebraica, terra vocatur \"adamah.\" Sed primus homo Adam factus est de \"adamah.\" Ergo nomen eius erat Adam. Sed adhuc nullus alius homo erat in terra; Adam solus erat. Deus dixit: \"Non est bonum quod homo solus est.\" Deus ergo fecit sociam pro Adam. Fecit primam feminam, cuius nomen erat Eva. Deus posuit Adam et Evam in paradiso. In paradiso habuerunt omnia bona quae voluerunt habere. Sed Deus imperavit eis ne comederent de ligno scientiae boni et mali.",
      "explanation": "**PLUPERFECT SUBJUNCTIVE PASSIVE:** To form it is simple: we merely use **esset** or **essent** (imperfect subjunctive of esse) with the perfect passive participle. Thus: factus esset, facti essent. **RESULT (CONSECUTIVE) CLAUSES:** The usual form in English is, He was so good that all loved him, Tam bonus erat ut omnes amarent eum. The English form does not use may or might combinations the way purpose clauses do, but the negative for result clauses is **ut ... non**, not ne. Notice the word **so** (tam) in the example; it does not always appear in result clauses, but is frequent, or some similar expression is often used. Another form often seen is, Accidit ut Caesar veniret in castra, It happened that Caesar came to the camp. Here there is no word so, yet it is clearly result. In case of doubt, insert the words so that as a result; if they fit, it is a result clause. **INDECLINABLE NAMES:** The name Adam cannot be declined; it has the same endings in every case. But the name Eva can be declined. Some names will be declinable but have unusual combinations, like Abraham (Abraham, Abrahae, Abrahae, Abraham, Abraham); just watch how such names are used in the stories.",
+     "divisio": {
+      "overview": "The passage retells creation as an ordered march through the six days, building from light and land toward living things and finally the first humans.",
+      "parts": [
+       {
+        "label": "Caution on order",
+        "detail": "The writer notes the six day scheme need not be literal, but it is good to hear the sacred narrative."
+       },
+       {
+        "label": "Days one to three",
+        "detail": "God makes light, then the firmament dividing the waters, then gathers the seas and bids the earth bring forth plants."
+       },
+       {
+        "label": "Days four to six",
+        "detail": "God makes sun and moon for signs, then fish and birds, then land animals, each seen to be good."
+       },
+       {
+        "label": "Adam and Eve",
+        "detail": "God forms Adam from earth's slime and names him, then makes Eve as his companion and forbids the tree of knowledge."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "comedere, comedit, comesus",
@@ -8007,6 +9109,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the present subjunctive: hortatory ('let them...', 'may they...') and in indirect questions after 'num' (whether) and 'cur' (why).",
      "original": "Cum creavisset primos homines, Adam et Evam, Deus imperavit eis ne comederent de fructu ligni scientiae boni et mali. Hoc lignum stetit in medio paradiso. Adam et Eva obediverunt Deo. Sed non semper obediverunt.\nQuodam die, diabolus venit ad Evam. Eva non erat cum Adam illo tempore. Adam enim erat in alia parte paradisi. Eva non timuit diabolum. Diabolus enim venit ad eam in forma serpentis. Diabolus ergo, sub forma serpentis, locutus est cum Eva, et interrogavit eam num Deus imperavisset eis ne comederent ex omni ligno quod in paradiso erat. Eva respondit quod licebat eis comedere ex omni ligno--sed non ex ligno scientiae boni et mali. Eva etiam dixit quod Deus promiserat eis mortem si non obedirent. Diabolus deinde respondit: \"Deus non dixit veritatem. Deus enim novit quod si homo comedet ex hoc ligno, fiet sicut Deus. Homo enim sciet bonum et malum. Homo non morietur si comedet ex hoc ligno.\"\nEva credidit diabolo. Vidit enim fructum huius ligni esse pulchrum. Accepit ergo de fructibus huius ligni et comedit. Deinde Eva dedit partem huius fructus ad Adam. Adam etiam comedit. Sed diabolus non dixerat veritatem. Adam et Eva non facti sunt sicut dei; re vera senserunt se esse nudos, et timuerunt.\nAudiverunt vocem Dei in paradiso. Deus vocabat eos. Voce Dei audita, Adam et Eva conati sunt abscondere se. Sed Deus invenit eos. Nihil enim absconditum est a Deo. Deus interrogavit eos ubi essent. Adam respondit quod timebat cum nudus esset. (Continuabitur)",
      "explanation": "This Lectio introduces the **present subjunctive**, active and passive. The active endings keep the same -t and -nt as the indicative, but the vowel changes: the first conjugation uses **e** (amet, ament), while the others use **a** (teneat, ponat, audiat); verbs with -iunt keep the i and give -iat, -iant. The passive simply adds -ur (ametur, ponatur, capiatur). Most points out two main uses. First, the **hortatory subjunctive** stands on its own as a main verb: Veniat means 'Let him come' or 'May he come,' and the negative is **ne**, as in Ne veniant, 'Let them not come.' Second, the present subjunctive appears in dependent clauses only after a present or future main verb (the imperfect and pluperfect subjunctive are used after a past main verb). Notice also the **indirect question**: Interrogavit eam num Deus imperavisset, 'He asked her whether God had ordered.' Indirect questions, marked by words like num (whether) or cur (why), most commonly take the subjunctive.",
+     "divisio": {
+      "overview": "The passage tracks the temptation in four steps, from the standing prohibition through the serpent's lie to the eating and its immediate aftermath of shame and hiding.",
+      "parts": [
+       {
+        "label": "The command recalled",
+        "detail": "God forbids the tree of knowledge, and Adam and Eve obey at first, but not always."
+       },
+       {
+        "label": "The serpent's lie",
+        "detail": "Finding Eve alone, the devil as a serpent questions the command and denies that eating brings death."
+       },
+       {
+        "label": "Both eat",
+        "detail": "Eve believes the serpent, sees the fruit is fair, eats, and gives to Adam, who eats too."
+       },
+       {
+        "label": "Shame and hiding",
+        "detail": "Made not gods but ashamed of nakedness, they hide at God's voice, yet he finds them and Adam confesses his fear."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "abscondere, abscondit, absconditus",
@@ -8160,6 +9283,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the first and second person active endings (m/o, s, t, mus, tis, nt), especially in subjunctives like discederetis, sciamus, and credamus.",
      "original": "De prima et secunda persona in subiunctivo activo\nAdam et Eva non obediverant Deo. Propter hanc causam timuerunt, et conati sunt abscondere se a Deo. Sed Deus omnipotens est; tanta est potestas eius ut nulla creatura possit abscondere se a scientia Dei. Deus ergo interrogavit Adam cur non obedivisset. Adam dixit quod femina dederat ei malum, id est, fructum ligni scientiae boni et mali. Deus ergo interrogavit feminam, id est, Evam, cur comedisset malum. Eva respondit se comedisse propter serpentem. Dixit enim serpentem fefellisse ipsam. Serpens enim dixerat: \"Homo fiet sicut Deus si comedet de fructu huius ligni scientiae boni et mali.\"\nDeus ergo expulit Adam et Evam ex paradiso. Sed promisit Redemptorem, id est Christum. \"Ille Redemptor enim conteret caput serpentis.\" Et etiam quaedam femina promittitur a Deo, quae semper inimica erit serpenti. Haec femina est Virgo Maria, quae est mater Christi. Ergo Deus, propter suam magnam misericordiam, dedit spem primis hominibus etiam post peccatum originale.\nAdam et Eva habuerunt multos filios et filias. Inter hos erant Cain et Abel. Cain erat agricola, et labor eius erat in agris. Accepit multos fructus terrae. Ex his fructibus, Cain offerebat sacrificia Deo. Abel autem erat pastor. Abel ergo offerebat animalia Deo in sacrificiis. Probabiliter Abel offerebat agnos. Sacrificia Abel placuerunt Deo. Sed sacrificia Cain non placuerunt Deo. Cain ergo motus est ira.\nQuodam die Cain rogavit Abel ut iret in agros secum. Abel ergo in agros iit cum Cain. Sed cum essent soli in agris, Cain interfecit Abel. Deus ergo vocavit Cain, et rogavit ubi Abel esset. Cain dixit se nescire. Sed Cain non poterat fallere Deum. Cain ergo iit in exilium.",
      "explanation": "**NUNC COGITEMUS.** This is a preview of all first and second person active forms. It is very easy to learn to recognize the first and second person active in indicative and subjunctive forms, except for the perfect indicative. There is a simple set of personal endings worth learning at once, because they have many uses. Learn first to recognize a form when you see it; gradually you will learn to make forms. The endings are: singular **1.** m or o (I), **2.** s (you), **3.** t (he, she, it); plural **mus** (we), **tis** (you), **nt** (they). Most of these endings merely substitute for the t of the third singular. For all active subjunctives we simply take the third singular form, which we already know, and apply this stick, for example amet, amem, ames, amemus, ametis, ament; the same works for the imperfect (amaret), present (teneat), and pluperfect (amavisset). The subjunctive of irregular verbs is completely regular too: just take the third singular, sit, possit, velit, nolit, and use the same stick. Note also the **second plural pronoun**: vos, vestrum, vobis, vos, vobis (you, of you, to you, you, etc.), with the adjective vester, vestra, vestrum (your), referring to more than one person.",
+     "divisio": {
+      "overview": "After a grammar heading, the passage runs from God's questioning after the fall through expulsion and promise to the next generation's rival sacrifices and the first murder.",
+      "parts": [
+       {
+        "label": "The interrogation",
+        "detail": "God questions Adam and Eve, who shift the blame to the woman and the serpent that deceived her."
+       },
+       {
+        "label": "Expulsion and promise",
+        "detail": "God drives them from paradise but promises a Redeemer and a woman, Mary, hostile to the serpent."
+       },
+       {
+        "label": "Two offerings",
+        "detail": "Cain the farmer and Abel the shepherd offer sacrifices, and only Abel's please God, rousing Cain's anger."
+       },
+       {
+        "label": "The murder",
+        "detail": "Cain lures Abel to the fields and kills him, lies to God, and goes into exile."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "fallere, fefellit, falsus",
@@ -8348,6 +9492,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the subjunctive of purpose and the new vocabulary of the flood story: diluvium, imber, arca, and the irregular imperatives fac and duc.",
      "original": "Adam et Eva habuerunt multos filios et filias. Et filii eorum habuerunt etiam multos filios et filias. Multi ex his vixerunt per annos plurimos. Sed non omnes homines boni erant; plurimi erant mali, et peccata multa commiserunt contra Deum. Illi homines erant magni corpore, sed parvi virtute. Deus ergo iratus est illis et voluit delere genus humanum de terra.\n\nSed nihilominus unus homo erat qui placuit Deo. Ille homo vocabatur Noe. Noe erat vir iustus in omnibus operibus suis. Noe erat pater trium filiorum. Nomina horum filiorum sunt: Sem, Cham, et Japheth. Sed quia Noe erat iustus, et placuit Deo, Deus non iratus est ei, nec iratus est filiis Noe propter Noe. Itaque Deus dixit Noe: \"Finis universae carnis est in mente mea. Omnes enim homines facti sunt pessimi. Necesse est ergo ut deleam eos. Itaque magnum diluvium veniet super omnem terram. Omnes homines delebuntur. Sed etiam omnia animalia in quibus est spiritus vitae non iam vivent; omnia delebuntur diluvio.\"\n\n\"Sed fac arcam tibi et filiis tuis et uxoribus filiorum. Et duc in arcam animalia ex omnibus generibus animalium ut servari possint in arca.\" Noe ergo fecit omnia quae Deus imperaverat ei. Deinde Deus dixit ei: \"Venias in arcam cum filiis tuis et cum omnibus animalibus sicut imperatum est tibi. Post septem dies enim imber maximus veniet super omnem terram. Et omnia animalia quae sunt super terram, insuper et omnes homines delebuntur de terra.\"\n\nNoe ergo venit in arcam, et cum eo venerunt tres filii eius, id est Sem, Cham, et Japheth, et cum eis venerunt uxores eorum. Insuper venerunt in arcam animalia omnis generis, sicut Deus imperaverat Noe. (Continuabitur cras)",
      "explanation": "This Lectio is mostly a review, so watch the old forms in action. Notice the **irregular singular imperatives**: most verbs form the singular command normally, but four are shortened, **dic** (say), **duc** (lead), **fac** (make), and **fer** (bear, the simple verb behind offerre and proferre). So God commands Noe, **fac arcam** (make an ark!) and **duc in arcam animalia** (lead the animals into the ark!). Notice also the **hortatory and jussive subjunctives**: **studeamus** (let us study), **veniamus** (let us come), **deleam** (that I may destroy). The new verb **irasci** is deponent and takes the **dative**: **iratus est illis** (he was angry at them), **iratus est ei** (he was angry at him). Finally, learn the third-declension nouns of the flood, **caro, carnis** (flesh), **mens, mentis** (mind), **imber, imbris** (rain), **spiritus** (breath), and **diluvium** (flood), which appears in the ablative of means, **delebuntur diluvio** (they will be destroyed by a flood).",
+     "divisio": {
+      "overview": "The passage moves from a wicked human race and God's resolve to destroy it, to the sparing of just Noe, to the command to build the ark, and finally his obedient boarding.",
+      "parts": [
+       {
+        "label": "The wicked race",
+        "detail": "As humankind multiplies and turns evil, God grows angry and resolves to wipe the race from the earth."
+       },
+       {
+        "label": "Just Noe",
+        "detail": "One just man, Noe, pleases God, who spares him and his three sons for his sake."
+       },
+       {
+        "label": "The flood foretold",
+        "detail": "God tells Noe a flood will destroy all flesh and commands him to build an ark and gather the animals."
+       },
+       {
+        "label": "Boarding the ark",
+        "detail": "Obeying, Noe enters the ark with his sons, their wives, and animals of every kind as God had ordered."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "committere, commisit, commissus",
@@ -8536,6 +9701,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for first and second person imperfect and pluperfect forms, and notice how Most builds these tenses on the same stem as the subjunctive.",
      "original": "Cum Noe et filii eius et uxores filiorum eius et animalia venissent in arcam, Deus clausit portam arcae. Deinde Deus aperuit coelos, et misit imbres magnos in terram. Etiam fontes maris rupti sunt et aquae maris venerunt super terram. Diluvium maximum factum est. Homines territi sunt, et loca alta invenire conati sunt ut ab aquis servarentur. Sed aquae magnae semper invenerunt homines. Et non potuerunt evadere. Noe autem et qui cum eo erant, servati sunt in arca. Aqua venit etiam super montes altos. Nemo hominum servatus est nisi ei qui in arca erant cum Noe. Etiam omnia animalia in quibus erat spiritus vitae interfecti sunt in aquis. Sed animalia quae in arca erant servata sunt. Imbres et diluvium venerunt super terram per quadraginta dies. Et aquae ascenderunt super terram centum et quinquaginta dies (150). Deinde Deus recordatus est Noe et omnium qui cum eo erant in arca. Et Deus misit ventum super aquas. Post dies centum quinquaginta, aquae coeperunt minui super terram. Deus etiam clausit fontes maris, et non iam misit imbres de coelis. Et aquae reversae sunt de terra, euntes et redeuntes. In mense septimo, in die vigesimo septimo mensis, arca requievit super montes Armeniae. In decimo mense, montes coeperunt videri. Et post quadraginta dies, Noe aperuit fenestram in arca, et misit corvum ex arca. Etiam dimisit columbam ex arca. Sed columba non invenit locum ubi requiesceret pes eius--columba ergo reversa est ad Noe in arcam. Sed post septem dies, Noe rursus dimisit columbam. Columba reversa est ferens ramum olivae. Noe ergo intellexit quod poterat stare in terra. Itaque venit ex arca.",
      "explanation": "**First and second person in the imperfect and pluperfect indicative:** to make these forms on all active subjunctives we used a magic stick, and for the imperfect and pluperfect indicative we stick to the same stem, with no trouble at all. **Imperfect:** amaba- and teneba- take the endings m, s, t, mus, tis, nt (amabam, amabas, amabat, amabamus, amabatis, amabant). **Pluperfect:** amavera- and tenuera- take the same endings m, s, t, mus, tis, nt (amaveram, amaveras, amaverat...). And so on for absolutely any imperfect or pluperfect active indicative. The **second singular pronoun** is tu, tui, tibi, te, te (you, of you, to you, you). The **second singular adjective**, for one person's possessions, is tuus, a, um (your). For **irregular verbs** the first and second person are completely regular in these tenses: just take the third singular forms (erat, fuerat, poterat, potuerat, volebat, nolebat, voluerat, noluerat) and use the same stem as for any other verb.",
+     "divisio": {
+      "overview": "A chronological flood account moving from the sealing of the ark through the rising waters to the long ebb and the dove that signals dry land.",
+      "parts": [
+       {
+        "label": "Sealing and downpour",
+        "detail": "Noe, his family, and the animals enter and God shuts the door, then opens the heavens and breaks the fountains of the sea."
+       },
+       {
+        "label": "Waters cover the earth",
+        "detail": "Terrified men cannot escape, the flood rises over the high mountains, and all life outside the ark perishes while those inside are saved."
+       },
+       {
+        "label": "God remembers and the waters recede",
+        "detail": "After a hundred fifty days God sends a wind, closes the fountains, stops the rain, and the waters begin to fall until the ark rests on the mountains of Armenia."
+       },
+       {
+        "label": "The birds and the return to land",
+        "detail": "Noe sends out the raven and twice the dove, the second returning with an olive branch, so he understands the earth is dry and leaves the ark."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "claudere, clausit, clausus",
@@ -8751,6 +9937,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for first and second person perfect verbs (venimus, aedificavimus) and Most's inline English aids.",
      "original": "Cum aquae discessissent de terra, Noe et filii eius, et uxores filiorum eius egressi sunt ex arca. Sed etiam animalia egressa sunt. Et Noe fecit altare Domino. Deinde accepit multa animalia ex eis quae fuerant in arca secum (omnia enim alia animalia in quibus erat spiritus vitae interfecta erant diluvio)--et obtulit sacrificia Deo. Sacrificia Noe placuerunt Deo. Dominus ergo promisit Noe quod numquam post illud tempus diluvium delebit omnem terram et omnia viventia quae in ea sunt. Deus etiam dedit signum promissionis suae, \"Verum est quod imbres venient de coelis. Sed ut sciatis quod numquam diluvium delebit omnem terram, arcus meus erit in coelis post imbres. Hoc modo scies Deum semper recordari promissionis suae.\"\nPost diluvium, omnis terra habebat solummodo linguam unam. Sed cum homines iter facerent ad orientales partes mundi, venerunt in terram Senaar, et voluerunt remanere ibi. Coeperunt itaque aedificare turrem maximam. Hi enim homines superbi erant. Et Dominus descendit ut videret turrem et civitatem quam aedificabant. Sed opera horum hominum non placuerunt Deo-confidebant enim in se, et in potestate sua. Sed non debuerunt confidere in se. Homo enim non est tam fortis ut possit vivere et agere sine Domino. Propter hanc causam, opera horum non placuerunt Deo. Itaque Deus punivit eos. Effecit ut unus homo non posset intelligere alios homines. Mutavit linguas eorum. Linguis mutatis, magna confusio erat in illo loco. Multae enim linguae audiebantur, sed nemo poterat alios intelligere. Itaque homines discesserunt ex illo loco, et non iam voluerunt aedificare turrem.",
      "explanation": "This Lectio teaches the **first and second person of the perfect indicative active**. The perfect needs its own set of endings, a different magic stick. You already know amavit and amaverunt, and the rest are just as easy. For any verb the personal endings on the perfect stem run: -i, -isti, -it, -imus, -istis, -erunt (I loved, you loved, he loved, we loved, you loved, they loved). The same endings go on the irregular verbs fuit, potuit, voluit, noluit, since all irregular verbs are normal in every form built on their second and third parts. The **first plural pronoun** is nos, nostrum, nobis, nos, nobis, and the **first plural adjective** is noster, nostra, nostrum, meaning our.",
+     "divisio": {
+      "overview": "Two linked episodes after the flood, first Noah's grateful sacrifice and God's rainbow promise, then the proud tower at Babel and its punishment.",
+      "parts": [
+       {
+        "label": "Leaving the ark and offering",
+        "detail": "Noah, his family, and the animals go out and he builds an altar and offers sacrifices that please God."
+       },
+       {
+        "label": "The covenant of the rainbow",
+        "detail": "God promises never again to destroy the earth by flood and gives his bow in the heavens as the sign of that promise."
+       },
+       {
+        "label": "The proud build the tower",
+        "detail": "Men of one language settle in Senaar and begin a great tower, trusting in themselves rather than in the Lord."
+       },
+       {
+        "label": "Languages confused",
+        "detail": "God comes down, is displeased, changes their tongues so none can understand another, and the builders scatter and abandon the work."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "egrediuntur, gredi, gressus est",
@@ -8905,6 +10112,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Most introduces the present-tense 'I' and 'you' forms (amo, teneo, pono, capio, audio) while telling of Abram leaving Ur for Haran.",
      "original": "De prima et secunda persona in indicativo praesenti\n\nDiluvio finito, et turri Babylonica relicta, homines discesserunt in multas terras. Sed memoria diluvii non ita terruit eos ut non committerent multa peccata. Insuper facti sunt peiores quam fuerant ante diluvium. Sed Deus promiserat quod numquam diluvium deleret omne genus humanum. Et Deus semper veritatem dicit. Homines saepe dicunt hoc et faciunt illud, sed Deus verus est.\nSed non omnes homines pessimi facti sunt. Quidam viri adhuc servi Dei erant. Inter hos bonos viros erat Abram. Non clarum est in quo anno, vel etiam in quo saeculo diluvium accidit. Quidam putant diluvium accidisse in millenario sexto vel quinto ante Christum. Alii putant id accidisse in millenario tertio, sed non utile est putare de hac re; homo non potest scire. Probabile autem est quod, Abram natus est in prima parte saeculi vigesimi ante Christum. Abram habitavit in terra quae vocatur Chaldaea. Abram natus erat in civitate cuius nomen erat Ur. Ur erat in parte meridionali Babyloniae. Maiores Abram colebant multos deos; erant ergo polytheistae. Sed Abram ipse coluit solummodo unum Deum. Abram habuit fratrem, cuius nomen erat Aran. Post mortem autem Aran, Abram discessit ex Ur, et venit in Haran. Pater enim Abram (cuius nomen erat Thare) discessit ex Ur et cum eo venerunt Abram ipse, et uxor Abram (quae erat Sara) et Lot, qui erat filius Aran.\nIn Haran etiam erant multi polytheistae. Ibi multi homines coluerunt lunam. Putaverunt enim lunam esse deum, et vocaverunt lunam, in lingua Babylonica, \"Sin.\" Erat magnum templum huius falsi dei \"Sin\" in Haran. Sed Abram non coluit Sin. (Continuabitur)",
      "explanation": "FIRST AND SECOND PERSON INDICATIVE: It is easy to make these forms, starting from the third singular, which we already know. The easiest way is to make a short stick, leaving out the first and last forms, so each line runs **-s, (third sing.), -mus, -tis** for amat, tenet, ponit, capit, audit. We already know the bottom forms for each line, the third plurals: **amant, tenent, ponunt, capiunt, audiunt**. So all we really have to learn today is just five words: **amo, teneo, pono, capio, audio**. The meanings for amare are: I love, you love, he loves, we love, you love, they love. And of course we can vary these forms as we have long been doing, so besides 'he loves' we can say 'he does love, he is loving,' and so on. FIRST SINGULAR PRONOUN: ego, mei, mihi, me, me (I, of me, to me, me). FIRST SINGULAR ADJECTIVE: meus, a, um (my, mine).",
+     "divisio": {
+      "overview": "A grammar heading followed by a narrative that frames Abram's appearance against post-flood wickedness and the polytheism of his land.",
+      "parts": [
+       {
+        "label": "Title of the lesson",
+        "detail": "A Latin heading announces the topic, the first and second person in the present indicative."
+       },
+       {
+        "label": "Mankind grows worse",
+        "detail": "After the flood and the tower men scatter, sin freely, and become worse than before, yet God keeps his truthful word."
+       },
+       {
+        "label": "Abram among the faithful",
+        "detail": "Some men still serve God, and a digression on the uncertain date of the flood leads to Abram, born at Ur in Chaldaea."
+       },
+       {
+        "label": "Family and move to Haran",
+        "detail": "Abram alone worships one God, and after his brother Aran dies he leaves Ur for Haran with his father, wife, and Lot."
+       },
+       {
+        "label": "Moon worship at Haran",
+        "detail": "Haran too is full of polytheists who worship the moon as the god Sin, but Abram refuses to worship it."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "finire, ivit, itus",
@@ -9087,6 +10319,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the verbs of motion (egressus est, venit, descendit, reversus est) that trace Abram's journey, and for God appearing (apparuit) and speaking to him.",
      "original": "Difficile est bonus esse inter alios. Sed Abram, cum esset in medio tam multorum polytheistarum, adhuc colebat solum Deum verum. Et Deus locutus est ei, et dixit: Abram, volo ut discedas ex hac terra tua, et de domo patris tui, et venias in aliam terram, quae ostendetur tibi. Volo enim facere te in gentem magnam, et benedicere tibi, et facere nomen tuum magnum. Abram itaque egressus est ex terra Haran sicut Dominus imperaverat ei. Lot venit cum eo. Abram erat vir septuaginta quinque annorum cum egrederetur de Haran. Etiam Sara, uxor Abram, venit cum eis. Venerunt in terram Chanaan. Sed Deus iterum apparuit Abram et dixit ei: Omnis terra haec erit tua. Et Abram aedificavit ibi altare Domino qui apparuerat ei. Sed Abram non remansit in terra illa. Fames enim erat ibi. Descendit itaque in Aegyptum.\nSed Abram non semper remansit in Aegypto. Reversus est in terram Chanaan. Lot etiam venit cum Abram ex Aegypto. Et Lot et Abram facti sunt valde divites. Habuerunt multos agnos et multa alia. Terra non poterat tenere omnes possessiones eorum. Abram ergo dixit ad Lot, \"Ecce, universa terra est coram te. Eligas partem terrae tibi. Si tu eligis unam partem, ego accipiam alteram.\" Lot itaque vidit terram quae erat circa Iordanem esse bonam, et habitavit ibi. In illis enim diebus, terra quae est circa Sodoma et Gomorrham valde bona erat multis fructibus. Dominus enim adhuc non deleverat illas urbes. Lot fecit domum suam in Sodomis. Sed homines Sodomitae erant pessimi.\nEt Deus apparuit iterum Abram et dixit ei, \"Vides omnes stellas quae in coelo sunt? Posteritas tua erit maior numero quam stellae.\" Et Abram credidit Deo. (Continuabitur cras)",
      "explanation": "This Lectio reviews the older forms (VIDEAMUS FORMAS VETERES), drilling how to make the first and second person of every tense in both the indicative and the subjunctive. Notice the subjunctives that drive the story: **volo ut discedas** (I wish that you depart) and **volo ut ... venias** (that you come) use the present subjunctive in an indirect command after volo. **Cum esset** (since he was) and **cum egrederetur** (when he was going out) are cum clauses with the imperfect subjunctive, telling the circumstances. **Eligas partem** is a hortatory or jussive subjunctive, choose a part for yourself. Also note indirect statement with the infinitive: **vidit terram ... esse bonam** (he saw that the land was good) and **putabantur ... esse** in the scramble piece.",
+     "divisio": {
+      "overview": "Abram's journey of obedience traced through God's repeated commands and promises, his moves between lands, and his parting from Lot.",
+      "parts": [
+       {
+        "label": "The call to leave",
+        "detail": "Faithful amid polytheists, Abram is told by God to leave his land for a land to be shown, with the promise of a great nation and name."
+       },
+       {
+        "label": "Journey to Chanaan and Egypt",
+        "detail": "Abram, seventy-five years old, sets out with Lot and Sara, God promises him all the land, and famine drives him down into Egypt."
+       },
+       {
+        "label": "Return and parting from Lot",
+        "detail": "Abram comes back from Egypt rich, and since the land cannot hold both, he lets Lot choose, who picks the good Jordan country near Sodom."
+       },
+       {
+        "label": "Promise of countless offspring",
+        "detail": "God appears again, points to the stars, foretells descendants more numerous than they, and Abram believes."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "polytheista",
@@ -9284,6 +10537,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new future-tense and imperative forms (parcam, faciam, pone, promitte) as Abraham bargains with God.",
      "original": "Quodam die Abram audivit quod quattuor reges cepissent Lot. Abram ergo collegit omnes servos suos, et secutus est illos reges. Hoc modo salvavit Lot. Post haec, Melchisedech, qui erat rex Salem venit ad Abram. Melchisedech erat sacerdos Dei. Itaque obtulit sacrificium Deo. In hoc sacrificio offerebat panem et vinum. Hoc modo praefigurabat sacrificium Missae.\nPost haec, Deus iterum apparuit Abram, et mutavit nomen eius. Dixit, \"Nomen tuum non iam erit Abram, sed Abraham. Quia volo facere te patrem multarum gentium. Iubeo te circumcidere omnes pueros in die octavo post nativitatem eorum. Haec circumcisio erit signum foederis inter me et te. Insuper, tu et Sara uxor tua habebitis filium, et vocabitis nomen eius Isaac.\"\nCum Abraham habitaret in Mambre, Deus ipse cum duobus angelis venerunt ad eum in forma humana. Abraham accepit eos in domum suam. Postea Deus discessit, et Abraham secutus est eum. Duo angeli ierunt in Sodoma, sed Dominus remansit cum Abraham, et dixit ei, \"Homines qui in Sodomis habitant pessimi facti sunt. Necesse est ergo delere eos et civitatem eorum.\" Abraham autem non amavit peccata, sed amavit amicos suos, quorum multi habitabant in Sodomis. Ergo rogavit Dominum dicens: \"Domine, si quinquaginta viri iusti invenientur in Sodomis, parces civitati illi?\" Et Dominus respondit: \"Si in Sodomis invenientur quinquaginta viri iusti, eorum causa non delebo (I will not destroy) hanc civitatem.\" Abraham ergo iterum rogavit Dominum dicens: \"Domine, si in illa civitate invenientur quadraginta quinque iusti, parces civitati?\" Et Dominus iterum dedit ei petitionem eius. Abraham itaque perseverabat rogans in hoc modo. Ultimo Dominus dixit: \"Si solummodo decem iusti invenientur, non delebo Sodoma.\" (Continuabitur cras)",
      "explanation": "**FIRST AND SECOND PERSON FUTURE INDICATIVE:** These forms are easy to build from the third singular we already know. Use the short stick (as in Lesson 51), leaving out the first and last forms, e.g. amabis, amabit, amabimus, amabitis. We also already know the third plurals, the bottom forms of each line: amabunt, tenebunt, ponent, capient, audient. So really we only need to learn five words, the I forms: amabo, tenebo, ponam, capiam, audiam. For amare the meanings run: I shall love, you will love, he will love, we shall love, you will love, they will love. As always, we can vary these, for instance besides he will love we can say he will be loving.\n**IMPERATIVE ACTIVE:** The imperative gives a command. To form the singular, merely remove the letters -re from the present active infinitive: para, habe, pone, cape (the -iunt verbs are not odd here), audi. The plural just adds -te to the singular: parate, habete, audite. But in the third conjugation we get not ponete but **ponite, capite**. It simply gives a command: prepare!, have!, put!, seize!, hear!\n**NEGATIVE:** To say Do not do it, that is to use a negative with the imperative, Latin sometimes (but rarely) uses ne: ne parate. Ordinarily, however, Latin talks around the negative by using the imperative of nolle (be unwilling) plus an infinitive: nolite venire, be unwilling to come, that is, do not come. The singular of nolite is noli. The hortatory subjunctive with ne is much the same as a mild negative command: Ne faciat, Let him not do it; Ne facias, May you not do it.",
+     "divisio": {
+      "overview": "Four episodes about Abraham, the rescue of Lot and Melchisedech's offering, the new name and covenant, the visitors at Mambre, and the bargaining over Sodom.",
+      "parts": [
+       {
+        "label": "Rescue of Lot and Melchisedech",
+        "detail": "Abram gathers his slaves to free Lot from the four kings, then Melchisedech the priest-king offers bread and wine, prefiguring the Mass."
+       },
+       {
+        "label": "New name and covenant",
+        "detail": "God renames Abram as Abraham, commands circumcision as the sign of the covenant, and promises a son named Isaac."
+       },
+       {
+        "label": "Visitors at Mambre",
+        "detail": "God with two angels comes in human form, is received by Abraham, and announces the coming destruction of wicked Sodom."
+       },
+       {
+        "label": "Abraham's bargaining",
+        "detail": "Abraham repeatedly asks God to spare the city for the sake of the just, lowering the number from fifty down to ten."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "salvare",
@@ -9460,6 +10734,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the first and second person forms of the irregular verbs velle (to want), nolle (to be unwilling), and ire (to go) as the angels urge Lot to escape.",
      "original": "Sed decem iusti non inventi sunt in Sodomis. Itaque duo Angeli missi sunt ut destruerent Sodoma. Sed primum venerunt ad Lot. Lot sedebat ad portam civitatis. Angeli dixerunt ei, \"Surge, discede ab hoc loco, Dominus enim destruet illum.\" Illa nocte, Lot venit ad duos iuvenes qui voluerunt ducere filias Lot in matrimonium et dixit eis, \"Dominus destruet hanc urbem, propter peccata multa turpia quae homines in ea committunt.\" Sed illi iuvenes noluerunt credere Lot, et putabant eum iocari.\nMane angeli iterum venerunt ad Lot, et monebant eum ut statim discederet ne periret cum illa turpi civitate. Dixerunt, \"Uxor tua veniat tecum, et etiam duae filiae tuae exeant.\" Sed Lot adhuc morabatur, ita ut necesse esset ducere eum manu, quasi contra voluntatem eius. Angeli ergo duxerunt Lot et familiam eius e Sodomis, et monuerunt eos ne respicerent post se. Dixerunt, \"Nolite respicere. Si enim hoc facietis, moriemini (you will die).\" Uxor Lot erat curiosa-volebat videre quid Dominus faceret illi civitati. Respexit itaque, et statim conversa est in statuam salis.\nDeus misit ignem et sulphur de coelis et destruxit Sodoma et Gomorrham. Locus harum urbium nunc est sub Mari Mortuo. Id quod accidit his civitatibus debet monere omnes homines ne peccata committant contra Deum. Quamquam enim Deus non semper punit peccata in hac vita, certe puniet ea in futura vita.",
      "explanation": "Today we take it a bit easy, since we have had many new forms lately. We merely apply the new forms to three somewhat irregular verbs: **velle** (to want), **nolle** (to be unwilling), and **ire** (to go). For VELLE and NOLLE we already know all the third person forms. The perfect indicative has its special set of endings like other perfects: i, isti, it, imus, istis, erunt. The one new piece is the present indicative: **volo, vis, vult, volumus, vultis, volunt**, and for nolle, **nolo, non vis, non vult, nolumus, non vultis, nolunt**. These use the normal present endings o, s, t, mus, tis, nt, but they are attached in strange ways. For IRE we earlier learned the third person present (it, eunt), imperfect (ibat, ibant), and future (ibit, ibunt). The imperfect and future run like any other -bat and -bit forms. The present needs a little attention: **eo, is, it, imus, itis, eunt**. The subjunctive starts out with **eam** and then uses the familiar endings, except that the first singular future turns out to be -am, not -em, just like a future of the third conjugation.",
+     "divisio": {
+      "overview": "The destruction of Sodom unfolds from the angels' warnings through the flight and Lot's wife to the fiery overthrow and its closing lesson.",
+      "parts": [
+       {
+        "label": "Angels warn Lot",
+        "detail": "Since ten just men are not found, two angels come, tell Lot to leave, and his sons-in-law dismiss the warning as a joke."
+       },
+       {
+        "label": "The reluctant flight",
+        "detail": "At dawn the angels urge Lot to take his family out, must lead the lingering Lot by hand, and forbid them to look back."
+       },
+       {
+        "label": "Lot's wife looks back",
+        "detail": "Curious to see what God would do, Lot's wife looks back and is turned into a pillar of salt."
+       },
+       {
+        "label": "Destruction and moral",
+        "detail": "God rains fire and brimstone on Sodom and Gomorrah, now under the Dead Sea, a warning that God will surely punish sin in the life to come."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "destruere",
@@ -9654,6 +10949,27 @@ window.COURSE_DATA.courses.push({
      "lead": "This NUNC EXERCEAMUS reading drills the first and second person of ire (ibis, ibo, redibo, redibis) and of velle and nolle (nolo, volo, vis) inside a Greek tale of an ambiguous oracle.",
      "original": "Hodie fabulam legamus de Graecia. In Graecia erant quaedam loca quae oracula vocabantur. In his locis falsi dei videbantur responsa dare quaestionibus. Sed responsa saepe erant nullo modo clara. Erant ambigua.\nQuidam adulescens (young man) Graecus--vocemus eum Philippum--qui in Phocia habitabat, ad bellum vocatus est. Quae cum audivisset ad amicum suum Platonem locutus est Philippus, \"Plato, civitas mea ad bellum vocat, sed nolo ire. Numquam vidi bona venire ex bello. Insuper, mortem timeo. Nondum multos annos habeo, et celeriter mori non volo.\"\nHis verbis auditis, Plato amico suo Philippo dixit, \"Si vis veritatem de hac re cum certitudine audire, consilium dabo (from dare) tibi. Urbs clara est in Graecia; Delphi vocatur. In hac urbe est oraculum (oracle) magnum in quo deus Apollo (nominative case) responsa dat petentibus (to those who ask). Si ad hoc oraculum ibis, et Apollini (dative) sacrificia offeres, scio quod deus tibi responsum de hoc bello dabit.\nGratias egit (thanked) Platoni Philippus, et in viam suam ibat ad oraculum clarum Apollinis. Iter non erat longum ex domo Philippi. Cum ad oraculum venisset, pecuniam sacerdotibus dedit suam, \"Volo hoc scire: ibo ad bellum? Et si hoc faciam, redibo (return-a compound of ire: redire) sine iniuria?\"\nVox mysteriosa ex oraculo venit. Philippus non potuit intellegere (understand)--quaedam enim femina quae Pythia vocabatur locuta est, sed sacerdotes dederunt ei interpretationem. Et hoc erat responsum, \"Ibis redibis numquam peribis in armis.\"\nEt nunc, quid putamus? Quid dicit oraculum? Morietur Philippus?",
      "explanation": "This reading puts the new forms of ire to work. Philip says nolo ire (I do not want to go) and non volo (I do not want), pairing nolle and velle with the infinitive. Plato uses the future ibis (you will go) and offeres; Philip himself asks ibo ad bellum? (will I go to war?) and redibo? (will I return?), the future of ire and its compound redire. The whole point of the story is the unpunctuated oracle Ibis redibis numquam peribis in armis, which can be read either as you will go, you will return, you will never perish in arms or you will go, you will never return, you will perish in arms, depending on where the comma falls.",
+     "divisio": {
+      "overview": "A Greek tale framed by a note on oracles, then the dialogue that sends Philip to Delphi, the ambiguous reply, and a closing question to the reader.",
+      "parts": [
+       {
+        "label": "On Greek oracles",
+        "detail": "The narrator explains that false gods at oracle sites gave answers that were often unclear and ambiguous."
+       },
+       {
+        "label": "Philip's fear of war",
+        "detail": "Called to war, the young Philip tells his friend Plato he does not want to go and fears dying young."
+       },
+       {
+        "label": "Plato sends him to Delphi",
+        "detail": "Plato advises him to seek certainty at Apollo's oracle at Delphi, and Philip goes and asks whether he will return unharmed."
+       },
+       {
+        "label": "The ambiguous answer",
+        "detail": "A mysterious voice gives the unpunctuated reply Ibis redibis numquam peribis in armis, and the narrator asks the reader what it means."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "oraculum",
@@ -9750,6 +11066,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new active forms (perfect, subjunctive, imperative) as God commands Abraham and an angel halts his hand.",
      "original": "Deus promiserat Abrahae quod faceret eum in gentem magnam. Ut impleret hanc promissionem, Deus dedit ei puerum, cuius nomen erat Isaac. Abraham ipse erat centum annorum quando Isaac natus est. Abraham ergo amavit Isaac multum, quia putabat quod Deus impleret promissionem suam per Isaac. Secundum foedus quod fecerat cum Deo, Abraham circumcidit puerum octavo die post nativitatem eius.\n\nSed quodam die Deus vocavit Abraham. Voluit enim videre num Abraham amaret filium suum plus quam Deum. Itaque Deus dixit, \"Abraham, Abraham.\" Ille respondit, \"Adsum Domine.\" Et Deus dixit illi, \"Tolle filium tuum quem amas, Isaac, et offeres eum in holocaustum super unum montium quem monstrabo tibi.\"\n\nAbraham ergo surrexit et paravit omnia quae necessaria erant ad hoc sacrificium. Isaac fecit iter cum patre suo Abraham. Et fecerunt iter per tres dies. Et die tertio viderunt montem quem Deus monstraverat. Abraham ergo imperavit servis suis ut remanerent in quodam loco. Ipse et puer Isaac ascenderunt. Isaac portabat ligna pro holocausto. Abraham ipse portabat ignem et gladium. Et cum iter facerent, Isaac interrogavit patrem suum, \"Pater, habemus ligna, ignem, et gladium, sed ubi est victima pro holocausto?\" Cui Abraham respondit, \"Ne timeas, fili mi, Deus ipse dabit victimam pro holocausto.\" Cum venissent ad locum sacrificii, Abraham tenuit et ligavit Isaac, et posuit eum super ligna. Et extendens manum, paratus erat interficere puerum suum. Sed antequam posset tangere filium gladio, ecce, angelus vocavit eum et dixit, Abraham, ne extendas manum tuam in filium tuum. Nunc enim novi quod times Deum, et non pepercisti filio tuo propter Deum.\" Abraham ergo respexit post se, et vidit arietem. Hunc cepit, et obtulit in holocaustum pro puero suo. Deus iterum locutus est ei, \"Quia fecisti hanc rem, et non pepercisti filio tuo, benedicam tibi, et faciam te in gentem magnam, et omnes gentes terrae benedicentur in te, quia obedivisti voci meae.\"",
      "explanation": "This Lectio rounds up the **first and second person active forms** so you can recognize them all. The perfect indicative has its own endings: **i, isti, it, imus, istis, erunt**. All active subjunctives and the imperfect and pluperfect indicatives use the personal endings **m, s, t, mus, tis, nt**. For the present and future indicative, the same stick of endings covers all forms except the first and last; recall the third plurals learned long ago (amant, tenent, ponunt, capiunt, audiunt) and the first singulars (amo, teneo, pono, capio, audio). In general, then, for all actives except the perfect indicative, the endings are **o or m, s, t, mus, tis, nt** (o for the present indicative and future of conjugations one and two, otherwise m). The story itself carries a lesson: God did not really want a human sacrifice, for God forbids human sacrifices. He did not tempt Abraham because He did not know Abraham's virtue, since God knows all things and nothing can be hidden from Him. Rather, by commanding this, God wanted to show all of us a great example of faith and obedience. Abraham is called \"Father of all who believe,\" that is, father of all who believe God. We need not be sons of Abraham according to the flesh, that is, Jews by birth, but we must imitate the faith of Abraham; in this way, in a spiritual sense, we can be his sons.",
+     "divisio": {
+      "overview": "A narrative that moves from background to test to rescue, in five steps: the promise fulfilled in Isaac, the sudden command, the silent journey, the binding halted by the angel, and the renewed blessing.",
+      "parts": [
+       {
+        "label": "The promised son",
+        "detail": "Recalls God's promise of a great nation and the late birth and circumcision of Isaac, whom Abraham loves."
+       },
+       {
+        "label": "The command",
+        "detail": "God calls Abraham to test his love and orders him to offer Isaac on a mountain He will show."
+       },
+       {
+        "label": "The journey and ascent",
+        "detail": "Abraham prepares, travels three days with Isaac, leaves the servants, and climbs while Isaac asks where the victim is."
+       },
+       {
+        "label": "The binding and the angel",
+        "detail": "Abraham binds Isaac and raises the sword, but the angel stops him, declaring his fear of God proven."
+       },
+       {
+        "label": "The ram and the blessing",
+        "detail": "Abraham offers a ram in place of his son, and God promises to make him a great nation in which all peoples are blessed."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "gens",
@@ -9935,6 +11276,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the first and second person forms of esse, posse, and ferre as Abraham, his servant, and Rebecca all speak in this story.",
      "original": "Abraham senex erat, et multos iam annos habuit. Vocavit itaque unum ex servis suis et dixit ei, \"Ego iam senex sum, et Dominus benedixit mihi in multis. Sed ante mortem meam volo providere uxorem bonam pro filio meo Isaac. Sed ne accipias uxorem ei de filiis quae habitant in hac terra-eas ad terram meam unde discessi et accipe ibi uxorem pro filio meo Isaac.\"\nRespondit servus, \"Quid faciam si mulier nolet redire mecum in hanc terram: debeo ego ducere filium tuum in terram Haran unde tu venisti?\" Et Abraham dixit: \"Nullo modo-homines enim qui habitant in Haran multos deos colunt. Nolo filium meum habitare cum illis. Sed insuper, Deus promisit mihi quod faceret me in gentem magnam in terra hac. Debeo implere voluntatem eius.\"\nItaque servus discessit, et iter fecit in Haran. Cum ad urbem esset, servus vidit mulieres egredientes ut haurirent aquam. Servus Abrahae autem hoc modo ad Deum oravit, \"Domine Deus, fac misericordiam cum domino meo Abraham. Ego itaque rogabo puellas has ut dent (from dare) mihi aquam. Puella ergo quae dicet mihi: 'Etiam camelis tuis aquam dabo' illa sit puella quam tu, Domine, paravisti filio domini mei. Hoc modo sciam voluntatem tuam.\"\nServus non finiverat orationem suam ad Dominum-et ecce puella pulchra, cuius nomen erat Rebecca, venit ad eum. Itaque cum servus petivisset aquam ab ea, Rebecca dixit, \"Etiam camelis tuis aquam dabo.\"\nHoc modo invenit servus Abrahae uxorem bonam pro Isaac. Parentes enim Rebeccae, audientes omnia quae acciderant, dixerunt, \"Voluntas Domini Dei clara est. Redeat Rebecca tecum, ut sit uxor bona filio domini tui.\"",
      "explanation": "This Lectio fills in the first and second person forms of three special verbs: **esse**, **posse**, and **ferre**. For **esse**, we already know the third person forms (est, sunt, erat, erant, erit, erunt, fuit, fuerunt, sit, sint, esset, essent, fuisset, fuissent). On most of these we simply add the personal endings m, s, t, mus, tis, nt; the perfect indicative behaves like other perfects. The future is almost the same (ero, eris, erit, erimus, eritis, erunt), but the present indicative is quite irregular: **sum, es, est, sumus, estis, sunt**. For **posse**, outside the infinitive this verb is merely esse with the prefixes pot- and pos-: use pot- before forms beginning with e (potero, potes, potest), and pos- before forms beginning with s (possum, possumus, possunt). Only the present indicative jumps around: **possum, potes, potest, possumus, potestis, possunt**. For **ferre**, this verb acts just like a normal third conjugation verb outside the present indicative (imperfect ferebam, future feram feres, present subjunctive feram feras, imperfect subjunctive ferrem ferres). The present indicative is **fero, fers, fert, ferimus, fertis, ferunt**; just remember to drop the normal connecting vowel in the second and third singular and the second plural.",
+     "divisio": {
+      "overview": "A commission story in four movements: the aged Abraham charges his servant, the servant raises a worry that Abraham answers, the servant journeys and prays for a sign, and Rebecca fulfills the sign so her parents consent.",
+      "parts": [
+       {
+        "label": "Abraham's charge",
+        "detail": "The old Abraham orders his servant to find Isaac a wife not from Canaan but from his own homeland."
+       },
+       {
+        "label": "The servant's objection answered",
+        "detail": "The servant asks what to do if the woman will not come, and Abraham forbids taking Isaac there, trusting God's promise."
+       },
+       {
+        "label": "The journey and the prayer for a sign",
+        "detail": "The servant reaches Haran and prays that the girl who offers water to his camels be the chosen wife."
+       },
+       {
+        "label": "Rebecca and the consent",
+        "detail": "Rebecca arrives and speaks the very words of the sign, and her parents recognize God's will and let her go."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "colere, coluit, cultus",
@@ -10125,6 +11487,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the first and second person perfect passive forms (paratus sum, missus es) that this Lectio introduces, woven into Jacob's story.",
      "original": "Isaac et Rebecca duos filios habuerunt, quorum nomina erant Esau et Jacob. Esau autem irascebatur quia Jacob acceperat benedictionem patris Isaac per simulationem. Rebecca itaque, videns iram Esau, timuit ne interficere vellet Jacob. Vocavit ergo Jacob, et monuit eum ne moraretur sed celeriter discederet dicens, \"Irascitur tibi Esau. Timeo ne te interficere conetur. Fuge itaque in Haran, ad Laban fratrem meum. Post dies paucos reverti poteris.\"\nJacob ergo profectus est in Haran, et cum iter faceret, nox invenit eum in quodam campo. Tulit itaque lapidem, et ponens eum sub capite suo, dormivit. Et cum dormiret, vidit visionem magnam: scala stabat in terra, et cacumen huius scalae coelum tangebat. Angeli Dei ascendebant et descendebant per scalam; Dominus Deus ipse in coelo erat, et locutus est ad Jacob, \"Ego sum Dominus Deus Abrahae, patris tui, Deus Isaac. Terram in qua dormis tibi et filiis tuis dabo.\" Deus promiserat Abrahae quod filii eius essent multi, ita ut nemo posset numerare eos. Deus renovavit idem foedus cum Jacob, et dixit, \"In te omnes gentes terrae benedicentur.\"\nPost haec Jacob surrexit et dixit, \"Re vera Dominus est in hoc loco, et ego nesciebam. Terribilis est locus hic-nihil enim aliud est nisi domus Dei et porta coeli!\" Jacob itaque vocavit nomen loci illius Bethel, id est, domus Dei. \"Beth\" enim in lingua Hebraica est \"domus\" et \"El\" est Deus.",
      "explanation": "**First and second person perfect passives:** Long ago we learned to make the third person forms of the perfect and pluperfect passive (both indicative and subjunctive). Now that we know the first and second person forms of **esse**, we can fill out the whole table and make all three persons. A few samples: **paratus sum, es, est** and **parati sumus, estis, sunt** (perfect indicative passive); **paratus eram, eras, erat** and **parati eramus, eratis, erant** (pluperfect indicative passive). **Perfect subjunctive passive:** Since **paratus sum** gives the perfect indicative, simply changing **sum** to **sim** (the subjunctive of esse) gives the perfect subjunctive: **paratus sim, sis, sit** and **parati simus, sitis, sint**. Ordinarily this is found only in dependent clauses, when the main verb refers to present or future time, and it indicates completed action, for example, **Rogat num milites interfecti sint**, He asks whether the soldiers have been killed. **Future perfect indicative passive:** Make it simply by adding the future of esse to the perfect participle: **paratus ero, eris, erit** and **parati erimus, eritis, erunt**, meaning I shall have been prepared, you will have been prepared, and so on.",
+     "divisio": {
+      "overview": "A flight that becomes a theophany, told in four stages: the cause of Esau's anger, Rebecca's warning and Jacob's flight, the ladder vision with God's promise, and Jacob's waking response naming Bethel.",
+      "parts": [
+       {
+        "label": "Esau's anger",
+        "detail": "Esau rages because Jacob took the father's blessing by deceit, and Rebecca fears he means to kill Jacob."
+       },
+       {
+        "label": "Warning and flight",
+        "detail": "Rebecca sends Jacob to flee to her brother Laban in Haran, and Jacob sets out and sleeps on a stone in a field."
+       },
+       {
+        "label": "The vision and promise",
+        "detail": "Jacob sees a ladder joining earth to heaven with angels on it, and God renews the covenant, promising the land and innumerable offspring."
+       },
+       {
+        "label": "Waking and naming",
+        "detail": "Jacob awakes in awe, calls the place the house of God and gate of heaven, and names it Bethel."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "dormire, ivit, itus",
@@ -10301,6 +11684,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the passive subjunctive endings (ris, mini) and for num, which introduces a question expecting the answer no.",
      "original": "Sunt multa alia de Iacob quae legere possumus in Scripturis Sanctis. Sed hodie audire volumus de duodecim filiis Iacob, et praesertim de uno ex his filiis, cuius nomen erat Iosephus.\n\nQuodam die fratres Iosephi fecerunt rem pessimam. Iosephus venit ad patrem suum Iacob et narravit ei id quod fratres eius fecerant. Propter hanc causam fratres eius irati sunt ei, et coeperunt odisse eum. Insuper, Iacob amavit Ioseph plus quam alios--ecce alia causa odii.\n\nIoseph etiam habuit duo somnia, quae narravit fratribus suis. Dixit enim, \"Audite somnium meum quod vidi: putabam nos ligare manipulos in agro. Et manipulus meus surrexit et stetit, sed vestri manipuli circumstantes adoraverunt manipulum meum.\"\n\nSomnio audito, fratres eius responderunt, \"Num rex noster eris? Aut nos subiciemur (be subjected to) tibi?\" Post haec, fratres eius senserunt odium maius contra Iosephum. Sed Ioseph etiam vidit aliud somnium, et narravit fratribus suis. Dixit, \"Vidi per somnium, quasi solem et lunam et stellas undecim adorare me.\" Audito hoc somnio, pater eius dixit, \"Quid sibi vult hoc somnium (What does it mean)? Num ego et mater tua et fratres tui adorabimus te super terram?\" Pater eius non odit Iosephum, sed fratres eius oderunt eum.\n\nQuodam die, Iacob vocavit Iosephum. Qui dixit, \"Adsum; quid vis a me?\" Et pater respondit, \"Veni, mittam te ad fratres tuos, ut videas si omnia prospera sint cum eis et cum pecoribus quae custodiunt.\" Iosephus ergo discessit, et secutus est fratres suos, ut videret si omnia prospera essent eis et pecoribus. Fratres eius viderunt eum venientem et dixerunt, \"Ecce, somniator venit! Venite, occidamus eum, et videamus quid prosint illi somnia eius.\" (Continuabitur cras)",
      "explanation": "PREVIEW OF PASSIVE FORMS OF SIMPLE TENSES (all but the perfects, that is, present, imperfect, and future): one set of endings, m or o, s, t, mus, tis, nt accounts for nearly all active forms. Perfect passives are made with the perfect participle and a form of esse. But all simple tenses of passives are made with just one set of endings, no exceptions, which are: **r, ris, tur, mur, mini, ntur**. We already know two out of the six, so we have only four to learn. TODAY WE LEARN THE PRESENT AND IMPERFECT SUBJUNCTIVE. For these we simply use the old stick method, attaching the passive endings to the present or imperfect subjunctive stem, for example imperfect **parare-tur** (he would be prepared) and present **habea-tur** (he may be had). Note also **num**: there is no single English equivalent. It introduces a question and shows that one expects the answer no, like our roundabout \"You aren't going to the city, are you?\" for Num vadis in urbem? The enclitic -ne is neutral and expects no particular answer, while -ne on the end of non (**nonne**) expects the answer yes: Nonne vadis in urbem? Aren't you going to the city?",
+     "divisio": {
+      "overview": "A rising-hatred narrative in five beats: an introduction of Joseph, the first seeds of resentment, the first dream and its reaction, the second dream and its reaction, and the errand that ends in a murder plot.",
+      "parts": [
+       {
+        "label": "Introduction",
+        "detail": "Sets aside other Jacob stories to focus on the twelve sons and especially Joseph."
+       },
+       {
+        "label": "First grievances",
+        "detail": "Joseph reports his brothers' misdeed and is loved more than them, so their hatred begins."
+       },
+       {
+        "label": "The first dream",
+        "detail": "Joseph tells of sheaves bowing to his sheaf, and the brothers angrily ask if he will reign over them."
+       },
+       {
+        "label": "The second dream",
+        "detail": "Joseph tells of sun, moon, and eleven stars adoring him, and even his father questions the dream."
+       },
+       {
+        "label": "The errand and the plot",
+        "detail": "Jacob sends Joseph to check on his brothers, who see him coming and resolve to kill the dreamer."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "adorare, avit, atus",
@@ -10477,6 +11885,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the subjunctive commands the brothers use (Ne interficiatis, Mittamus, fundatis) and the ablative case-price viginti argenteis.",
      "original": "Fratres Iosephi comprehenderunt eum, et ligaverunt eum. Voluerunt occidere eum, et dicere patri suo Iacob: Fera mala devoravit filium tuum Ioseph. Sed unus ex fratribus Iosephi, cuius nomen erat Ruben, nolebat interficere fratrem suum. Sciebat enim quod Iosephus meruerat nihil mali. Voluit ergo liberare eum. Sed non poterat simpliciter dicere aliis fratribus, \"Volo liberare Iosephum.\" Ergo dixit, \"Ne interficiatis animam eius, nec fundatis sanguinem eius. Mittamus eum in hanc cisternam veterem.\" (Non erat aqua in hac cisterna.)\n\nHaec verba placuerunt aliis fratribus, et miserunt Iosephum in cisternam veterem. Sed cum sederent ut comederent panem, viderunt mercatores venientes. Hi mercatores erant Ismaelitae, et faciebant iter in Aegyptum. Unus ex fratribus, Judas, videns hos mercatores, dixit aliis: \"Quid prodest nobis si occidemus fratrem nostrum? Nonne melius est vendere eum Ismaelitis? Hoc modo manus nostrae non polluentur.\" Cum ergo Ismaelitae venissent ad eos, traxerunt Iosephum ex cisterna, et vendiderunt eum viginti argenteis (abl. case-price).\n\nRuben non aderat cum alii fratres venderent Iosephum. Cum ergo venisset ad cisternam, et non invenisset fratrem suum, magno dolore affectus est. Sed fratres tulerunt (from ferre) tunicam Iosephi, et intinxerunt in sanguine haedi quem occiderant.\n\nTunc ierunt ad patrem suum, et monstraverunt ei tunicam intinctam sanguine. Et dixerunt, \"Vide, estne haec tunica Iosephi?\" Et pater, motus dolore maximo dixit, \"Fera pessima devoravit filium meum Iosephum.\" Ismaelitae autem duxerunt Iosephum in Aegyptum.",
      "explanation": "This Lectio adds no new grammar (Nihil novi hodie, veteribus studeamus, let us study the old things). It reviews old forms in **VIDEAMUS FORMAS VETERES**, drilling the second person of esse, posse, and ferre across the tenses (you are, you were, you will be, you have been, you had been), and the perfect passive (we have been called, we had been called, we shall have been called) for verbs like tenere, capere, implere, and finire. In the story, notice the **subjunctives of command and purpose**: Ne interficiatis (do not kill), nec fundatis (nor shed), Mittamus (let us send), and cum sederent ut comederent (when they were sitting in order to eat). The price of the sale is in the **ablative**, viginti argenteis (for twenty silver pieces).",
+     "divisio": {
+      "overview": "A betrayal narrative in five turns: the seizure, Ruben's saving proposal, the traders' arrival with Judas's plan, the actual sale, and the deception of the grieving father.",
+      "parts": [
+       {
+        "label": "The seizure",
+        "detail": "The brothers bind Joseph and plan to kill him and blame a wild beast."
+       },
+       {
+        "label": "Ruben's intervention",
+        "detail": "Ruben, wanting to save Joseph, persuades them not to shed blood but to throw him into a dry cistern."
+       },
+       {
+        "label": "The traders and Judas's plan",
+        "detail": "Ishmaelite merchants pass by, and Judas proposes selling Joseph rather than killing him."
+       },
+       {
+        "label": "The sale",
+        "detail": "The brothers drag Joseph from the cistern and sell him for twenty silver pieces."
+       },
+       {
+        "label": "The deceived father",
+        "detail": "Ruben returns to the empty cistern and grieves, while the others dip Joseph's tunic in goat's blood and show it to Jacob, who mourns his son as devoured by a beast."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "fundere, fudit, fusus",
@@ -10603,6 +12036,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the hortatory subjunctives that invite the reader along (ingrediamur, Interrogemus) and the description of the Nile and its annual diluvium.",
      "original": "AUDIAMUS DE TERRA AEGYPTI\n\nAmicus noster, Sanctus Iosephus, a fratribus suis venditus est. Mercatores Ismaelitae eum in terram Aegypti ducunt. Itaque, nos etiam ingrediamur in hanc terram, ut eam videamus. Ubi est Aegyptus? Est in Africa. Non est terra magna, sed est terra valde antiqua.\n\nIn media terra est flumen magnum, cuius nomen est Nilus. Hoc flumen necessarium est in Aegypto. Omni anno hoc flumen diluvium parvum facit super magnam partem terrae. Sine hoc diluvio annuali (annual) Aegyptii non possent (could not) colere agros suos. Non possent habere panem et alios cibos necessarios. In parte enim septentrionali terrae, ad Mare Mediterraneum, terra imbres (rains) moderatos accipit. Sed aliae partes Aegypti fere numquam imbrem accipiunt. Ergo diluvium annuale fluminis Nili valde necessarium est.\n\nSed ecce-vir Aegyptius ad nos venit. Interrogemus eum de terra hac. Amice! (friend) Veni ad nos. Quis es? \"Nomen meum est Ptahotep.\" Nomen novum est. Numquam tale nomen audivimus. Quid significat? \"Ptah est magnus deus in terra Aegypti. Ptah enim est intellectus et lingua omnium deorum. Haec sufficiant de prima parte nominis mei. Secunda pars, id est, hotep, significat 'satis est.' Ergo totum nomen significat: Satis est pro Ptah-vel, in aliis verbis: Placet Ptah.\" Sed volumus scire quid significat id quod tu dicis, \"Ptah est lingua omnium deorum.\" \"Difficile est hanc rem explicare, sed conabor (I will try). Ptah est potestas per quam omnes alii dei imperare possunt. Ptah ergo est super omnes alios deos. Habemus enim multos alios deos. Etiam ipse rex noster est deus magnus.\" (Cras audiemus plura de Aegypto)",
      "explanation": "This dialogue continues the Lectio's review with no new rule. Notice the **hortatory subjunctive** drawing the reader in: ingrediamur (let us enter), Interrogemus (let us ask), and the wish Haec sufficiant (let these things suffice). The conditions use the **imperfect subjunctive of posse**, glossed for you: non possent colere (they could not cultivate), non possent habere (they could not have). The Nile's yearly flood is the diluvium annuale, and Most keeps several reading-aids inline, such as (annual), (could not), (rains), (friend), and (I will try).",
+     "divisio": {
+      "overview": "A travel dialogue in four moves: an invitation to enter Egypt, a description of the Nile and its flood, the meeting with Ptahotep who explains his name, and his account of the god Ptah.",
+      "parts": [
+       {
+        "label": "Invitation to Egypt",
+        "detail": "Following the sold Joseph, the class proposes to enter Egypt and locates it as a small but very ancient land in Africa."
+       },
+       {
+        "label": "The Nile and its flood",
+        "detail": "Explains that the Nile's yearly flood is necessary because most of Egypt almost never gets rain."
+       },
+       {
+        "label": "Meeting Ptahotep",
+        "detail": "An Egyptian approaches and unpacks his strange name part by part, Ptah plus hotep, meaning that Ptah is pleased."
+       },
+       {
+        "label": "Ptah and the gods",
+        "detail": "Ptahotep describes Ptah as the power above all the other gods, including the divine king."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "fundere, fudit, fusus",
@@ -10724,6 +12178,27 @@ window.COURSE_DATA.courses.push({
      "lead": "A light anecdote to enjoy your old forms; watch the temporal expressions for the days of the week and the purpose clause ne... diceret.",
      "original": "PSITTACUS (Parrot) DIXIT # # % *??! ! !\n\nQuaedam bona femina, Margarita nomine, psittacum habebat. Sed psittacus, qui olim cum nautis navigaverat, semper multa verba profana (profane language) dicebat. Margarita verba profana audire non amabat, et propter hanc causam, omni die dominica (Sunday) psittacum ponebat in caveam (cage) et eum tegebat (covered), ne in die dominica psittacus talia verba diceret. Sed quadam hebdomeda (week), in feria secunda (Monday), Margarita vidit ministrum (a minister) venientem ad domum suam. Celeriter itaque psittacum in caveam posuit et texit eum. Post haec, minister in domum venit, et loquebatur cum Margarita, quando vox querens (complaining) ex cavea audiebatur, \"Unam ##% ??!!! brevem hebdomedam!!!\"",
      "explanation": "Another review piece, this time a joke, with no new grammar. Watch the **purpose clause** ne... psittacus talia verba diceret (so that the parrot would not say such words) and the **time expressions** Most glosses inline: omni die dominica (Sunday), in feria secunda (Monday), and quadam hebdomeda (week). The parrot, used to being covered only on Sundays, complains that this has been one very short week.",
+     "divisio": {
+      "overview": "A four-part joke: the setup of woman and parrot, the established Sunday-covering habit, the off-schedule Monday covering for the minister, and the punchline complaint.",
+      "parts": [
+       {
+        "label": "The cast",
+        "detail": "Introduces pious Margaret and her parrot, which had sailed with sailors and learned profane words."
+       },
+       {
+        "label": "The Sunday rule",
+        "detail": "Every Sunday Margaret cages and covers the bird so it will not curse on the holy day."
+       },
+       {
+        "label": "The Monday cover-up",
+        "detail": "On a Monday, seeing a minister approach, she quickly covers the parrot again."
+       },
+       {
+        "label": "The punchline",
+        "detail": "From under the cover the bird complains, with bleeped curses, about one very short week."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "psittacus",
@@ -10830,6 +12305,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new first and second person passive forms of the imperfect (the -r, -ris, -tur, -mur, -mini, -ntur endings) and the enclitic -que meaning and.",
      "original": "Igitur Iosephus ductus est in Aegyptum, emitque eum Putiphar, princeps exercitus. Sed Deus erat cum Iosepho et benedixit ei. Iosephus habitabat in domo domini sui. Et Deus benedixit domui Putiphari propter Iosephum. Iosephus ipse placuit Putipharo, et datum est ei ut administraret omnia negotia domus illius. Sed uxor Putiphari odit Iosephum, et accusavit eum crimine falso. Putiphar credidit verbis uxoris suae, et iecit Iosephum in carcerem. Sed Deus erat cum Iosepho, et dedit ei gratiam in conspectu principis carceris.\nIn hoc carcere erant multi alii viri. Inter hos erant duo servi regis. Unus ex his fuerat pistor regis. Alius fuerat pincerna regius (ille ferebat calicem vini ad regem). Hi duo viderunt somnia quadam nocte, et narraverunt somnia sua Iosepho. Pincerna narravit somnium suum, \"Videbam coram me vitem in qua erant tres propagines in quibus uvae erant. Habui calicem Pharaonis in manu mea, et pressi uvas in calicem et dedi calicem Pharaoni.\"\nIosephus autem respondit ei, \"Haec est interpretatio somnii-tres propagines, tres adhuc dies sunt. Post hos dies Pharao recordabitur tui et ministerii tui, et restituet te in locum tuum, et dabis ei calicem secundum officium tuum, sicut antea faciebas. Sed cum venies in domum Pharaonis, rogo te ut loquaris illi pro me, ut exeam ex hoc carcere. Quia venditus sum e terra Hebraeorum a fratribus meis, et innocens missus sum in hunc carcerem.\"",
      "explanation": "FIRST AND SECOND PERSON PASSIVE OF THE IMPERFECT INDICATIVE: We already know the third person passive of the imperfect, and we know the passive endings, the stick: **r, ris, tur, mur, mini, ntur**. Put them onto the imperfect stem and we have what we want, for example **amabar, amabaris, amabatur, amabamur, amabamini, amabantur**. Since all imperfects work the same way, there is no need to write out more examples (but you should write some for practice). THE INDEFINITE PRONOUN ALIQUIS, ALIQUID: it means someone, something. It declines just like the interrogative quis, quid (Lesson 38), except that the neuter nominative and objective plural is **aliqua**, not aliquae. How does it differ from quidam? Quidam means a certain one (I know who but will not tell). Aliquis means someone (I do not know who). THE INDEFINITE ADJECTIVE: it has the same forms as qui, quae, quod, except for three places where the form is **aliqua**: the nominative singular feminine, and the nominative and objective plural neuter. So in the nominative singular it has three forms: aliqui, aliqua, aliquod. THE ENCLITIC -QUE: in the story above we saw -que used to mean and. It differs from et in two ways: first, -que is attached to the end of a word but is translated before that word; second, -que is a closer connective than et. English has only one and, but Latin has three, in order of closeness of connection: -que, ac (atque), et. Et is the loosest, but -que is the closest, as in **agnus porcique**, the lamb and the pigs.",
+     "divisio": {
+      "overview": "A rise-fall-and-hope narrative in five steps: Joseph's success under Putiphar, the false accusation and imprisonment, the two royal prisoners, the butler's dream, and Joseph's interpretation with a plea.",
+      "parts": [
+       {
+        "label": "Service and favor",
+        "detail": "Joseph is bought by Putiphar and, blessed by God, is put in charge of the whole household."
+       },
+       {
+        "label": "False charge and prison",
+        "detail": "Putiphar's wife accuses Joseph falsely, and he is jailed, yet God gives him favor with the prison warden."
+       },
+       {
+        "label": "The two prisoners",
+        "detail": "Two of the king's servants, a baker and a butler, are jailed with him and dream on the same night."
+       },
+       {
+        "label": "The butler's dream",
+        "detail": "The butler tells of a vine with three branches whose grapes he pressed into Pharaoh's cup."
+       },
+       {
+        "label": "Interpretation and plea",
+        "detail": "Joseph reads the three branches as three days to restoration and begs the butler to remember him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "administrare, avit, atus",
@@ -11032,6 +12532,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the new passive endings (-ris, -mur, -mini) and the indefinite pronoun quis (anyone, someone) used after si, nisi, ne, num, and an.",
      "original": "Iosephus, in carcere in terra aliena, iam interpretatus est somnium principis pincernarum Pharaonis. Sed etiam princeps pistorum Pharaonis narravit somnium suum, dicens: \"Et ego vidi somnium, quod tria canistra farinae haberem super caput meum. Et in uno canistro portabam omnes cibos qui fiunt arte pistoria, et aves coeli comedebant ex eo. Rogo te, ut explices mihi interpretationem somnii huius.\" Respondet Iosephus, \"Haec est interpretatio somnii: Tria canistra, tres adhuc dies sunt: post quos auferet Pharao caput tuum, ac suspendet te in cruce, et aves comedent carnes tuas.\"\nEt post tres dies natalitius Pharaonis erat, et in convivio Pharao recordatus est pincernae et pistoris qui erant in carcere. Et restituit alterum in locum suum, ut porrigeret ei calicem, alterum autem suspendit in cruce. Pincerna tamen oblitus est Iosephi, et hic remansit in carcere.\nPost duos annos, vidit Pharao somnium. Putabat se stare ad flumen, de quo ascendebant septem boves pulchrae et crassae valde, et pascebantur in locis palustribus. Etiam aliae septem boves venerunt e flumine, deformes et exiles valde, et septem deformes boves comederunt septem pulchras boves.\nSed eadem nocte, Pharao vidit et aliud somnium. Septem spicae erant in culmo uno, et plenae et pulchrae erant. Sed aliae septem oriebantur, exiles valde, et septem exiles comederunt septem pulchras. Post haec, Pharao surrexit a somniis suis, et territus est. Et misit ad omnes vates in omni terra Aegypti ut venirent et interpretarentur somnia sua. Sed non poterant. (Continuabitur)",
      "explanation": "FIRST AND SECOND PERSON PRESENT INDICATIVE PASSIVE: the short-stick pattern works reasonably well here, though there are two forms (the **-ris** circles) where it does not fit perfectly. We already know the third plurals: amantur, tenentur, ponuntur, capiuntur, audiuntur. So we have to learn only five new forms, **amor, teneor, ponor, capior, audior**, and to note the two irregulars **poneris** and **caperis**. The easiest way to deal with these forms is simply to memorize them, but concentrate on recognizing them for the moment and learn to make them gradually. Compare them to the present subjunctive, since there are some similarities.\nTHE INDEFINITE PRONOUN quis, quid: its declension is no problem, just the same as the interrogative pronoun quis, quid which we already know. It means someone, anyone, something, anything. Qua may replace quae, except in the nominative singular feminine. THE INDEFINITE ADJECTIVE qui, quae, quod has the same declension as the relative pronoun qui, quae, quod. The meaning is about the same as the indefinite aliquis (and its adjective aliqui), but Latin used quis, quid (and the adjective form likewise) always and only after **si, nisi, ne, num, and an**.",
+     "divisio": {
+      "overview": "A double-dream narrative that pairs one prisoner's dream that Joseph reads with two later royal dreams no one can read.",
+      "parts": [
+       {
+        "label": "The baker's dream and reading",
+        "detail": "The chief baker tells his dream of three baskets and birds, and Joseph interprets the three baskets as three days until his execution."
+       },
+       {
+        "label": "The fulfillment at the banquet",
+        "detail": "On Pharao's birthday the cupbearer is restored and the baker hanged, while the cupbearer forgets Joseph, who stays in prison."
+       },
+       {
+        "label": "Pharao's dream of the cattle",
+        "detail": "Two years later Pharao dreams of seven fat cows by the river devoured by seven gaunt ones."
+       },
+       {
+        "label": "Pharao's dream of the grain and his alarm",
+        "detail": "The same night he dreams of seven full ears eaten by seven thin ones, wakes terrified, and summons all the soothsayers, who cannot interpret."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "auferre, abstulit, ablatus",
@@ -11225,6 +12746,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the first and second person future passive forms (servabimur, duceris, restituemini) and the vocative case used to address people directly (Domine mi rex, Iosephe).",
      "original": "Pharao, rex Aegypti vocaverat omnes vates in terra Aegypti, ut interpretarentur somnia sua. Sed non poterant. Tum pincerna cuius somnium Iosephus interpretatus erat recordatus est Iosephi, qui adhuc erat in carcere, et locutus est Pharaoni, \"Domine mi rex, liceat mihi aliquid loqui. Servus tuus olim erat in carcere, et etiam somnium somniavi. Sed mecum in carcere erat puer Hebraeus, qui recte explicavit somnium mihi. Ego pollicitus sum quod recordarer eius-sed oblitus sum. Ille poterit interpretari somnium regis. Habet enim magnam sapientiam a Deo.\"\nRex ergo praecepit ut Iosephus adduceretur ad se. Cum Iosephus staret coram rege, Pharao narravit ei duo somnia. Et Iosephus respondit: \"Duo somnia regis re vera unum sunt. Deus enim ostendere vult ea quae venient in terra Aegypti. Septem boves pulchrae et septem spicae plenae sunt septem anni ubertatis. Sed septem boves exiles et septem spicae exiles, septem anni famis sunt. Et hi anni hoc ordine implebuntur: Ecce primum venient septem anni fertilitatis magnae in universa terra Aegypti: quos sequentur septem anni tantae sterilitatis ut oblivioni tradatur cuncta abundantia praeterita. Fames enim consumet omnem terram, et magnitudo inopiae perdet magnitudinem ubertatis. Deus misit duo somnia tibi, ut ostenderet firmitatem consilii sui-quia haec omnia sine aliquo dubio venient super terram hanc. Nunc ergo provideat rex virum sapientem et industrium, et praeficiat eum terrae Aegypti. Et hic vir praeficiat alios viros per cunctas regiones. Et servetur quinta pars fructuum per septem annos fertilitatis. Et omne frumentum sit sub potestate Pharaonis, et servetur in urbibus. Hoc modo praeparetur futurae fami septem annorum, ne consumetur terra Aegypti.\" (Continuabitur cras)",
      "explanation": "Two grammar points here. **First and second person future passive:** the short-stick pattern works again. The endings are -r, -ris, -tur in the singular and -mur, -mini, -ntur in the plural, attached to the future stem, as in capie-tur, audie-tur, pone-tur. We already know the third plurals (amabuntur, tenebuntur, ponentur, capientur, audientur), so we only have to learn five new forms: amabor, tenebor, ponar, capiar, audiar, plus two irregular second singulars, amaberis and teneberis. Note that the future second singular poneris looks like the present poneris, but the accent differs (future poneris, present poneris). **The vocative case:** when we call someone by name we use the vocative. Most nouns have no special vocative form, so we use the nominative. Only in the singular of the second declension are there special forms: nouns ending in -us change to -e (Maree, Domine), nouns ending in -ius change to -i (Porci). Adjectives, both -ius and -us forms, use -e (bone). Notice the one odd adjective form mi, as in Domine mi rex, My Lord King. Deus never changes.",
+     "divisio": {
+      "overview": "The passage moves from the king's failed soothsayers to Joseph's reading of the dreams and finally to his policy advice.",
+      "parts": [
+       {
+        "label": "The soothsayers fail and the cupbearer speaks",
+        "detail": "When the vates cannot interpret, the cupbearer recalls the Hebrew youth in prison and recommends him to Pharao."
+       },
+       {
+        "label": "Joseph summoned and the dreams unified",
+        "detail": "Pharao orders Joseph brought before him and tells the two dreams, which Joseph declares are really one."
+       },
+       {
+        "label": "The interpretation of plenty and famine",
+        "detail": "Joseph reads the fat cows and full ears as seven years of abundance, the gaunt ones as seven years of famine that will consume the land."
+       },
+       {
+        "label": "The plan for storing grain",
+        "detail": "Joseph advises Pharao to appoint a wise overseer and store a fifth of the harvest in the cities against the coming famine."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "tum",
@@ -11453,6 +12995,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the passive forms (servarentur, posita sunt) as Joseph is raised up and the grain is stored; the grammar note reviews all the passives.",
      "original": "Consilium Iosephi placuit Pharaoni et omnibus ministris eius. Pharao itaque locutus est ad eos, \"Ubi invenire poterimus talem virum, qui spiritu Dei plenus sit?\" Dixitque Pharao Iosepho, \"Quia ostendit tibi Deus omnia, quae locutus est, numquid sapientiorem virum invenire potero? Tu eris super domum meam, et ad tui oris imperium, omnis populus obediet: uno tantum regni solio te praecedam. Ecce, constitui te super universam terram Aegypti.\"\nPharao tulit anulum de manu sua, et dedit eum in manum Iosephi, vestimentaque meliora dedit ei. Fecitque eum ascendere super currum suum secundum, clamante praecone, ut omnes sciant Iosephum secundam habere potestatem universae terrae Aegypti. Pharao etiam vertit nomen Iosephi, et vocavit eum lingua Aegyptiaca \"Saphaneth-phanee.\" (Nescimus significationem huius nominis. Scientia enim linguae Aegyptiacae adhuc imperfecta est. Sanctus Hieronymus putabat hoc nomen probabiliter significare \"Salvator mundi.\")\nIosephus erat triginta annorum quando stetit ante Pharaonem. Post haec, Iosephus circumivit omnes regiones Aegypti. Venitque fertilitas septem annorum, cum magna abundantia omnium frumentorum. Tantaque fuit abundantia frumenti, ut arenae maris coaequaretur. Iubente Iosepho, multa frumenta posita sunt in horrea Aegypti, ut servarentur in annis fertilitatis magnae. Venerunt etiam quos Iosephus praedixerat septem alii anni magnae famis. Etiam in aliis terris fames valde magna erat. (Continuabitur cras)",
      "explanation": "This lesson reviews ALL the passives. The perfect, pluperfect, and future perfect passive simply use the passive participle with the suitable form (present, imperfect, or future) of the verb **esse** (so **posita sunt** = were placed). That leaves the simple tenses: present, imperfect, and future. The present and imperfect subjunctive, and the imperfect indicative merely use the full personal endings: **r, ris, tur, mur, mini, ntur** (so **servarentur** = that they might be saved). The present and future indicatives use the short set, **ris, tur, mur, mini**, except for three second-singular forms: present of the third conjugation **poneris** and **caperis**, and future of the first and second conjugation **amaberis**, **teneberis**. The first singulars you simply memorize: present **amor, teneor, ponor, capior, audior**; future **amabor, tenebor, ponar, capiar, audiar**.",
+     "divisio": {
+      "overview": "An elevation scene that proceeds from Pharao's words of appointment to the symbols of office and a narrator's aside, then to Joseph's years of stockpiling.",
+      "parts": [
+       {
+        "label": "Pharao's speech of appointment",
+        "detail": "Pleased with the plan, Pharao declares no wiser man can be found and sets Joseph over his house and all Egypt, below only the throne."
+       },
+       {
+        "label": "The signs of office and the new name",
+        "detail": "Pharao hands over his ring and fine robes, puts Joseph in the second chariot with a herald, and renames him in Egyptian."
+       },
+       {
+        "label": "The narrator's note on the name",
+        "detail": "An aside admits the name's meaning is uncertain and reports Jerome's guess that it means Savior of the world."
+       },
+       {
+        "label": "Joseph's administration and the famine",
+        "detail": "At thirty Joseph tours Egypt, stores vast grain through seven plentiful years, then the seven foretold years of famine arrive."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "circumire, it, *iturus",
@@ -11641,6 +13204,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the future perfect verb dixerit (quidquid ille vobis dixerit) and the new grammar note on the future perfect and perfect subjunctive as Joseph tests his brothers without revealing who he is.",
      "original": "Septem anni magnae famis iam aderant. Homines venerunt ad regem, clamantes se non habere cibum. Pharao autem dicebat, \"Ite ad Joseph: et quidquid ille vobis dixerit, facite.\" Etiam in terra Chanaan, in qua habitabat Iacob, pater Iosephi, fames venit. Ille ergo misit decem ex filiis suis in Aegyptum ut emerent frumentum. Benjamin autem, filium suum minimum, non misit in Aegyptum ne quid mali accideret ei.\nDecem filii Iacob venerunt in Aegyptum, et viderunt Iosephum. Sed non sciverunt eum esse fratrem suum. Forsan putaverunt eum iam mortuum esse. Iosephus ipse scivit fratres sed, ut probaret eos, non dixit se esse fratrem eorum. Interrogavit eos, \"A qua terra venistis?\" Qui responderunt, \"A terra Chanaan, ut emamus quae necessaria sunt. Omnes nos filii unius viri sumus. Pater noster duodecim filios habuit, e quibus decem venimus, minimus cum patre nostro est, et filius non iam super terram est.\"\nIosephus autem simulabat se suspicari eos, \"Re vera vos exploratores estis--ut videatis munitiones terrae huius venistis.\" Et misit eos in carcerem. Post tres dies eduxit eos e carcere et dixit eis, \"Facite quae dixi, et vivetis: Deum enim timeo. Si pacifici estis, frater vester unus ligetur in carcere: vos autem abite, et ferte frumenta quae emistis in domos vestras, et fratrem vestrum minimum ad me adducite ut possim vestros probare sermones, et non moriamini.\"\nFratres ergo locuti sunt ad invicem, \"Merito haec patimur, quia peccavimus in fratrem nostrum. Ergo venit super nos haec tribulatio.\" E quibus unus, Ruben, dixit, \"Nonne dixi vobis: Nolite peccare in puerum, et non audivistis me? Ecce, sanguis eius exquiritur.\"\nFratres autem nesciebant quod intelligeret Iosephus, quia per interpretem loqueretur ad eos. Iosephus autem flevit, et mox reversus est ad eos. Iosephus iussit Simeonem ligari, illis praesentibus, et etiam iussit pecuniam poni in saccis eorum.\nCum in via essent, viderunt pecuniam esse in saccis suis. Et timuerunt multum. (Continuabitur cras)",
      "explanation": "This Lectio adds the **FUTURE PERFECT INDICATIVE ACTIVE** and the **PERFECT SUBJUNCTIVE ACTIVE**. To form the future perfect active, take the second principal part (the perfect active), remove the third-singular ending **-it**, and add ero, eris, erit, erimus, eritis, erint. So paravero, paraveris, paraverit, paraverimus, paraveritis, paraverint mean I shall have prepared, you will have prepared, and so on. These endings match the future of esse, except the third plural future perfect is **-erint**, not -erunt. The **perfect subjunctive active** is spelled the same as the future perfect indicative in every form except the first singular, where the subjunctive has **-erim**, not -ero (paraverim). The perfect subjunctive is normally found only in dependent clauses when the main verb refers to present or future time, as in Rogat ex qua terra venerint, he asks from what land they have come. Most also reviews the **PASSIVE IMPERATIVE**: in the singular it looks like the active infinitive (amare, be loved; habere, be had), and in the plural it matches the second-plural present passive (paramini, habemini). Deponent verbs use these same endings, so loquere means speak and loquimini means speak (plural).",
+     "divisio": {
+      "overview": "A testing scene framed by the famine, running from Jacob's errand through Joseph's accusation and the brothers' guilt to Joseph's hidden tears and the brothers' fear on the road.",
+      "parts": [
+       {
+        "label": "The famine and Jacob's errand",
+        "detail": "With famine in Egypt and Canaan, Jacob sends ten sons to buy grain but keeps Benjamin home lest harm befall him."
+       },
+       {
+        "label": "The unrecognized meeting and questioning",
+        "detail": "The brothers see Joseph without knowing him, and he, hiding his identity, questions them about their land and family."
+       },
+       {
+        "label": "The accusation and the test",
+        "detail": "Joseph pretends to suspect them as spies, jails them, then demands they bring the youngest brother to prove their words."
+       },
+       {
+        "label": "The brothers' remorse and Joseph's hidden grief",
+        "detail": "They confess their old sin and Ruben rebukes them; unaware Joseph understands, he weeps, returns, binds Simeon, and orders money put in their sacks."
+       },
+       {
+        "label": "The money found on the road",
+        "detail": "As they travel home the brothers see the money in their sacks and are greatly afraid, setting up the next episode."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "abire, iit, *iturus",
@@ -11781,6 +13369,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Read this dialogue for the subjunctive verbs of purpose and result (ut revertamur, sequitur ut non sit) as the priest explains why all Egypt rejected Ikhnaton.",
      "original": "Deinde Ptahotep rem novam dixit, \"Re vera, unus ex regibus nostris olim factus est haereticus!\" Haereticus! Hoc valde mirabile est. \"Utique--nomen eius fuit Amenhotep quartus. Sed ille rex significationem huius nominis non amavit--nomen enim significat, 'Satis est pro Amen.' Mutavit itaque nomen suum, et se vocavit 'Ikhnaton'--quod significat, 'Ille qui agit pro Aton.' Aton enim est sol. Ikhnaton dixit quod Aton erat solus Deus. Hoc modo similis vobis Hebraeis erat.\" Nos scimus solummodo unum verum Deum esse, sed non possumus dicere quod sol est solus Deus. Sol enim non solum non solus deus est, sed etiam sol omnino non est Deus. Deus enim verus videri oculis (eyes) mortalibus non potest. Sed si Aton est sol--nonne etiam Ra est sol, et Horus est filius solis? \"Utique, veritatem dixistis--sed diversis (various) modis illi sunt sol. Sed, ut revertamur ad quaestionem nostram--Ikhnaton dixit solum Aton deum esse. Ergo omnes alii dei, secundum illum, non sunt re vera dei. Re vera non sunt. Sequitur ut Osiris non sit deus, et nos omnes, qui putamus nos fieri Osiridem post mortem, nihil erimus. Quam propter causam, omnes boni Aegyptiaci noluerunt verbis Ikhnaton credere. Ikhnaton Aton colebat, sed omnes alii colebant Ikhnaton et alios deos multos.\" Ikhnaton itaque se esse deum non putavit? \"Utique. Videtisne omnes has statuas regum antiquorum? Nonne videtis divinam maiestatem (majesty) in faciebus (faces) eorum? Sed Ikhnaton iussit statuas picturasque de se fieri aliis modis. In his statuis Ikhnaton non videtur esse deus. Videtur esse homo aeger. Sed iam tempus est ut discedam. Narrabo vobis plura de hoc rege cras.\"",
      "explanation": "In this dialogue Most exercises the subjunctive tenses introduced in the grammar note, especially the **perfect subjunctive** in dependent clauses after a present or future main verb, and the **purpose and result clauses** that depend on it. Notice **ut revertamur ad quaestionem nostram**, that we may return to our question, a purpose clause, and **sequitur ut Osiris non sit deus**, it follows that Osiris is not a god, a result clause. The verb **putamus nos fieri Osiridem**, we think we become Osiris, uses an indirect statement with the infinitive. Most also keeps inline English reading-aids in parentheses, such as (eyes), (various), (majesty), and (faces), to help you read without breaking stride.",
+     "divisio": {
+      "overview": "A teaching dialogue that introduces the heretic king, weighs an objection, draws out the consequence, and closes with his strange statues.",
+      "parts": [
+       {
+        "label": "The heretic king and his new name",
+        "detail": "Ptahotep reports that Amenhotep IV renamed himself Ikhnaton and declared Aton the sun to be the only god, like the Hebrews."
+       },
+       {
+        "label": "The objection about other sun-gods",
+        "detail": "The listener distinguishes the true unseen God from the sun and asks whether Ra and Horus are not also the sun."
+       },
+       {
+        "label": "The consequence for the other gods",
+        "detail": "Returning to the question, Ptahotep shows that Ikhnaton's claim denies Osiris and the afterlife, so all good Egyptians rejected him."
+       },
+       {
+        "label": "The statues that show a sick man",
+        "detail": "Pointing to the kings' divine faces, Ptahotep notes Ikhnaton had himself portrayed as a sick man, then takes his leave."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "haereticus",
@@ -11949,6 +13558,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the future passive participle (the -ndus ending) expressing obligation, and for objective-case phrases of extent like millia passuum.",
      "original": "Novem fratres Iosephi, pecunia reperta in saccis, timuerunt accedere ad patrem suum. Timebant etiam de salute Simeonis, quem Iosephus coegit manere in Aegypto. Itaque, dolentes accesserunt ad patrem suum, et narraverunt ei omnia quae acciderant eis in Aegypto. Omnibus auditis, Iacob doluit vehementer et flevit. Praesertim nolebat mittere Beniamin cum eis in Aegyptum, sicut Iosephus mandaverat. Noluit amittere Beniamin, sicut olim Iosephum amiserat. At necesse erat emere frumentum, ne omnes perirent. Itaque, magno cum metu, permisit eis ut redirent in Aegyptum cum Beniamin. Misit etiam cum eis multa egregia dona.\nCum eos vidisset, Iosephus mandavit servis suis ut cenam pararent. Fratres autem territi sunt, dicentes, \"Hic vir vult facere omnes nos servos suos, propter pecuniam quam reperuimus in saccis nostris.\" Venerunt itaque ad dispensatorem domus Iosephi, et narraverunt ei de pecunia reperta in saccis. At ille dixit eis, \"Pax vobiscum, nolite timere: Deus vester, et Deus patris vestri dedit vobis pecuniam in saccis vestris. Nam pecuniam quam dedistis mihi accepi.\" Eduxitque ad eos Simeon. Deinde duxit eos in domum et dedit eis aquam ut lavarent pedes suos. Postea Iosephus ipse venit et interrogavit eos, \"Vivitne adhuc pater vester?\" Qui responderunt, \"Utique, pater noster, servus tuus, adhuc vivit.\" At cum Iosephus vidisset Beniamin, non potuit se continere, sed discessit in cubiculum suum et flevit. (Continuabitur cras)",
      "explanation": "FUTURE PASSIVE PARTICIPLE: It is formed on the first part of the verb, using the ending **-ndus**, with the same connective vowels as in the imperfect indicative. So you could take any imperfect form (e.g., third singular), remove the -bat, and add -ndus. The participle has all the endings of bonus: parandus, habendus, ponendus, capiendus, audiendus. How is it used? It expresses obligation. Study this sample: Hoc est faciendum mihi means This is **to be done** by me. So a crude but simple translation formula works with all normal examples: TO BE plus the third part (participle) of the English verb. Notice that we use the dative for the agent (mihi, to me); ordinarily we use ab with the ablative for the agent, but not with the future passive participle. Notice also that this participle normally comes with a linking verb, that is, the verb to be or any verb that behaves the same way, such as to seem or to be called. Now Hoc est faciendum mihi can also be translated I must do it: the dative becomes the English subject, and we insert must before the English verb. Because of this, some verbs that have no passive in English can still be used this way in Latin, thus Veniendum est mihi means I must come, and Eundum est tibi means You must go. OBJECTIVE CASE OF EXTENT OF SPACE AND TIME: the objective (accusative) case without any preposition can indicate extent. Erat in carcere tres dies means He was in prison for three days. Venerunt tria millia passuum means They came three miles (literally, three thousands of paces). MILLE: the word mille, a thousand, is peculiar. In the singular, meaning one thousand, it is not declined and acts like an adjective agreeing with a noun, thus mille viri, a thousand men. But for more than one thousand it becomes a third-declension neuter noun with a word in the possessive depending on it, thus tria millia virorum, three thousand men (literally, 3 thousands of men). It is sometimes spelled milia instead of millia.",
+     "divisio": {
+      "overview": "The passage turns on Jacob's home in grief and consent, then on the brothers' fearful welcome in Egypt and Joseph's hidden tears.",
+      "parts": [
+       {
+        "label": "The brothers' report and Jacob's grief",
+        "detail": "Afraid over the returned money and Simeon, the sons tell Jacob all, and he weeps, unwilling to send Benjamin."
+       },
+       {
+        "label": "Jacob yields and sends gifts",
+        "detail": "Since grain must be bought, Jacob with great fear lets them return to Egypt with Benjamin and many fine gifts."
+       },
+       {
+        "label": "The steward's reassurance and Simeon restored",
+        "detail": "Fearing enslavement over the money, they confess to the steward, who calms them, returns Simeon, and brings them in to wash."
+       },
+       {
+        "label": "Joseph's question and private weeping",
+        "detail": "Joseph asks after their father, and on seeing Benjamin cannot contain himself, so he withdraws to his room and weeps."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "accedere, cessit, cessurus",
@@ -12141,6 +13771,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Joseph tests his brothers, and notice the chain of subjunctives (ut discederent, ut maneam, ne irascaris) governed by the law of sequence of tenses.",
      "original": "Itaque undecim fratres cenam cum Iosepho habuerunt, sed non cognoverunt eum esse fratrem suum. Cogitabant eum esse virum Aegyptiacum qui magnam habebat auctoritatem. Sed etsi hi fratres olim voluerant nocere Iosepho, hic noluit nocere eis. Insuper, Iosephus dedit eis multa bona munera, sed dedit maxima munera Beniamin. Et iam tempus erat ut discederent. Iosephus itaque iussit ministros suos implere saccos eorum frumento. Sed etiam iussit pecuniam clam poni in saccis omnium, et in sacco Beniamin, poni scyphum suum argenteum.\n\nCumque fratres iam iter facerent in terram suam, misit Iosephus servos suos post eos. Qui, consequentes fratres, accusaverunt eos, dicentes unum ex eis cepisse scyphum argenteum. Fratres deposuerunt saccos in quibus frumenta portabant, eosque aperuerunt. Ecce in ore sacci Beniamin inventus est scyphus argenteus Iosephi!\n\nOmnes territi sunt. Reversi sunt ad domum Iosephi. Cumque vidissent eum, se in terram ante pedes eius proiecerunt dixeruntque, \"Ecce, omnes servi erimus tibi domino nostro.\" Sed Iosephus respondit, \"Nullo modo ita fiat, sed is qui cepit scyphum meum-ille sit servus meus. Ceteri discedatis ad patrem vestrum.\" Iudas itaque, accedens ad Iosephum, voluit clam loqui cum eo, dixitque, \"Domine mi, loquatur servus tuus verbum tecum. Ne irascaris servo tuo. Ego pollicitus sum patri nostro quod servarem vitam huius pueri. Pater enim noster amat eum amore magno. Nisi puer reversus erit ad patrem nostrum, pater morietur. Da mihi ut maneam hic, et sim servus tuus pro eo.\" (Continuabitur cras)",
      "explanation": "This Lectio is a review of the principles of subjunctive tense use (REVIEW OF PRINCIPLES OF SUBJUNCTIVE TENSE USE). Now that we know all four tenses of the subjunctive, let us make our information more exact on when to use them. Their use is controlled by a law called the sequence of tenses (consecutio temporum), but it is very easy. All this law does is tell us which two subjunctive tenses we must pick from in a dependent clause, according to which time the main verb is in. So: (1) If the main verb refers to anything but past time, that is, to present or future, we pick from the **present or perfect** subjunctive in the dependent clause; general sense tells which to pick. (2) If the main verb refers to past time, we pick from the **imperfect or pluperfect** subjunctive in the dependent clause; again, general sense tells which to pick. The two examples following a present or future main verb are said to be in **primary sequence**; the two following a past main verb are in **secondary sequence**.",
+     "divisio": {
+      "overview": "A trap-and-plea narrative that runs from the dinner and hidden cup through the pursuit and discovery to Judas's offer to take Benjamin's place.",
+      "parts": [
+       {
+        "label": "The dinner and the planted cup",
+        "detail": "The eleven dine unknowing, Joseph favors Benjamin with gifts, then secretly has money and his silver cup placed in the sacks."
+       },
+       {
+        "label": "The pursuit and discovery",
+        "detail": "Joseph sends servants after them to charge them with theft, and the cup is found in Benjamin's sack."
+       },
+       {
+        "label": "The brothers' return and Joseph's verdict",
+        "detail": "Terrified, they prostrate themselves, and Joseph rules that only the one with the cup shall be his slave while the rest depart."
+       },
+       {
+        "label": "Judas's plea to stay in Benjamin's place",
+        "detail": "Judas approaches privately, recalls his pledge to their father, and begs to remain as slave so the boy may return."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cena",
@@ -12335,6 +13986,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new gerundive-of-purpose phrases (ad ... -ndum, to do something) and the dative of possession (mihi sunt, I have).",
      "original": "Ex his verbis Iudae, et etiam ex eis quae alii fratres fecerant, Iosephus poterat scire fratres suos non iam malos esse, non iam invidiam habere sicut olim habuerant cum venderent eum in Aegyptum. Itaque, his auditis, Iosephus non iam poterat se continere, sed confestim iussit servos suos abire ne quis adesset praeter fratres. Elevavitque vocem suam, flens multum, ita ut Aegyptii omnisque domus Pharaonis audirent, et dixit fratribus suis: \"Ego sum Iosephus. Valetne pater meus?\" Non poterant respondere fratres, nimio terrore territi. Ad quos ille sine ira: \"Accedite ad me. Ego sum frater vester, quem vendidistis in Aegyptum. Nolite timere, neque vobis durum videatur quod vendidistis me in his regionibus: pro salute enim vestra misit me Deus ante vos in Aegyptum. Iam enim duos annos habuimus famem. Adhuc quinque anni famis venient. Sed Deus misit me ante vos ut habeatis frumentum quo ali possitis in hac fame. Non vestro consilio, sed Dei voluntate huc missus sum. Deus fecit me quasi patrem Pharaonis. Pharao enim dedit mihi magnam potestatem, ut secundus post ipsum regam universam terram hanc. Sed celeriter ite ad patrem meum, et dicetis ei: 'Haec mandat filius tuus Iosephus: Deus fecit me dominum universae terrae Aegypti. Descende ad me, ne moreris, et habitabis in terra Gessen. Ibique te alam--quinque enim anni famis adhuc sunt.' \" Dixitque etiam Iosephus fratribus suis: \"Ecce, oculi vestri et oculi fratris mei Beniamin vident quod os meum loquatur ad vos. Dicite patri meo universam gloriam meam, et omnia quae vidistis in Aegypto. Celeriter agite, et adducite eum ad me.\" (Continuabitur cras)",
      "explanation": "Most's note covers two new tools. **Gerundive to express purpose:** the gerundive looks just like the future passive participle, but the same form can express purpose. Latin usually uses ut with the subjunctive for purpose, but the gerundive is almost as easy as an infinitive once you get used to it. In **Venit ad videndum Caesarem** (He came to see Caesar), videndum is an adjective agreeing with Caesarem, and the whole phrase ad videndum Caesarem stands in the objective case because of the preposition ad. Other prepositions can do the same job: **causa** and **gratia** follow the phrase and take the possessive case (Venit videndi Caesaris causa, or ... gratia, also He came to see Caesar). So ad, causa, or gratia plus the gerundive equals an English infinitive of purpose. **Dative of possession:** English likes to say He has a book; Latin can say Habet librum, but is also very fond of saying A book is to him, There is a book to him: **Liber est ei.**",
+     "divisio": {
+      "overview": "A recognition scene that moves from Joseph's inner realization, to the private revelation, to his reassuring speech, and ending with instructions to fetch his father.",
+      "parts": [
+       {
+        "label": "Joseph perceives the change",
+        "detail": "From Judah's words Joseph sees his brothers are no longer malicious and can hold back no longer."
+       },
+       {
+        "label": "The revelation",
+        "detail": "He sends the servants out, weeps aloud, and declares, Ego sum Iosephus, asking after his father."
+       },
+       {
+        "label": "Reassurance",
+        "detail": "He tells the terrified brothers not to fear, explaining that God sent him ahead to preserve them through the famine."
+       },
+       {
+        "label": "The message to Jacob",
+        "detail": "He bids them hurry to bring his father down to dwell in Gessen, where he will feed them through the remaining years."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "alere, aluit, alitus",
@@ -12450,6 +14122,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Notice the dative of possession (mihi fratres sunt, I have brothers) and the gerundives of purpose (ad emendum, ad probandos).",
      "original": "Proximo die Pharao iterum cum amico nostro Iosepho loquebatur: \"Iosephe, iam narravisti mihi quaedam de fratribus tuis. Quot (how many) fratres tibi sunt?\" Cui Iosephus: \"Domine mi rex, undecim mihi fratres sunt.\" Et Pharao interrogavit: \"Quare venerunt fratres tui in hanc terram?\" \"Fames venit in terram eorum, et pater misit eos in terram Aegypti ad emendum frumentum,\" dixit Iosephus. Cui rex: \"Venerunt omnes fratres in itinere primo? Solummodo decem vidi tum.\" Iosephus autem explicavit: \"Verum est, domine mi rex, solummodo decem venerunt in itinere primo. Pater enim meus magnopere amavit filium minimum, Beniamin, et noluit mittere eum. Sed misi fratres meos in terram eorum iterum ad Beniamin in Aegyptum ducendum. Dixeram eis: 'Nonne vobis est etiam alius frater?' His auditis, fratres probabiliter timebant et cogitabant de me, quem vendiderant ut servus essem. Sed nesciverunt me, loquebar enim eis per interpretem.\" \"Sed audivi,\" dixit rex, \"te posuisse pecuniam iterum in saccis eorum cum reverterentur. Quare hoc fecisti?\" \"Revera,\" ait Iosephus, \"nolui pecuniam eorum accipere. Non enim odi eos: fratres enim mei adhuc sunt. Et insuper, nolui pecuniam accipere pro frumento ad patrem meum alendum.\" \"Sed nonne etiam audivi,\" interrogavit rex, \"te posuisse scyphum argenteum qui tibi est, in sacco Beniamin postea, cum discederet cum aliis fratribus tuis. Quare hoc fecisti? Num volebas eum scyphum tuum habere?\" \"Non hoc volui,\" explicavit Iosephus, \"sed hoc feci ad fratres meos probandos. Volebam videre num invidia eis adhuc esset contra fratrem meum minimum. Propter hanc causam ergo imperavi ut scyphus in sacco eius poneretur. Cum autem illi reversi essent ad palatium, et audivissem eos loquentes, et vidissem illis nullam invidiam esse, non potui me continere. Flendum erat, et flevi.\"",
      "explanation": "This story shows the lesson's grammar in action. The **dative of possession** appears repeatedly: \"Quot fratres tibi sunt?\" (How many brothers are to you = do you have) and \"undecim mihi fratres sunt\" (eleven brothers are to me = I have eleven brothers), and \"scyphum argenteum qui tibi est\" (a silver cup which is to you). The **gerundive of purpose** also recurs: \"ad emendum frumentum\" (to buy grain), \"ad Beniamin in Aegyptum ducendum\" (to bring Benjamin into Egypt), \"ad patrem meum alendum\" (to nourish my father), and \"ad fratres meos probandos\" (to test my brothers). In each, ad plus the gerundive equals an English infinitive of purpose.",
+     "divisio": {
+      "overview": "A question-and-answer dialogue in which Pharaoh raises four points in turn and Joseph explains each, ending in tears.",
+      "parts": [
+       {
+        "label": "How many brothers",
+        "detail": "Pharaoh asks the number and why they came; Joseph answers eleven and the famine that drove them."
+       },
+       {
+        "label": "Why only ten came first",
+        "detail": "Joseph explains that his father kept Benjamin back, so he sent the brothers again to fetch him."
+       },
+       {
+        "label": "The returned money",
+        "detail": "Asked why he put the money back in their sacks, Joseph says he would not take pay from his own brothers."
+       },
+       {
+        "label": "The hidden cup",
+        "detail": "Asked about the silver cup placed in Benjamin's sack, Joseph reveals it was a test of their envy, after which he wept."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "alere, aluit, alitus",
@@ -12615,6 +14308,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for gerunds (verbal nouns in -i, -o, -um, -o) and the double dative of purpose and reference; here the story tells how Jacob learns Joseph is alive.",
      "original": "Post haec, Iosephus dedit munera bona singulis fratribus suis, et proficiscentibus illis dixit: \"Ne irascamini in via.\" Qui ascendentes ex Aegypto, venerunt in terram Chanaan ad patrem suum Jacob, et nuntiaverunt ei, dicentes: \"Iosephus filius tuus vivit, et ipse dominatur in omni terra Aegypti. Quo audito, Iacob, quasi de gravi somno evigilans, tamen non credebat eis. Illi narraverunt ei omnia de Iosepho et de magna copia omnium rerum quam habebat. Cumque Jacob vidisset omnia quae miserat filius suus, dixit: \"Satis est mihi si adhuc filius meus vivit: ibo et videbo eum antequam moriar.\" Profectus est ergo cum omnibus quae habebat, et filii eius et liberi filiorum eius cum eo. Venerunt ad fines Chanaan, ibique Jacob sacrificium Deo obtulit. His factis, in visione noctis, Jacob audivit Deum vocantem se et dicentem sibi: \"Jacob, Jacob.\" Cui respondit: \"Ecce, adsum.\" Dixitque ei Deus, \"Ego sum Deus patris tui: noli timere. Descende in Aegyptum, quia in gentem magnam faciam te ibi. Ego descendam tecum in terram illam, et ducam te revertentem. Iosephus etiam ponet manus suas super oculos tuos.\" Cum Iosephus audivisset patrem suum iam appropinquare, ascendit ad videndum eum. Vidensque eum, cucurrit et osculatus est eum flevitque multum. Iosephus etiam nuntiavit Pharaoni patrem suum venisse. Pharao laetus fuit, et mandavit Iosepho tribuere patri suo terras optimas. Cumque Pharao vidisset Jacob, interrogavit eum de aetate eius: \"Quot sunt dies annorum vitae tuae?\" Qui respondit: \"Dies mei sunt centum triginta anni, parvi et mali.\" (Continuabitur)",
      "explanation": "**GERUNDS** are verbal nouns, half noun and half verb (compare participles, which are half verb and half adjective). The Latin gerund has only a few forms, the possessive, dative, objective, and ablative singular: **i, o, um, o**, and no other forms are in use. There are chiefly two uses. **1. To express purpose**, just like the gerundive, except that this is a noun, so in English there will be no object, e.g. Venit in silvas septentrio miles ad piscandum, He came into the north woods to fish (we could also use piscandi causa, piscandi gratia, ob piscandum). **2. As a mere verbal noun**, translated by the English noun in -ing, e.g. Amor piscandi traxit eum in silvas, Love of fishing drew him into the woods, and Expectando, Fabius servavit Romam, By waiting, Fabius saved Rome. **DATIVES OF PURPOSE AND REFERENCE** often, though not always, come in a pair, sometimes called the double dative. The dative of purpose expresses the goal, that for which a thing is or is done, and English often uses merely a nominative instead. Thus Hoc est auxilio mihi, This is (for) a help to me. Auxilio is dative of purpose, while mihi is dative of reference, which expresses the one concerned, or in whose eyes a thing is so (hence the Latin name dativus iudicantis).",
+     "divisio": {
+      "overview": "A travel narrative that moves from gifts and news, through Jacob's resolve and journey, to a night vision and the reunion at Pharaoh's court.",
+      "parts": [
+       {
+        "label": "Gifts and the news",
+        "detail": "Joseph sends his brothers off with gifts, and they bring Jacob word that Joseph lives and rules Egypt."
+       },
+       {
+        "label": "Jacob's resolve",
+        "detail": "Disbelieving at first, Jacob sees the proof, resolves to go and see his son before he dies, and sets out with his household."
+       },
+       {
+        "label": "The vision at the border",
+        "detail": "At the edge of Chanaan Jacob sacrifices, and God in a night vision tells him not to fear but go down to Egypt."
+       },
+       {
+        "label": "Reunion and audience",
+        "detail": "Joseph runs to meet and embrace his father, tells Pharaoh, who grants land, and Pharaoh asks Jacob his age."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "appropinquare, avit, atus (with dat.)",
@@ -12791,6 +14505,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the gerund of purpose, dormiendi causa (for the sake of sleeping) and ad sacrificandum (for sacrificing), as Jacob tells Pharaoh of God's promise.",
      "original": "PHARAO ET IACOB\nCum patrem suum vidisset, Iosephus laetus erat, et cucurrit ad eum videndum. Pharao etiam ipse Iacobum videre voluit. Ductus est itaque in palatium. Pharao locutus est: \"Placet mihi valde te videre. Multa de te audivi a filio tuo. Nonne multos annos habes?\" Cui Jacob: \"Non multos, solummodo centum triginta annos.\" \"Filius tuus egregius,\" dixit Pharao, \"magna somnia vidit, potuitque interpretari somnia mea. Credo Deum misisse eum saluti omni terrae Aegypti. Vidisti tu etiam somnia aliqua?\" \"Utique,\" respondit Jacob, \"quadam nocte maximum somnium vidi. Faciebam iter in Haran. Nox me in quodam campo invenit. Lapides (stones) itaque tuli, et posui sub capite meo, dormiendi causa. Et ecce! In somnio vidi scalam (ladder). Scala a terra ascendebat ad coelum ipsum! In scala, angelos Dei vidi, ascendentes et descendentes per eam. Sed in coelo ipso Dominum Deum nostrum vidi, et locutus est mihi: 'Terram hanc, in qua dormis, tibi tribuam, et filiis tuis. Liberi tui erunt valde multi, sicut promisi patribus tuis Abrahae et Isaac. Faciam enim te in gentem magnam.'\" \"Magnum miraculum erat,\" respondit Pharao, \"sed vellem de hac promissione Dei tui audire. Quid fecit Abraham pater tuus?\" \"Quodam die apparuit ei Deus, et imperavit ut sacrificaret filium suum Isaac. Deus promiserat Abrahae quod faceret eum in gentem magnam per Isaac-sed postea iussit Isaac duci in montem ut sacrificaretur. Abraham autem credidit Deo. Deus enim potest omnia facere quae vult. Quando Deus loquitur, credendum est, non interrogandum. Sed cum filium ligavisset ad occidendum, angelus Domini ei apparuit, imperavitque ut caperet arietem ad sacrificandum. Non enim interficiendus erat Isaac. Sacrificium enim humanum Deo nostro non placet.\"",
      "explanation": "This second story is rich in **gerunds expressing purpose** and in **gerundives of obligation**. Notice cucurrit ad eum videndum, he ran to see him, and dormiendi causa, for the sake of sleeping, both purpose constructions built on the gerund. The gerundive of obligation also appears: credendum est, non interrogandum, one must believe, not question, and Non enim interficiendus erat Isaac, for Isaac was not to be killed. The double dative returns too: misisse eum saluti omni terrae Aegypti, that he sent him (as) a salvation to all the land of Egypt, where saluti is dative of purpose and terrae dative of reference.",
+     "divisio": {
+      "overview": "A framed conversation: a brief reunion sets up a court audience in which Jacob, prompted by Pharaoh, narrates two earlier divine stories.",
+      "parts": [
+       {
+        "label": "Reunion and presentation",
+        "detail": "Joseph runs to see his father, and Jacob is then led into the palace before Pharaoh."
+       },
+       {
+        "label": "Pharaoh's questions",
+        "detail": "Pharaoh greets Jacob, asks his age, praises Joseph's gift for dreams, and asks if Jacob too has had dreams."
+       },
+       {
+        "label": "The dream of the ladder",
+        "detail": "Jacob recounts the night vision of the ladder to heaven and God's promise of land and many descendants."
+       },
+       {
+        "label": "The testing of Abraham",
+        "detail": "Asked about the promise, Jacob tells how God commanded the sacrifice of Isaac, then sent an angel and a ram instead."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "appropinquare, avit, atus (with dat.)",
@@ -12913,6 +14648,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the future active participles in -urus and the future infinitives (participle + esse) that tell what is about to happen.",
      "original": "DE PROPHETIA IACOB\nTemporibus Veteris Testamenti, Deus populo suo multos misit prophetas ad eos iuvandos. Hi prophetae multa quae ventura erant dixerunt. Sed etiam patriarchae Jacob et Josephus prophetias de rebus futuris dederunt. Quodam die Josephus audivit patrem suum aegrum esse. Cogitavit ergo patrem suum moriturum esse. Et verum erat: Jacob revera moriturus erat. Cumque ad eum venisset Josephus, Jacob eum monuit de promissionibus Dei. Deus enim promiserat se facturum esse eos in magnum populum. Dixitque se tributurum esse eis terram Chanaan. Benedixit itaque Jacob duobus filiis Iosephi, dixitque gentes magnas venturas esse ex illis filiis. Etiam praedixit Deum iterum ducturum esse populum suum ex terra Aegypti in terram Chanaan. Non dixit Iosephum ipsum habitaturum esse in terra patrum ipsius. Josephus enim remansurus erat in Aegypto et moriturus erat ibi.",
      "explanation": "This Lectio teaches the **future active participle** and the **future active infinitive**. FUTURE ACTIVE PARTICIPLE: many verbs have a third part (not a perfect participle) that ends in -urus. You can make this form for any verb by changing the final -us of the perfect participle to -urus, for example paratus becomes paraturus (about to prepare, going to prepare, intending to prepare). It takes all the endings of bonus. FUTURE ACTIVE INFINITIVE: if we join the infinitive esse (to be) with a future active participle, we get the future active infinitive, as in venturum esse (about to come). We must put the right ending on the participle for gender, number, and case, because in indirect statement the participle agrees with the subject of the infinitive, which is in the objective case. Compare: Dicit Caesarem venire (He says that Caesar is coming), Dicit Caesarem venisse (He says that Caesar came), Dicit Caesarem venturum esse (He says that Caesar will come), Dixit Caesarem venturum esse (He said that Caesar would come). The infinitive shows time relative to the main verb: present infinitive, same time as the main verb; perfect infinitive, action done before the main verb; future infinitive, action to come after the main verb. DOUBLE OBJECTIVE CASE: some verbs (not all) can take two objects, as in Rogat Marcum pecuniam (He asks Marcus for money), but the verb petere, also meaning ask, does not take two objects: Petit pecuniam a Marco.",
+     "divisio": {
+      "overview": "A short narrative framed by prophecy, moving from prophets in general, to the news of Jacob's illness, to his deathbed predictions, and ending with Joseph's own foretold fate.",
+      "parts": [
+       {
+        "label": "Prophets of old",
+        "detail": "God sent many prophets to his people, and the patriarchs Jacob and Joseph also gave prophecies."
+       },
+       {
+        "label": "Jacob falls ill",
+        "detail": "Joseph hears his father is sick and judges that he is about to die, which proves true."
+       },
+       {
+        "label": "Jacob's predictions",
+        "detail": "Jacob recalls God's promises, blesses Joseph's two sons, and foretells a return from Egypt to Chanaan."
+       },
+       {
+        "label": "Joseph's own fate",
+        "detail": "Jacob does not say Joseph will dwell in the land of his fathers, for he will stay and die in Egypt."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ait",
@@ -13100,6 +14856,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the gerundives and the future infinitives, and notice how Joseph forgives his brothers and asks for his bones to be carried out of Egypt.",
      "original": "Post mortem patris sui, Iosephus iit ad Pharaonem, dixitque ei, \"Pater meus cupivit sepeliri in terra patrum suorum, in Chanaan. Ascendam igitur, et sepeliam patrem meum, ac revertar.\" Dixitque ei Pharao, \"Ascende et sepeli patrem tuum sicut pollicitus es.\" Cum ergo Iacob conditus aromatibus esset secundum morem Aegypti, Iosephus profectus est ut iret in terram Chanaan. Et ierunt cum eo omnes senes domus Pharaonis, et multi alii.\nCumque sepelivissent Iacob, reversi sunt in terram Aegypti. Quo mortuo, timentes fratres eius dixerunt, \"Ne Iosephus nunc irascatur nobis, velitque supplicium sumere de nobis ob peccata nostra, eamus (let us go) ad eum.\" Dixeruntque ei, \"Pater tuus praecepit nobis antequam moreretur ut haec tibi in nomine suo diceremus, 'Obsecro ut obliviscaris peccatorum fratrum tuorum, et malitiae quam exercuerunt contra te.' \"\nQuibus auditis, flevit Ioseph. Veneruntque ad eum fratres sui, et proni adorantes in terram dixerunt, \"Servi tui sumus.\" Quibus ille respondit, \"Nolite timere. Num possumus Dei resistere voluntati? Vos cogitavistis de me malum: sed Deus vertit illud in bonum, ut exaltaret me, sicut nunc cernitis, et salvos faceret multos populos. Nolite timere. Ego alam vos et liberos vestros.\"\nIosephus vixit in Aegypto cum omni domo patris sui. Vixitque centum decem annos, et vidit filios Ephraim usque ad tertiam generationem. Cumque sentiret finem vitae suae prope esse, locutus est fratribus suis, \"Post mortem meam Deus visitabit vos, et ascendere vos faciet de terra hac ad terram quam pollicitus est ad Abraham, Isaac, et Iacob. Portate ossa mea vobiscum de loco hoc.\" Et mortuus est, et conditus aromatibus, positus est in loculo in Aegypto.",
      "explanation": "VIDEAMUS FORMAS VETERES, let us look again at old forms. This Lectio reviews two constructions you already met. First, the **gerundive** of purpose with **ad**, as in ad terram irrigandam (for irrigating the land) and ad exercitum alendum (for feeding the army); the gerundive agrees in gender, number, and case with its noun. Second, the **future active infinitive**, as in Christum venturum esse (that Christ would come) and Iudaeos discessuros esse (that the Jews would leave), used in indirect statement after verbs of saying. Remember also that habenda sunt and habendus est are the passive periphrastic, meaning must be had. Notice in the story the many ablative absolutes, such as Quibus auditis (these things having been heard) and Quo mortuo (with him dead).",
+     "divisio": {
+      "overview": "A closing narrative in four movements, from the burial of Jacob, to the brothers' fear and Joseph's pardon, to Joseph's long life, and finally to his death and last request.",
+      "parts": [
+       {
+        "label": "Burying Jacob",
+        "detail": "Joseph gains Pharaoh's leave, embalms his father, and carries him to Chanaan with a great company."
+       },
+       {
+        "label": "The brothers' fear",
+        "detail": "After the burial the brothers, dreading revenge, relay Jacob's plea for forgiveness and offer themselves as slaves."
+       },
+       {
+        "label": "Joseph's pardon",
+        "detail": "Joseph weeps, says God turned their evil to good, and promises to feed them and their children."
+       },
+       {
+        "label": "Death and last request",
+        "detail": "Joseph lives to a hundred and ten, foretells the return to the promised land, asks that his bones be carried out, and dies embalmed in Egypt."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cupiunt, cupere, cupivit, cupitus",
@@ -13247,6 +15024,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how Most explains the Greek name Mesopotamia and compares the floods of the Nile with those between the two great rivers.",
      "original": "ITER FACIAMUS IN ALIAS TERRAS\nAd Orientem a Iudaea habitatur terra magna et antiqua. Huius terrae nomen est Mesopotamia. Significatio huius nominis nobis paucis verbis explicari potest. Est enim nomen Graecum-flumen in Graeca lingua dicitur potamos, et medius in eadem lingua dictus mesos. Mesopotamia ergo terram quae inter flumina est significat. Et verum est, nam terra duobus magnis fluminibus irrigatur, scilicet (that is) Tigride et Euphrate. Haec duo flumina, scilicet Tigris et Euphrates, terram hanc habitabilem (habitable) faciunt. Quidam homines in hac terra paradisum fuisse putant. Quorum sententia nec probari nec omnino disprobari potest. Certum est homines hanc habitavisse terram saltem (at least) quinque millia annorum ante Christi nativitatem.\nIn Aegypto, flumen Nilus diluvium (flood) omni anno facit. Aegyptii haec diluvia amant; sine his diluviis, terra eorum nullo modo habitabilis esset (would be). In Mesopotamia etiam diluvia sunt. Saepe haec diluvia sunt bona; praebent (provide) aquam ad irrigationem necessariam. Sed saepe etiam agros et domos huius terrae delent.\nMultae fabulae mirabiles (wonderful) in hac terra narrantur. Inter alia, narrationem epicam de Gilgamesh habent. Quidam homines putant Homerum scripsisse primum epicum. Sed verum non est. Narratio enim de Gilgamesh composita est multis saeculis (many centuries) ante poemata Homerica. Cras mirabilem narrationem de hoc Gilgamesh audiemus.",
      "explanation": "This reading shares the same VOCABULARIUM as today's main story and adds geography. Notice the **gerundive of purpose** in the grammar drill: ad terram irrigandam (for irrigating the land) and ad exercitum alendum (for feeding the army), where the gerundive agrees with its noun in gender, number, and case. Watch too the present passive verbs habitatur (is inhabited) and irrigatur (is watered), and the indirect statements with infinitives, such as homines hanc habitavisse terram (that men inhabited this land) and Homerum scripsisse primum epicum (that Homer wrote the first epic). The name Mesopotamia is explained from Greek: potamos (river) and mesos (middle), hence the land between the rivers.",
+     "divisio": {
+      "overview": "A geography lesson that moves from naming and locating the land, to explaining its Greek name and rivers, to its floods compared with Egypt's, and finally to its epic literature.",
+      "parts": [
+       {
+        "label": "Naming the land",
+        "detail": "The great ancient land east of Judaea is identified as Mesopotamia."
+       },
+       {
+        "label": "The Greek name explained",
+        "detail": "From potamos (river) and mesos (middle), the name means the land between the Tigris and Euphrates."
+       },
+       {
+        "label": "Floods of two lands",
+        "detail": "The Nile's yearly flood is compared with the floods of Mesopotamia, which both water and sometimes destroy."
+       },
+       {
+        "label": "Its epic tales",
+        "detail": "Mesopotamia has wondrous stories, chief among them the Gilgamesh epic, older than Homer and promised for tomorrow."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cupiunt, cupere, cupivit, cupitus",
@@ -13373,6 +15171,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the comparative and superlative adjectives (fortior, numerosos) and for the ablative of comparison (fortior nobis, than us).",
      "original": "De formis comparativis et superlativis. De ablativo comparationis.\n\nPost mortem Iosephi, Hebraei fuerunt in Aegypto multos annos. Et creverunt numero, ita ut multi Aegyptii mirarentur et timerent. Etiam rex Aegypti animadvertit Hebraeos factos esse numerosos. Post annos multos venit in solium Aegypti Pharao qui ignorabat Iosephum. Hic rex contempsit Hebraeos, et quaesivit quo modo deleret eos. Ait itaque ad populum suum, \"Ecce, populus filiorum Israel multus, et fortior (stronger) nobis (than us) est. Venite, opprimamus eum, ne, si bellum contra nos veniat, transeat ad hostes nostros, et, victis nobis, egrediatur e terra.\"\nPraeposuit igitur eis magistros duros, ut affligerent eos oneribus. Et aedificaverunt Pharaoni duas urbes, Phithom et Ramesses. Cumque magistri duri opprimerent eos, Hebraei crescebant numero, oderantque filios Israel Aegyptii, et affligebant eos.\nCum Pharao animadvertisset Hebraeos, etsi graviter oppressos, adhuc crescere, mandavit ut omnes pueri Hebraeorum interficerentur statim post nativitatem suam.\nInter alios pueros Hebraeos, natus est unus parvulus pulcher. Mater eius abdidit eum tres menses post nativitatem eius. Sed post haec, putans se non iam posse servare puerum, posuit eum in sporta, inter calamos in aqua ad ripam fluminis Nili. Soror huius pueri stetit procul, et spectabat fratrem parvulum suum.\nEcce, venit filia Pharaonis cum puellis suis, videruntque parvulum. Filia Pharaonis mota est misericordia, videns hunc parvulum, et dixit, \"De infantibus Hebraeorum est hic.\" (Continuabitur cras)",
      "explanation": "COMPARISON OF ADJECTIVES. In English an adjective has three degrees: clear, clearer, clearest. The first form is the positive (clear), the second the comparative (clearer), the third the superlative (clearest). Sometimes the comparative uses the word more, e.g., more ready. Latin has a similar set of forms for all adjectives. To make the comparative, take a base from the ablative singular of the adjective (the ablative singular less its ending) and add to that base: **-ior, -ius**. We have already met some of these, such as melior; they are all declined like melior, that is, all of them (even those from bonus type words) are third declension, with ablative in -e. For the superlative, use the same base and add **-issimus** (declined like bonus). So clarus gives clarior, clarissimus. The comparative clarior means clearer or quite clear; the superlative clarissimus means most clear, clearest, or very clear. IRREGULAR COMPARATIVES AND SUPERLATIVES. The above method fits most adjectives, but there are a few exceptions. 1. Adjectives in -er (such as acer or pulcher) make the superlative by adding -rimus to the nominative singular masculine: acerrimus, pulcherrimus. 2. Six adjectives make the superlative by adding -limus to the base: facilis, facillimus (easy), difficilis, difficillimus (hard), similis, simillimus (similar), dissimilis, dissimillimus (dissimilar), humilis, humillimus (humble), gracilis, gracillimus (slender). 3. A few very common adjectives are completely unpredictable: bonus, melior, optimus; malus, peior, pessimus; parvus, minor, minimus; multus, plus (no masculine or feminine singular), plurimus; magnus, maior, maximus. ABLATIVE OF COMPARISON. How do we say than after a comparative? Two ways. 1. Use quam, with the same case before and after it: Iosephus melior est quam Pharao (notice Pharao is nominative), Joseph is better than Pharao. 2. Use the ablative case: Iosephus melior est Pharaone.",
+     "divisio": {
+      "overview": "A narrative that escalates from population growth, to oppression, to a death decree, and finally to one hidden child and his discovery.",
+      "parts": [
+       {
+        "label": "The Hebrews multiply",
+        "detail": "After Joseph's death the Hebrews grow so numerous that the Egyptians take alarm."
+       },
+       {
+        "label": "A new Pharaoh oppresses them",
+        "detail": "A king who did not know Joseph sets harsh taskmasters over them and builds cities with their labor."
+       },
+       {
+        "label": "The decree against the boys",
+        "detail": "Seeing them still grow, Pharaoh orders every Hebrew boy killed at birth."
+       },
+       {
+        "label": "The child on the Nile",
+        "detail": "One beautiful boy is hidden, set afloat in a basket, and found by Pharaoh's daughter as his sister watches."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "animadvertere, vertit, versus",
@@ -13580,6 +15399,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the comparatives (crudeliores, terribiliores, furiosior) and the two ways to say than: the ablative of comparison (illo Gilgamesh) and quam (terribiliores quam Humbaba).",
      "original": "DE POEMATE EPICO: GILGAMESH\nQuo tempore compositum est hoc poema? Nescimus probabiliter fere saeculo vigesimo secundo (twenty second century) ante Christum. Certe antiquior est poematibus Homericis. Sed ad narrationem ipsam procedamus.\nGilgamesh rex durissimus erat, qui urbem quae vocabatur Erech regebat. Pauci reges crudeliores erant illo Gilgamesh. Cives igitur huius urbis, ad liberandos se ipsos, in urbem vocaverunt quoddam monstrum. Nomen huius monstri fuit Eabani-ille erat semibestia et semihomo. Gilgamesh (qui etiam fere monstrum erat) factus est amicus huius Eabani. Hi duo itaque ex urbe profecti sunt ad venandum (hunt). Veniunt in silvas (forest) cedrinas (cedar) occidentales. Ibi terribile inveniunt monstrum (multa monstra sunt his temporibus), cui nomen est Humbaba. Quidam deus tempestatum, Enlil nomine, Humbabam in hac silva posuit, ad custodiendam (guard) eam. Humbaba terribilis est-amici (!) nostri, id est Gilgamesh et Eabani, terribiliores sunt quam Humbaba. Itaque Humbabam interficiunt! Fere hoc tempore, quandam mulierem (woman) vident, vel potius (rather) deam quae vocatur Ishtar. Ishtar amat Gilgamesh, sed ille non vult mulieres amare: interficere monstra vult. Ishtar itaque, ira mota, quia contempta est a Gilgamesh, mittit aliud monstrum, quod vocatur \"taurus (bull) coelorum\" contra eos. Sed Gilgamesh et amicus eius hunc taurum coelorum celeriter interficiunt. Quidam poeta dixit, \"Etiam in inferno non est furor (fury) furiosior quam mulier quae contempta est.\" Itaque, Ishtar facit ut Eabani aeger fiat et moriatur. (Continuabitur).",
      "explanation": "This story is the reading practice attached to Lectio 71's grammar on comparatives, superlatives, and the ablative of comparison. Notice the superlative durissimus (very harsh) and the comparatives crudeliores (more cruel), terribiliores (more terrible), and furiosior (more furious). With these comparatives Most shows the two ways to say than. After crudeliores he uses the **ablative of comparison**, illo Gilgamesh (more cruel than that Gilgamesh), where the ablative alone means than. After terribiliores and furiosior he uses **quam**, terribiliores quam Humbaba and furiosior quam mulier (more terrible than Humbaba, more furious than a woman), where quam takes the same case before and after it.",
+     "divisio": {
+      "overview": "An epic summary opening with a dating note, then tracing the hero from tyrant to monster-slayer to a man who scorns a goddess and pays for it.",
+      "parts": [
+       {
+        "label": "Dating the poem",
+        "detail": "Most asks when the poem was composed and answers that it predates the Homeric poems."
+       },
+       {
+        "label": "The cruel king and his ally",
+        "detail": "Gilgamesh tyrannizes Erech, so the citizens summon the half-beast Eabani, who instead becomes his friend."
+       },
+       {
+        "label": "Slaying Humbaba",
+        "detail": "The two set out to hunt, find the monster Humbaba guarding the cedar forest, and kill him."
+       },
+       {
+        "label": "Ishtar scorned",
+        "detail": "The goddess Ishtar loves Gilgamesh, but he refuses her and they kill the bull of heaven she sends in anger."
+       },
+       {
+        "label": "Her revenge",
+        "detail": "With the proverb that no fury matches a scorned woman, Ishtar makes Eabani sicken and die."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "animadvertere, vertit, versus",
@@ -13775,6 +15619,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch how the deponent verb ausa erat (dared) and the adverb celeriter (quickly) work, and notice iste (this, that one) used of the boy.",
      "original": "Quaedam mulier Hebraeorum ausa erat servare filium suum parvulum tres menses etsi Pharao mandaverat ut omnes pueri Hebraeorum interficerentur statim post nativitatem suam. At post tres menses non iam poterat abscondere eum, exposuitque eum in sporta, in aqua inter calamos ad ripam fluminis Nili. Filia Pharaonis invenit hunc puerum, et, misericordia mota, cupiebat servare eum. Eodem tempore soror pueri parvuli spectabat, et cum vidisset filiam Pharaonis desiderare curare eum, cucurrit celeriter ad eam. Cui soror pueri ait, \"Vis ut vadam et vocem tibi mulierem Hebraeam, quae curare possit infantulum?\" Quae respondit, \"Vade.\" Puella vadit et vocavit matrem suam, quae erat mater huius parvuli. Ad quam locuta filia Pharaonis, \"Accipe, ait, puerum istum, et ale eum mihi: ego dabo tibi mercedem tuam.\" Suscepit mulier puerum sine mora, et aluit eum. Post paucos annos, dedit illum filiae Pharaonis. Illa autem adoptavit eum in locum filii, vocavitque nomen eius Moysen dicens, \"Quia de aqua tuli eum.\" (Nomen \"Moyses\" probabiliter est solummodo pars secunda nominis hujus pueri. Multi reges Aegypti habent similia nomina, e.g., Thutmoses. Nunc autem, nomen Thutmoses significat, \"Thoth est pater eius\" vel \"natus est ex Thoth.\" Ergo nomen Moyses forsan significavit: \"natus est ex aqua.\") Moyses igitur doctus est omnem sapientiam Aegyptiorum. At postquam Moyses crevit, et vir factus est, ostendit se esse amicum Hebraeorum. Hanc propter causam, Pharao non amavit eum, et Moyses fugit in terram Madian. In terra Madian duxit in matrimonium Sephoram, filiam Jethro.",
      "explanation": "This Lectio teaches the **formation of adverbs**. From first and second declension adjectives, take the base (the ablative singular minus its ending) and add **-e**: clarus becomes clare (clearly). From third declension adjectives, take the base and add **-iter**: acer becomes acriter (keenly). The **comparative** adverb is the same as the neuter singular of the comparative adjective, so clarius means more clearly. The **superlative** adverb uses the -e ending instead of the -us of the adjective, so clarissime means most clearly. A few adverbs are irregular: bene (well), melius (better), optime (very well); male (badly), peius (worse), pessime (very badly); magis (more), maxime (most); minus (less), minime (least); multum (much), plus (more), plurimum (most). The Lectio also introduces the **neuter nouns of the fourth declension**, the most common being genu (knee) and cornu (horn, or the flank of an army). The singular endings stay the same (genu, genus, genu, genu, genu), and the plural takes not just -a but -ua (genua, genuum, genibus, genua, genibus). A few fourth declension words use -ubus instead of -ibus in the dative and ablative plural. Finally, **iste** is declined just like ille and means this or that, sometimes with the extra idea that of yours, and sometimes a tone of contempt.",
+     "divisio": {
+      "overview": "A rescue narrative in four beats, from the mother's hiding of the child to Moses' grown rejection of Egypt and flight.",
+      "parts": [
+       {
+        "label": "Hidden then exposed",
+        "detail": "After three months the mother can no longer hide the boy and sets him in a basket on the Nile."
+       },
+       {
+        "label": "Found and nursed",
+        "detail": "Pharao's daughter finds him, and the sister arranges for the boy's own mother to nurse him for pay."
+       },
+       {
+        "label": "Adoption and naming",
+        "detail": "The daughter adopts the boy as a son and names him Moyses, with Most's aside on the name's Egyptian sense."
+       },
+       {
+        "label": "Grown and exiled",
+        "detail": "Educated in Egyptian wisdom, Moses sides with the Hebrews, loses Pharao's favor, flees to Madian, and marries Sephora."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "audere, ausus est",
@@ -13877,6 +15742,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the comparative adjective fortior (somnus fortior eo est, the sleep is stronger than he) and, in the drill sentences, the comparative adverb fortius, plus the deponent verbs (hortatus erat, conatur, proficiscitur) as Gilgamesh struggles against death.",
      "original": "Antequam cum Humbaba pugnarent, Gilgamesh hortatus erat (encouraged) amicum suum Eabani ne pugnam timeret. Nunc autem Eabani mortuus est. Gilgamesh patienter eum spectat, sperans eum ad vitam reversurum esse. Sed Eabani non revertitur--corpus eius corrumpitur. Gilgamesh ipse nunc timet. Sentit mortem etiam sibi venturam esse. Proficiscitur itaque, quaerens quo modo mortem vitet (avoid). Gilgamesh iam de quodam mirabili (wonderful) viro audivit, qui propinquus (relative) ei est: Utanapistim. Hic Utanapistim consecutus est immortalitatem. Gilgamesh, per multa monstra ad finem terrae vadit. Omnes homines quos videt interrogat de modo consequendi immortalitatem. Omnes ei nullam esse spem (hope) dicunt. Ille autem non vult desperare. Pergit (goes on) itaque, et ad litus (shore) maris venit. In hoc mari sunt aquae mortis. Quo in litore navem et magistrum navis invenit. Huic persuadet (persuades) ut eum ad Utanapistim portet. Utanapistim autem ei immortalitatem dare non potest, sed narrationem ei narrat de mirabili diluvio (flood) ex quo ille et uxor salvi (saved) facti sunt. Post hoc diluvium, quidam deus, cui nomen erat Enlil, dedit ad Utanapistim vitam aeternam. Sed tales condiciones iterum non sunt venturae. Utanapistim igitur non potest dicere Gilgamesh quo modo vitam aeternam consequi possit. Nihilominus, Utanapistim dicit quod forsan Gilgamesh possit cum morte pugnare. Itaque, Gilgamesh pugnare conatur cum somno (sleep) magico (hic somnus re vera est genus mortis). At hic somnus fortior eo est, et Gilgamesh mori coepit. (Continuabitur)",
      "explanation": "This story shows the new **comparatives** at work. The text says hic somnus **fortior** eo est, this sleep is stronger than it, where fortior is a comparative adjective agreeing with the noun somnus; and in the related exercises somnus multo **fortius** pugnavit, the sleep fought much more strongly, where fortius is the comparative adverb of fortiter. Notice also the many **deponent verbs**, which are passive in form but active in meaning: hortatus erat (he had encouraged), proficiscitur (he sets out), conatur (he tries), and consecutus est (he obtained). The reading also has the gerund of purpose consequendi immortalitatem (of obtaining immortality), while quo modo mortem vitet (how he might avoid death) is an indirect question with the subjunctive, not a gerund. Most keeps several inline English aids in this reading, such as (goes on), (shore), (flood), and (saved), to help you through the new vocabulary.",
+     "divisio": {
+      "overview": "A quest narrative that moves from the death that starts the journey, through the search and its disappointing answer, to a final failed test.",
+      "parts": [
+       {
+        "label": "Eabani dies",
+        "detail": "Gilgamesh watches his friend's body decay and realizes death is coming for him too."
+       },
+       {
+        "label": "The journey begins",
+        "detail": "He sets out past many monsters to the end of the earth, asking everyone how to escape death."
+       },
+       {
+        "label": "Reaching Utanapistim",
+        "detail": "He crosses the waters of death by boat to the relative who once won immortality."
+       },
+       {
+        "label": "The flood story and refusal",
+        "detail": "Utanapistim tells how a god granted him eternal life after the flood but cannot grant the same again."
+       },
+       {
+        "label": "The test of sleep",
+        "detail": "Gilgamesh tries to fight the magic sleep, a kind of death, and begins to lose."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "hortatus erat",
@@ -14020,6 +15910,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the real conditions (if-clauses with the indicative) and notice God's words from the fire on holy ground.",
      "original": "Moyses itaque mansit apud Jethro multos annos, et pastor erat. Quodam die, cum gregem duxisset in desertum, ad Horeb, montem Dei, Dominus apparuit ei in flamma ignis de medio rubi. Cum ergo conspexisset flammam, Moyses dixit, \"Vadam et videbo visionem hanc magnam, quare non comburatur rubus.\" Rubus enim videbatur ardere et nihilominus integer manere. Cernens autem Dominus quod Moyses veniret ad videndum, vocavit eum de medio rubi, et ait, \"Moyses, Moyses.\" Qui respondit, \"Adsum.\" At ille, \"Ne appropinques, ait, huc: solve calceamentum de pedibus tuis: locus enim, in quo stas, terra sancta est.\" Dixitque Deus, \"Ego sum Deus patris tui, Deus Abraham, Deus Isaac, et Deus Iacob.\"\nAbscondit Moyses faciem suam; non enim audebat spectare Deum. Cui ait Dominus, \"Vidi afflictionem populi mei in Aegypto, et clamorem eius audivi ob duritiam eorum qui affligunt eos. Et sciens dolorem eius, descendi, ut liberem eum de manibus Aegyptiorum, et ducam de terra illa in terram bonam et spatiosam, in terram quae fluit lacte et melle. Sed veni, et mittam te ad Pharaonem, ut ducas populum meum, filios Israel de Aegypto.\" Dixitque Moyses ad Deum, \"Quis sum ego ut vadam ad Pharaonem, et ducam filios Israel de Aegypto?\" Qui dixit ei, \"Ego ero tecum, et hoc habebis signum quod miserim te: cum duxeris populum meum de Aegypto, immolabis Deo super montem istum.\"\nAit Moyses ad Deum, \"Ecce ego vadam ad filios Israel, et dicam eis: Deus patrum vestrorum misit me ad vos. Si dixerint mihi: Quod est nomen eius? quid dicam eis?\" Dixit Deus ad Moysen, \"Ego sum qui sum.\" Ait, \"Sic dices filiis Israel: 'Qui est, misit me ad vos.' \" (Continuabitur cras)",
      "explanation": "REAL CONDITIONS: There are six principal kinds of sentences in which one clause starts with **if**. Today we learn how to handle three of them (three more come later). It is best to work by imitating a set of samples, which it is good to memorize. (1) Future real: **Si venerit (veniet), bonum erit**, if he will have come (will come, or comes), it will be good. (2) Present real: **Si adest, bonum est**, if he is here, it is good. (3) Past real: **Si adfuit (or aderat), bonum fuit (or erat)**, if he was here, it was good. These are all called REAL CONDITIONAL sentences because they have the **indicative**. Notice that there is a future, a present, and a past real, in that order.\nABLATIVE OF MEASURE OF DIFFERENCE: We already know how to say **than** after a comparative, for example **Altior est Marco (or quam Marcus)**, he is taller than Marcus. But how do we say how much taller? Just use the ablative without a preposition: **Altior Marco est duobus pedibus**, he is taller than Marcus by two feet. Or again, **Multo altior quam Marcus est**, he is much taller than Marcus, that is, taller by much.",
+     "divisio": {
+      "overview": "A theophany narrative that moves from setting to the sign, then to the dialogue, and finally to the commission and the revealed name.",
+      "parts": [
+       {
+        "label": "Shepherd at Horeb",
+        "detail": "Sets Moses among Jethro's flock and brings him to the mountain of God."
+       },
+       {
+        "label": "The unconsumed bush",
+        "detail": "The Lord appears in flame from the bush, which burns yet stays whole, drawing Moses near."
+       },
+       {
+        "label": "Holy ground and self-disclosure",
+        "detail": "God halts Moses, has him remove his shoes, and names Himself the God of the fathers."
+       },
+       {
+        "label": "The commission",
+        "detail": "God recounts Israel's affliction and sends Moses to Pharaoh to lead the people out."
+       },
+       {
+        "label": "Objection and the Name",
+        "detail": "Moses asks Quis sum ego and then for God's name, and God answers Ego sum qui sum to report."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "conspiciunt, conspicere, spexit, spectus",
@@ -14190,6 +16105,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the ablative of measure of difference (multo fortius, much more bravely) and follow how Gilgamesh loses the magic plant.",
      "original": "GILGAMESH QUAERIT IMMORTALITATEM\nGilgamesh cum quodam somno magico (qui re vera genus mortis est) pugnare conatus est. Gilgamesh fortiter pugnavit, sed somnus multo fortius pugnavit. Itaque amicus noster fere mortuus est, et re vera mortuus esset (would have died) nisi uxor Utanapistim, misericordia mota, eum suscitavisset (had awakened).\nPost haec Gilgamesh discessurus erat ut in urbem suam reverteretur. At uxor Utanapistim virum suum hortatur (urges) ut ei aliquod donum det priusquam discedat. Utanapistim igitur explicat ad Gilgamesh quod herba (plant) mirabilis in fundo (bottom) maris inveniri possit. Omnis qui hanc comedit herbam, in iuventutem iterum revertitur. Magnis laboribus Gilgamesh ad fundum maris natat (swims), invenitque hanc herbam. Herba inventa, Gilgamesh statim comedere eam non vult. Melius esse putat eam comedere ante oculos populi sui in Erech. Profectus est itaque, et, magnis itineribus factis, fere ad urbem suam venit. At dies calidus (hot) fuit, et Gilgamesh, ad aestum vitandum (avoid the heat) vult natare. Dum natat, herbam mirabilem in ripa relinquit. Sed ecce! serpens quidam ad ripam venit, herbam videt, comedit, et, deposita cute (skin), revertitur in iuventutem. Quam ob causam serpentes etiam nunc cutem deponere et in iuventutem reverti possunt (non verum est serpentes hoc facere posse, sed quidam hoc dicunt). At miser (wretched) Gilgamesh, quid ille facere potest? Non iam mirabilem habet herbam: moriendum est. Nihilominus, ante mortem, spiritum Eabani per artes magicas evocat (summons), qui ei multa de regionibus mortuorum narrat.",
      "explanation": "This story shows the **ablative of measure of difference** in action. The comparative adverb **fortius** means more bravely, and **multo fortius** means much more bravely (more brave by much), with **multo** in the bare ablative. Watch also the ablative absolutes that drive the plot: **Herba inventa**, the plant having been found, and **deposita cute**, its skin having been laid aside. The closing **moriendum est** is an impersonal passive of obligation, it must be died, that is, he must die.",
+     "divisio": {
+      "overview": "A quest tale that runs from a deadly trial, through the gift of the youth-plant, to its loss and the hero's final resignation to death.",
+      "parts": [
+       {
+        "label": "The contest with sleep",
+        "detail": "Gilgamesh fights the magic sleep and nearly dies until Utanapistim's wife wakes him."
+       },
+       {
+        "label": "The gift of the plant",
+        "detail": "As he leaves, the wife has Utanapistim reveal the plant on the sea floor that restores youth."
+       },
+       {
+        "label": "Finding and carrying it home",
+        "detail": "Gilgamesh dives, takes the plant, and saves it to eat before his people at Erech."
+       },
+       {
+        "label": "The snake's theft",
+        "detail": "While he swims to escape the heat, a snake eats the plant, sheds its skin, and is renewed."
+       },
+       {
+        "label": "Resignation to death",
+        "detail": "Robbed of the plant, Gilgamesh accepts moriendum est and summons Eabani's spirit about the dead."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "conspiciunt, conspicere, spexit, spectus",
@@ -14336,6 +16276,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the signs God gives Moses (the rod that becomes a serpent) and the ut clauses of purpose and result.",
      "original": "Dixit Moyses Deo, \"Non credent mihi populi mei, neque audient vocem meam, sed dicent, \"Non apparuit tibi Dominus.\" Sed Deus dedit Moysi potestatem magnam, ut posset persuadere Hebraeis. Dixit itaque Deus, \"Quid est quod tenes in manu tua?\" Respondit, \"Virga.\" Dixitque Dominus, \"Proice eam in terram.\" Proiecit, et versa est in serpentem, ita ut fugeret Moyses. Dixitque Dominus, \"Extende manum tuam, et apprehende caudam eius.\" Qui manum extendit, et versa est in virgam, ita ut Moyses ipse incolumis esset, sine vulnere. Deus etiam dedit Moysi potestatem faciendi signa alia, imperavitque ei ut faceret ea coram Pharaone.\nMoyses itaque reliquit Jethro, et iter fecit per desertum. Aaron autem, frater Moysis, monitus a Deo, venit obviam Moysi in deserto. Moyses et Aaron venerunt simul, et congregaverunt omnes seniores filiorum Israel. Locutusque est Aaron omnia verba quae dixerat Dominus ad Moysen; et fecit signa coram populo, et credidit populus. Audiveruntque quod visitavisset Dominus filios Israel, et proni adoraverunt. Intellexerunt enim quod Deus re vera locutus erat Moysi.\nPost haec ingressi sunt Moyses et Aaron, et dixerunt Pharaoni, \"Haec dicit Dominus Deus Israel: Dimitte populum meum, ut sacrificet mihi in deserto.\" At ille respondit, \"Quis est Dominus, ut audiam vocem eius, et dimittam Israel? Nescio Dominum, et Israel non dimittam.\" Praecepit ergo in die illo praefectis operum dicens, \"Ne ultra praebeatis paleas populo Hebraeorum ut faciant lateres. Sed ipsi vadant et colligant paleas suas.\" (Continuabitur cras)",
      "explanation": "This is a review lesson, so the grammar is old but worth seeing again. Notice the **ut** clauses doing two different jobs. Sometimes **ut** plus the subjunctive shows purpose, as in **ut posset persuadere Hebraeis** (so that he could persuade the Hebrews) and **ut sacrificet mihi** (so that he may sacrifice to me). Other times **ita ut** plus the subjunctive shows result, as in **ita ut fugeret Moyses** (so that Moses fled) and **ita ut Moyses ipse incolumis esset** (so that Moses himself was unharmed). Also note **persuadere** and **praebere** take a dative of the person, and **obviam venit Moysi** means he came to meet Moses, again with the dative.",
+     "divisio": {
+      "overview": "The episode unfolds in four stages: God equips Moses with signs, Moses and Aaron rally the elders, the pair demand release of the people, and Pharaoh refuses.",
+      "parts": [
+       {
+        "label": "The signs given",
+        "detail": "God turns Moses' rod into a serpent and back, granting him power to persuade the Hebrews."
+       },
+       {
+        "label": "Meeting Aaron and the elders",
+        "detail": "Aaron meets Moses in the desert, the elders gather, and the people believe and bow down."
+       },
+       {
+        "label": "Demand to Pharaoh",
+        "detail": "Moses and Aaron ask Pharaoh to release the people to sacrifice in the desert."
+       },
+       {
+        "label": "Pharaoh's refusal",
+        "detail": "Pharaoh denies knowing the Lord and orders the overseers to withhold straw for bricks."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "intellegere, lexit, lectus",
@@ -14489,6 +16450,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the gerund and gerundive of purpose, such as ad genus humanum delendum, and how this flood story parallels the biblical one.",
      "original": "NARRATIO BABYLONICA DE DILUVIO\nIn poemate epico de Gilgamesh, Utanapistim de maximo diluvio quod in diebus suis venerat narravit. Iam narrationem in Scripturis Sacris de diluvio biblico legimus. Nunc narrandum est de diluvio Babylonico. Postea comparationem (comparison) inter utramque (each) versionem faciemus.\nOlim dei concilium habuerunt. In hoc concilio de humano genere deliberaverunt. Quandam ob causam (nihil de peccato dicitur in versione Babylonica) dei humanum genus delere volunt, diluviumque mittere statuunt (decide).\nUnus ex his deis amicum humanum quem non vult delere habet. Hic deus, cui nomen est Ea (deus aquarum est) ad amicum suum Utanapistim vadit, et eum de diluvio venturo monet. Insuper, Ea mandat ut Utanapistim navem aedificet, mensurasque (dimensions) navis ei dat. Imperat etiam ut Utanapistim animalia omnis generis in navem suam ducat. Utanapistim omnia sicut Ea mandavit facit, et in navem ingreditur cum uxore sua, omnibusque animalibus. Imber de coelis dies septem cadit. Omnes alii homines animaliaque in aquis interfecti sunt. Utanapistim autem, et qui cum eo in navi sunt, salvi (safe) sunt. Quodam die post imbres, navis in montem qui Nisir vocatur venit. Utanapistim columbam (dove) et passerem (sparrow) ex navi mittit, sed ad eum revertuntur. Postea cornicem (crow) emittit ex navi. Cornix non reversa est. Utanapistim igitur ex navi egreditur, et sacrificium offert. Dei, qui in coelum fugerant, timentes diluvium, sicut muscae (flies)-sic enim narrat narratio Babylonica-ad sacrificium descendunt. Sed quidam deus qui vocatur Bel irascitur quia Utanapistim ex diluvio incolumis evasit. Nihilominus alius deus, Enlil, praemia ad Utanapistim dare vult, quia ille genus humanum servavit. Itaque Enlil ponit Utanapistim et uxorem eius in locum trans aquas mortis, datque eis immortalitatem (Comparatio cum Scripturis fiet cras.)",
      "explanation": "This story leans on the gerund and gerundive to express purpose, a pattern you have been practicing. Notice **ad genus humanum delendum** (to destroy the human race), where **delendum** agrees with **genus**, and **ad sacrificium capiendum** in the exercises. Also see **narrandum est** (it must be told) and **comparationem faciemus** (we will make a comparison). The god **Ea** warns **Utanapistim** with **de diluvio venturo monet**, where **venturo** is a future participle, of the flood about to come. The deponent verbs are worth noticing too: **ingreditur** (he enters), **revertuntur** (they return), and **egreditur** (he goes out) are passive in form but active in meaning.",
+     "divisio": {
+      "overview": "A framed flood account: an opening promise to compare versions, then the gods' decree, Ea's warning and the ship, the flood and survival, and the divine aftermath.",
+      "parts": [
+       {
+        "label": "Frame and program",
+        "detail": "The narrator notes the biblical flood already read and announces a coming comparison of the two."
+       },
+       {
+        "label": "The gods' decree",
+        "detail": "In council the gods resolve to destroy mankind and send a flood."
+       },
+       {
+        "label": "Ea's warning and the ship",
+        "detail": "Ea warns his friend Utanapistim, commands him to build the ship and load animals."
+       },
+       {
+        "label": "The flood and survival",
+        "detail": "Rain falls seven days, all others perish, and the ship lands on Mount Nisir; the birds are sent out."
+       },
+       {
+        "label": "Sacrifice and reward",
+        "detail": "Utanapistim sacrifices, Bel is angry but Enlil grants him and his wife immortality beyond the waters."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "intellegere, lexit, lectus",
@@ -14643,6 +16629,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the repeated potesne and possum (can you, I cannot) and the punch line at the end.",
      "original": "SPECTACULUM NOVUM\nQuidam bonus agricola, Egbertus nomine, non poterat bene videre propter debilitatem (weakness) oculorum. Iter ergo fecit in urbem ad optometristam (id est, ad oculorum medicum [eye doctor]). Optometrista posuit ante Egebertum litteras parvas et interrogavit, \"Potesne legere has litteras?\" Cui Egbertus respondit, \"Non possum.\" Deinde posuit optometrista alias litteras maiores, et eodem modo interrogavit. Iterum respondit Egbertus se non posse legere illas litteras. Maiores litteras iterum posuit medicus, et idem responsum accepit. Ultimo litteras pedis unius (one foot) posuit medicus, interrogavitque Egbertum, \"Certe, nunc legere has litteras potes?\" Cui Egbertus respondit, \"Non possum.\" \"Quomodo (how) accidit?\" dixit medicus. Et Egbertus respondit, \"Numquam didici legere.\"",
      "explanation": "This short skit is built for review of **possum, posse** (to be able). Watch the back and forth: **Potesne legere?** (Can you read?) and the patient's flat **Non possum** (I cannot). Notice **se non posse legere** in indirect statement (that he was not able to read), with the infinitive **posse** after **respondit**. The adjectives grow each round, **litteras parvas** then **litteras maiores** and finally **litteras pedis unius** (letters one foot high). The joke lands on **Numquam didici legere** (I never learned to read), the perfect (**didici**) of the verb **discere** (to learn).",
+     "divisio": {
+      "overview": "A short joke that sets up the visit, repeats an escalating test, and closes on the punch line.",
+      "parts": [
+       {
+        "label": "The setup",
+        "detail": "The farmer Egbert, with weak eyes, travels to the eye doctor in the city."
+       },
+       {
+        "label": "The escalating test",
+        "detail": "The doctor shows ever larger letters and each time asks if Egbert can read them."
+       },
+       {
+        "label": "The repeated refusal",
+        "detail": "Egbert keeps answering Non possum, even at letters a foot high."
+       },
+       {
+        "label": "The punch line",
+        "detail": "Asked how this happens, Egbert reveals he never learned to read."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "intellegere, lexit, lectus",
@@ -14731,6 +16738,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the mini-list verbs of refusing and complaining (negavit, querentes), and for the plague vocabulary (plaga, rana, sanguis) as the story builds.",
      "original": "Moyses et Aaron semel venerant coram Pharaone rogantes ut concederet licentiam discedendi Hebraeis. Qui non solum negavit licentiam, verum etiam magis oppressit Hebraeos. Populus Israel venit ad Moysen et Aaron, querentes de oppressione. Deus itaque mandavit Moysi et Aaron ut iterum venirent ad Pharaonem, ut liberaretur populus ab oneribus quae vix sustinere poterant, et ut licentiam haberent egrediendi ex Aegypto.\nIam Moyses vidit se frustra locuturum esse verba Pharaoni, nisi etiam miracula faceret. Aaron ergo convertit virgam in serpentem coram Pharaone. Hic autem vocavit magos suos, qui idem fecerunt. Sed virga Aaron devoravit virgas eorum.\nAt Pharao remansit in duritia cordis sui, prohibuitque Hebraeos egredi ex Aegypto. Deus ergo fecit decem signa magna, quae fuerunt decem plagae Aegypti. Aaron venit ad ripam fluminis Nili, percussitque flumen virga sua. Ecce, aqua fluminis facta est sanguis. Pharao autem adhuc durus erat. Post dies septem, Aaron extendit manum suam super flumina Aegypti, et statim multitudo magna ranarum venerunt ex aquis, et impleverunt omnem terram. Ranae venerunt in domos omnium, etiam in palatium regis. Pharao territus est, vocavitque Moysen et Aaron, \"Rogate Dominum pro me, ait, ut ranae discedant a me et populo meo et dimittam populum tuum.\" Moyses fecit quae rex petiverat, et ranae discesserunt. At Pharao, videns se populumque suum liberatos esse a ranis, adhuc noluit dimittere Hebraeos. (Continuabitur cras)",
      "explanation": "This Lectio teaches **ideal conditional sentences** and the verb **malle** (prefer). An ideal condition imagines a possibility rather than a fact, and its marks are the **subjunctive** in Latin plus **would** in the main clause in English. The Latin tenses run one notch off, since there is no future subjunctive. **Future ideal**: present subjunctive (sometimes perfect subjunctive in the si clause), e.g. Si venerit (veniat), bonum sit, If he should come, it would be well. **Present ideal**: imperfect subjunctive, e.g. Si adesset, bonum esset, If he were here, it would be well. **Past ideal**: pluperfect subjunctive, e.g. Si adfuisset, bonum fuisset, If he had been here, it would have been well. The verb **malle** (prefer) is built much like velle (wish). Present indicative: malo, mavis, mavult, malumus, mavultis, malunt. Imperfect: malebam. Future: malam, males. Perfect: malui, maluisti. Present subjunctive: malim.",
+     "divisio": {
+      "overview": "The plague cycle begins: a rejected plea, a contest of signs, then the first two plagues with a failed concession.",
+      "parts": [
+       {
+        "label": "Plea rejected",
+        "detail": "Moses and Aaron ask leave to depart, but Pharaoh refuses and oppresses the people more."
+       },
+       {
+        "label": "Contest of the rods",
+        "detail": "Aaron's rod becomes a serpent and devours the magicians' rods, yet Pharaoh stays hard-hearted."
+       },
+       {
+        "label": "Water turned to blood",
+        "detail": "Aaron strikes the Nile and its water becomes blood, but Pharaoh remains unmoved."
+       },
+       {
+        "label": "The frogs and the broken promise",
+        "detail": "Frogs fill the land, Pharaoh begs relief and is heard, then again refuses to free the Hebrews."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "concedere, cessit, cessus",
@@ -14920,6 +16948,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for gerundive phrases like delendis and faciendis, and notice how God spares the land where His people live.",
      "original": "Pharao, videns ranas abiisse, iterum induravit cor suum, nec permisit Hebraeis ut exirent ex Aegypto. At Aaron, iussu Dei, percussit virga sua pulverem terrae. Confestim multa millia cinifum venerunt e pulvere in omnes homines et in animalia in universa terra Aegypti. Magi Pharaonis conati sunt educere cinifes e terra, nec potuerunt. Et magi Pharaoni dixerunt, \"Digitus Dei hic (here) est.\" Pharao autem non audivit eos. Induratum est enim cor illius. Dixit quoque Dominus ad Moysen, \"Vade ad Pharaonem et dices ad eum: Haec dicit Dominus: Dimitte populum meum, ut sacrificet mihi. Quod si non dimiseris eum, ecce ego mittam in te et in servos tuos et in populum tuum et in domos tuas omne genus muscarum. Faciamque mirabilem in die illa terram Gessen in qua populus meus est, ut non sint ibi muscae: et scias quod ego Dominus in medio terrae. Ponamque divisionem inter populum meum et populum tuum: cras erit signum istud.\" Fecitque Dominus ita. Et venerunt muscae gravissimae in domos Pharaonis et servorum eius, et in omnem terram Aegypti; corruptaque est terra ab huius modi muscis.\nVocavitque Pharao Moysen et Aaron et ait eis, \"Ite et sacrificate Deo vestro in terra hac.\" Et ait Moyses, \"Non potest ita fieri. Sed viam trium dierum pergemus in solitudinem, et sacrificabimus Domino Deo nostro, sicut praecepit nobis.\" Dixitque Pharao, \"Ego dimittam vos, ut sacrificetis Domino Deo vestro in deserto; verumtamen longius ne abeatis. Rogate pro me.\"\nEgressusque Moyses a Pharaone, oravit Dominum. Qui fecit secundum verbum illius, et abstulit muscas a Pharaone et a servis eius, et a populo eius. At cor Pharaonis iterum induratum est, et non dimisit populum. (Continuabitur cras)",
      "explanation": "FURTHER USES OF THE GERUNDIVE. We have already seen how to use the gerundive (the -ndus form) to express **purpose**, where it was used with ad, causa, gratia, and sometimes ob, propter, or pro. When the gerundive is used without any of those prepositions, and not with a linking verb to express obligation, it may give the same effect as the **English gerund with an object**. Quite a variety of combinations are possible: (1) Marcus consul factus est donis dandis, Marcus became consul by giving bribes (gifts); (2) Brutus interfectus est in liberanda patria, Brutus was killed in freeing his country; (3) Scripsit librum de contemnenda gloria, He wrote a book about despising glory; (4) Curavit pontem faciendum, He took care of making a bridge. To translate, first handle the preposition or notice the case, then render the -ndus form by the English **-ing** form, and put the Latin noun that the gerundive agrees with after the gerund in English as its object. This use of the gerundive is a handy short cut in Latin.",
+     "divisio": {
+      "overview": "Two more plagues frame a negotiation: gnats from the dust, flies that spare Gessen, a partial bargain, and a renewed refusal.",
+      "parts": [
+       {
+        "label": "Plague of gnats",
+        "detail": "Aaron strikes the dust into gnats; the magicians fail and confess the finger of God."
+       },
+       {
+        "label": "Warning of flies",
+        "detail": "God threatens swarms of flies and promises to spare the land of Gessen where His people live."
+       },
+       {
+        "label": "Flies and Pharaoh's offer",
+        "detail": "Flies ruin Egypt, Pharaoh offers sacrifice within the land, and Moses insists on a three-day journey."
+       },
+       {
+        "label": "Relief and relapse",
+        "detail": "Pharaoh asks for prayer, Moses obtains removal of the flies, but Pharaoh hardens again."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "indurare, avit, atus",
@@ -15111,6 +17160,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Notice the gerundive phrases for things to be done (rebus faciendis, consiliariis audiendis) and the king's questions about why he should fear the Hebrews.",
      "original": "Quodam die, unus ex consiliariis (counsellors) regis ad Pharaonem accessit, et fere hoc modo locutus est ei, \"Domine mi rex, licetne mihi servo vestro loqui vobis de rebus magnis faciendis?\" Cui Pharao, \"Licet. Loquaris nobis. Consiliariis audiendis, multa bona facere possumus.\" \"In regno vestro,\" ait servus regis, \"populus novus est. Hic populus crescit, et fit gens magna. Ergo, timor mihi est.\" \"Sed quare timendum est,\" interrogavit rex. \"Nonne bonum est ut multos subiectos habeamus? Possunt tributa (taxes) solvere; possunt in operibus magnis faciendis laborare. Sed qui sunt hi homines?\" \"Hebraei vocantur, domine mi rex.\" \"Ex qua terra venerunt?\" \"Audivi eos venisse in hanc terram, multis saeculis ante regnum vestrum. Quidam dicunt eos venisse ex Chanaan.\" Cui rex, \"Sed nonne homines boni sunt? Quare eos timendos esse credis?\" Respondens itaque consiliarius dixit, \"Videtur quod Hebraei in terram nostram venerunt tempore quo reges mali hanc terram regebant, domine mi rex. Id est, venerunt tempore quo reges Aegypti erant homines qui vocabantur Hyksos. Hi enim reges in Aegypto fuerunt plus quam centum annos. Non erant reges boni. Non enim regnabant per potestatem dei magni qui est in coelis, quem vocamus 'Horus.' Sed solummodo per potestatem alterius dei 'Seth' regnaverunt. Hebraei autem videntur potestatem magnam habuisse in diebus horum regum malorum.\" (Continuabitur)",
      "explanation": "The gerundive (the -ndus form) here gives the effect of an **English gerund with an object**, without a preposition: Consiliariis audiendis, multa bona facere possumus means by listening to counsellors, we are able to do many good things; in operibus magnis faciendis laborare means to labor in doing great works. After de, the gerundive again works the same way: de rebus magnis faciendis, about doing great things. When the gerundive is used with a linking verb (est) it instead expresses **obligation**: quare timendum est, why must there be fear; quare eos timendos esse credis, why do you believe that they must be feared.",
+     "divisio": {
+      "overview": "A dialogue that opens with a counsellor's request to speak, raises the alarm over a new people, and ends in an exchange identifying them and their history.",
+      "parts": [
+       {
+        "label": "Request to speak",
+        "detail": "A counsellor asks leave to advise, and Pharaoh welcomes counsel for doing good."
+       },
+       {
+        "label": "The warning",
+        "detail": "The counsellor reports a new people growing into a great nation and confesses his fear."
+       },
+       {
+        "label": "The king's questions",
+        "detail": "Pharaoh asks why he should fear, since subjects pay taxes and labor, and who they are."
+       },
+       {
+        "label": "Naming the Hebrews and their past",
+        "detail": "They are named Hebrews, said to come from Chanaan in the days of the wicked Hyksos kings."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "indurare, avit, atus",
@@ -15245,6 +17315,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the impersonal verbs (oportuit, induratum est) and ablatives of cause and separation as God brings another plague upon Egypt.",
      "original": "Dixit autem Dominus ad Moysen, \"Ingredere ad Pharaonem, et loquere ad eum: Haec dicit Dominus Deus Hebraeorum: Dimitte populum meum ut sacrificet mihi. Quod si adhuc impedis eos et retines eos, ecce manus mea erit super agros tuos, et super animalia vestra. Et faciet Dominus mirabile inter possessiones Israel et possessiones Aegyptiorum, ut nihil omnino pereat ex his quae pertinent ad filios Israel.\" Statuitque Dominus tempus, dicens, \"Cras faciet Dominus verbum istud in terra.\" Fecit ergo Dominus verbum hoc altera die. Mortuaque sunt multa animalia Aegyptiorum ex omnibus generibus animalium eorum; de animalibus vero filiorum Israel nihil omnino periit. Et misit Pharao ad videndum: nec erat quidquam mortuum de his quae possidebat Israel. Induratumque est cor Pharaonis, et non dimisit populum.\nEt dixit Dominus ad Moysen et Aaron, \"Tollite plenas manus cineris et spargat cinerem Moyses in coelum coram Pharaone. Sitque pulvis super omnem terram Aegypti: erunt enim in hominibus et iumentis ulcera in universa terra Aegypti.\"\nTulerunt itaque Moyses et Aaron cineres, steteruntque coram Pharaone. Et sparsit cineres Moyses in coelum; factaque sunt ulcera in hominibus et in iumentis. Nec poterant magi Pharaonis stare coram Moyse propter ulcera quae in illis erant et in omni terra Aegypti. Pharao autem ipse mansit adhuc in duritia cordis sui, et noluit dimittere populum Israel de Aegypto. Hoc modo Deus misit per Moysen plagas multas in Pharaonem et in omnem populum eius. At oportuit adhuc mittere alias plagas in Aegyptum antequam Pharao vellet dimittere filios Israel ex terra illa. (Continuabitur cras)",
      "explanation": "IMPERSONAL VERBS: Some verbs have no forms except the third person singular, with the subject **it** in English. These verbs are always impersonal. For example, **Placuit senatui mittere eos in carcerem** means It pleased the senate (or the senate decided) to send them to prison. We could also write the same thought as **Placuit senatui ut mitterentur in carcerem**. Another is **Licet vobis discedere ex Aegypto**, It is permitted to you to depart from Egypt, which could also be **Licet ut discedatis ex Aegypto**. Likewise **Oportet vos discedere**, It is proper that you go, or **Oportet (ut) vos discedatis**. Notice that some of these verbs, such as **placet** and **licet**, take the dative. Notice also that to explain the subject it, we may have a clause, which is sometimes objective with the infinitive, sometimes **ut** with the subjunctive. In general, any impersonal verb may take the objective with infinitive clause, but the ut-subjunctive is usually restricted to verbs that have an idea of willing, wanting, permitting, or deciding. Some verbs are only sometimes impersonal, as in **Nuntiatur Caesarem adesse**, It is reported that Caesar is present, or **Ventum est in terram novam**, They came into the new land. We cannot translate **ventum est** literally, since it would mean it was come; the sense might call for he, she, we, you, or even I. ABLATIVE OF CAUSE AND SEPARATION: The ablative without a preposition may be translated by in, by, or with, and now we add two more meanings, **because of** and **from**. An ablative of separation (from) often does have a preposition (ab, ex, de), but sometimes it does not, and hardly ever does it have one with names of towns. For example, **Peccatis meis Deus haec fecit** means Because of my sins God has done this, and **Liberavit me omni cura** means He freed me from all care.",
+     "divisio": {
+      "overview": "A two-plague sequence framed by a warning and a closing note that more plagues must still come.",
+      "parts": [
+       {
+        "label": "Warning and distinction",
+        "detail": "God threatens the livestock and promises to spare what belongs to Israel."
+       },
+       {
+        "label": "Death of the cattle",
+        "detail": "Egypt's animals die while Israel's are untouched, yet Pharaoh's heart is hardened."
+       },
+       {
+        "label": "The boils",
+        "detail": "Moses scatters ashes into the air and ulcers break out on men and beasts, even the magicians."
+       },
+       {
+        "label": "Hard heart and what remains",
+        "detail": "Pharaoh still refuses, and the text notes more plagues must yet be sent."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "impedire, ivit, itus",
@@ -15424,6 +17515,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Notice the impersonal verbs (videtur, oportet, liceat, placeat) and the gerundives of obligation as the counselor lays out his plan.",
      "original": "\"Nunc autem,\" perrexit consiliarius loquens Pharaoni, \"videtur mihi quod periculum est ex hoc populo. Sicut enim dixi, in terram nostram venerunt temporibus malorum regum. Sed insuper, hi Hebraei loquuntur saepe de magno viro ex gente sua quem vocant Iosephum. Dicunt hunc virum Iosephum fuisse magnum principem sub quodam ex his regibus malis.\" \"Et quis revera erat hic Iosephus,\" interrogavit Pharao. \"Eum nescio.\" Cui consiliarius, \"Ego quoque Iosephum nescio. Nihilominus, si quodam tempore hi Hebraei magnam habuerunt potestatem in terra nostra, nonne periculum est ne, si iterum gentes aliae faciant bellum contra nos, Hebraei pugnent cum illis contra nos? Crescunt numero valde, sicut dixi. Ergo videtur mihi oportere ut aliquid faciamus de his hominibus. Nunc autem, liceat mihi ut explicem consilium novum et bonum de Hebraeis impediendis.\" Cui rex, \"Licet ut explices. Semper nos oportet audire consilia virorum egregiorum. Sed explicandum est consilium tuum.\" \"In parte septentrionali terrae vestrae, domine mi rex, olim fuerunt duae urbes bonae. Nunc autem, in eadem parte terrae vestrae Hebraei agros possident. Itaque, si liceat mihi loqui, hoc videtur bonum: Oportet ut rex edictum faciat de his urbibus iterum aedificandis. Hebraei cogendi sunt ut laborent in urbibus faciendis. Si ergo Pharaoni placeat haec imperare, ego servus vester statim curabo haec facienda.\" Cui rex, \"Ea quae dixisti bona videntur. Perge, cura statim urbes aedificandas.\"",
      "explanation": "This continuation of the dialogue between Pharaoh and his counselor is built almost entirely on the impersonal verbs of today's lesson. Watch **videtur mihi** (it seems to me), **oportet** (it is necessary, it is proper), **liceat / licet** (let it be permitted / it is permitted), and **placeat** (let it please), several of which take the dative, as in **videtur mihi**, **liceat mihi**, and **Pharaoni placeat**. The counselor's plan also relies on gerundives of obligation, the future passive participle expressing what must be done, as in **de Hebraeis impediendis** (about hindering the Hebrews), **explicandum est consilium tuum** (your plan must be explained), **de his urbibus iterum aedificandis** (about these cities being built again), **Hebraei cogendi sunt** (the Hebrews must be compelled), and **cura urbes aedificandas** (see to the cities being built).",
+     "divisio": {
+      "overview": "The counselor builds his case in stages: a fresh danger named, a fear of revolt, then a proposed plan that the king approves.",
+      "parts": [
+       {
+        "label": "Joseph recalled",
+        "detail": "The counselor warns that the Hebrews boast of a great forebear, Joseph, once a prince under wicked kings."
+       },
+       {
+        "label": "Fear of betrayal",
+        "detail": "He argues that this growing people might side with enemies in a future war."
+       },
+       {
+        "label": "The plan proposed",
+        "detail": "He asks leave and proposes forcing the Hebrews to rebuild two old northern cities."
+       },
+       {
+        "label": "The king's approval",
+        "detail": "Pharaoh praises the counsel and orders the cities to be built at once."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "impedire, ivit, itus",
@@ -15582,6 +17694,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch for the new use of quod meaning because, and for the ablative absolutes like Extendente Moyse manum and induratum est cor eius.",
      "original": "etiam post ulcera accepta Pharao noluit dimittere Israel. Moyses itaque, iubente Domino, mane surrexit vaditque ad Pharaonem. Dixitque Moyses, \"Haec dicit Dominus Deus Hebraeorum: Dimitte populum meum ut sacrificet mihi. Ut scias quod non sit similis mei in omni terra, nunc extendens manum percutiam te et populum tuum. En pluam cras hac ipsa hora grandinem multam nimis, qualis non fuit in Aegypto a die qua fundata est, usque in praesens tempus.\"\nExtendente itaque Moyse manum suam in coelum, facta est grando in universa terra Aegypti, et Dominus dedit tonitrua ac discurrentia fulgura super terram Aegypti. Et percussit grando, in omni terra Aegypti, cuncta quae fuerunt in agris, ab homine usque ad iumentum. Tantum in terra Gessen, ubi erant filii Israel, grando non cecidit.\nMisitque Pharao et vocavit Moysen et Aaron, dicens ad eos, \"Peccavi etiam nunc. Dominus iustus; ego et populus meus, impii. Orate Dominum ut desinant tonitrua Dei, et grando: ut dimittam vos, et nequaquam hic ultra maneatis.\"\nEgressusque Moyses a Pharaone ex urbe, tetendit manus ad Dominum; et cessaverunt tonitrua et grando, nec ultra venerunt super terram. Dominus fecit haec quod Moyses rogaverat eum. Pharao autem, videns quod cessavisset grando et tonitrua, auxit peccatum suum; et induratum est cor eius, nec dimisit filios Israel, sicut praeceperat Dominus per manum Moysis.",
      "explanation": "NOTE: Notice the new use of **quod** in the sense of **because** (Dominus fecit haec **quod** Moyses rogaverat eum, the Lord did these things because Moses had asked him). Quod also may mean **that**, for indirect statements, or for substantive clauses. It can also be one form of the relative pronoun, meaning **which** or **that**. Notice too the ablative absolutes that carry the action forward: iubente Domino (the Lord commanding), Extendente Moyse manum suam (Moses stretching out his hand), and the passive induratum est cor eius (his heart was hardened).",
+     "divisio": {
+      "overview": "A single plague told in four beats: the threat, the storm, Pharaoh's confession, and his relapse once it ends.",
+      "parts": [
+       {
+        "label": "The threat",
+        "detail": "Moses warns Pharaoh of unheard-of hail to fall the next day at that very hour."
+       },
+       {
+        "label": "The hailstorm",
+        "detail": "Moses raises his hand and hail, thunder, and lightning strike all Egypt except Gessen."
+       },
+       {
+        "label": "Pharaoh's confession",
+        "detail": "Pharaoh admits his sin, calls God just, and begs Moses to pray for relief and promises release."
+       },
+       {
+        "label": "Relief and relapse",
+        "detail": "Moses stops the storm, but Pharaoh, seeing it cease, increases his sin and will not let Israel go."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "augere, auxit, auctus",
@@ -15776,6 +17909,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the gerundives of purpose: ad puerum servandum (to save the boy), de interficiendis omnibus pueris (about killing all the boys), redeundum esse and ducendos esse (must return, must be led).",
      "original": "\"Vocavistine me, Domine mi Rex?\" dixit senex, qui erat princeps inter omnes consiliarios Pharaonis. \"Itaque,\" rex ait, \"audivimus virum novum in hanc terram venisse cui nomen Moyses. Alii consiliarii nostri monuerunt nos de hoc viro. Dicunt eum esse periculo omni terrae Aegypti. Sed novimus te fuisse consiliarium patris mei et monuisse eum de populo quodam qui dicuntur Hebraei. Nunc autem, hic Moyses dicitur esse vir ex Hebraeis.\" \"Vera sunt haec,\" respondit vetus consiliarius. \"Paucis annis ante mortem patris vestri, ad eum veni et persuasi ut cogeret hunc populum laborare in laboribus duris. Si haec non monuissem, et si Pharao haec non imperavisset, forsan hi Hebraei plus aucti essent, et regnum Pharaonis delevissent. Etiam consilium dedi de interficiendis omnibus pueris Hebraeorum in infantia.\" \"Quomodo ergo hic vir Moyses non est interfectus?\" interrogavit Pharao. \"Mater huius pueri novum consilium ad puerum servandum invenit. Posuit enim eum in sporta in flumine sacro. Filia regis, hunc puerum videns, desideravit eum habere. Itaque, filia Pharaonis iubente, mater ipsa huius Moysis aluit puerum paucos annos. His annis finitis, puer in palatium regis ipsius venit, vixitque ibi. Pharao autem nesciebat puerum esse Hebraeum. Cum autem puer crevisset et vir factus esset, ostendit se amare Hebraeos, etiam virum Aegyptiacum percussit. Hanc propter causam, fugiendum erat ei in terram Madian. Ibi multos annos remansit. Sed dicunt eum vidisse visionem Dei Hebraeorum. Deus dixit ei redeundum esse in terram nostram, et Hebraeos ducendos esse ex regno vestro. Melius esset nobis si mortuus esset in flumine!\"",
      "explanation": "This story is built on **gerundives** (the future passive participle) expressing purpose and necessity. With ad and the accusative they show purpose: ad puerum **servandum** (to save the boy), ad interficiendos pueros becomes de **interficiendis** omnibus pueris (about killing all the boys). With esse they show necessity (the passive periphrastic): redeundum **esse** (that he must return), Hebraeos **ducendos esse** (that the Hebrews must be led out), fugiendum **erat** ei (he had to flee). Find three basic English translations that will cover all uses of the future passive participle, gerundive, and gerund.",
+     "divisio": {
+      "overview": "A summons opens a frame in which the old counselor reviews his past advice, the rescue and rearing of Moses, and Moses' flight and return.",
+      "parts": [
+       {
+        "label": "The summons",
+        "detail": "Pharaoh calls his chief counselor and reports the dangerous Hebrew newcomer named Moses."
+       },
+       {
+        "label": "The counselor's old advice",
+        "detail": "The old man recalls urging the former king to enslave the Hebrews and kill their infant boys."
+       },
+       {
+        "label": "Moses saved and raised",
+        "detail": "He tells how the basket in the river, the king's daughter, and the mother's nursing spared Moses."
+       },
+       {
+        "label": "Flight and prophesied return",
+        "detail": "Moses, grown and defending Hebrews, flees to Madian, sees God, and is sent back to lead Israel out."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "consiliarius",
@@ -15868,6 +18022,27 @@ window.COURSE_DATA.courses.push({
      "lead": "A light Natural-Method story to read for pleasure; watch the perfect and imperfect verbs and the inline glosses.",
      "original": "Quidam senex (old man) per viam ambulans (walk) vidit quinque pueros cum cane (dog). \"Quid facitis?\" interrogavit senex. \"Mendacia (lies) dicimus,\" respondit unus ex pueris, \"Quisquis (whoever) maximum narrat mendacium, canem hunc habebit.\" \"Sed ego,\" dixit senex, \"cum puer essem, numquam mendacium dixi.\" Silentium breve erat-deinde unus puer ad senem locutus est: \"Accipe eum-canis tuus est.\"",
      "explanation": "Most leaves his inline English reading-aids in this story: senex (old man), ambulans (walk), cane (dog), Mendacia (lies), Quisquis (whoever). The joke turns on the old man's cum-clause cum puer essem, numquam mendacium dixi (when I was a boy, I never told a lie), which the boys take as the biggest lie of all. Notice mendacium (a lie) repeated, and the deponent verb locutus est (he spoke), perfect of loqui.",
+     "divisio": {
+      "overview": "A brief joke in four moves: the encounter, the contest explained, the old man's claim, and the boys' verdict.",
+      "parts": [
+       {
+        "label": "The encounter",
+        "detail": "An old man walking by sees five boys with a dog and asks what they are doing."
+       },
+       {
+        "label": "The contest explained",
+        "detail": "A boy says they are telling lies, and the biggest liar will win the dog."
+       },
+       {
+        "label": "The old man's claim",
+        "detail": "The old man says that as a boy he never told a lie."
+       },
+       {
+        "label": "The verdict",
+        "detail": "After a short silence a boy declares the dog his, taking the claim as the greatest lie."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "senex",
@@ -15945,6 +18120,27 @@ window.COURSE_DATA.courses.push({
      "summary": "Moses brings the plagues of locusts and of darkness upon Egypt, but Pharao still hardens his heart.",
      "lead": "Watch how ablatives tell HOW things were done: the wind raised the locusts, and a wind from the west snatched them away.",
      "original": "Introierunt ergo Moyses et Aaron ad Pharaonem et dixerunt ei, \"Haec dicit Dominus Deus Hebraeorum: Usquequo non vis obedire mihi? Dimitte populum meum ut sacrificet mihi. Sin autem resistis, et non vis dimittere eum: ecce ego inducam cras locustam in fines tuos et si quid grando non delevit, comedent locustae. Et implebunt domos tuas et servorum tuorum.\" Dixerunt autem servi Pharaonis ad eum, \"Usquequo patiemur hoc scandalum? Dimitte homines ut sacrificent. Nonne vides quod perierit Aegyptus?\" Revocaveruntque Moysen et Aaron, et Pharao voluit permittere eis ut solummodo viri sine mulieribus et liberis irent et sacrificarent. Statimque eiecti sunt de conspectu Pharaonis.\nExtendit Moyses virgam super terram Aegypti; et Dominus induxit ventum urentem tota die illa et nocte; et mane, ventus urens levavit locustas. Quae ascenderunt super universam terram, vastantes omnia. Quam ob rem Pharao festinus vocavit Moysen et Aaron, et dixit, \"Peccavi in Dominum Deum vestrum et in vos. Sed nunc dimittite peccatum meum.\" Moyses itaque egressus oravit Dominum. Qui flare fecit ventum ab occidente vehementissimum, et arripuit locustas proiecitque in Mare Rubrum. At Pharao iterum induravit cor suum, nec dimisit Israel.\nMoyses igitur extendit manum in coelum; et factae sunt tenebrae horribiles in universa terra Aegypti tribus diebus. Nemo vidit fratrem suum, nec movit se de loco in quo erat. At ubicumque habitabant filii Israel lux erat. Vocavitque Pharao Moysen et Aaron et dixit eis, \"Ite, sacrificate Domino. Oves tantum vestrae et armenta remaneant.\" At Moyses negavit se posse ire sine armentis. Dixitque Pharao ad Moysen, \"Discede a me, et cave ne ultra videas faciem meam. Quocumque die apparueris mihi, morieris.\" Respondit Moyses, \"Ita fiet ut locutus es. Non videbo ultra faciem tuam.\"",
+     "divisio": {
+      "overview": "The passage runs two plagues back to back, each cycling from threat or sign through devastation to a failed bargain, framed by an opening confrontation and a closing rupture.",
+      "parts": [
+       {
+        "label": "Threat and false offer",
+        "detail": "Moses warns of locusts, Pharaoh's servants beg him to relent, and Pharaoh offers to free only the men, then expels Moses and Aaron."
+       },
+       {
+        "label": "The locusts come and go",
+        "detail": "Moses' rod and a burning wind raise the locusts that strip the land, Pharaoh confesses sin, and a wind from the west sweeps the locusts into the Red Sea, yet his heart hardens again."
+       },
+       {
+        "label": "Three days of darkness",
+        "detail": "Moses' raised hand brings darkness over Egypt while Israel keeps light, and Pharaoh again offers a partial release that Moses refuses."
+       },
+       {
+        "label": "Final rupture",
+        "detail": "Pharaoh banishes Moses on pain of death, and Moses answers that he will indeed never see Pharaoh's face again."
+       }
+      ]
+     },
      "explanation": "This Lectio is about the **locative case** and about the **ablatives of instrument and personal agent**. The locative names the place WHERE one stays, and it is used only with names of towns and cities (and a few stray words such as domus, domi, at home). It exists only in the FIRST and SECOND declensions, with endings -ae and -i, as in Romae (at Rome) and Tarenti (at Tarentum). In the plurals of the first and second declensions, and in the third declension, we use the ablative instead, so we seldom find in Roma or in Tarento. The other point is how to say BY in the ablative. When something is done by a thing, we use the ablative with no preposition (the ablative of instrument), as in Interfectus est gladio, He was killed by a sword. When something is done by a person, we use the preposition ab (the ablative of personal agent), as in Interfectus est a Marco, He was killed by Marcus. So a person normally takes ab, but a thing ordinarily takes no preposition.",
      "keyTerms": [
       {
@@ -16102,6 +18298,27 @@ window.COURSE_DATA.courses.push({
      "summary": "An old counselor reminds Pharao of all the plagues and advises that it would be better to let the Hebrews go.",
      "lead": "Watch the ablatives of means in -ndo (percutiendo, spargendo) telling HOW Aaron and Moses worked each wonder.",
      "original": "PHARAO AUDIT CONSILIUM BONUM\n\"Licetne ut loquar pauca ad dominum meum regem?\" interrogavit idem vetus consiliarius, cum ad Pharaonem introisset. Cui Pharao, \"Licet, sed breviter. Valde enim moti sumus illis rebus quae facta sunt a viro pessimo Moyse.\" \"Breviter faciam,\" respondit consiliarius. \"Ego quoque passus sum multa ab eo. Ipso die in quo Moyses ante vos venit, ad petendam licentiam discedendi populo suo, timui. Non solum enim frater eius Aaron virgam suam in serpentem convertit, sed etiam, percutiendo flumine, fecit aquam sacri fluminis in sanguinem! Dixi enim in mente mea: 'Magno periculo terrae nostrae sunt hi viri! Videtur quod magni dei pro eis pugnant. Forsan maiores sunt quam dei Aegypti!' Sed iterum cogitavi non oportere hoc modo loqui. Deinde post septem dies, manu extensa super flumen, idem Aaron fecit multitudinem magnam ranarum venire. Etiam in palatium sacrum venerunt! Postea, pulvere percutiendo, vocavit Aaron multa millia cinifum e terra. Magi autem vestri hoc non potuerunt facere, ita ut dicerent: 'Manus Dei est hic!' Cum autem cinifes discessissent, misit Deus eorum muscas in omnem terram Aegypti-sed non in partem terrae ubi habitant Hebraei isti! Magno terrori erat mihi cogitare de his! Post haec multa animalia nostra mortua sunt-sed non animalia Hebraeorum. Deinde Moyses ipse, cinere spargendo in coelum coram Pharaone, misit ulcera gravia in nos omnes. Insuper, extendenda manu, misit idem vir in nos grandinem, locustas, et tenebras horribiles, quae tamen in partem terrae ubi Hebraei sunt non venerunt! Ergo, si liceat loqui, hoc dicam, 'Forsan, ne peiora accidant terrae nostrae, melius esset ut Hebraei isti discedant.' \"",
+     "divisio": {
+      "overview": "A framed speech: a request to speak opens it, then the counselor recounts the plagues in their narrative order, and a cautious recommendation closes it.",
+      "parts": [
+       {
+        "label": "Request and permission",
+        "detail": "The old counselor asks leave to speak briefly, and Pharaoh grants it while still raging against Moses."
+       },
+       {
+        "label": "The early signs",
+        "detail": "He recalls the rod made a serpent and the river turned to blood, which first made him fear these men might be backed by greater gods."
+       },
+       {
+        "label": "The mounting plagues",
+        "detail": "He lists frogs, gnats the magicians could not match, flies, dead livestock, boils, hail, locusts, and darkness, noting each spared the Hebrews."
+       },
+       {
+        "label": "The cautious counsel",
+        "detail": "He concludes that, to prevent worse harm to Egypt, it would be better to let the Hebrews go."
+       }
+      ]
+     },
      "explanation": "This story shows the **ablative of means** at work, often in the gerund form ending in -ndo, which tells HOW an action was done. Aaron made the water blood percutiendo flumine, by striking the river, and called the gnats pulvere percutiendo, by striking the dust. Moses sent the boils cinere spargendo in coelum, by scattering ashes into the sky. In each case the ablative names the thing or the action used to do the deed, and it takes no preposition, exactly as the Lectio's grammar note explains for the ablative of instrument. Notice too magno periculo and magno terrori, which are datives showing what these men were a source of, danger and terror, to the land.",
      "keyTerms": [
       {
@@ -16241,6 +18458,31 @@ window.COURSE_DATA.courses.push({
      "summary": "Pharaoh changes his mind and pursues Israel, but the Lord parts the Red Sea so the Israelites cross on dry ground while the pursuing Egyptians are drowned.",
      "lead": "Watch for the deponent and middle-voice ideas and how the Lord leads Israel by a pillar of cloud and fire; note the ablative-governing words.",
      "original": "Pharao dederat populo Israel licentiam discedendi ex Aegypto. Illi igitur surrexerunt nocte, et, portantes ossa Iosephi, discesserunt. Dominus autem praecedebat eos ad ostendendam viam per diem in columna nubis et per noctem in columna ignis, ut dux esset itineris utroque tempore. Numquam defuit columna nubis per diem, nec columna ignis per noctem coram populo.\nEt nuntiatum est regi Aegyptiorum quod fugisset populus; immutatumque est cor Pharaonis et servorum eius super populo, et dixerunt, \"Quid voluimus facere ut dimitteremus Israel ne serviret nobis?\" Iunxit ergo currum, et omnem populum suum assumpsit secum. Tulitque sescentos currus electos et quidquid in Aegypto curruum fuit, et duces totius exercitus. Cumque appropinquasset Pharao, levantes filii Israel oculos, viderunt Aegyptios post se: et timuerunt valde, clamaveruntque ad Dominum. Et ait Moyses ad populum, \"Nolite timere, state et videte res magnas Domini quas facturus est hodie. Aegyptios enim, quos nunc videtis, nequaquam ultra videbitis in sempiternum. Dominus pugnabit pro vobis, et vos tacebitis.\" Profecti sunt igitur filii Israel ad Mare Rubrum. Cumque extendisset Moyses manum super mare, abstulit mare Dominus, flante vento vehementi et urente, et vertit in siccum; divisaque est aqua. Et ingressi sunt filii Israel per medium sicci maris; erat enim aqua quasi murus a dextra eorum et a laeva. Persequentesque Aegyptii ingressi sunt post eos. Et ait Dominus ad Moysen, \"Extende manum tuam super mare, ut revertantur aquae ad Aegyptios super currus et equites eorum.\" Cumque extendisset Moyses manum contra mare, reversum est ad priorem locum. Fugientibusque Aegyptiis occurrerunt aquae, et involvit eos Dominus in mediis fluctibus. Ne unus quidem superfuit ex eis. Filii autem Israel perrexerunt per medium sicci maris et laudaverunt Dominum.",
+     "divisio": {
+      "overview": "A rescue narrative that moves from departure and pursuit to the divided sea and the drowning, ending in praise.",
+      "parts": [
+       {
+        "label": "Departure with the guiding pillars",
+        "detail": "Israel leaves Egypt by night carrying Joseph's bones, led by the Lord in a pillar of cloud by day and fire by night."
+       },
+       {
+        "label": "Pharaoh's pursuit",
+        "detail": "Hearing of the flight, Pharaoh changes his mind, harnesses his chariots, and overtakes the people, who panic and cry out."
+       },
+       {
+        "label": "Moses reassures and the sea parts",
+        "detail": "Moses tells them to stand and watch, then stretches out his hand so the wind divides the sea and Israel crosses on dry ground between walls of water."
+       },
+       {
+        "label": "The waters return",
+        "detail": "At the Lord's word Moses stretches his hand again, the sea closes over the pursuing Egyptians, and not one survives."
+       },
+       {
+        "label": "Israel praises the Lord",
+        "detail": "The people complete their crossing on dry ground and praise the Lord."
+       }
+      ]
+     },
      "explanation": "This lesson features **five deponent verbs that govern the ablative**: their apparent object is in the ablative rather than the accusative. They are **uti** (use), as in *gladio utitur*, he uses a sword; **frui** (enjoy), as in *frumento fruitur*, he enjoys grain; **fungi** (busy oneself with, perform a duty), as in *consulatu fungitur*, he performed the duty of a consul; **potiri** (get possession of), as in *terra potitus est*, he got possession of the land; and **vesci** (eat), as in *cibis vescitur*, he eats foods. These are really middle-voice verbs, neither fully active nor passive: the subject acts so as to affect himself, so **uti** means to serve oneself by means of something, **fungi** to busy oneself with something. The lesson also notes some **optional endings**: most i-stems may take ablative singular in e (but never i for consonant stems), present participles have the choice, and the accusative plural of i-stems may be -is (long i) instead of -es. Verbs may show -re instead of -ris for the second person singular passive, and -ere instead of -erunt for the third person plural perfect. Finally, contracted perfects are common: -avit, -evit, and -ivit perfects drop v and the following vowel (amasti, delesti, audisti; amarunt; amaram; amassem), and noscere gives nosti, norunt, noram, nosse.",
      "keyTerms": [
       {
@@ -16459,6 +18701,31 @@ window.COURSE_DATA.courses.push({
      "summary": "God announces the last plague and gives Israel the rite of the Passover lamb, with its blood on the doorposts.",
      "lead": "Watch the cum-clauses (when, because, although) and the third-declension noun endings.",
      "original": "Et dixit Dominus ad Moysen, \"Adhuc una plaga tangam Pharaonem et Aegyptum, et post haec dimittet vos, et exire compellet.\" Dixitque Dominus etiam, \"Media nocte egrediar in Aegyptum, et morietur omne primogenitum in terra Aegyptiorum, a primogenito Pharaonis, qui sedet in solio eius, usque ad primogenitum ancillae quae est ad molam, et omnia primogenitia iumentorum. Eritque clamor magnus in universa terra Aegypti, qualis nec ante hoc tempus fuit, nec postea futurus est. Mensis iste, vobis erit principium mensium: primus erit in mensibus anni. Loquimini ad universum coetum filiorum Israel et dicite eis: Decima die mensis huius tollat unus quisque ( each and every one) agnum per familias et domos suas. Sin autem minor est numerus, ut sufficere possit ad vescendum agnum, assumet vicinum suum, qui iunctus est domui suae, secundum numerum animarum quae sufficere possunt ad esum agni. Erit autem agnus absque macula, masculus, anniculus. Et servabitis eum usque ad quartam decimam diem mensis huius. Immolabitque eum universa multitudo filiorum Israel ad vesperam. Et sument de sanguine eius, ac ponent sanguinem super utrumque postem, et in superliminaribus domorum in quibus comedent illum. Et edent carnes nocte illa assas igni, et azymos panes cum lactucis agrestibus. Et transibo per terram Aegypti nocte illa, percutiamque omne primogenitum in terra Aegypti. Erit autem sanguis vobis in signum in domibus in quibus eritis, et videbo sanguinem, et transibo vos, nec erit in vobis plaga delens quando percussero terram Aegypti. Habebitis autem hunc diem in monumentum, et celebrabitis eam solemnem Domino in generationibus vestris.\" Factum est autem in noctis medio, percussit Dominus omne primogenitum in terra Aegypti, a primogenito Pharaonis usque ad primogenitum captivae, quae erat in carcere. Surrexitque Pharao nocte, et omnes servi eius, omnisque Aegyptus, et factus est clamor magnus in Aegypto. Neque enim erat domus in qua non erat mortuus. Vocatisque Moyse et Aaron nocte, Pharao ait, \"Surgite et egredimini a populo meo, vos et filii Israel: ite, immolate Domino sicut dicitis, et abeuntes benedicite mihi.\"",
+     "divisio": {
+      "overview": "God's speech moves from announcing the final plague to prescribing the Passover rite, then the narrative reports the plague's striking and Pharaoh's surrender.",
+      "parts": [
+       {
+        "label": "The last plague announced",
+        "detail": "The Lord tells Moses that one more plague, the death of every firstborn at midnight, will force Pharaoh to release Israel."
+       },
+       {
+        "label": "Choosing and keeping the lamb",
+        "detail": "He sets this month as the first and orders each household, or joined neighbors, to take an unblemished year old male lamb on the tenth day."
+       },
+       {
+        "label": "The Passover rite",
+        "detail": "On the fourteenth at evening the lamb is slain, its blood marked on doorposts and lintel, its flesh roasted and eaten with unleavened bread and bitter herbs, the blood a sign so the destroyer passes over."
+       },
+       {
+        "label": "The striking at midnight",
+        "detail": "At midnight the Lord strikes every firstborn from Pharaoh's son to the captive's, and a great cry rises since no house is without a dead one."
+       },
+       {
+        "label": "Pharaoh's release",
+        "detail": "Pharaoh summons Moses and Aaron by night and orders Israel to go, sacrifice, and bless him."
+       }
+      ]
+     },
      "explanation": "This Lectio reviews clauses introduced by **cum** and fills in some third-declension noun details. **cum** can carry three ideas: time (when, after), cause (because, since), or concession (although). Cause and concession always take the subjunctive; time sometimes does. In primary sequence (the main verb is present or future), cum takes the indicative when it means when or after. In secondary sequence (the main verb is past), cum takes the indicative only when the clause is purely temporal, with no because or although felt in the background. For nouns, i-stem third-declension words show -ium in the genitive plural and -ia in the neuter plural, while consonant stems show -um and -a; a few mixed stems take -e in the ablative singular but -ium in the genitive plural.",
      "keyTerms": [
       {
@@ -16636,6 +18903,27 @@ window.COURSE_DATA.courses.push({
      "summary": "On the mountain Elijah challenges the prophets of Baal to call down fire, and they cry out in vain all day.",
      "lead": "More reading practice applying the cum-clauses; watch the deponent verbs and the subjunctives in the indirect commands.",
      "original": "In diebus Eliae prophetae, cum Iudaei deos falsos et idola colerent, Elias ad omnem populum Israel locutus est dicens, \"Usquequo (how long) claudicatis (waver) inter duas partes. Si Dominus est Deus, sequimini eum: si autern Baal est deus, sequimini illum.\" Et non respondit ei populus verbum. Et ait rursus Elias ad populum, \"Ego remansi propheta Domini solus: prophetae autem Baal quadringenti et quinquaginta (450) viri sunt. Dentur (from dare) itaque nobis duo boves, et illi eligant (choose) sibi bovem unum, et in frusta (pieces) caedentes (cutting) super ligna ponant, ignem autem non supponant (put beneath); et ego bovem alterum pa rabo, et super ligna imponam, ignem autem non supponam. Invocate nomina deorum vestrorum, et ego nomen Domini mei invocabo: et Deus qui per ignem exaudiverit (hear, grant favor), ipse sit Deus.\" Respondens omnis populus ait, \"Optima propositio.\" Dixit ergo Elias prophetis Baal, \"Eligite vobis bovem unum, et parate primi, quia vos plures estis: et invocate nomina deorum vestrorum, ignemque non supponatis.\" Qui cum tulissent bovem quern dederat eis, invocabant nomen Baal de mane (morning) usque ad meridiem (noon) dicentes, \"Baal, exaudi nos.\" Et non erat vox, neque qui responderet. Transiliebantque (jump over) altare quod fecerant. Cumque iam esset meridies, illudebat (mock) illis Elias, dicens, \"Clamate voce maiore (louder): deus enim est, et forsan loquitur, aut in diversorio (inn) est, aut in itinere, aut certe dormit (is asleep), ut excitetur.\" Clamabant ergo voce magna, et incidebant se (cut themselves) secundum ritum suum donec perfunderentur (be covered) sanguine. (Continuabitur cras)",
+     "divisio": {
+      "overview": "A contest narrative: Elijah's challenge sets the terms, the people accept, and the prophets of Baal then fail through a long day while Elijah mocks them.",
+      "parts": [
+       {
+        "label": "Elijah's challenge",
+        "detail": "Elijah rebukes the people for wavering between the Lord and Baal and proposes the test of two bulls laid on wood with no fire set under, the true God to answer by fire."
+       },
+       {
+        "label": "The people agree",
+        "detail": "The whole people calls the proposal excellent, and Elijah tells Baal's prophets to choose and prepare first since they are more."
+       },
+       {
+        "label": "Baal's prophets call in vain",
+        "detail": "From morning to noon they cry to Baal and leap about their altar, but there is no voice and none who answers."
+       },
+       {
+        "label": "Elijah's mockery and their frenzy",
+        "detail": "At noon Elijah taunts that their god may be talking, traveling, or asleep, so they shout louder and gash themselves until they are drenched in blood."
+       }
+      ]
+     },
      "explanation": "No new grammar here: this is Natural-Method reading practice. Watch the **cum**-clauses from the first lesson at work, together with deponent verbs (such as loqui, to speak) and the subjunctives Most uses in indirect commands and purpose clauses.",
      "keyTerms": [
       {
@@ -16777,6 +19065,27 @@ window.COURSE_DATA.courses.push({
      "summary": "Elijah repairs the Lord's altar, soaks the sacrifice with water, and prays; fire falls from heaven and consumes the holocaust, so the people confess that the Lord is God.",
      "lead": "Watch how Elijah deliberately makes the sacrifice wet, then how the fire consumes even the water; note Most's inline English helps in parentheses.",
      "original": "Sed vox non audiebatur, et nemo prophetis Baal respondebat. Dixit itaque Elias omni populo, \"Venite ad me.\" Et accedente ad se populo, curavit altare Domini, quod destructum erat. Et tulit duodecim lapides (stones) secundum numerum tribuum (tribes) filiorum Iacob. Et de lapidibus altare in nomine Domini aedificavit; fecitque fossam (ditch) in circuitu (around) altaris. Et composuit ligna, divisitque bovem et super ligna posuit. Et ait, \"Implete quattuor hydrias (water jars) aqua (ablative) et fundite super holocaustum et super ligna.\" Et fecerunt hoc ter (three times), Elia iubente. Et currebant aquae circum altare, et fossa repleta est. Cumque iam tempus esset ut offerretur holocaustum, accedens Elias propheta ait: \"Domine Deus Abraham et Isaac, ostende hodie quia (that) tu es Deus Israel, et ego servus tuus, et iuxta (according to) praeceptum tuum omnia verba haec feci. Exaudi (hear) me, Domine, exaudi me, ut discat populus iste, quia (that) tu es Dominus Deus, et tu convertisti cor eorum iterum.\"\nCecidit autem ignis Domini, et voravit (consumed) holocaustum, et ligna, et lapides, pulverem quoque, et aquam quae erat in fossa, lambens (licking it up).\nQuod cum vidisset omnis populus, cecidit in faciem suam, et ait: \"Dominus ipse est Deus, Dominus ipse est Deus.\"",
+     "divisio": {
+      "overview": "The resolution of the contest, moving from rebuilding and soaking the altar through Elijah's prayer to the descending fire and the people's confession.",
+      "parts": [
+       {
+        "label": "Repairing the altar",
+        "detail": "After Baal's silence, Elijah gathers the people, restores the ruined altar with twelve stones, digs a trench, and lays the wood and the divided bull."
+       },
+       {
+        "label": "Soaking the sacrifice",
+        "detail": "He has four jars of water poured over the offering and wood three times until the water runs around the altar and fills the trench."
+       },
+       {
+        "label": "Elijah's prayer",
+        "detail": "At offering time he prays that the Lord show himself the God of Israel and turn the people's hearts back."
+       },
+       {
+        "label": "The fire and the confession",
+        "detail": "The Lord's fire falls and consumes offering, wood, stones, dust, and even the water, and the people fall down crying that the Lord alone is God."
+       }
+      ]
+     },
      "explanation": "This story continues the narrative about the prophet Elijah and lets you practice the same grammar in action. Notice the **ablative of means** in *Implete quattuor hydrias aqua* (fill the jars with water), which Most flags with the cue (ablative). The **ablative absolute** appears in *Elia iubente* (with Elijah ordering) and *accedente ad se populo* (the people drawing near to him). The perfect verbs *curavit*, *aedificavit*, *composuit*, *posuit*, and *convertisti* could appear in contracted form in other texts, but here they are written out. Watch how Most keeps short English glosses in parentheses, such as (stones), (ditch), (around), (three times), and (that) for quia, to help you read the Latin without translating it.",
      "keyTerms": [
       {
@@ -16891,6 +19200,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Last year's readings, recalled: creation, the patriarchs, Joseph in Egypt, and Moses working miracles before Pharaoh.",
      "original": "Ultimo anno audivimus multas narrationes ex historia Romana, et legimus in Vetere Testamento. Legimus narrationes multas de creatione mundi, de Adam et Eva, qui erant primi parentes nostri et de peccato originali. Audivimus etiam quod Adam et Eva multos filios habuerunt: inter hos filios erant Cain et Abel. Hi viri, id est, Cain et Abel, fratres erant. Sed Cain interfecit fratrem suum Abel. Vidimus etiam narrationem de Noe et arca et diluvio maximo, quod super omnem terram venit. In libro nostro etiam erat narratio de turri Babylonica, et de Abraham, Isaac et Iacob. Filius unus huius viri Iacob erat Josephus. Josephus factus est vir magnus in Aegypto. Fratres Iosephi vendiderant eum ut esset servus in Aegypto, sed Deus auxilium dedit ei, et Josephus magnam potestatem obtinuit. Post mortem Iosephi venit alius rex in thronum Aegypti, qui nescivit Iosephum. Hic rex crudelis erat, et coegit Iudaeos laborare in laboribus duris. Deus autem voluit salvare populum suum, misitque Moysen ad eos. Moyses et frater eius Aaron multa miracula fecerunt in Aegypto. Rex ergo, multis miraculis visis (remember the ablative absolute? many miracles having been seen), permisit eis ut discederent ex Aegypto.",
      "explanation": "Since you are probably a bit rusty from last summer, these opening lessons will be very easy. In the first twelve lessons we shall review various things from the first year book; you may use the first year book to do that. For this lesson, review these items (the numbers in parentheses indicate first year lessons and tape script sections): the objective of the first three declensions; the perfect indicative active, third singular and plural (4A, C); the ablative of the three declensions (3S); the nominative of the three declensions (6B). For the first four lessons there will be no new vocabulary, so that you can review the vocabulary of first year; for this lesson, go over the vocabularies of lessons 1 to 10 of first year.",
+     "divisio": {
+      "overview": "A first-person recap that walks chronologically through last year's Old Testament readings, naming each story in the order it was read.",
+      "parts": [
+       {
+        "label": "Frame and origins",
+        "detail": "States that last year they read the Old Testament, then names creation, Adam and Eve, and original sin."
+       },
+       {
+        "label": "Cain and Abel",
+        "detail": "Recalls the brothers among Adam's many sons and Cain's killing of Abel."
+       },
+       {
+        "label": "Flood and patriarchs",
+        "detail": "Lists Noah's ark and the deluge, the tower of Babel, and Abraham, Isaac, and Jacob."
+       },
+       {
+        "label": "Joseph in Egypt",
+        "detail": "Tells how Jacob's son was sold as a slave yet rose to great power with God's help."
+       },
+       {
+        "label": "Oppression and Moses",
+        "detail": "Reports the new king's cruelty and Moses and Aaron working miracles until the people are let go."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ultimus",
@@ -17040,6 +19374,27 @@ window.COURSE_DATA.courses.push({
      "lead": "The crossing of the Red Sea: Israel walks through on dry ground while Pharaoh's army is overwhelmed.",
      "original": "Filii Israel venerunt itaque ad Mare Rubrum. Moyses, manu extensa super mare, fecit miraculum maximum! Ecce, mare divisum est, ita ut filii Israel possent ambulare in terra per locum in quo mare fuerat. Sed exercitus regis Aegypti secutus est Iudaeos in Mare Rubrum. Pharao enim, rex Aegypti, permiserat Iudaeis ut discederent, sed postquam dimisit, cor eius durum factum est, ita ut eos capere vellet. Moyses itaque, Deo monente, manum suam iterum super mare extendit, et ecce, Aegyptii omnes submersi sunt in aquis magnis! Nemo remansit ex eis. Filii autem Israel Deum laudaverunt voce magna. Usque ad hunc locum venit narratio nostra ultimo anno.",
      "explanation": "Note the repeated ablative absolute, such as 'manu extensa super mare' (the hand having been stretched out over the sea) and 'Deo monente' (God advising). The result clauses introduced by 'ita ut' show the consequence: the sea was divided 'ita ut filii Israel possent ambulare', and Pharaoh's heart hardened 'ita ut eos capere vellet'.",
+     "divisio": {
+      "overview": "A tight miracle narrative in four beats: arrival, the sea parted, the pursuit and reversal, and a closing note tying it back to last year.",
+      "parts": [
+       {
+        "label": "Arrival and parting",
+        "detail": "Israel reaches the Red Sea and Moses stretches out his hand so the water divides for dry crossing."
+       },
+       {
+        "label": "Pharaoh's pursuit",
+        "detail": "Explains that the king, his heart hardened after releasing them, sends his army in after the Jews."
+       },
+       {
+        "label": "The drowning",
+        "detail": "Moses extends his hand again and every Egyptian is submerged, none remaining."
+       },
+       {
+        "label": "Praise and closing frame",
+        "detail": "Israel praises God aloud, and the narrator notes the story reached this point last year."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "durus",
@@ -17199,6 +19554,31 @@ window.COURSE_DATA.courses.push({
      "lead": "After crossing the sea, Israel grumbles in the wilderness, and God provides bitter water made sweet, then quail and manna from heaven.",
      "original": "Postquam Aegyptii mersi sunt in mari, Moyses populo suo imperavit ut iter facerent per desertum. Cum per tres dies fecissent iter, aquam ut biberent non invenerunt. Aqua enim quam invenerunt amara erat. Murmuraverunt itaque contra Moysen dicentes: \"Quid bibemus?\" Moyses autem oravit ad Deum, ostenditque ei Deus lignum. Cumque Moyses lignum in aquam amaram proiecisset, aqua dulcis facta est.\nCumque longius in desertum fecissent iter, populus Israel iterum murmuraverunt, videntes se non habere(remember indirect statement with objective and infinitive?) cibum. Interrogaverunt Moysen: \"Quare duxisti nos in hunc locum desertum ut moriamur sine cibo?\" Re vera Deus debuit punire eos ob hanc murmurationem sed Deus plenus misericordia (ablative after plenus) est, et eos non punivit, sed promisit cibum in abundantia.\nVespere enim coturnices venerunt in maxima multitudine super castra Israelitica, et mane cibus mirabilis in terra iacebat. Populus videns hunc cibum mirabilem qui de caelo venerat exclamavit: \"Manhu?\" quod significat: \"Quid est hoc?\" Ignorabant enim quid esset. Moyses dixit eis: \"Hic est panis quem Dominus vobis ut comedatis dedit.\" Et imperavit eis ut unusquisque colligeret unam mensuram huius cibi per singulos dies. Sed ut colligerent duas mensuras in die sexta, ante sabbatum. Hoc facientes, omnes satis cibi habebant. Si quis plus collegerat, amplius non habuit. Et si quis minus collegerat, nihilominus satis habuit. Moyses etiam imperavit ne servarent partem huius cibi in crastinum. Quidam ex Iudaeis non obediverunt, sed partem huius cibi servaverunt: sed cibus servatus coepit scatere vermibus, quia contra mandatum Moysi servaverant. Sed cibus quem servabant pro sabbato, non est corruptus, quia contra mandatum non erat servatus. Per annos quadraginta Iudaei comedebant hunc cibum, donec in terram promissam pervenerunt.",
      "explanation": "For this lesson, let us review the following: objective and ablative of the 4th and 5th declensions (7A); ablative without prepositions (7B); present active infinitive and neuter plurals (9; 10 A, B); agreement of adjectives (11 B, C, D; 13 D, E, F). For vocabulary, please review the word lists of lessons 11 to 20 of first year. Watch the indirect statement (videntes se non habere cibum) and the ablative after plenus (plenus misericordia).",
+     "divisio": {
+      "overview": "Two parallel grumbling episodes (water, then food) each answered by a divine provision, with the manna episode expanded into detailed rules.",
+      "parts": [
+       {
+        "label": "Bitter water made sweet",
+        "detail": "After three days without drinkable water the people murmur, and Moses casts wood in to make it sweet."
+       },
+       {
+        "label": "Complaint for food",
+        "detail": "Going farther they murmur again about hunger, and God, full of mercy, promises food in abundance instead of punishing."
+       },
+       {
+        "label": "Quail and manna given",
+        "detail": "Quail come at evening and a strange bread appears at morning, which the puzzled people name 'Manhu'."
+       },
+       {
+        "label": "Rules for gathering",
+        "detail": "Moses orders one measure daily, two before the sabbath, and none kept overnight."
+       },
+       {
+        "label": "Consequences of disobedience",
+        "detail": "Hoarded manna breeds worms while the sabbath portion stays sound, and they eat this food forty years."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "mersus",
@@ -17411,6 +19791,27 @@ window.COURSE_DATA.courses.push({
      "lead": "The people thirst again at Raphidim; God brings water from the rock, and Israel conquers Amalek as long as Moses keeps his hands raised.",
      "original": "Profecta itaque est omnis multitudo filiorum Israel et venerunt in Raphidim. In illo loco non erat aqua ut populus biberet. Illi igitur iterum murmuraverunt contra Moysen dicentes: \"Da nobis aquam, ut bibamus.\" Quibus respondit Moyses: \"Quare murmuratis contra me? Quare tentatis Dominum?\" Cui populus respondit: \"Cur fecisti nos exire de Aegypto, ut occideres nos et liberos nostros siti?\" Clamavit autem Moyses ad Dominum dicens: \"Quid faciam populo huic? Adhuc paululum, et lapidabit me.\" Et ait Dominus ad Moysen: \"Antecede populum, et sume tecum quosdam seniores ex populo. Et porta tecum virgam qua percussisti fluvium. Ego autem stabo ibi tecum, ad montem Horeb: percutiesque petram, et exibit ex ea aqua, ut bibat populus.\" Fecitque Moyses sicut Deus imperaverat et aqua de petra venit et omnis populus bibere poterat.\nFere hoc tempore venit populus inimicus qui vocatus est Amalec, et pugnabat contra Israel in Raphidim. Dixitque Moyses ad Iosue: \"Elige viros, et egressus pugna contra Amalec. Cras ego stabo in vertice collis, habens virgam Dei in manu mea.\" Fecitque Iosue sicut Moyses iusserat, et pugnavit contra Amalec. Moyses autem et Aaron, et Hur ascenderunt super verticem collis. Cumque levaret Moyses manus suas, vincebat Israel. Sin autem manus remisisset, vincebat Amalec. Manus autem Moysi graves erant. Sumentes igitur lapidem, posuerunt lapidem sub Moyse, ita ut sedere posset: Aaron autem et Hur tenebant manus eius ex utraque parte. Hoc modo Iosue vicit Amalec, interfecitque populum eius in ore gladii.",
      "explanation": "Continue reviewing the points from the first part: the objective and ablative of the 4th and 5th declensions, the ablative without prepositions, the present active infinitive, neuter plurals, and the agreement of adjectives. Notice the ablatives of means (siti, in ore gladii) and the absolute constructions (Sumentes igitur lapidem).",
+     "divisio": {
+      "overview": "Two linked episodes at Raphidim: first the thirst-and-rock miracle, then the battle against Amalek won while Moses' hands stay raised.",
+      "parts": [
+       {
+        "label": "Thirst and complaint",
+        "detail": "At waterless Raphidim the people murmur and accuse Moses of bringing them out to die of thirst."
+       },
+       {
+        "label": "Water from the rock",
+        "detail": "God tells Moses to strike the rock at Horeb with his rod, and water comes out for all to drink."
+       },
+       {
+        "label": "Battle joined with Amalek",
+        "detail": "Amalek attacks, and Moses sends Joshua to fight while he stands on the hilltop with God's rod."
+       },
+       {
+        "label": "Hands held up to victory",
+        "detail": "Israel prevails while Moses' hands are raised, so Aaron and Hur prop them up until Joshua wins."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "proficisci",
@@ -17610,6 +20011,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Three months after leaving Egypt, Israel camps before Mount Sinai, where God begins to prepare them for the covenant.",
      "original": "Mense tertio postquam Israel egressus est de terra Aegypti, in solitudinem Sinai venerunt. Ibique Israel fixit tentoria ante montem Sinai. Moyses ipse autem ascendit montem ad Deum. Vocavitque eum Dominus de monte et ait: \"Haec dices domui Iacob, et annuntiabis filiis Israel: Vos ipsi vidistis quae fecerim Aegyptiis, quomodo portaverim vos super alas aquilarum. Si ergo audiveritis vocem meam, et custodiveritis pactum meum, eritis mihi populus dilectus meus ex omnibus populis: mea est enim omnis terra. Et vos eritis mihi populus sacerdotalis et gens sancta.\" Venit ergo Moyses et convocatis omnibus maioribus ex populo explicavit eis omnia verba quae imperaverat Deus. Responderuntque maiores: \"Omnia quae locutus est Dominus faciemus.\"\nMoyses itaque retulit omnia verba populi ad Dominum. Qui dixit ei: \"Nunc veniam ad te in caligine nubis ut audiat me populus loquentem ad te, et credat tibi in perpetuum. Vade itaque ad populum, et sanctifica illos hodie et cras, laventque vestimenta sua. Et sint parati in diem tertium. In die enim tertio, descendet Dominus coram omni plebe super montem Sinai. Constituesque terminos populo, et dices ad eos: Cavete ne ascendatis in montem, nec tangatis terminos illius. Omnia enim qui tetigerit montem, morte morietur. Sed cum coeperit clangere buccina, tunc ascendant in montem.\" Descenditque Moyses de monte ad populum et sanctificavit eum. Cumque lavissent vestimenta sua, ait ad eos: \"Estote parati in diem tertium. Dominus enim loquetur in monte.\"",
      "explanation": "Veteribus Studeamus. Let us review: Perfect passives and agent construction, and the ablative absolutes. Watch convocatis omnibus maioribus, an ablative absolute meaning when all the elders had been called together.",
+     "divisio": {
+      "overview": "A back-and-forth between mountain and camp: God's covenant offer, the people's acceptance, then God's instructions to prepare for the third day.",
+      "parts": [
+       {
+        "label": "Arrival and ascent",
+        "detail": "In the third month Israel camps at Sinai and Moses goes up to God."
+       },
+       {
+        "label": "The covenant proposal",
+        "detail": "God offers that if they keep his covenant they will be a treasured, priestly, holy people."
+       },
+       {
+        "label": "The people's assent",
+        "detail": "Moses relays the words to the elders, who answer that they will do all the Lord has said."
+       },
+       {
+        "label": "Instructions to sanctify",
+        "detail": "God tells Moses to consecrate the people, set boundaries, and have them ready for the third day."
+       },
+       {
+        "label": "Moses carries out the order",
+        "detail": "He descends, sanctifies them, has them wash, and tells them to be ready for the Lord."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "decalogus",
@@ -17798,6 +20224,27 @@ window.COURSE_DATA.courses.push({
      "lead": "The third day arrives with thunder, lightning, and smoke as the Lord descends on the mountain in fire.",
      "original": "Iamque advenerat tertius dies, et mane inclaruerat; et ecce! coeperunt audiri tonitrua, ac micare fulgura, et nubes densissima operire montem, et clangor buccinae vehementer perstrepebat. Et timuit populus qui erat in castris. Cumque eduxisset eos Moyses ante Deum de loco castrorum, steterunt ad radices montis. Totus autem mons Sinai fumabat, quia descenderat Dominus super eum in igne, et ascendebat fumus ex eo quasi de fornace: eratque omnis mons terribilis. Et sonitus buccinae paulatim crescebat. Moyses loquebatur, et Deus respondebat ei. Descenditque Dominus super montem Sinai in ipso montis vertice, et vocavit Moysen in verticem eius. Cumque ascendisset, dixit ad eum Deus: \"Descende, et impera populo, ne forte velit trans terminos ire ut videat Dominum, et pereat ex eis magna multitudo. Tu autem et Aaron tecum ascendite, sed populus ne ascendat, ne forte interficiat illos Dominus.\" Descenditque Moyses ad populum, et omnia narravit eis.",
      "explanation": "Veteribus Studeamus. Let us review: Perfect passives and agent construction, and the ablative absolutes. Notice Cumque eduxisset eos Moyses and Cumque ascendisset, cum-clauses with the pluperfect subjunctive describing prior action.",
+     "divisio": {
+      "overview": "A theophany scene moving from the storm on the mountain, to the people's fearful approach, to God's descent and renewed warning delivered through Moses.",
+      "parts": [
+       {
+        "label": "The storm at dawn",
+        "detail": "On the third day thunder, lightning, dense cloud, and a trumpet blast cover Sinai and frighten the camp."
+       },
+       {
+        "label": "The people at the foot",
+        "detail": "Moses leads them out to stand at the base of the smoking, fiery, terrible mountain."
+       },
+       {
+        "label": "God descends and calls Moses",
+        "detail": "As the trumpet grows louder the Lord comes down on the summit and summons Moses up."
+       },
+       {
+        "label": "Warning relayed",
+        "detail": "God orders that the people not break through, only Moses and Aaron ascend, and Moses tells them all."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "coram",
@@ -17958,6 +20405,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The Lord himself proclaims the Ten Commandments to Israel, from worship of the one God down to coveting a neighbor's goods.",
      "original": "Locutusque est Dominus cunctos sermones hos: \"Ego sum Dominus Deus tuus, qui eduxi te de terra Aegypti, de domo servitutis. Non habebis Deos alienos coram me. Non facies tibi sculptile, neque omnem similitudinem rei quae est in coelo vel quae est in terra, vel quae est in aquis: non adorabis ea, neque coles. Ego enim sum Dominus Deus tuus fortis. Non assumes nomen Domini Dei tui in vanum: nec enim habebit Dominus eum insontem qui assumpserit nomen Domini Dei sui in vanum. Memento, ut diem sabbati sanctifices. Sex dies operaberis et facies omnia opera tua. Septimo autem die sabbatum Domini Dei tui est. Non facies omne opus in eo die, tu, et filius tuus, et filia tua, servus tuus et ancilla tua, iumentum tuum, et advena qui intra portas tuas est. Sex enim diebus (ablative of time within which) fecit Dominus coelum et terram, et mare, et omnia quae in eis sunt; et requievit in die septimo. Benedixit itaque Dominus diei sabbati, et sanctificavit eum. Honora patrem tuum et matrem tuam, ut sis longaevus super terram quam Dominus Deus tuus tibi dabit. Non occides: Non moechaberis. Non furtum facies. Non loqueris contra proximum tuum falsum testimonium. Non concupisces domum proximi tui: nec desiderabis uxorem eius, vel servum, vel ancillam, vel bovem, vel asinum, vel alia quae eius sunt.\"",
      "explanation": "Veteribus Studeamus. Let us review: Possessive case (18). Hic and ille in three cases (19 B; 21 A, only the first section of 21 A). Present indicative active, third singular and plural; pluperfect indicative (24 A). Is and idem in three cases (25).",
+     "divisio": {
+      "overview": "God's single uninterrupted speech listing the commandments in order, moving from duties toward God to duties toward neighbor.",
+      "parts": [
+       {
+        "label": "Self-identification",
+        "detail": "The Lord names himself as the God who led them out of Egypt and the house of slavery."
+       },
+       {
+        "label": "Worship of God alone",
+        "detail": "Forbids other gods, carved images, and taking the Lord's name in vain."
+       },
+       {
+        "label": "The sabbath",
+        "detail": "Commands keeping the seventh day holy, grounded in the six days of creation and God's rest."
+       },
+       {
+        "label": "Honoring parents",
+        "detail": "Orders honor of father and mother so that one's days on the land may be long."
+       },
+       {
+        "label": "Duties to neighbor",
+        "detail": "Lists the prohibitions of killing, adultery, theft, false witness, and coveting another's house or goods."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cunctus",
@@ -18166,6 +20638,31 @@ window.COURSE_DATA.courses.push({
      "lead": "After the thunder and trumpet blasts the people draw back in fear, and Moses seals the covenant and climbs the mountain for forty days to receive the law.",
      "original": "Cunctus autem populus videbat fulgura et tonitrua, audivitque sonitum buccinae, viditque montem fumantem. Et perterriti ac terrore percussi, steterunt procul. Dixeruntque Moysi: \"Loquere (passive imperative form) nobis, et audiemus. Ne loquatur nobis Dominus, ne forte moriamur.\" Et ait Moyses ad populum: \"Nolite timere. Ut enim probaret vos venit Deus, et ut terror illius esset in vobis, et non peccaretis.\" Stetitque populus de longe. Moyses autem accessit ad caliginem in qua erat Deus. Dixit praeterea Dominus ad Moysen: \"Haec dices filiis Israel: Vos vidistis quod de coelo locutus sim vobis. Non facietis deos argenteos nec deos aureos facietis vobis.\" Deus etiam multa alia mandata Moysi dedit. Post quae venit Moyses et plebi omnia verba Domini narravit. Responditque omnis populus una voce dicens: \"Omnia verba Domini, quae locutus est, faciemus.\" Scripsit autem Moyses universos sermones Domini; et mane consurgens, aedificavit altare ad radices montis. Cumque sacrificia obtulissent, assumpsit Moyses partem sanguinis de sacrificio, et aspersit populum dicens: \"Hic est sanguis foederis, quod pepigit Dominus vobiscum.\" Post haec ascenderunt Moyses et Aaron, Nadab et Abiu, et septuaginta de senioribus Israel, et Deum Israel viderunt. Dixitque Deus ad Moysen: \"Ascende ad me in montem, et dabo tibi tabulas lapideas, et legem, ac mandata quae scripsi, ut doceas eos.\" Surrexerunt Moyses et Iosue minister eius, ascendensque Moyses in montem Dei, ait senioribus: \"Expectate hic donec revertamur ad vos. Habetis Aaron et Hur vobiscum: si quid quaestionis (if any question: literally what?) erit, referetis ad eos.\" Cumque ascendisset Moyses, operuit nubes montem, et habitavit gloria Domini super Sinai, tegens montem nube per sex dies. Septimo autem die vocavit eum Deus de medio caliginis. Erat autem species gloriae Domini quasi ignis ardens super verticem montis in conspectu filiorum Israel. Moyses autem fuit in monte quadraginta dies et quadraginta noctes. Deditque Dominus Moysi duas tabulas lapideas, scriptas digito Dei.",
      "explanation": "Veteribus Studeamus. Let us review: Possessive case (18). Hic and ille in three cases (19 B; 21 A, only the first section of 21 A). Present indicative active, third singular and plural; pluperfect indicative (24 A). Is and idem in three cases (25).",
+     "divisio": {
+      "overview": "A sequence from the people's fear, to Moses sealing the covenant by blood, to his forty-day ascent into the cloud for the tablets.",
+      "parts": [
+       {
+        "label": "The people draw back",
+        "detail": "Terrified by the signs, they beg Moses to speak to them lest God speak and they die."
+       },
+       {
+        "label": "Moses reassures and relays",
+        "detail": "Moses tells them not to fear, approaches the cloud, and delivers God's further commands against silver and gold gods."
+       },
+       {
+        "label": "The covenant sealed",
+        "detail": "The people agree again; Moses writes the words, builds an altar, and sprinkles the blood of the covenant."
+       },
+       {
+        "label": "Elders see God, Moses called up",
+        "detail": "Moses, Aaron, Nadab, Abihu, and seventy elders go up and see the God of Israel; then God calls Moses higher for the tablets, and he leaves the elders to Aaron and Hur and climbs into the cloud."
+       },
+       {
+        "label": "Forty days on the mountain",
+        "detail": "The glory rests on Sinai, and after forty days and nights God gives the two stone tablets written by his finger."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "sonitus",
@@ -18382,6 +20879,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Exodus 32: the people demand gods, Aaron casts a golden calf, and Moses intercedes for Israel.",
      "original": "Videns autem populus quod moram faceret Moyses in monte, ad Aaron venerunt, dixeruntque: \"Fac nobis deos, qui nos praecedant: Ignoramus quid acciderit Moysi.\" Dixitque ad eos Aaron: \"Tollite inaures aureas de auribus uxorum filiarumque vestrarum, et afferte ad me.\" Fecitque populus quae iusserat, afferens inaures ad eum. Quae cum ille accepisset, fecit ex eis vitulum conflatilem. Populusque dixit: \"Hic est deus tuus, Israel, qui te eduxit de terra Aegypti.\" Quod cum vidisset Aaron, aedificavit altare coram vitulo, et per praeconem clamavit dicens: \"Cras solemnitas Domini est.\"\n\nAaron haec faciens probabiliter voluit facere imaginem veri Dei, et non imaginem falsi dei, vel idolum. Imago enim vituli probabiliter significavit fortitudinem Dei fortis. Certe, Aaron peccavit haec faciens, quia Deus imperaverat omnibus ne facerent imagines Dei, sed peccatum minus est facere imaginem veri Dei quam facere idolum et adorare idolum. Quidam enim scriptores putaverunt Aaron et populum Israel voluisse facere et adorare idolum. Sed hoc probabiliter, sicut diximus, non est verum. Sed revertamur ad narrationem nostram.\n\nLocutus est autem Dominus ad Moysen dicens: \"Vade, descende, peccavit populus tuus, quem eduxisti de terra Aegypti. Discesserunt cito de via quam eis ostendisti, feceruntque sibi vitulum conflatilem, et adoraverunt, atque immolantes ei victimas laudaverunt eum et dixerunt: 'Hic est Deus tuus, Israel, qui te eduxit de terra Aegypti.' Video quod populus hic durae cervicis sit. Dimitte me, ut irascatur furor meus contra eos, et deleam eos, faciamque te in gentem magnam.\"\n\nMoyses autem orabat Dominum Deum suum, dicens: \"Cur, Domine, irascitur furor tuus contra populum tuum, quem eduxisti de terra Aegypti in fortitudine magna, et in manu forti? Ne dicant Aegyptii: 'Callide eduxit eos, ut interficeret in montibus, et deleret e terra.' Quiescat ira tua, et esto placabilis super nequitia populi tui. Recordare Abraham, Isaac, et Israel servorum tuorum, quibus iurasti per temetipsum, dicens: 'Multiplicabo semen vestrum sicut stellas coeli: et universam terram hanc, de qua locutus sum, dabo semini vestro, et possidebitis eam semper.'\"\n\nPlacatusque est Dominus, ne faceret malum, quod locutus fuerat adversus populum suum. Et reversus est Moyses de monte, portans duas tabulas testimonii in manu sua, scriptas ex utraque parte. Et cum Moyses appropinquavisset ad castra, audivit voces cantantium, et vitulum vidit. Iratusque valde, proiecit de manu tabulas, et eas ad radicem montis confregit. Arripiensque vitulum quem fecerant, in ignem coniecit, et contrivit usque ad pulverem. Et stans in porta castrorum, ait: \"Si quis est Domini, sequatur me.\" Congregatique sunt ad eum omnes filii Levi. Quibus Moyses ait: \"Haec dicit Dominus Deus Israel: Assumite gladium, et interficite proximos et amicos vestros qui vitulum conflatilem coluerunt.\" Feceruntque filii Levi sicut Moyses imperaverat, cecideruntque in die illa tria millia hominum.",
      "explanation": "Veteribus Studeamus. Let us review Qui and relative clauses (26), Quidam, ipse and sui in three cases (27), the present indicative passive in the third singular and plural, deponent verbs, and passive infinitives (29; 31 A), and the dative case (30).",
+     "divisio": {
+      "overview": "A narrative interrupted by an authorial digression: the calf is made, the writer pauses to defend Aaron's intent, then God's anger, Moses' plea, and the punishment follow.",
+      "parts": [
+       {
+        "label": "The calf made",
+        "detail": "The people demand gods from Aaron, who collects their gold earrings, casts a calf, and builds an altar before it."
+       },
+       {
+        "label": "Author's digression",
+        "detail": "The writer argues Aaron likely meant an image of the true God, not an idol, then returns to the story."
+       },
+       {
+        "label": "God's anger announced",
+        "detail": "The Lord tells Moses the people have sinned and offers to destroy them and make Moses a great nation."
+       },
+       {
+        "label": "Moses intercedes",
+        "detail": "Moses pleads, invoking Egypt's mockery and the promise to Abraham, Isaac, and Israel, and God relents."
+       },
+       {
+        "label": "Tablets broken and the guilty slain",
+        "detail": "Moses descends, smashes the tablets, grinds the calf, and the Levites kill three thousand men."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "mora",
@@ -18671,6 +21193,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Exodus 32-34: the new tablets of the covenant and Moses' radiant face.",
      "original": "Proximo die locutus est Moyses ad populum: \"Peccavistis peccatum maximum. Ascendam ad Dominum, ut pro vobis orem.\" Reversusque Moyses ad Dominum, ait: \"Oro te Domine, peccavit populus hic peccatum maximum, feceruntque sibi deum aureum. Sed rogo te, aut dimitte eis hoc peccatum, aut, si non vis dimittere, dele me de libro tuo quem scripsisti.\" Cui respondit Dominus: \"Qui peccaverit mihi, delebo eum de libro meo. Tu autem discede, et duc populum hunc in locum de quo locutus sum tibi. Angelus meus praecedet te. Ego autem in die ultionis puniam hoc peccatum eorum.\"\n\nPost haec Deus iterum locutus est ad Moysen, dixitque: \"Praecide duas tabulas lapideas similes prioribus tabulis, et scribam super eas verba quae habuerunt tabulae quas fregisti. Et esto paratus mane, ut ascendas statim in montem Sinai, stabisque mecum super verticem montis. Nullus ascendat tecum, nec videatur quisquam per totum montem.\" Moyses praecidit itaque duas tabulas lapideas sicut antea fecerat. Et ascendit in montem Sinai, sicut praeceperat ei Dominus, portavitque secum tabulas. Cumque descendisset Dominus per nubem, stetit Moyses cum eo, invocans nomen Domini.\n\nLocutusque est Dominus multa cum Moyse, imperavitque ut scriberet verba legis in tabulis. Fuit ergo ibi cum Domino quadraginta dies et quadraginta noctes. Panem non comedit, et aquam non bibit. Et scripsit in tabulis decem verba foederis. Cumque descenderet Moyses de monte Sinai, tenebat duas tabulas foederis, et ignorabat quod gloriosa esset facies sua claritate quia cum Deo fuerat. Videntes autem Aaron et filii Israel faciem Moysi gloriosam, timuerunt prope accedere. Vocatique ab eo, reversi sunt. Et postquam locutus est ad Aaron et principes populi venerunt ad eum etiam omnes filii Israel, quibus praecepit omnia quae audierat a Domino in monte Sinai.",
      "explanation": "Vocabularium. Please review the vocabularies of lessons 41-46 of the first year, and learn the following words. Notice that these vocabularies may be repeating words that you already know; if you went beyond lesson 64 in the first year, some of these words, and the words in the following vocabularies, will be old to you.",
+     "divisio": {
+      "overview": "A restoration sequence: Moses intercedes, God commands new tablets, the second ascent and fast follow, and Moses descends with a shining face.",
+      "parts": [
+       {
+        "label": "Moses' plea",
+        "detail": "He returns to confess the people's sin and offers to be blotted out, and God answers about guilt and the angel who will lead them."
+       },
+       {
+        "label": "Command for new tablets",
+        "detail": "God tells Moses to cut two stone tablets like the first and come up alone in the morning."
+       },
+       {
+        "label": "Second ascent",
+        "detail": "Moses cuts the tablets, climbs Sinai, and stands with the Lord who descends in the cloud."
+       },
+       {
+        "label": "Forty-day fast and writing",
+        "detail": "He stays forty days and nights without bread or water while the ten words of the covenant are written."
+       },
+       {
+        "label": "The shining face",
+        "detail": "Coming down, his face is radiant from being with God; the fearful people are called back and instructed."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ultio",
@@ -18827,6 +21374,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Korah's rebellion against Moses and Aaron, and the divine judgment that follows.",
      "original": "Quidam vir erat ex tribu Levi, cuius nomen erat Core. Hic cum ducentis quinquaginta aliis, surrexit contra Moysen et dixit ad eum: \"Iam satis te audivimus! Non solummodo tu, sed omnis multitudo sancta est, et Dominus est in ipsis. Cur vis te ipsum elevare super populum Domini?\" Quod cum audisset Moyses, cecidit in faciem suam, locutusque ad Core et ad omnem multitudinem: \"Mane,\" ait, \"notum faciet Dominus qui pertineant ad se. Hoc igitur facite: Tollat unusquisque thuribula sua, tu, Core, et omne concilium tuum, et accipite incensum et ignem, et ponite incensum super ignem coram Domino. Et quem elegerit Dominus, ipse erit sanctus.\"\nDixitque rursus ad Core: \"Audite filii Levi. Nonne satis vobis est quod separavit vos Deus Israel ab omni populo, et iunxit sibi, ut serviretis ei in cultu tabernaculi, et staretis coram omni populo, et ministraretis Deo?\" Proximo die locutus est Moyses ad Core: \"Tu et omnis congregatio tua state seorsum coram Domino, et Aaron stabit seorsum. Tollite singuli thuribula vestra, et ponite in eis incensum, offerentes Domino ducenta quinquaginta (250) thuribula. Aaron quoque teneat thuribulum suum.\" Quod (which) cum fecissent, stantibus Moyse et Aaron, et congregavissent omnem multitudinem ad ostium tabernaculi, apparuit omnibus gloria Domini. Loquensque Dominus ad Moysen et Aaron ait: \"Separamini de medio congregationis huius, ut eos repente disperdam.\" Qui (and they) ceciderunt proni in faciem, atque dixerunt: \"Fortissime Deus spirituum universae carnis, num, uno peccante, contra omnes ira tua veniet?\" Et dixit Dominus ad Moysen: \"Praecipe universo populo, ut separetur a tabernaculis Core.\" Surrexitque Moyses, et abiit ad populum, dixitque: \"Discedite a tabernaculis hominum impiorum, et nolite tangere ea quae ad eos pertinent, ne involvamini in peccatis eorum.\" Et ait Moyses: \"In hoc scietis quod Dominus miserit me: Si consueta hominum morte hi viri morientur, non misit me Dominus. Sin autem novam rem fecerit Dominus, ut terra aperiens os suum deglutiat duces rebellionis, et omnia quae ad illos pertinent, descenderintque viventes in infernum--scietis quod blasphemaverint Dominum.\" Statim igitur ut cessavit loqui, dirupta est terra sub pedibus eorum, et aperiens os suum, deglutivit illos cum tabernaculis suis, et cum universa substantia eorum. Descenderuntque vivi in infernum et perierunt. Sed et ignis egressus a Domino, interfecit ducentos quinquaginta viros qui offerebant incensum.\nMurmuravit autem omnis multitudo filiorum Israel sequenti die contra Moysen et Aaron, dicens: \"Vos interfecistis populum Domini.\" Cumque oriretur seditio et tumultus cresceret, Moyses et Aaron fugerunt ad tabernaculum foederis. Quod (and it), postquam ingressi sunt, operuit nubes, et apparuit gloria Domini. Dixitque Dominus ad Moysen: \"Recedite de medio huius multitudinis. Etiam nunc delebo eos.\" Cumque iacerent in terra, dixit Moyses ad Aaron: \"Tolle thuribulum et ignem de altari, et pone incensum in thuribulum, et perge cito ad populum, ut ores pro eis. Iam enim egressa est ira a Domino.\" Quod (and this) cum fecisset Aaron, et cucurrisset ad mediam multitudinem (remember: medius, a, um, means: middle of) quam iam vastabat incendium, obtulit thus, et stans inter mortuos ac viventes, pro populo oravit, et plaga cessavit.\nFuerant autem illi qui percussi sunt, quatuordecim (14) millia hominum et septingenti (700) praeter illos qui perierunt in seditione Core.",
      "explanation": "Veteribus Studeamus. Let us review: the imperfect indicative active and passive in the third singular and plural (33; 34A); the possessive of pronouns (34B); and present participles (35). Notice how Most uses participles like loquens, offerentes, aperiens, stantibus, and ingressi throughout this reading.",
+     "divisio": {
+      "overview": "A revolt resolved by two judgments and then a plague, ending with a body count: challenge, test proposed, the earth and fire judgment, the people's renewed murmur, and the incense that stays the plague.",
+      "parts": [
+       {
+        "label": "Core's challenge",
+        "detail": "Core and 250 men confront Moses, claiming all the people are holy and accusing him of self-exaltation."
+       },
+       {
+        "label": "The censer test",
+        "detail": "Moses proposes that each take a censer with incense so the Lord may show whom he has chosen, and rebukes the Levites."
+       },
+       {
+        "label": "Earth and fire judgment",
+        "detail": "At Moses' word the ground opens and swallows the leaders alive, and fire consumes the 250 offerers."
+       },
+       {
+        "label": "The people murmur again",
+        "detail": "The next day the crowd blames Moses and Aaron, sedition rises, and the glory of the Lord appears."
+       },
+       {
+        "label": "Incense stays the plague",
+        "detail": "Aaron runs with a censer between the dead and living, the plague stops, and the toll of dead is given."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Levi",
@@ -19187,6 +21759,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Moses doubts at the rock of Meribah, and Aaron dies on Mount Hor.",
      "original": "Cum filii Israel in deserto Sin essent, et aquam non haberent, sicut saepe antea fecerant, murmuraverunt contra Moysen et Aaron. Et versi in seditionem, dixerunt: \"Utinam periissemus inter fratres nostros coram Domino. Cur eduxistis ecclesiam Domini in solitudinem, ut et nos et nostra iumenta moriamur?\" Dimissa multitudine, Moyses et Aaron, ingressi tabernaculum foederis, ceciderunt proni in terram, clamaveruntque ad Dominum atque dixerunt: \"Dominus Deus, audi clamorem huius populi, et aperi eis thesaurum tuum, fontem aquae vivae, ut satiati sint, et cesset murmuratio eorum.\" Et apparuit gloria Domini super eos, locutusque est Dominus ad Moysen dicens: \"Tolle virgam tuam, congrega populum, tu et Aaron frater tuus, et loquimini (imperative) ad petram coram eis, et illa dabit aquas. Cumque eduxeris aquam de petra, bibet omnis multitudo et iumenta eius.\"\nTulit igitur Moyses virgam, sicut Dominus praeceperat ei, et, congregata multitudine ante petram, ait: \"Audite rebelles et increduli! Num de petra hac vobis aquam poterimus educere?\" Cumque elevasset Moyses manum, percussit silicem non semel, sed bis (probabiliter quod dubitavit in fide). Egressae sunt aquae multae, ita ut populus biberet, et iumenta. Dixitque Dominus ad Moysen et Aaron: \"Quod non credidistis mihi, sed percussisti petram bis, non introducetis hunc populum in terram quam dabo eis.\"\nCumque Israelitae ad montem Hor venissent, Dominus locutus est ad Moysen: \"Aaron non introibit in terram quam dedi filiis Israel, quod non credidit ori meo. Duc itaque Aaron et filium eius in montem Hor. Ibique indue Eleazarum filium eius, vestibus Aaron, quia Aaron ipse morietur ibi.\" Fecit Moyses sicut praeceperat Dominus, et ascenderunt in montem Hor coram omni multitudine. Cumque Aaron mortuus esset, descendit Moyses cum Eleazaro. Omnis autem multitudo, videns occubuisse Aaron, flevit super eo triginta diebus (ablative of extent of time).",
      "explanation": "Vocabularium. Please review the vocabularies of lessons 47 to 52 of the first year and learn the words grouped below. Note especially the principal parts Most lists for the new verbs (for example currere, cucurrit, cursurus; iungere, iunxit, iunctus; pergere, perrexit, perrectus).",
+     "divisio": {
+      "overview": "A fall narrative: thirst and complaint, God's instruction, Moses' doubting double strike, the sentence on him and Aaron, and Aaron's death on Mount Hor.",
+      "parts": [
+       {
+        "label": "Thirst and rebellion",
+        "detail": "In the desert of Sin the people murmur, wishing they had died, and ask why they were led out to perish."
+       },
+       {
+        "label": "Moses prays, God instructs",
+        "detail": "Moses and Aaron fall down and pray, and God tells Moses to take his rod and speak to the rock for water."
+       },
+       {
+        "label": "The doubting strike",
+        "detail": "Moses rebukes the rebels and strikes the rock not once but twice, and abundant water comes out."
+       },
+       {
+        "label": "The sentence",
+        "detail": "God declares that for not believing him neither Moses nor Aaron will lead the people into the land."
+       },
+       {
+        "label": "Aaron's death on Hor",
+        "detail": "At Mount Hor Eleazar is vested in Aaron's garments, Aaron dies, and the people mourn thirty days."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "vertere",
@@ -19356,6 +21953,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The people grumble against God and Moses on the road from Mount Hor, and the bronze serpent becomes a sign of the salvation to come.",
      "original": "Profecti sunt Israelitae de monte Hor, per viam quae ducit ad Mare Rubrum, ut terram Edom circumirent. Et taedere coepit populum (and the people began to be weary: note the impersonal structure) itineris ac laboris. Locutusque contra Deum et Moysen, populus ait: \"Cur eduxisti nos de Aegypto ut moreremur in solitudine? Deest panis, non sunt aquae. Anima nostra iam nauseat de cibo hoc levissimo (loquebatur de manna, quod Dominus mittebat eis de caelo quotidie).\" Quam ob rem, misit Dominus in populum ignitos serpentes. Cumque multi ex populis mortui essent, venit populus ad Moysen, dixeruntque: \"Peccavimus, quia locuti sumus contra Dominum et te. Sed ora ut tollat a nobis serpentes.\" Oravitque Moyses pro populo, et locutus est Dominus ad eum: \"Fac serpentem aeneum, et pone eum pro signo (as a sign). Qui percussus (he who, having been struck ...) aspexerit eum, vivet.\" Fecit ergo Moyses serpentem aeneum, et posuit eum pro signo. Quem cum percussi aspicerent (which, when those struck looked at) sanabantur. Christus Dominus noster in evangelio locutus est de serpente aeneo dicens: \"Et sicut Moyses exaltavit serpentem in deserto, ita exaltari oportet Filium hominis, ut omnis, qui credit in ipsum, non pereat, sed habeat vitam aeternam.\" Deus enim dedit prophetiam quando imperavit Moysi ut faceret serpentem aeneum ut populus eum aspiceret et sanarentur. Prophetia data est non verbis, sed factis. Id est, serpens aeneus erat obumbratio, vel figura Christi in cruce. Serpens aeneus non erat idolum, et populus antiquus non adoravit serpentem: sed accipiebant sanitatem aspicientes serpentem quia Deus voluit dare figuram sanitatis quam Christus dedit in cruce.",
      "explanation": "Veteribus Studeamus. Let us review: Future indicative, active and passive, third singular and plural (37). Perfect infinitive active and passive (38 A, B). Indirect discourse with the objective infinitive (39). In addition, it is now time to recall the word order practice we did last year, beginning in lesson twenty, e.g., Maria (Mary is doing something or involved in something); agnum (she is doing something to the lamb); habet (she has the lamb). The teacher will put on the board, a word or phrase at a time, several practice sentences (or tape machines may be used instead). You will find that sort of practice even more helpful this year than it was last year.",
+     "divisio": {
+      "overview": "The passage runs as a narrative of crisis and remedy, then turns to a doctrinal commentary explaining the event as a figure of Christ.",
+      "parts": [
+       {
+        "label": "Complaint and punishment",
+        "detail": "The people, weary on the road, speak against God and Moses, and the Lord sends fiery serpents that kill many."
+       },
+       {
+        "label": "Repentance and prayer",
+        "detail": "The people confess their sin and ask Moses to pray that the serpents be taken away."
+       },
+       {
+        "label": "The bronze serpent and cure",
+        "detail": "At God's command Moses makes a bronze serpent on a pole, and those who are struck look at it and are healed."
+       },
+       {
+        "label": "Gospel application",
+        "detail": "Christ's words about being lifted up are quoted, linking the raised serpent to his being exalted for eternal life."
+       },
+       {
+        "label": "Doctrinal note on the figure",
+        "detail": "The author explains that the prophecy was given by deeds, the serpent a foreshadowing of Christ on the cross, not an idol."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "ignitus",
@@ -19529,6 +22151,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Because he had doubted at the rock, Moses may not enter the land; the Lord shows him Canaan from Mount Nebo, and there he dies at one hundred and twenty years of age.",
      "original": "Moyses etiam debebat mori, nec licebat ei ut terram promissam a Domino ingrederetur, quod dubitavisset percutiens petram bis. Quodam itaque die, locutus est Dominus ad Moysen dicens: \"Ascende in montem Nebo, qui est in terra Moab contra Jericho. Et vide terram Chanaan, quam ego tradam filiis Israel, et morere in monte, sicut mortuus est Aaron frater tuus in monte Hor, quia praevaricati estis contra me in medio filiorum Israel ad Aquas contradictionis. Videbis terram, et non ingredieris in eam, quam ego dabo filiis Israel.\" Ascendit ergo Moyses de campis Moab in montem Nebo. Ostenditque ei Dominus omnem terram. Dixitque Dominus ad eum: \"Haec est terra pro qua iuravi Abraham, Isaac et Iacob dicens: \"Semini tuo dabo eam! Vidisti eam oculis tuis, et non transibis ad illam.\" Mortuusque est ibi Moyses servus Domini, in terra Moab, iubente Domino. Et sepultus est in valle terrae Moab. Moyse autem centum et viginti annorum erat quando mortuus est. Non caligavit oculus eius, sed plenum vigorem habuit. Fleveruntque eum filii Israel in campis Moab triginta diebus. Josue vero, filius Nun, repletus est spiritu sapientiae, quia Moyses posuit super eum manus suas. Et obedierunt ei filii Israel, feceruntque sicut praecepit Dominus Moysi. Et non surrexit ultra propheta in Israel sicut Moyses, quem Dominus nosset (same as novisset) facie ad faciem.",
      "explanation": "This narrative continues the review of the future indicative and of indirect discourse with the objective infinitive. Note the imperative form 'morere' (die), from a deponent verb, and the special perfect 'nosset' which Most marks as the same as 'novisset'. Recall too the word order drill from last year: take each sentence a phrase at a time, naming the subject, then what is done to whom, then the verb.",
+     "divisio": {
+      "overview": "The passage moves chronologically from God's command to Moses, through his death and burial, to the mourning and the succession of Joshua.",
+      "parts": [
+       {
+        "label": "The reason and the command",
+        "detail": "Because he doubted at the rock, Moses may not enter the land, and the Lord tells him to climb Mount Nebo and die there."
+       },
+       {
+        "label": "The sight of Canaan",
+        "detail": "Moses ascends Nebo, and the Lord shows him the whole land sworn to Abraham, Isaac, and Jacob, which he sees but will not enter."
+       },
+       {
+        "label": "Death and burial",
+        "detail": "Moses dies in Moab at one hundred and twenty, still vigorous, and is buried in the valley."
+       },
+       {
+        "label": "Mourning and succession",
+        "detail": "Israel weeps thirty days, Joshua is filled with the spirit of wisdom, and no prophet like Moses arises again."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "morere (imperat.)",
@@ -19681,6 +22324,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Joshua, whose name means 'God is salvation,' is filled with God's spirit; the Lord tells him to rise, cross the Jordan, and take the land, promising never to abandon him.",
      "original": "Nomen huius viri in lingua Hebraica erat Jehoshua (vel Jesus, in forma breviore). Nos autem in lingua nostra vocamus eum \"Josue.\" Hoc nomen (quod significat: \"Deus est salus\") accepit Josue a Moyse--nomen enim eius fuerat \"Osee.\" Josue fidelis servus Moysis erat, et spiritus Dei habitabat in eo. Cum Josue fere quadraginta annorum esset, non longo tempore post Exodum Iudaeorum ex Aegypto, Moyses fecerat Iosue ducem exercitus contra Amalec (iam legimus de hac occasione). Et factum est post mortem Moysi, servi Domini, ut loqueretur Dominus ad Josue, filium Nun, ministrum Moysi, et diceret ei: \"Moyses servus meus mortuus est. Surge, et transi (from transire: imperative) Jordanem flumen, tu et omnis populus tecum, in terram quam ego dabo filiis Israel. Omnem locum, quem calcaverit pes vester, vobis tradam, sicut locutus sum Moysi: a deserto et monte Libano usque ad fluvium magnum Euphraten, omnis terra usque ad mare magnum erit terminus vester. Nemo poterit vobis resistere omnibus diebus vitae tuae. Sicut ego fui cum Moyse, ita ero tecum. Non derelinquam te.\"",
      "explanation": "Vocabularium. Please review vocabularies of lessons 53 to 58 of first year and learn the following words listed below. Notice in this reading the imperatives 'Surge' and 'transi' (from transire, to cross), and the future tenses promising what the Lord will do: 'dabo', 'tradam', 'ero tecum', 'non derelinquam te'. These futures continue the review of the future indicative in this Lectio.",
+     "divisio": {
+      "overview": "The passage opens with an explanation of Joshua's name and background, then gives the Lord's commissioning speech after Moses' death.",
+      "parts": [
+       {
+        "label": "The name explained",
+        "detail": "Joshua's Hebrew name and its meaning, God is salvation, are given, and how he received it from Moses in place of Osee."
+       },
+       {
+        "label": "His record under Moses",
+        "detail": "Joshua's faithful service, the spirit of God in him, and his earlier appointment as leader against Amalec are recalled."
+       },
+       {
+        "label": "The commission to cross",
+        "detail": "After Moses' death the Lord tells Joshua to rise and cross the Jordan with all the people into the promised land."
+       },
+       {
+        "label": "The promise of the land and presence",
+        "detail": "God marks out the boundaries, swears no one can resist, and pledges to be with Joshua and never abandon him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "salus",
@@ -19816,6 +22480,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Joshua sends two scouts into Jericho; then the people cross the Jordan on dry ground while the priests carry the ark, and twelve stones are taken up as a memorial.",
      "original": "Duos exploratores misit Iosue in urbem Jericho, ut terram et populum eius urbis spectarent. Qui, cum urbem ingressi essent, et multa de loco didicissent, ad Iosue reversi sunt, narraveruntque ei omnia quae acciderant. Atque dixerunt: \"Omnem terram hanc in manus nostras Dominus tradidit: huius enim urbis populus nos vehementer timet.\"\n\nHaec omnia audivit Iosue, et castra ex illo loco movit, et ad Iordanem venerunt ipse et omnes filii Israel. Ibi tres dies morati sunt. Quibus diebus finitis, per media castra praecones misit Iosue, qui exclamaverunt: \"Arcam Domini quando videritis, et sacerdotes portantes arcam foederis, vos quoque surgite et sequimini.\" Dixitque Iosue ad populum: \"Sanctificamini: cras enim faciet Dominus inter vos mirabilia.\" Et ait ad sacerdotes: \"Tollite arcam foederis, et praecedite populum.\" Qui iussa complentes tulerunt, et ambulaverunt ante eos. Dixitque Dominus ad Iosue: \"Hodie te coram omni populo exaltare incipiam, ut sciant, quod sicut cum Moyse fui, ita et tecum sim. Tu autem praecipe sacerdotibus qui arcam foederis portant, et dic eis: 'Cum ingressi fueritis partem aquae Jordanis, state in ea.'\"\n\nProcesserunt itaque arcam Domini portantes, Jordanemque ingressi sunt. Et ecce steterunt aquae descendentes in uno loco, et sicut mons apparuit aqua ex una parte. Sed aquae quae in inferiore parte fluminis erant omnino defecerunt. Populus autem Israel contra Jericho ibant, et sacerdotes qui arcam foederis portabant, super siccam humum in medio Iordanis stabant, omnisque populus per siccam terram in medio flumine transibat.\n\nQuibus transgressis, dixit Dominus ad Iosue: \"Elige duodecim viros, singulos per singulas tribus. Et praecipe eis, ut duodecim lapides durissimos de medio Iordane tollant, quos ponetis in loco castrorum, ubi hac nocte tentoria fixeritis.\" Vocavitque Iosue duodecim viros, quos de filiis Israel elegerat, singulos de singulis tribubus, et ait ad eos: \"Ite ante arcam Domini Dei vestri ad Iordanis medium, et singulos lapides inde singuli portate in humeris vestris, ut sit signum inter vos. Et quando interrogaverint vos filii vestri cras, dicentes: 'Quid significant isti lapides?' respondebitis eis: 'Defecerunt aquae Iordanis ante arcam foederis Domini cum transiret arca flumen. Idcirco positi sunt lapides hi in monumentum filiorum Israel usque in aeternum.'\" Fecerunt ergo filii Israel, sicut praecepit eis Iosue, portantes de medio alveo Iordanis duodecim lapides, ut Dominus imperaverat. In die illo magnificavit Dominus Iosue coram omni Israel, ut timerent eum, sicut timuerant Moysen, dum adhuc viveret.\n\nDixitque ad Iosue Deus: \"Praecipe sacerdotibus qui arcam foederis portant, ut de Iordane ascendant.\" Qui praecepit eis dicens: \"Ascendite de Iordane.\" Cumque ascendissent portantes arcam foederis Domini, et siccam humum calcare coepissent, reversae sunt aquae in alveum suum, et fluebant, sicut ante consueverant.",
      "explanation": "Let us review the imperfect subjunctive, active and passive, third singular and plural, and purpose clauses. Also the pluperfect subjunctive, active and passive, third singular and plural, together with cum-clauses and result clauses. Recall too the way the subjunctive tenses are used: if the whole sentence is in a past setting, that is, if the main clause tells about past time, then we must choose between the imperfect and the pluperfect subjunctive, according to what the sense requires.",
+     "divisio": {
+      "overview": "The episode advances through four staged movements: the scouting, the preparation, the miraculous crossing, and the memorial of stones.",
+      "parts": [
+       {
+        "label": "The spies sent",
+        "detail": "Joshua sends two scouts into Jericho, who return reporting that the Lord has handed the whole land over and the people fear Israel."
+       },
+       {
+        "label": "Preparation and command",
+        "detail": "Israel moves to the Jordan, heralds order the people to follow the ark, and the Lord tells the priests to stand in the river."
+       },
+       {
+        "label": "The crossing on dry ground",
+        "detail": "As the priests enter, the waters stand like a mountain and fail below, and the people cross over dry."
+       },
+       {
+        "label": "The twelve memorial stones",
+        "detail": "Twelve men take twelve stones from the riverbed as a sign for future generations, and the Lord exalts Joshua before all Israel."
+       },
+       {
+        "label": "The waters return",
+        "detail": "When the priests carry the ark up out of the Jordan, the waters flow back into their bed as before."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "explorator",
@@ -20036,6 +22725,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Joshua meets the prince of the Lord's army; then, on God's command, the people march around shut-up Jericho once a day for six days and seven times on the seventh, until the trumpets sound and the walls fall.",
      "original": "Postquam ergo audierunt omnes reges Amorrhaeorum, qui trans Iordanem habitabant ad occidentem, quod Dominus siccavisset Iordanem coram filiis Israel donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, sed timebant introitum filiorum Israel. Filii autem Israel castra posuerunt in Galgalis, et comederunt de frugibus terrae Chanaan. Et postquam comederunt de frugibus terrae illius, defecit manna, nec filii Israel ultra usi sunt illo cibo.\n\nCum autem esset Iosue in agro ante urbem Jericho, levavit oculos suos, et vidit virum stantem ante se, tenentem gladium. Perrexitque ad eum Iosue et ait: \"Noster es? an adversariorum?\" Qui respondit: \"Nequaquam sum ex adversariis, sed sum princeps exercitus Domini.\" Cecidit Iosue pronus in terram, et adorans ait: \"Quid Dominus meus loquitur ad servum suum?\" \"Solve,\" inquit, \"calceamentum de pedibus tuis. Locus enim, in quo stas, sanctus est.\" Fecitque Iosue ut sibi fuerat imperatum.\n\nUrbs Iericho autem clausa erat atque munita, ob timorem filiorum Israel. Et nullus egredi audebat aut ingredi. Dixitque Dominus ad Iosue: \"Ecce dedi in manu tua Iericho et regem eius, omnesque fortes viros. Circumeat urbem exercitus tuus semel per diem. Sic facietis sex diebus. Septimo autem die, sacerdotes tollant septem buccinas, et praecedant arcam foederis. Septiesque civitatem circuibitis, et sacerdotes buccinis clangent. Cumque insonuerit vox tubae longior, exclamabit omnis populus voce maxima, et muri corruent civitatis. Ingredientur singuli per locum contra quem steterint.\"\n\nVocavit ergo Iosue sacerdotes et dixit ad eos: \"Tollite arcam foederis, et septem alii sacerdotes tollant septem buccinas, et incedant ante arcam Domini.\" Ad populum quoque ait: \"Ite, et circuite civitatem armati, praecedentes arcam Domini.\" Cumque Iosue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam foederis Domini, omnisque praecederet armatus exercitus, reliquus populus arcam sequebatur. Praeceperat autem Iosue populo dicens: \"Non clamabitis, nec audietur vox vestra, neque ullum verbum ex ore vestro egredietur, donec veniat dies in quo dicam vobis: 'Clamate!'\" Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra mansit ibi. Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus. Die autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies. Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Iosue ad omnem Israel: \"Exclamate! Tradidit enim vobis Dominus civitatem.\" Igitur omni populo exclamante, et clangentibus tubis, muri civitatis statim corruerunt. Et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem.\n\nIn quo anno cecidit Jericho? Difficile est dicere. Difficile est enim scire quo tempore Israelitae ex Aegypto egressi sint. Quidam putant Israel egressum esse fere anno millesimo quadringentesimo quadragesimo primo (1441), tempore quo rex Aegypti erat Thutmoses tertius. Si revera egressi sunt hoc tempore, ergo, quia erraverunt in deserto quadraginta annos, venerunt ad muros Iericho fere anno millesimo quadringentesimo primo (1401). Sed alii putant Israelitas egressos esse ex Aegypto tempore quo rex erat Rameses secundus, fere anno millesimo ducentesimo nonagesimo (1290). Si hoc verum est, venerunt ad Iericho fere anno millesimo ducentesimo quinquagesimo (1250). Haec sententia secunda videtur esse melior, sed res incerta est.",
      "explanation": "Veteribus Studeamus. Keep reviewing the pluperfect subjunctive, active and passive, third singular and plural, with cum-clauses and result clauses. Notice how a sentence set in past time chooses between the imperfect and the pluperfect subjunctive according to the sense. In the Vocabularium, review the vocabularies of lessons 59 to 64 of the first year and learn the new words listed here.",
+     "divisio": {
+      "overview": "The reading sets the scene of dread, narrates the angelic encounter and the divine plan, the seven-day siege, and the collapse, then closes with a scholarly note on dating.",
+      "parts": [
+       {
+        "label": "Fear of the kings, end of manna",
+        "detail": "The Amorite kings lose heart at the dried Jordan, and Israel, camped at Galgala, eats the land's produce as the manna ceases."
+       },
+       {
+        "label": "The captain of the Lord's host",
+        "detail": "Joshua meets an armed man who declares himself prince of the Lord's army, and Joshua worships and removes his shoes."
+       },
+       {
+        "label": "The plan for shut-up Jericho",
+        "detail": "Jericho is closed and fortified, and the Lord prescribes circling once daily for six days and seven times with trumpets on the seventh."
+       },
+       {
+        "label": "The march and the fall",
+        "detail": "Israel carries out the silent marches day by day until on the seventh the shout and trumpets bring the walls down and the city is taken."
+       },
+       {
+        "label": "Note on the date",
+        "detail": "The author weighs two proposed dates for the exodus and the fall of Jericho, favoring the later one while admitting the matter is uncertain."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Amorrhaei",
@@ -20314,6 +23028,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Josue marches to rescue Gabaon, and the Lord fights for Israel with hailstones from the sky and a day that does not end.",
      "original": "Multa proelia fecit Iosue, ut totam terram Chanaan caperet. Iericho, sicut audivimus, omnino delevit. Idem fecit etiam urbi quae vocabatur Hai. Quae cum audisset Adonisedec, rex Ierusalem, timuit valde. Misit ergo Adonisedec, rex Ierusalem, ad quattuor alios reges: ad Oham, regem Hebron; ad Pharam, regem Ierimoth; ad Iaphia, regem Lachis; et ad Dabir regem Eglon. Dixitque Adonisedec: \"Ad me ascendite, et ferte auxilium, ut expugnemus Gabaon, urbem magnam quae pacem cum Iosue fecit.\" Congregati igitur ascenderunt quinque reges: rex Ierusalem, rex Hebron, rex Ierimoth, rex Lachis, rex Eglon, simul cum exercitibus suis, et castra posuerunt circa Gabaon, oppugnantes eam. Viri autem qui habitabant in Gabaon miserunt ad Iosue, qui tunc morabatur in castris ad Galgala, et dixerunt ei: \"Ne retrahas manus tuas ab auxilio servorum tuorum. Ascende celeriter, et libera nos. Fer auxilium: convenerunt enim adversum nos omnes reges Amorrhaeorum, qui in montibus habitant.\" Ascenditque Iosue de Galgalis, et omnis exercitus militum cum eo, viri fortes. Dixitque Dominus ad Iosue: \"Ne timeas, in manus enim tuas tradidi illos. Nullus ex eis tibi resistere poterit.\" Irruit itaque Iosue super eos repente, tota nocte ascendens de Galgalis. Et conturbavit eos Dominus, contrivitque eos Israel plaga magna in Gabaon, ac persecutus est eos per viam Bethhoron, et percussit eos usque ad Azeca et Maceda. Cumque fugerent filios Israel, Dominus misit super hostes lapides magnos de caelo usque ad Azeca. Et mortui sunt multo plures lapidibus grandinis quam quos gladio percusserant filii Israel. Tunc Iosue, videns se non posse omnino vincere quinque reges ante noctem, et nolens amittere eos tenebris, oravit ad Dominum, dixitque: \"Sol! ad Gabaon ne te moveas! et luna! ne te moveas ad vallem Aialon!\" Steteruntque sol et luna, donec gens Iudaica se ulcisceretur de inimicis suis. Sicut scriptum est in Libro Iustorum: \"Stetit sol in medio coeli, et non festinavit ad occidentem per spatium unius diei. Non fuit antea, nec postea, tam longa dies, Domino obediente voci hominis, et pugnante pro Israel.\"",
      "explanation": "This is a review Lectio. Let us go over the present subjunctive active and passive, third person singular and plural, and the hortatory subjunctive seen in section 46, for example \"ut expugnemus Gabaon\" and \"ut capere possimus.\" Note how Most explains the miracle of the standing sun: the sacred writer describes events in a popular, not a scientific, way. When he writes that the sun moved or did not move, he simply describes things as they appear to be, just as we ourselves, who know well that our earth moves and not the sun, still speak that way. Some say God by a miracle made the light able to be seen for a longer time, so that one day seemed to have no night; God could do this in many ways, for example by the refraction of light, without disturbing the order of the whole solar system.",
+     "divisio": {
+      "overview": "The passage builds from the kings' alliance, through Gabaon's plea and Joshua's rescue, to the divine miracles of hailstones and the standing sun.",
+      "parts": [
+       {
+        "label": "The coalition of five kings",
+        "detail": "Adonisedec of Jerusalem, alarmed by Joshua's conquests, summons four other kings to attack Gabaon for making peace with Joshua."
+       },
+       {
+        "label": "Gabaon's appeal and Joshua's march",
+        "detail": "The men of Gabaon beg Joshua for swift help, and he climbs by night from Galgala with his strong soldiers."
+       },
+       {
+        "label": "The rout and the hailstones",
+        "detail": "The Lord throws the enemy into disorder, Israel pursues them, and great stones from heaven kill more than the sword."
+       },
+       {
+        "label": "The standing sun and moon",
+        "detail": "Joshua prays for the sun and moon to halt, and they stand until Israel is avenged, a day without equal as the Book of the Just records."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "proelium",
@@ -20515,6 +23250,31 @@ window.COURSE_DATA.courses.push({
      "lead": "After the rout, the kings hide in a cave and are executed; then Josue, grown old, charges Israel to keep the law of Moses before he dies.",
      "original": "Post proelium, Iosue cum omni Israel in castra Galgalae reversus est. Interea, quinque reges fugerant, et se in spelunca urbis Maceda absconderant. Nuntiatumque est ad Iosue, quod inventi essent quinque reges latentes in spelunca urbis Maceda. Qui praecepit sociis suis, et ait: \"Volvite saxa ingentia ad os speluncae, et ponite viros bonos qui clausos reges custodiant. Vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium caedite. Nec dimittatis eos urbium suarum intrare praesidia, quos tradidit Dominus Deus in manus vestras.\" Caesis ergo adversariis plaga magna, reversus est omnis exercitus ad Iosue in Maceda, ubi tunc erant castra. Praecepitque Iosue, dicens: \"Aperite os speluncae, et producite ad me quinque reges de spelunca.\" Cumque deducti essent ad eum, vocavit omnes viros Israel, et ait ad principes exercitus, qui secum erant: \"Ite, et ponite pedes super colla regum istorum.\" Qui cum perrexissent, et subiectorum colla pedibus calcarent, rursus ait ad eos: \"Nolite timere--sic enim faciet Dominus cunctis hostibus vestris adversum quos dimicatis.\" Percussitque Iosue eos et interfecit, atque suspendit super quinque arbores. Evoluto autem multo tempore, postquam Iosue multos reges vicit, divisitque terram promissionis tribubus Israel, cum Iosue ipse iam senuisset, vocavit omnem Israel, maioresque natu, et principes ac duces, et magistros, dixitque ad eos: \"Ego senui et magnae aetatis sum. Vos cernitis omnia quae fecerit Dominus Deus vester cunctis nationibus per circuitum, quomodo pro vobis ipse pugnaverit. Et nunc divisi vobis omnem terram, ab orientali parte Iordanis, usque ad mare magnum. Multae adhuc sunt nationes in eis: sed Dominus Deus vester disperdet eas, et auferet eas a facie vestra, et possidebitis terram, sicut vobis pollicitus est. Solummodo confortamini, et estote solliciti ut custodiatis cuncta quae scripta sunt in volumine legis Moysi, et non declinetis ab eis neque ad dexteram, neque ad sinistram. Sed adhaereatis Domino Deo vestro. Ecce, ego hodie ingredior viam universae terrae. Vos autem custodite mandata Domini Dei vestri.\" Et post haec mortuus est Iosue, filius Nun, servus Domini, centum et decem annorum. Sepelieruntque eum in monte Ephraim. Ossa quoque Iosephi, quae tulerant filii Israel de Aegypto, sepelierunt in Sichem, in parte agri quem emerat Iacob a filiis Hemor.",
      "explanation": "Continuing the review, watch the present subjunctive used in commands and purpose: \"viros bonos qui clausos reges custodiant,\" \"ut custodiatis cuncta quae scripta sunt,\" and the hortatory and prohibitive forms \"nolite stare,\" \"nolite timere,\" \"adhaereatis.\" Notice also the future imperative forms Most flags, such as \"estote\" (be) and \"scitote\" (know). Josue divides the land of promise among the tribes of Israel and, grown old, charges the people to keep all that is written in the book of the law of Moses and not to turn aside from it either to the right or to the left.",
+     "divisio": {
+      "overview": "The passage falls into two scenes separated by a span of years: the execution of the trapped kings, then the aged Joshua's farewell charge and death.",
+      "parts": [
+       {
+        "label": "The kings sealed in the cave",
+        "detail": "After the battle the five kings hide in a cave, and Joshua orders stones rolled over its mouth and the pursuit continued."
+       },
+       {
+        "label": "The kings brought out and slain",
+        "detail": "The kings are dragged out, Israel's leaders set feet on their necks, and Joshua kills and hangs them on five trees."
+       },
+       {
+        "label": "Joshua grown old divides the land",
+        "detail": "After many years and victories, the aged Joshua gathers the elders and leaders and recalls how the Lord fought for them."
+       },
+       {
+        "label": "The farewell charge",
+        "detail": "He urges them to keep all written in the book of the law of Moses, turning aside neither right nor left, and to cling to the Lord."
+       },
+       {
+        "label": "Death and burials",
+        "detail": "Joshua dies at one hundred and ten and is buried in Ephraim, and Joseph's bones are buried at Sichem."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "abscondere",
@@ -20800,6 +23560,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The Book of Judges and the calling of Gedeon by the angel of the Lord.",
      "original": "Lectio Decima. De Iudicibus.\n\nTempore quo Iosue populum Israel in terram promissionis duxit gentes multae in terra habitabant. Hae gentes inter se non iungebantur, sed erant multae urbes separatae. Sed omnes subiciebantur Aegypto fere ab anno millesimo quingentesimo quinquagesimo (1550) usque ad annum millesimum ducentesimum vigesimum quintum (1225). Potestas autem Aegypti in hac terra (Chanaan) non erat fortis tempore Iosue, sicut videre possumus ex quibusdam epistulis quae scriptae sunt ad Amenophin quartum, regem Aegypti, a gubernatoribus Aegyptiacis in hac terra.\n\nDe iudicibus legimus in quodam libro Veteris Testamenti qui nominatur Liber Iudicum. \"Iudices\", quorum facta in hoc libro narrantur, non erant reges Iudaeorum. Multi ex eis etiam non erant iudices in sensu legali, sed potius erant liberatores--populus enim Dei saepe peccavit in Deum, et Deus eos punivit pro his peccatis. Saepe Deus eos punivit subiciens eos aliis gentibus, sed quando Iudaei ad poenitentiam versi sunt, Deus misit illis liberatorem, id est, unum ex his iudicibus. Difficile est definire tempus horum iudicum--incipiunt a tempore mortis Iosue, et descendunt usque ad Samuelem prophetam. Iosue mortuus est postquam populum Dei in Chanaan duxit, et aliquas gentes (sed non omnes) terrae illius vicit. Sed, quia non possumus certe scire tempus quo Iudaei ex Aegypto discesserunt, nec possumus certe scire tempus mortis Iosue. Probabiliter Iosue mortuus est in parte ultima saeculi decimi tertii ante Christum, id est, quodam tempore ante annum millesimum ducentesimum (1200 BC). Tempus Samuelis (de quo postea legemus) clarius est--ille iudex et propheta erat fere anno millesimo quinquagesimo (1050 BC). Non omnes ex his iudicibus erant viri sancti--immo vero, non omnes erant viri,--Debora femina erat. Sed unus ex maioribus iudicibus, Samson, quaedam bona, et quaedam peccata commisit. Sed videamus narrationem de uno ex iudicibus maioribus, id est, de Gedeon.\n\nDe Magno Iudice: Gedeon.\n\nTemporibus Gedeon, fecerunt filii Israel malum in conspectu Domini. Qui tradidit illos in manu Madianitarum septem annis. Madianitae autem ex terra circum peninsulam Siniaticam venerunt, et Palestinam invaserunt. Hi Madianitae camelos habuerunt, et vecti (riding on--literally, carried on) his, in terram Iudaeorum incursiones faciebant omni anno, tempore messis. Iudaei, oppressi valde ab eis, fecerunt sibi speluncas in montibus, et munita loca ut repugnarent. Sed tempore messis, ascendebat Madian et Amalec, ceterique orientalium nationum et cuncta vastabant. Nihilque omnino ad vitam pertinens relinquebant in Israel--non oves, non boves, non asinos. Madianitae enim et universi greges eorum veniebant cum tabernaculis suis, et sicut locustae omnia complebant--innumera multitudo hominum et camelorum, devastantes quidquid tetigerant. Humiliatusque est Israel valde in conspectu Madian, et clamavit ad Dominum, postulans auxilium contra Madianitas.\n\nEt Dominus misit ad eos virum prophetam, et locutus est: \"Haec dicit Dominus Deus Israel: 'Ego vos feci exire de Aegypto, et eduxi vos de domo servitutis, et liberavi vos de manu Aegyptiorum et omnium inimicorum qui affligebant vos. Eiecique eos ante vos, et tradidi vobis terram eorum. Et dixi: 'Ego Dominus Deus vester--ne timeatis deos Amorrhaeorum, in quorum terra habitatis. Et noluistis audire vocem meam.'\"\n\nQuodam die venit angelus Domini et sedit sub arbore in agro Ioas, patris Gedeon. Cumque Gedeon purgaret frumenta in torculari ut ea a Madianitis servaret, apparuit ei angelus Domini, et ait: \"Dominus tecum, fortissime virorum.\" Dixitque ei Gedeon: \"Obsecro, mi Domine, si Dominus nobiscum est, cur apprehenderunt nos haec omnia? Ubi sunt mirabilia eius, quae narraverunt patres nostri, atque dixerunt: 'De Aegypto eduxit nos Dominus'? Nunc autem dereliquit nos Dominus, et tradidit in manu Madian.\" Respexitque ad eum Dominus, et ait: \"Vade in hac fortitudine tua, et liberabis Israel de manu Madian. Scito (future imperative) quod miserim te.\" Et Gedeon respondens ait: \"Obsecro, mi Domine, quomodo liberabo Israel? Ecce, familia mea infima est in tribu Manasse, et ego minimus in domo patris mei.\" Dixitque ei Dominus: \"Ego ero tecum: et percuties Madian quasi unum virum.\" Et Gedeon: \"Si inveni,\" inquit, \"gratiam coram te, da mihi signum quod tu sis qui loqueris ad me: ne recedas hinc donec revertar ad te portans sacrificium, et offerens tibi.\" Qui respondit: \"Ego exspectabo ad ventum tuum.\"",
      "explanation": "Veteribus Studeamus. Let us review the irregular verbs we have learned. Review the forms of ego, mei, mihi (the personal pronoun) treated in Lessons 50 C and 52. Review velle, nolle, and ire from Lesson 54. Review esse, posse, and ferre from Lesson 56. The Judges of this book were not kings of the Jews; many were not even judges in a legal sense, but rather liberators whom God raised up whenever the people repented.",
+     "divisio": {
+      "overview": "The lesson opens with a historical introduction to the Judges, then narrows to the Midianite oppression and the calling of Gedeon.",
+      "parts": [
+       {
+        "label": "The land and its peoples",
+        "detail": "An overview of Canaan's scattered cities under weak Egyptian power at the time Joshua led Israel in."
+       },
+       {
+        "label": "Who the Judges were",
+        "detail": "An explanation that the Judges were not kings but liberators raised up when the repentant people had been punished for sin."
+       },
+       {
+        "label": "The Midianite oppression",
+        "detail": "Camel-riding Midianites raid at harvest, devour everything like locusts, and drive humbled Israel to cry out to the Lord."
+       },
+       {
+        "label": "The prophet's rebuke",
+        "detail": "The Lord sends a prophet recalling the exodus and accusing the people of not heeding his voice."
+       },
+       {
+        "label": "The angel calls Gedeon",
+        "detail": "The angel greets Gedeon at the winepress, commissions him to free Israel, and Gedeon, protesting his weakness, asks for a sign."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "iudex",
@@ -21096,6 +23881,27 @@ window.COURSE_DATA.courses.push({
      "lead": "The accepted sacrifice, the destruction of Baal's altar, and the sign of the wet and dry fleece.",
      "original": "Ingressus est itaque Gedeon, praeparavit hoedum et azymos panes in sacrificium. Cumque egressus esset dixit ei Angelus Domini: \"Tolle carnes et azymos panes, et pone eos supra petram illam, et ius funde super eos.\" Cumque fecisset Gedeon ita, extendit Angelus Domini virgam quam in manu tenebat, et tetigit carnes et panes azymos. Ascenditque ignis de petra, et carnes azymosque panes consumpsit. Angelus autem Domini evanuit ex oculis eius.\n\nVidensque Gedeon quod esset Angelus Domini, ait: \"Heu, mi Domine Deus, quia vidi Angelum Domini facie ad faciem, certe moriar.\" Dixitque ei Dominus: \"Pax tecum. Ne timeas--non morieris.\" Aedificavitque ergo ibi Gedeon altare Domino, vocavitque illud \"Domini pax\" usque in praesentem diem.\n\nSed nocte illa dixit Dominus ad eum: \"Tolle taurum patris tui, et alterum taurum annorum septem, delebisque altare Baal quod pater tuus habet. Et temonem, qui ad altare est, succide. Et aedificabis altare Domino Deo tuo in summitate petrae huius super quam sacrificium posuisti. Tollesque taurum secundum et offeres holocaustum super ligna de temone quem succideris.\" Assumptis ergo Gedeon decem viris (note abl. abs. assumptis...viris) de servis suis, fecit sicut praeceperat ei Dominus. Timens autem patrem suum et homines illius civitatis, per diem noluit id facere, sed omnia nocte complevit. Cumque surrexissent viri oppidi eius mane, videntes deletum esse altare Baal, et temonem succisum, et taurum secundum impositum super altare dixerunt: \"Quis hoc fecit?\" Cumque interrogarent auctorem facti, dictum est: \"Gedeon, filius Ioas, fecit haec omnia.\" Et dixerunt ad Ioas: \"Produc filium tuum, ut moriatur, quia destruxit altare Baal, et succidit temonem.\" Ioas autem filium suum producere noluit, sed dixit: \"Si Baal revera deus est, ulciscatur se de filio meo.\" Populus ergo vocaverunt Gedeon nomine novo \"Ierobaal,\" quod significat: \"Pugnator contra Baal.\"\n\nHoc tempore omnes Madianitae et Amalecitae, orientalesque populi congregati sunt simul, et transeuntes Iordanem, castrametati sunt in valle Iezrael. Spiritus autem Domini super Gedeon venit. Et ille clangens buccina, convocavit domum Abiezer ut sequeretur se, misitque nuntios in universum Manassen qui et ipse secutus est eum; et alios nuntios in Aser et Zabulon et Nephthali. Qui occurrerunt ei. Dixitque Gedeon ad Deum: \"Si salvum facis Israel per manum meam, sicut locutus es, da, obsecro, mihi signum: ponam hoc vellus lanae in area--si ros in solo vellere veniat hac nocte, et omnis terra sicca erit, sciam quod per manum meam, sicut locutus es, liberabis Israel.\" Factumque est ita. Et nocte surgens, expressit ex vellere aquam multam. Dixitque rursus ad Deum: \"Ne irascatur ira tua contra me si adhuc semel rogavero signum in vellere. Oro, ut solum vellus hac nocte siccum sit, et omnis terra rore madida.\" Fecitque Deus nocte illa sicut postulaverat: et fuit siccum vellus, et ros in omni terra.",
      "explanation": "In today's story we saw the word pugnator. It is helpful to note this -tor ending. It means 'one who does' something. So consider what these would mean: amator, victor, dator, scriptor, defensor. From the same lesson the name Ierobaal is explained: it means 'Pugnator contra Baal', that is, 'Fighter against Baal'.",
+     "divisio": {
+      "overview": "The reading strings together four confirming episodes: the accepted offering, the fear of death, the destruction of Baal's altar, and the sign of the fleece.",
+      "parts": [
+       {
+        "label": "The sacrifice consumed by fire",
+        "detail": "Gedeon brings a kid and unleavened bread, and the angel touches them with his staff so fire from the rock consumes them."
+       },
+       {
+        "label": "Fear and reassurance",
+        "detail": "Fearing death for seeing the angel face to face, Gedeon is told peace, builds an altar, and names it the Lord's peace."
+       },
+       {
+        "label": "The altar of Baal torn down",
+        "detail": "By night Gedeon obeys the command to destroy Baal's altar and pole, and the townsmen, finding it, are answered by Ioas, who renames his son Ierobaal."
+       },
+       {
+        "label": "The gathering and the fleece",
+        "detail": "As the enemy gathers, Gedeon, filled with the Spirit, summons the tribes and twice asks God the sign of the wet and dry fleece, which is granted."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "consumere",
@@ -21325,6 +24131,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Gideon gathers his people at the spring, and the Lord begins to sift the army.",
      "original": "Igitur Ierobaal (qui est etiam Gedeon) nocte consurgens, et omnis populus cum eo, venit ad fontem qui vocatur Harad. Dixitque Dominus ad Gedeon: \"Multus tecum est populus. Non tradetur Madian in manus eius, ne glorietur contra Me Israel et dicat: 'Meis viribus liberatus sum.' Loquere igitur ad populum, et, cunctis audientibus, praedica: \"Qui timidus est, revertatur.\" Recesseruntque de monte Galaad et reversi sunt de populo viginti duo (22) millia virorum, et tantum decem millia remanserunt. Dixitque Dominus ad Gedeon: \"Adhuc populus multus est. Duc eos ad aquas, et ibi probabo illos.\" Cumque descendisset populus ad aquas, dixit Dominus ad Gedeon: \"Qui lingua lambuerint aquas, sicut solent canes lambere, separabis eos ab aliis. Qui autem curvatis genibus biberint, in altera parte erunt.\" Fuit itaque numerus eorum qui de manu lambuerant aquas trecenti viri (300). Omnis autem reliqua multitudo curvatis genibus biberat. Et ait Dominus ad Gedeon: \"Cum his trecentis (300 men), qui lambuerunt aquas, liberabo vos, et tradam in manu tua Madian. Omnis autem reliqua multitudo revertatur in locum suum.\" Sumptis itaque pro numero virorum cibis et tubis (abl. abs. sumptis...cibis) omnem reliquam multitudinem abire praecepit ad tabernacula sua. Et ipse cum trecentis viris remansit. Castra autem Madian erant subter in valle. Eadem nocte dixit Dominus ad eum: \"Surge, et descende in castra, quia tradidi eos in manu tua. Sin autem solus ire times, descendat tecum Phara, servus tuus. Et cum audieris quid loquantur Madianitae, tunc confortabuntur manus tuae, et securior ad hostium castra descendes.\" Descendit ergo ipse et Phara, servus eius, in partem castrorum Madianitarum, ubi erant militum vigiliae. Madian autem et Amalec, et omnes orientales populi iacebant in valle, sicut locustarum multitudo. Cameli quoque innumerabiles erant, sicut arena, quae iacet in littore maris. Cumque venisset Gedeon ad castra, narrabat aliquis somnium proximo suo, et hoc modo dicebat quod viderat: \"Vidi somnium: et videbatur mihi quasi subcinericius panis ex hordeo volvi, et in castra Madian descendere. Cumque ad tabernaculum pervenisset, illud percussit atque subvertit, et terrae coaequavit tabernaculum.\" Respondit is, cui loquebatur: \"Non est hoc aliud, nisi gladius Gedeon, filii Ioas viri Israelitae. Tradidit enim Dominus in manus eius Madian, et omnia castra eius.\" Cumque audisset Gedeon somnium, et interpretationem eius, adoravit Deum, et reversus est ad castra Israel, et ait: \"Surgite; tradidit enim Dominus in manus nostras castra Madian.\" Divisitque trecentos viros in tres partes, et dedit tubas eis, ac lagenas vacuas, et lampades in medio lagenarum. Et dixit ad eos: \"Quod me facere videritis, idem facite: Ibo ad partem castrorum: Vos ad alias castrorum partes ite. Cumque ego clangam tuba, vos quoque per circuitum castrorum clangite et exclamate: 'Domino et Gedeoni'.\" Vadit itaque Gedeon et trecenti viri qui erant cum eo ad tres partes castrorum, fere media nocte, et coeperunt tubis clangere, et complodere lagenas inter se. Cumque per circuitum castrorum in tribus clangerent locis, et lagenas complosissent, tenuerunt sinistris manibus lampades, et dexteris tubas. Clamaveruntque: \"Gladius Domini et Gedeonis,\" stantes singuli in loco suo per circuitum castrorum hostium. Omnia itaque castra turbata sunt, et vociferantes et ululantes fugerunt. Nihilominus, trecenti viri clangebant tubis, militesque hostium mutua caede se interfecerunt.",
      "explanation": "Veteribus Studeamus. Let us review: the first and second person passive of all regular verbs. Watch for the forms in this reading such as liberatus sum (I was freed) and confortabuntur manus tuae (your hands will be strengthened), and note how the ablative absolute carries the action: sumptis cibis et tubis (the food and trumpets having been taken), lagenis complosis (the jars having been struck together).",
+     "divisio": {
+      "overview": "The passage moves through the twofold sifting of the army, the night reconnaissance, and the trumpet-and-jar attack that routs Midian.",
+      "parts": [
+       {
+        "label": "The fearful sent home",
+        "detail": "At the spring Harad the Lord, lest Israel boast, has Gedeon dismiss the fearful, and twenty-two thousand depart, leaving ten thousand."
+       },
+       {
+        "label": "The test at the water",
+        "detail": "The Lord judges the army at the water and keeps only the three hundred who lapped with the hand, sending the rest home."
+       },
+       {
+        "label": "The night in the enemy camp",
+        "detail": "Gedeon and Phara slip down and overhear a Midianite recount the dream of the barley loaf, interpreted as Gedeon's sword."
+       },
+       {
+        "label": "The plan with trumpets and jars",
+        "detail": "Gedeon divides the three hundred into three companies armed with trumpets, empty jars, and torches, with a set signal and cry."
+       },
+       {
+        "label": "The rout of Midian",
+        "detail": "At the trumpet blasts, smashed jars, and shouts, the panicked enemy camp flees and the men kill one another in mutual slaughter."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "consurgere",
@@ -21536,6 +24367,27 @@ window.COURSE_DATA.courses.push({
      "lead": "After Gideon, another judge appears, born to deliver Israel from the Philistines.",
      "original": "In parte meridionali Palestinae, ad Mare Mediterraneum, habitabat alius populus. Hi homines, qui Philisthini vocabantur, in quinque urbibus campi ad mare domos suas habebant: in Azoto, Gaza, Geth, Ascalon, et Accaron. In libro prophetae Amos (9:7) dicitur quod Philisthini venerunt ex Caphtor in Palestinam. Quidam scriptores hodierni putant quod nomen Caphtor idem est ac nomen Keftiu in lingua Aegyptiaca. Keftiu autem potest significare aut insulam quam nos vocamus Cretam, aut etiam quasdam terras in Asia Minore quae ad Cretam pertinebant. Nescimus quo tempore Philisthini in Palestinam venerint -- probabiliter saeculo tertio decimo ante Christum. Nomen \"Palestina\" venit a nomine horum Philisthinorum. Philisthini meliora habuerunt arma quam Israelitae. Itaque facile Israelitas sibi subiecerunt. Haec subiectio facta est propter peccata Israel: Filii enim Israel fecerunt malum in conspectu Domini. Qui tradidit eos in manus Philisthinorum quadraginta annis. Sed misericordia Dei populum suum semper sequebatur. Erat enim vir quidam de tribu Dan, cuius nomen erat Manue. Quodam die, angelus Domini uxori huius Manue apparuit, dixitque: \"Filium habebis. Novacula caput eius non tanget: erit enim nazaraeus Dei ab infantia sua. Ipse incipiet liberare Israel de manu Philisthinorum.\" Cumque infans natus esset, vocatus est Samson. Hic Samson valde mirabilem habuit fortitudinem: cum enim in quandam urbem Philisthinorum descenderet, occurrit ei catulus leonis, ferox et rugiens. Venit autem Spiritus Domini in Samson, et dilaceravit leonem, quasi hoedum in frusta discerpens. Samson etiam multos Philisthinos interfecit, ita ut Philisthini eum ligare vellent. Quodam die venit Samson in Gazam, quae erat urbs Philisthina. Quod cum audissent Philisthini, circumdederunt eum, positis in porta civitatis custodibus. Et tota nocte cum silentio praestolantes, ut mane exeuntem occiderent. Dormivit autem Samson usque ad medium noctis: et inde consurgens apprehendit duas portas civitatis, et impositas humeris suis, portavit ad verticem montis. Post haec amavit Samson mulierem quae habitabat in valle Sorec, et vocabatur Dalila. Veneruntque ad eam principes Philisthinorum, atque dixerunt: \"Decipe eum, et disce ab illo, in quo habeat tantam fortitudinem, et quo modo eum superare valeamus. Quod si (not: but if -- here means: si hoc) feceris, dabimus tibi singuli mille et centum argenteos.\" Locuta est ergo Dalila ad Samson: \"Dic mihi, obsecro, in quo sit tua maxima fortitudo, et quid sit quo ligatus erumpere non possis?\" Cui respondit Samson: \"Si septem nerviceis funibus necdum siccis et adhuc humentibus ligatus fuero, infirmus ero sicut ceteri homines.\" Attuleruntque ad eam principes Philisthinorum septem funes, ut (as) dixerat. Quibus vinxit eum. Quod cum factum esset, exclamavit Dalila: \"Philisthini super te, Samson.\" Qui rupit vincula, quomodo si rumpit quis filum. Et non erat cognitum in quo esset fortitudo eius. Dixitque ad eum Dalila: \"Ecce, illusisti mihi, et falsum locutus es. Saltem nunc indica mihi, quo ligari debeas.\" Cui ille respondit: \"Si ligatus fuero novis funibus, qui numquam fuerunt in opere, infirmus ero, et aliis hominibus similis.\" Quibus rursus Dalila vinxit eum, exclamavitque: \"Philisthini super te, Samson.\" Qui rupit vincula quasi filum.",
      "explanation": "Note the recurring patterns of subjection and deliverance: subiectio facta est propter peccata (the subjection was made because of sins), and the conditional future-perfect forms Samson uses, such as si ligatus fuero (if I shall have been bound), with the apodosis infirmus ero (I shall be weak). Keep reviewing the first and second person passive of regular verbs, as in illusisti mihi (you have mocked me) and falsum locutus es (you have spoken falsely).",
+     "divisio": {
+      "overview": "The lesson opens with a geographical and historical note on the Philistines, then narrates Samson's birth, his feats of strength, and the start of Dalila's testing.",
+      "parts": [
+       {
+        "label": "The Philistines introduced",
+        "detail": "Their five coastal cities, their possible origin from Caphtor, their better weapons, and how they subjected sinful Israel for forty years."
+       },
+       {
+        "label": "The promised child",
+        "detail": "The angel tells Manue's wife she will bear a nazirite whom no razor will touch and who will begin to free Israel."
+       },
+       {
+        "label": "Samson's feats of strength",
+        "detail": "Samson tears a young lion apart, kills many Philistines, and carries off the gates of Gaza to a mountaintop."
+       },
+       {
+        "label": "Dalila's first attempts",
+        "detail": "Samson loves Dalila, who is bribed by the chiefs, and he twice deceives her with false answers, snapping the cords and ropes."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "campus",
@@ -21844,6 +24696,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Samson finally confesses to Dalila that his strength lies in his uncut hair, and his betrayal leads to his death and his last great victory.",
      "original": "Dixitque rursus Dalila ad eum: \"Usquequo decipis me, et falsum loqueris? Ostende, quo vinciri debeas.\" Cui respondit Samson: \"Si septem crines capitis mei cum licio plexueris, et clavum his circumligatum terrae fixeris, infirmus ero.\" Quod cum fecisset Dalila, dixit ad eum: \"Philisthini super te sunt, Samson.\" Qui consurgens extraxit clavum. Dixitque ad eum Dalila: \"Quomodo dicis quod amas me, cum animus tuus non sit mecum? Per tres vices mentitus es mihi, et noluisti dicere, in quo sit maxima fortitudo tua.\" Cumque saepe interrogaret, et molesta esset ei, et per multos dies non daret spatium ad quietem, defecit anima Samson, quamquam vir fortissimus erat in omni Israel. Et ad mortem lassata est anima eius. Tunc, aperiens veritatem rei, dixit ad eam: \"Novacula numquam ascendit super caput meum, quia nazareus, id est, consecratus Deo sum ex utero matris meae. Si rasum fuerit caput meum, recedet a me fortitudo mea, et deficiam, eroque sicut ceteri homines.\" Vidensque illa quod confessus ei esset omnem veritatem, misit ad principes Philisthinorum ac mandavit: \"Ascendite, quia nunc mihi aperuit cor suum.\" Qui ascenderunt, assumpta pecunia quam Dalilae promiserant. Cumque Samson dormiret, Dalila rasit septem crines eius. Statimque dixit: \"Philisthini super te Samson.\" Qui consurgens de somno, cogitavit in animo suo: \"Egrediar, sicut ante feci,\" nesciens quod recessisset a se Dominus. Quem cum apprehendissent Philisthini, statim eruerunt oculos eius, et duxerunt Gazam (remember, no prepositions needed with names of cities) vinctum catenis, et claudentes in carcere eum molere coegerunt. Iamque crines capitis eius iterum crescere coeperant, et principes Philisthinorum convenerunt in unum, ut immolarent hostias magnas Dagon deo suo, et epularentur dicentes: \"Tradidit deus noster inimicum nostrum Samson in manus nostras.\" Quod etiam populus Philisthinorum videns, laudabat deum suum, eademque dicebat: \"Tradidit deus noster inimicum nostrum in manus nostras, qui delevit terram nostram, et occidit plurimos.\" Et laeti in convivio, praeceperunt ut vocaretur Samson, et ante eos luderet. Qui ductus de carcere ludebat ante eos, feceruntque eum stare inter duas columnas. Qui dixit puero ducenti se: \"Duc me ut tangam columnas quibus omnis domus nititur, et me reclinem super eas, ut requiescam.\" Domus autem erat plena virorum ac mulierum, et erant ibi omnes principes Philisthinorum, ac de tecto et solario circiter tria millia utriusque sexus spectantes ludentem Samson. At ille, invocato Domino, ait: \"Domine Deus, memento mei, et redde mihi nunc fortitudinem quam olim habui, ut ulciscar me de hostibus meis, et pro duobus oculis meis, quos amisi, unam ultionem accipiam.\" Et apprehendens duas columnas, quibus nitebatur domus, alteram earum dextera, alteram laeva tenens, ait: \"Moriatur anima mea cum Philisthinis.\" Concussisque fortiter columnis, cecidit domus super omnes principes, et ceteram multitudinem, quae ibi erat. Multoque plures interfecit moriens Samson, quam antea vivus occiderat. Descendentes autem fratres eius, et universa cognatio eius, tulerunt corpus eius, et sepelierunt in sepulchro patris sui Manue.",
      "explanation": "Let us review: Quis and aliquis (60 C; 61 C); imperatives (64 C); and the future perfect indicative active and perfect subjunctive active (64 A, B). In lesson 8 we recalled that when the main clause is in a past setting, we pick between the imperfect and pluperfect subjunctive according to sense. Now let us note that, similarly, if the main clause is in a present or future setting, we pick between the present and perfect subjunctive according to sense.",
+     "divisio": {
+      "overview": "The passage proceeds from Dalila's continued probing to the betrayal and capture, then to the feast and Samson's final, fatal feat.",
+      "parts": [
+       {
+        "label": "More false answers",
+        "detail": "Samson gives Dalila another deceptive answer about the loom, and she presses him daily until his soul is worn to death."
+       },
+       {
+        "label": "The secret revealed and betrayed",
+        "detail": "Samson confesses his nazirite vow and uncut hair, Dalila summons the chiefs, shaves his head, and his strength leaves him."
+       },
+       {
+        "label": "Capture and the feast",
+        "detail": "The Philistines blind, bind, and set him to grind, then gather to sacrifice to Dagon and call out Samson to mock him."
+       },
+       {
+        "label": "The temple pulled down",
+        "detail": "Samson prays for one last surge of strength, pushes the two pillars apart, and kills more dying than he had living."
+       },
+       {
+        "label": "Burial",
+        "detail": "His kin carry his body away and bury him in his father Manue's tomb."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "usquequo",
@@ -22106,6 +24983,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The boy Samuel grows up serving in the house of the Lord, and God begins to speak to him directly, marking him as a faithful prophet.",
      "original": "In saeculo duodecimo ante nativitatem Christi erat mulier pia, nomine Anna, quae liberos non habuit. Quam propter causam, Anna ad Deum orabat ut filium habere mereret, simul Deo promittens dare hunc filium Deo. Deus orationem Annae audivit, natusque est filius qui Samuel nominatus est. Cumque puer Samuel adhuc infans esset, vadit Anna ad domum Domini quae erat in Silo, deditque puerum sacerdoti qui vocabatur Heli. Heli autem erat vir bonus, sed duos filios, Ophni et Phinees, qui non erant pii, habuit. Hi duo filii turbabant homines bonos qui sacrificia Deo offerre voluerunt, sumentes partem sacrificii antequam offeretur. Heli itaque, pater eorum, debuit eos punire, sed hoc non fecit. Missus est igitur ad Heli quidam propheta (cuius nomen nescimus) et ait ad eum: \"Haec dicit Dominus: Nonne aperte revelatus sum domui patris tui, cum essent in Aegypto in domo Pharaonis? Et elegi eum ex omnibus tribubus Israel mihi in sacerdotem, ut ascenderet ad altare meum, et dedi domui patris tui omnia de sacrificiis filiorum Israel. Quare magis honoravisti filios tuos quam me, ut comederent primitias omnis sacrificii Israel, populi mei? Propterea ait Dominus Deus Israel: Loquens locutus sum, ut domus patris tui ministraret in conspectu meo usque in aeternum. Nunc autem dicit Dominus: Nullo modo hoc erit: sed quicumque glorificaverit me, glorificabo eum. Qui autem contemnunt me, erunt ignobiles. Hoc autem erit tibi signum, quod veniet duobus filiis tuis, Ophni et Phinees: in die uno morientur duo. Et suscitabo mihi sacerdotem fidelem, qui iuxta cor meum faciet. Et aedificabo ei domum fidelem, et ambulabit coram christo meo cunctis diebus.\" Puer autem Samuel ministrabat Domino coram Heli, et sermo Domini erat pretiosus in diebus illis. Non erat visio manifesta. Factum est ergo die quadam: Heli iacebat in loco suo, et Samuel dormiebat in templo Domini, ubi erat arca Dei. Et vocavit Dominus Samuel. Qui respondens, ait: \"Ecce, ego.\" Et cucurrit ad Heli, et dixit: \"Ecce ego: vocavisti enim me.\" Qui dixit: \"Non vocavi. Revertere, et dormi.\" Et abiit et dormivit. Et Dominus rursum vocavit Samuelem. Consurgensque Samuel, abiit ad Heli et dixit: \"Ecce ego, quia vocavisti me.\" Qui respondit: \"Non vocavi te, fili mi. Revertere et dormi.\" Samuel autem nondum sciebat Dominum, neque revelatus fuerat ei sermo Domini. Et venit Dominus iterum et vocavit adhuc Samuelem tertio. Qui consurgens abiit ad Heli et ait: \"Ecce ego, quia vocavisti me.\" Intellexit ergo Heli, quod Dominus vocaret puerum, et ait ad Samuelem: \"Vade et dormi, et si iterum vocaverit te, dices: 'Loquere, Domine, quia audit servus tuus.'\" Abiit ergo Samuel, et dormivit in loco suo. Et venit Dominus et vocavit iterum: \"Samuel, Samuel.\" Et ait Samuel: \"Loquere, Domine, quia audit servus tuus.\" Et dixit Dominus ad Samuelem: \"Ecce ego facio verbum in Israel, quod quicumque audierit, tinnient ambae aures eius. In die illa suscitabo adversum Heli omnia quae locutus sum super domum eius. Incipiam, et complebo. Praedixi enim quod iudicabo domum eius in aeternum propter iniquitatem, quia noverat indigne agere filios suos, et non corripuerit eos. Ergo iuravi domui Heli quod non expietur iniquitas domus eius victimis et muneribus usque in aeternum.\" Dormivit autem Samuel usque ad mane, aperuitque portas domus Domini. Et Samuel timebat dicere visionem Heli. Vocavit ergo Heli Samuelem et dixit: \"Samuel, fili mi!\" Qui respondens ait: \"Adsum.\" Et interrogavit eum: \"Quis est sermo quem locutus est Dominus ad te? Oro te, ne abscondas sermonem hunc. Haec faciat tibi Deus, et haec addat, si absconderis a me verbum ex omnibus verbis quae dicta sunt tibi.\" Indicavit itaque Samuel universos sermones, et non abscondit ab eo. Et ille respondit: \"Dominus est. Quod bonum est in oculis suis, faciat.\" Crevit autem Samuel, et Dominus erat cum eo, et cognovit universus Israel a Dan usque ad Bersabee, quod fidelis Samuel propheta esset Domini. Et apparuit Dominus iterum Samueli in Silo.",
      "explanation": "Continue the review begun in this Lectio: imperatives such as Loquere and Revertere, and the perfect and future perfect forms (glorificaverit, audierit, vocaverit). Notice the idiom Loquens locutus sum, meaning \"I have really spoken,\" and the formula Haec faciat tibi Deus et haec addat, meaning \"May God do these things to you and add these things,\" that is, double them.",
+     "divisio": {
+      "overview": "The narrative moves from Samuel's birth and dedication, through the prophecy against Heli's house, to the nighttime calling and Samuel's first message.",
+      "parts": [
+       {
+        "label": "Anna's vow and Samuel's dedication",
+        "detail": "The childless Anna prays for a son, vows him to God, and after his birth gives the boy Samuel to the priest Heli at Silo."
+       },
+       {
+        "label": "Heli's wicked sons",
+        "detail": "Heli's sons Ophni and Phinees abuse the sacrifices, and their father fails to punish them."
+       },
+       {
+        "label": "The prophet's oracle against Heli",
+        "detail": "An unnamed prophet announces that Heli's sons will die in one day and that the Lord will raise up a faithful priest instead."
+       },
+       {
+        "label": "The Lord calls Samuel",
+        "detail": "Three times the Lord calls the sleeping boy, who runs to Heli, until Heli perceives it is God and tells him how to answer."
+       },
+       {
+        "label": "The message and Samuel's standing",
+        "detail": "The Lord foretells judgment on Heli's house, Samuel reluctantly tells it all, and all Israel comes to know him as a true prophet."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "liberi",
@@ -22385,6 +25287,31 @@ window.COURSE_DATA.courses.push({
      "lead": "In the days of Heli the priest, the Philistines defeat Israel and seize the ark of the covenant.",
      "original": "Temporibus sacerdotis Heli, convenerunt Philisthini in pugnam adversus Israel. Et incepto proelio, coactus est Israel fugere a Philisthinis, et interfecta sunt in illa pugna passim per agros quasi quattuor millia virorum. Et reversus est populus ad castra. Dixeruntque maiores natu de Israel: \"Quare percussit nos Dominus hodie coram Philisthinis? Feramus ad nos de Silo arcam foederis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum.\" Misit ergo populus in Silo, et tulerunt inde arcam foederis Domini exercituum sedentia super Cherubim. Erantque duo filii Heli cum arca foederis Dei, Ophni et Phinees. Cumque venisset arca foederis Domini in castra, vociferatus est omnis Israel clamore magno. Et audierunt Philisthini vocem clamoris, dixeruntque: \"Quaenam est haec vox clamoris magni in castris Hebraeorum?\" Et cognoverunt quod arca Domini venisset in castra. Timueruntque Philisthini, dicentes: \"Venit Deus in castra.\" Et doluerunt dicentes: \"Vae nobis. Quis nos salvabit de manu Deorum sublimium istorum? Hi sunt Dii qui percusserunt Aegyptum omni plaga in deserto. Sed confortamini, et estote viri Philisthini. Ne serviatis Hebraeis, sicut et illi servierunt vobis: confortamini et pugnate.\"\nPugnaverunt ergo Philisthini, et caesus est Israel, et fugit unusquisque in tabernaculum suum, et facta est plaga magna valde. Et ceciderunt de Israel triginta millia peditum. Et arca Dei capta est. Duo quoque filii Heli, iuxta prophetiam datam ad Heli, mortui sunt, Ophni et Phinees.\nCurrens autem quidam vir de tribu Beniamin ex proelio, venit in Silo in die illa, vidensque Heli, venit et nuntiavit ei. Heli autem erat nonaginta et octo annorum, et oculi eius caligaverant, et videre non poterat. Dixitque nuntius ad Heli: \"Ego sum qui veni de proelio, et ego qui de acie fugi hodie.\" Cui ille ait: \"Quid actum est, fili mi?\" Respondens autem ille, qui nuntiabat: \"Fugit,\" inquit, \"Israel coram Philisthiim, et ruina magna facta est in populo. Insuper et duo filii tui mortui sunt, Ophni et Phinees: et arca Dei capta est.\" Cumque ille nominavisset arcam Dei, cecidit de sede retrorsum Heli, et fracta cervice, mortuus est. Senex enim erat vir et grandaevus; et ipse iudicavit Israel quadraginta annis.\nPhilisthiim autem tulerunt arcam Dei, et eam in Azotum portaverunt. Tuleruntque Philisthiim arcam Dei, et eam in templum dei sui Dagon intulerunt, et posuerunt eam iuxta Dagon. Cumque surrexissent diluculo altera die, ecce, Dagon iacebat pronus in terra ante arcam Domini. Et tulerunt Dagon, et restituerunt eum in locum suum. Rursumque mane die altera consurgentes, invenerunt Dagon iacentem super faciem suam in terra coram arca Domini. Caput autem Dagon, et duae palmae manuum eius abscissae erant super limen. Et solus truncus Dagon remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum eius super limen Dagon in Azoto usque in hunc diem. Gravis autem facta est manus Domini super habitantes in Azoto, et confusio mortis magnae in civitatem venit. Videntes autem viri Azotii huiuscemodi plagam dixerunt: \"Non maneat arca Dei Israel apud nos, quia gravis est manus eius super nos, et super Dagon deum nostrum.\" Et mittentes congregaverunt omnes principes Philisthinorum ad se, et dixerunt: \"Quid faciendum de arca Dei Israel?\" Responderuntque principes ex urbe Geth: \"Circumducenda est arca Dei Israel.\" Et circumduxerunt arcam Dei Israel.\nIllis autem circumducentibus eam, gravis fiebat manus Domini per singulas civitates, multosque interficiebat Deus Israel. Cumque fuisset arca Domini in regione Philisthinorum septem menses, vocaverunt Philisthiim sacerdotes et vates dicentes: \"Quid faciendum de arca Domini? Indicate nobis quomodo remittenda sit in locum suum.\" Qui dixerunt: \"Si remittitis arcam Dei Israel, nolite dimittere eam vacuam, sed quod debetis, reddendum est pro peccato, et tunc curabimini. Et scietis quare non recedat manus eius a vobis.\" Philisthini igitur fecerunt omnia quae dixerunt vates. Remiseruntque arcam Dei Israel. Mansitque arca Dei in Cariathiarim viginti annos. Sed multi ex populo Israel deos falsos, praesertim Baalim et Astaroth, coluerunt. Quam propter causam Dominus non benedixit eis, sed per Philisthinos afflicti sunt. Samuel autem laborare non cessavit ut populum suum ad Deum verum reduceret. Cumque eos a falsis diis ad Deum verum convertisset, Deus etiam populum suum contra hostes suos adiuvit, ita ut Philisthinos vincerent. Et restitutae sunt eis urbes quas tulerant Philisthiim ab Israel.",
      "explanation": "Future Passive Participle (the gerundive). It is formed on the first part of the verb, using the ending -ndus, with the same connective vowels as in the imperfect indicative. So you could take any imperfect form (for example the 3rd singular), remove the -bat, and add -ndus. The participle has all the endings of bonus: thus parandus, habendus, ponendus, capiendus, audiendus. How is it used? It expresses obligation. Study this sample: \"Hoc est faciendum mihi,\" This is TO BE DONE by me. A crude but simple translation formula that works with all normal examples is: TO BE plus the 3rd part (participle) of the English verb. Notice that we use the dative for the agent: ordinarily we use a preposition with the ablative for such ideas, but not with the future passive participle. Notice also that this future passive participle normally comes with a linking verb, that is, the verb to be, or any verb that behaves the same way, such as to seem or to be called. Now notice that \"Hoc est faciendum mihi\" could also be rendered \"I must do it.\" The dative becomes the English subject, and we insert must before the English verb. With that in mind we can translate an odd sort of example, for some verbs that have no passive in English can still be used in this construction in Latin: \"Veniendum est mihi,\" I must come; \"Eundum est tibi,\" You must go. We could not say \"It is to be come by me,\" but we soon learn to jump at once to \"I must come.\" This construction is very handy once one gets used to it.",
+     "divisio": {
+      "overview": "The reading runs as a chain of five scenes tracing the ark from Israel's defeat to its eventual return.",
+      "parts": [
+       {
+        "label": "Defeat, the ark brought, and Philistine alarm",
+        "detail": "Israel loses the first battle, the elders fetch the ark from Silo into the camp, and the Philistines, hearing Israel's shout, first fear God's presence then rally one another to fight."
+       },
+       {
+        "label": "Second battle and capture",
+        "detail": "The Philistines rout Israel, thirty thousand foot soldiers fall, Heli's sons die, and the ark is seized."
+       },
+       {
+        "label": "Heli's death",
+        "detail": "A messenger reports the rout and the ark's loss, and the old priest falls from his seat and dies."
+       },
+       {
+        "label": "The ark afflicts the Philistines",
+        "detail": "Set beside Dagon, the ark topples the idol and brings plague on Azotus and the other cities."
+       },
+       {
+        "label": "Return and aftermath",
+        "detail": "On the seers' advice the ark is sent back, and Samuel later turns the people from idols to victory."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "passim",
@@ -22652,6 +25579,31 @@ window.COURSE_DATA.courses.push({
      "lead": "When Samuel has grown old, the elders of Israel come asking for a king to rule them like the other nations.",
      "original": "Factum est autem cum senuisset Samuel: Filios suos iudices in Israel fecit. Sed non ambulaverunt filii illius in viis eius, sed post avaritiam declinaverunt, acceperuntque munera, et perverterunt iudicium. Congregati ergo universi maiores natu Israel venerunt ad Samuelem in Ramatha, dixeruntque ei: \"Ecce, tu senuisti, et filii tui non ambulant in viis tuis. Constitue nobis regem, ut iudicet nos, sicut et universae habent nationes.\" Populus enim Israel viderat multas alias gentes reges habere, cumque semper periculum ex Philisthinis esset, unitatem sub rege reperire cupiebant. Sed displicuit sermo eorum in oculis Samuelis eo quod dixissent: \"Da nobis regem ut iudicet nos.\" Et oravit Samuel ad Dominum. Dixit autem Dominus ad Samuelem: \"Audi vocem populi in omnibus quae loquuntur tibi. Non enim te abiecerunt, sed me, ne regnem super eos. Iuxta omnia opera sua quae fecerunt a die qua eduxi eos de Aegypto, sicut dereliquerunt me et servierunt diis alienis, sic faciunt etiam tibi. Nunc autem vocem eorum audi: verumtamen nuntia eis ius regis qui regnabit super eos.\" Dixit itaque Samuel omnia verba Domini ad populum qui petierat a se regem. Et ait: \"Hoc erit ius regis qui imperabit vobis: Filios vestros tollet, et ponet in curribus suis, facietque sibi equites et praecursores quadrigarum suarum. Et constituet sibi tribunos, et centuriones, et aratores agrorum suorum, et messores segetum, et fabros armorum et curruum suorum. Filias quoque vestras faciet sibi unguentarias, et focarias, et panificas. Agros quoque vestros et vineas et oliveta optima tollet, et dabit servis suis. Sed et segetes vestras et vinearum reditus addecimabit, ut det servis suis. Servos etiam vestros et iuvenes optimos auferet, et ponet in opere suo, vosque eritis ei servi. Et clamabitis in die illa a facie regis vestri, quem elegistis vobis. Et non exaudiet vos Dominus in die illa, quia petistis vobis regem.\" Noluit autem populus audire vocem Samuelis, sed dixerunt: \"Nequaquam: rex enim erit super nos, et erimus nos quoque sicut omnes gentes: et iudicabit nos rex noster, et egredietur ante nos, et pugnabit bella nostra pro nobis.\" Et audivit Samuel omnia verba populi et locutus est ea Domino. Dixit autem Dominus ad Samuelem: \"Audi vocem eorum, et constitue super eos regem.\" Et ait Samuel ad viros Israel: \"Vadat unusquisque in civitatem suam.\"\nQuare Deus iratus est eo quod populus Israel regem sibi petisset? Non quia malum est in se habere regem, sed quia Deus ipse, per prophetas et iudices suos, rex Israel erat. Petens regem, populus Israel revera abiecit regnum Dei. Samuel avertere hoc ab eis conatus est, dicens eis omnia quae rex facere poterat. Sed non potuit Samuel persuadere eis. Itaque, sicut audiemus, dedit eis Samuel regem, cuius nomen erat Saul. Hoc factum est anno millesimo vigesimo (1020) ante nativitatem Christi, regnavitque Saul usque ad annum millesimum quartum (1004).",
      "explanation": "Besides the future passive participle, review the accusative of extent of space and time, and the ablative of extent of time. In today's story we meet confusio. Notice that there are many 3rd declension nouns in -io, -ionis, which are feminine; the English usually ends in -ion. Also note remittere: the prefix re- usually means \"back\" or \"again.\"",
+     "divisio": {
+      "overview": "The passage moves from the people's demand for a king, through Samuel's warning, to God's final consent, then closes with an explanatory note.",
+      "parts": [
+       {
+        "label": "Occasion of the demand",
+        "detail": "Samuel grows old and his corrupt sons judge badly, so the elders gather and ask for a king like the nations."
+       },
+       {
+        "label": "God's answer to Samuel",
+        "detail": "Displeased, Samuel prays, and the Lord tells him the people reject not him but God, yet bids him warn them of a king's rights."
+       },
+       {
+        "label": "The king's harsh rights",
+        "detail": "Samuel lists how a king will conscript sons and daughters, seize fields and produce, and reduce the people to servitude."
+       },
+       {
+        "label": "The people insist",
+        "detail": "Refusing the warning, they repeat their demand, and the Lord tells Samuel to grant them a king."
+       },
+       {
+        "label": "Explanatory note",
+        "detail": "The closing comment explains that demanding a king meant rejecting God's own kingship and dates Saul's reign."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "senescere",
@@ -22921,6 +25873,31 @@ window.COURSE_DATA.courses.push({
      "lead": "A young man of Benjamin sets out to find lost asses and instead finds the prophet who will anoint him king.",
      "original": "Erat vir de tribu Benjamin nomine Cis, cui erat filius nomine Saul. Et non erat vir de filiis Israel melior illo. Ab humero et sursum eminebat super omnem populum. Amissae autem erant asinae Cis, patris Saul, et dixit Cis ad Saul filium suum: \"Tolle tecum unum de pueris, et consurgens vade, ad reperiendas asinas.\" Qui cum per terras multas quaesivissent, asinas non invenerunt. Cum autem venissent in terram Suph, dixit Saul ad puerum qui erat cum eo: \"Veni, et revertamur, ne forte pater meus sollicitus sit pro nobis.\" Qui ait ei: \"Ecce, vir Dei est in civitate hac, vir nobilis. Omne quod loquitur, sine ambiguitate venit. Nunc ergo eamus illuc, si forte indicet nobis de via nostra, propter quam venimus.\" Dixitque Saul ad puerum suum: \"Ecce ibimus. Quid feremus ad virum Dei? Panis defecit in sportis nostris, nec quidquam habemus ut demus homini Dei.\" Rursum puer respondit Sauli et ait: \"Ecce, inventa est in manu mea quarta pars stateris argenti. Demus homini Dei.\" Et ascenderunt in civitatem. Cumque illi ambularent in media urbe, Samueli occurrerunt. Dominus autem locutus erat ei antequam veniret Saul dicens: \"Hac ipsa hora, quae nunc est, cras mittam virum ad te de terra Benjamin, et unges eum ducem super populum meum Israel. Et salvabit populum meum de manu Philisthinorum, quia respexi populum meum. Venit enim clamor eorum ad me.\" Cumque aspexisset Samuel Saulem, Dominus dixit ei: \"Ecce vir quem dixeram tibi. Iste dominabitur populo meo.\" Accessit autem Saul ad Samuelem in medio portae et ait: \"Indica, oro, mihi, ubi est domus Videntis.\" Et respondens Samuel Sauli dixit: \"Ego sum Videns. Ascende ante me, ad comedendum mecum hodie, et dimittam te mane. Et omnia quae sunt in corde tuo, indicabo tibi. Et de asinis quas nudiustertius perdidisti, ne sit metus tibi, quia repertae sunt. Et cui erunt omnia optima in Israel? Nonne tibi et omni domui patris tui erunt?\" Respondens autem Saul ait: \"Nonne sum filius ex tribu Benjamin, ex minima tribu Israel, et cognatio mea est novissima inter omnes familias de tribu Benjamin? Quare ergo locutus es mihi sermonem istum?\" Assumens itaque Samuel Saulem et puerum eius, introduxit eos in triclinium, et dedit eis locum in capite eorum qui fuerant invitati. Erant enim fere triginta viri. Dixitque Samuel coquo: \"Da partem, quam dedi tibi et praecepi ut reponeres seorsum apud te.\" Sumpsit autem coquus armum, et posuit ante Saul. Dixitque Samuel: \"Ecce, quod remansit. Pone ante te, et comede, quia de industria servatum est tibi quando populum vocavi.\" Et comedit Saul cum Samuele in die illa.",
      "explanation": "Gerundive to express purpose. The gerundive seems to be the same as the future passive participle, which we have already learned. The same form may be used to express the idea of purpose. We have already seen that Latin can express purpose by UT with the subjunctive. It seldom used the infinitive as English does. But the gerundive is almost as easy to use as the infinitive, once you get used to it. Venit ad videndum Caesarem means \"He came to see Caesar.\" Here videndum is a verbal noun (gerund) in the accusative after ad, taking Caesarem as its direct object; the true gerundive, where the form agrees with its noun, would be ad Caesarem videndum. The whole phrase, ad videndum Caesarem, is in the objective case because of the preposition ad. Notice that the whole phrase is equivalent to an English infinitive plus an object, to see Caesar. Now instead of ad, other prepositions could be used. The most common are causa and gratia (strictly speaking not prepositions, but close enough), which follow the phrase, instead of coming ahead as ad does. With causa and gratia we get the possessive case. Thus Venit videndi Caesaris causa, or Venit videndi Caesaris gratia. The meaning is still \"He came to see Caesar.\" Therefore we should consider that ad, causa, or gratia plus the gerundive is equivalent to an English infinitive in a purpose construction.",
+     "divisio": {
+      "overview": "The narrative follows Saul on a journey, from the lost asses, to his decision to consult the seer, to the meeting and feast at which God marks him out.",
+      "parts": [
+       {
+        "label": "The lost asses",
+        "detail": "Cis sends his son Saul with a servant to search for the strayed she-asses, but they cannot be found."
+       },
+       {
+        "label": "Plan to consult the seer",
+        "detail": "The servant proposes seeking the man of God in the city, and they settle what gift to bring him."
+       },
+       {
+        "label": "God prepares Samuel",
+        "detail": "The Lord has already told Samuel that the man coming to him is to be anointed leader over Israel."
+       },
+       {
+        "label": "The meeting",
+        "detail": "Saul asks Samuel for the seer's house, and Samuel reveals himself, that the asses are found, and Saul's coming greatness."
+       },
+       {
+        "label": "The feast",
+        "detail": "Samuel seats Saul at the head of the guests and gives him the reserved portion, and Saul eats with him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cui erat filius",
@@ -23137,6 +26114,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Saul is proclaimed king before all Israel, wins against the Ammonites, but his rash sacrifice during the Philistine war loses him the kingdom.",
      "original": "Proximo die, cum mane surrexissent, vocavit Saulem Samuel dicens: \"Surge, et dimittam te.\" Et surrexit Saul; egressique sunt ambo, ipse et Samuel. Cumque descenderent in extrema civitatis, Samuel dixit ad Saul: \"Dic puero ut antecedat nos. Tu autem sta paulisper, ut indicem tibi verbum Domini.\" Tulit autem Samuel lenticulam olei, et super caput eius effudit, et osculatus est eum et ait: \"Ecce, te unxit Dominus super hereditatem suam in principem, et liberabis populum de manibus inimicorum eius, qui in circuitu eius sunt.\" Post haec convocavit Samuel populum ad Dominum in Maspha, et ait ad filios Israel: \"Haec dicit Dominus Deus Israel: Ego eduxi Israel de Aegypto, et liberavi vos de manu Aegyptiorum, et de manu omnium regum qui affligebant vos. Vos autem hodie abiecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris, et dixistis: Nequaquam, sed regem super nos constitue. Nunc ergo state coram Domino per tribus vestras et per familias.\" Et vocavit ad se Samuel omnes tribus Israel, et evenit sors tribus Benjamin. Et vocavit tribum Benjamin et cognationes eius, et evenit cognatio Metri. Et pervenit Samuel usque ad Saul, filium Cis. Quaesierunt ergo eum, et non est inventus. Et consuluerunt post haec Dominum, utrum venturus esset Saul illuc. Responditque Dominus: \"Ecce, absconditus est domi.\" Cucurrerunt itaque, et tulerunt eum inde. Stetitque Saul in medio populi, et altior fuit quam universus populus ab humero et sursum. Et ait Samuel ad omnem populum: \"Certe videtis, quem elegit Dominus, quia non est similis illi in omni populo.\" Et clamavit omnis populus et ait: \"Vivat rex!\" Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et posuit coram Domino. Et dimisit Samuel omnem populum, singulos in domum suam. Sed et Saul abiit in domum suam in Gabaa; et abiit cum eo pars exercitus, quorum tetigerat Deus corda. Quidam autem dixerunt: \"Num salvare nos poterit iste?\" Et despexerunt eum, et non dederunt ei munera. Ille vero dissimulabat se audire, et reversus est in agros suos. Sed Saul non poterat in agris longum tempus remanere; invaserunt Ammonitae et Saul debuit exercitum ducere contra eos. Quod fecit, victoriamque obtinuit. Mox etiam bellum adversum Philisthiim venit. Et Philisthiim congregati sunt ad bellandum contra Israel: triginta millia curruum, et sex millia equitum, et reliquus populus sicut arena, quae est in littore maris. Et ascendentes castrametati sunt in Machmas. Quod cum vidissent viri Israel se in angustia positos (afflictus enim erat populus) absconderunt se in speluncis et in aliis locis secretis. Cumque adhuc esset Saul in Galgala, universus populus perterritus est, qui eum sequebatur. Exspectavitque Saul septem dies, iuxta voluntatem Samuelis, et non venit Samuel in Galgala. Dilapsusque est populus ab eo. Ait ergo Saul: \"Afferte mihi holocaustum.\" Et obtulit holocaustum. Cumque complesset offerens holocaustum, ecce Samuel veniebat; et egressus est Saul obviam ei, ut salutaret eum. Locutusque est ad eum Samuel: \"Quid fecisti?\" Respondit Saul: \"Quia vidi quod populus dilaberetur a me, et tu non veneras iuxta constitutos dies, sed Philisthiim congregati fuerant in Machmas, dixi: Nunc descendent Philisthiim ad me in Galgala, et faciem Domini non placavi. Necessitate compulsus, obtuli holocaustum.\" Dixitque Samuel ad Saul: \"Stulte egisti, nec custodisti mandata Domini Dei tui, quae praecepit tibi. Quodsi non fecisses, nunc praeparavisset Dominus regnum tuum super Israel in sempiternum. Sed nequaquam regnum tuum ultra consurget. Quaesivit Dominus sibi virum iuxta cor suum, et praecepit ei Dominus ut esset dux super populum suum, eo quod non servaveris quae praecepit Dominus.\"",
      "explanation": "Certain other prepositions can also be used with the gerundive, but we need not learn them now. They are chiefly, with the objective case, ob and propter, and with the ablative, pro. Let us also go over the dative of possession. Note the prefix per (as in perterrere) can either mean 'through' or strengthen the general meaning. The prefix in iste sometimes adds a note of contempt, or means 'that of yours,' and is declined like ille.",
+     "divisio": {
+      "overview": "The passage advances through four stages of Saul's kingship: private anointing, public selection, early victory, and the rash sacrifice that loses him the throne.",
+      "parts": [
+       {
+        "label": "Private anointing",
+        "detail": "Samuel pours oil on Saul's head, kisses him, and declares him chosen leader to free the people."
+       },
+       {
+        "label": "Public choice at Maspha",
+        "detail": "Samuel rebukes the people, then by lot the tribe and Saul are taken, and the people shout 'Vivat rex.'"
+       },
+       {
+        "label": "First test and victory",
+        "detail": "Some despise Saul, but the Ammonite invasion forces him to lead the army, and he wins."
+       },
+       {
+        "label": "The Philistine war and rash sacrifice",
+        "detail": "Pressed at Galgala while his men scatter, Saul offers the holocaust himself rather than wait for Samuel."
+       },
+       {
+        "label": "Samuel's verdict",
+        "detail": "Samuel condemns the disobedience and tells Saul his kingdom will not stand, for God seeks another man."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "antecedere",
@@ -23406,6 +26408,35 @@ window.COURSE_DATA.courses.push({
      "lead": "Saul has won many battles, but his disobedience to God will cost him the kingship, and a shepherd boy will be chosen in his place.",
      "original": "Saul etiam alia bella pugnavit, et in omnibus inimicos Israel superavit. Verumtamen Saul ipse non semper custodivit mandatum Dei sui. In bello enim contra Amalec, Deus ipsi imperaverat ut victos interficeret quia peccatores erant, et ne possent ducere populum Israel in idololatriam. Imperavit etiam Dominus ut omnes possessiones eorum qui victi sunt delerent Israelitae. Haec Saul et populus non fecerunt. Non enim nocuerunt regi Amalec: ipsum et optimas res omnes servaverunt--solummodo vilia deleverunt. Post proelium autem, venit Samuel ad Saulem, dixitque ei: \"Sine me, et indicabo tibi, quae locutus sit Dominus ad me nocte.\" Dixitque ei: \"Loquere.\" Et ait Samuel: \"Nonne, cum parvulus esses in oculis tuis, caput in tribubus Israel factus es? Unxitque te Dominus ut esses rex populo tuo, et misit te Dominus in viam et ait: Vade, et interfice peccatores Amalec, et pugnabis contra eos usque ad internecionem eorum. Quare ergo non audisti vocem Domini, sed versus ad praedam es, et fecisti malum in oculis Domini?\" Et ait Saul ad Samuelem: \"Sed audivi vocem Domini et ambulavi in via per quam misit me Dominus, et servavi Agag regem Amalec et populum eius interfeci. Tulit autem de praeda populus primitias eorum quae caesa sunt, ut immolet Domino Deo suo in Galgala.\" Et ait Samuel: \"Num vult Dominus holocausta et victimas, et non potius, ut obediatur voci Domini? Melior est enim obedientia quam victimae, et audire magis quam offerre adipem arietum. Quia quasi peccatum ariolandi est repugnare Domino. Et quasi peccatum idololatriae, nolle audire Eum. Ergo eo quod abiecisti sermonem Domini, abiecit te Dominus, ne sis rex.\" Dixitque Saul ad Samuelem: \"Peccavi, quia non servavi sermonem Domini et verba tua, timens populum, et audiens vocem eorum. Sed nunc revertere mecum, ut adorem Dominum.\" Et ait Samuel ad Saul: \"Non revertar tecum, quia abiecisti sermonem Domini, et abiecit te Dominus, ne sis rex super Israel.\" Et conversus est Samuel ut abiret. Ille autem apprehendit summitatem pallii eius, quae scissa est. Et ait ad eum Samuel: \"Scidit Dominus regnum Israel a te hodie, et tradidit illud proximo tuo.\" At Saul ait: \"Peccavi; sed nunc honora me coram senioribus populi mei, et coram Israel, et revertere mecum, ad adorandum Dominum Deum tuum.\" Reversus ergo Samuel secutus est Saulem; et adoravit Saul Dominum. Post haec lugebat Samuel Saulem. Dixitque Dominus ad Samuelem: \"Usquequo tu luges Saul, cum ego abiecerim eum, ne regnet super Israel? Imple cornu tuum oleo, et veni, ut mittam te ad Isai Bethlehemitem. Providi enim in filiis eius mihi regem.\" Fecit ergo Samuel sicut locutus est ei Dominus, venitque in Bethlehem. Et admirati sunt seniores civitatis, occurrentes ei, dixeruntque: \"Pacificus est adventus tuus?\" Et ait: \"Pacificus: ad immolandum Domino veni. Sanctificamini, et venite mecum, ut immolem.\" Sanctificavit ergo Isai et filios eius, et vocavit eos ad sacrificium. Cumque Isai et filii eius ingressi essent, vidit Samuel Eliab, et ait: \"Num coram Domino est christus eius?\" Et dixit Dominus ad Samuelem: \"Ne respicias vultum eius, neque altitudinem staturae eius, quia non accepi eum, nec iuxta intuitum hominis ego iudico. Homo enim videt ea quae parent: Dominus autem videt cor.\" Et vocavit Isai Abinadab, et adduxit eum coram Samuele, qui dixit: \"Nec hunc elegit Dominus.\" Adduxit autem Isai Samma. De quo ait: \"Etiam hunc non elegit Dominus.\" Adduxit itaque Isai septem filios suos coram Samuele; et ait Samuel ad Isai: \"Non elegit Dominus ex istis.\" Dixitque Samuel ad Isai: \"Num iam completi sunt filii?\" Qui respondit: \"Adhuc reliquus est parvulus cuius nomen est David, et pascit oves.\" Et ait Samuel ad Isai: \"Mitte, et adduc eum.\" Misit ergo, et adduxit eum. Erat autem rufus, et bonus aspectu, et ait Dominus: \"Surge, unge eum: ipse est enim.\" Tulit ergo Samuel cornu olei, et unxit eum in medio fratrum eius. Et missus est Spiritus Domini a die illa in David. Surgensque Samuel, abiit in Ramatha. Spiritus autem Domini recessit a Saul, et invasit eum spiritus malus. Quid putaverunt Isai et alii fratres David de hac unctione? Nescimus. Samuel, iubente Deo, revera unxit David in regem futurum, sed probabiliter fratres, nescientes veram significationem, putabant eum ita unctum esse ut esset amico vel servo Samueli in sacrificio quod illo tempore oblatum est.",
      "explanation": "Today's lesson reviews the gerund. Gerunds are verbal nouns, half noun and half verb, just as participles are half verb and half adjective. The Latin gerund has only a few forms (genitive, dative, accusative, and ablative singular: i, o, um, o); no other forms are in use. It has chiefly two uses. First, to express purpose, just like the gerundive, except that this is a noun, so in English there will be no object, for example Venit in silvas septentrionales ad piscandum, He came into the north woods to fish (we could also use piscandi causa, piscandi gratia, ob piscandum). Second, as a mere verbal noun, translated by the English noun in -ing, for example Amor piscandi traxit eum in silvas, Love of fishing drew him into the woods; Exspectando, Fabius servavit Romam, By waiting, Fabius saved Rome. Notice also a special kind of dative in this story: ut obediatur voci Domini. The principle is simple: any verb that takes the dative in the active voice must be impersonal in the passive and keep the dative. By impersonal we mean a third singular form, with the subject 'it' in English, for example Magister parcit porco becomes Porco parcitur.",
+     "divisio": {
+      "overview": "The reading turns on Saul's sin and rejection, then shifts to the search for and anointing of his successor, closing with a comment on the brothers' understanding.",
+      "parts": [
+       {
+        "label": "Saul spares Agag",
+        "detail": "Commanded to destroy Amalec, Saul and the people instead keep the king and the best spoil."
+       },
+       {
+        "label": "Samuel's rebuke and the rejection",
+        "detail": "Samuel declares obedience better than sacrifice and pronounces that the Lord has rejected Saul as king."
+       },
+       {
+        "label": "The torn mantle and mourning",
+        "detail": "Saul tears Samuel's robe as a sign the kingdom is torn from him, and Samuel afterward mourns him."
+       },
+       {
+        "label": "The sons of Jesse reviewed",
+        "detail": "Sent to Bethlehem, Samuel passes over the elder sons, since the Lord looks at the heart, not appearance."
+       },
+       {
+        "label": "David anointed",
+        "detail": "The youngest, David the shepherd, is brought and anointed, and the Spirit of the Lord comes upon him."
+       },
+       {
+        "label": "Note on the brothers",
+        "detail": "A closing comment supposes the brothers did not grasp that David was anointed as future king."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "superare",
@@ -23630,6 +26661,31 @@ window.COURSE_DATA.courses.push({
      "lead": "A greater danger now threatens Israel: the Philistine champion Goliath, and only one unexpected figure will dare to face him.",
      "original": "Sed adhuc maius periculum erat a Philisthinis. Philisthiim enim castra habuerunt inter Socho et Azeca, et Saul et filii Israel venerunt et instruxerunt aciem contra eos. Et Philisthiim stabant super montem ex una parte, et Israel stabat supra montem ex altera parte. Vallisque erat inter eos. Et egressus est vir spurius de castris Philisthinorum, nomine Goliath, ex civitate Geth. Goliath autem vir maximae staturae erat--fere decem pedum in altitudinem. Insuper et magna arma habebat. Goliath igitur stans clamabat adversum acies Israel, et dicebat eis: \"Quare venistis parati ad proelium? Nonne ego sum Philisthaeus, et vos servi Saul? Eligite ex vobis virum, et descendat ad singulare certamen. Si poterit pugnare mecum, et percusserit me, erimus vobis servi. Si autem ego praevaluero, et percussero eum, vos servi eritis, et servietis nobis.\" Et aiebat Philisthaeus: \"Ego exprobravi aciebus Israel hodie: Date mihi virum, et ineat mecum singulare certamen.\" Audiens autem Saul, et omnes Israelitae sermones Philisthaei huiuscemodi, stupebant, et metuebant nimis. David autem erat filius Isai, de quo supra dictum est, de Bethlehem. Pater autem eius Isai octo filios habebat, et erat vir in diebus Saul senex. Abierunt autem tres filii eius maiores post Saul in proelium. Et nomina trium filiorum eius qui perrexerunt ad bellum: Eliab primogenitus, et secundus Abinadab, tertiusque Samma. David autem erat minimus. Tribus ergo maioribus secutis Saulem, abiit David (ante hoc saepe psallebat cithara in palatio Saul) ut pasceret oves patris sui in Bethlehem. Procedebat vero Philisthaeus mane et vespere, et stabat quadraginta diebus. Dixit autem Isai ad David filium suum: \"Accipe fratribus tuis cibos, et curre in castra ad fratres tuos. Et fratres tuos visitabis, si recte agant: et cum quibus ordinati sunt, disce.\" Surrexit itaque David mane, et abiit sicut praeceperat ei Isai. Et venit ad exercitum, qui egressus ad pugnam, vociferatus erat in certamine. Instruxerat enim aciem Israel, sed et Philisthiim ex alia parte fuerant praeparati. Derelinquens ergo David cibos quos attulerat, sub manu custodis, cucurrit ad locum certaminis, et interrogabat si omnia recte agerentur cum fratribus suis. Cumque adhuc loqueretur eis, apparuit vir ille spurius ascendens, Goliath nomine, Philisthaeus, de Geth, de castris Philisthinorum. Et, loquente eo haec eadem verba, audivit David. Omnes autem Israelitae, cum vidissent virum, fugerunt a facie eius, timentes eum valde. Et dixit quidam de Israel: \"Vidistis virum hunc, qui ascendit? Ad exprobrandum enim Israeli ascendit. Virum ergo, qui percusserit eum, ditabit rex divitiis magnis, et filiam suam dabit ei, et domum patris eius faciet sine tributo in Israel.\" Et ait David ad viros qui stabant secum, dicens: \"Quid dabitur viro qui percusserit Philisthaeum hunc, et tulerit opprobrium de Israel? Quis enim est hic Philisthaeus incircumcisus, qui exprobravit aciebus Dei viventis?\" Referebat autem ei populus eundem sermonem, dicens: \"Haec dabuntur viro qui percusserit eum.\" Quod cum audisset Eliab, frater eius maior, loquente eo cum aliis, iratus est contra David, et ait: \"Quare venisti, et dereliquisti oves in deserto? Ego scio superbiam tuam, et nequitiam cordis tui, quia, ut videres proelium descendisti.\" Et dixit David: \"Quid feci? Nonne licet interrogare?\" Et interrogavit David etiam alium virum de verbis regis, eundemque sermonem audivit.",
      "explanation": "This part of today's lesson continues the dative review. Any verb that takes the dative in the active voice must be impersonal in the passive and keep the dative; by impersonal we mean a third singular form, with the subject 'it' in English. For example, Hannibal nocet Romanis becomes Romanis nocetur; Goliath exprobrat Hebraeis becomes Hebraeis exprobratur; Samuel obedit Domino becomes Domino obeditur. We can do the same idea with the impersonal gerundive: Cicero debet persuadere senatui becomes Senatui persuadendum est; Rex non debet Domino repugnare becomes Domino non repugnandum est. It is all right to leave out 'est' if you wish, as is often done.",
+     "divisio": {
+      "overview": "The passage alternates between the armies' standoff and David's background, ending with David at the camp hearing the challenge and being rebuked.",
+      "parts": [
+       {
+        "label": "The armies face off",
+        "detail": "Philistines and Israel camp on opposite hills with a valley between, and Goliath comes forth."
+       },
+       {
+        "label": "Goliath's challenge",
+        "detail": "The giant proposes single combat to decide servitude and daily taunts the ranks of Israel, who are terrified."
+       },
+       {
+        "label": "David's family and errand",
+        "detail": "The narrative turns to Isai's eight sons, the three elder ones at war, and David sent with food to his brothers."
+       },
+       {
+        "label": "David hears the taunt",
+        "detail": "Arriving at the camp, David sees Goliath, hears the challenge and the reward offered for killing him."
+       },
+       {
+        "label": "Eliab's rebuke",
+        "detail": "His eldest brother angrily charges him with pride, but David protests and questions others about the king's promise."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "instruere",
@@ -23900,6 +26956,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Goliath has defied the army of Israel, and young David steps forward to face him.",
      "original": "Audita sunt autem verba quae locutus est David, et annuntiata in conspectu Saul. Ad quem cum fuisset David adductus, locutus est Sauli David: \"Non cadat cor cuiusquam de hoc viro: ego servus tuus vadam, et pugnabo adversus Philisthaeum.\" Et ait Saul ad David: \"Non potes resistere Philisthaeo isti, nec pugnare adversus eum, quia puer es, hic autem vir bellator est ab adolescentia sua.\" Dixitque David ad Saul: \"Pascebat servus tuus patris sui gregem, et veniebant leo et ursus et tollebant arietem de medio gregis. Et sequebar eos, et percutiebam, eruebamque de ore eorum. Et illi consurgebant adversum me, et apprehendebam guttur eorum, et suffocabam, suffocandoque interficiebam eos. Nam et leonem et ursum interfeci ego servus tuus. Erit igitur et Philisthaeus hic incircumcisus quasi unus ex eis. Nunc vadam et auferam opprobrium populi. Quis enim est iste Philisthaeus incircumcisus, qui ausus est maledicere exercitui Dei viventis?\" Et ait David: \"Dominus qui eripuit me de manu leonis et de manu ursi, ipse me liberabit de manu Philisthaei huius.\" Dixit autem Saul ad David: \"Vade, et Dominus tecum sit.\" Et induit Saul David vestimentis suis, et imposuit galeam aeream super caput eius, et induit eum lorica. Sic armatus, et gladium habens, David coepit tentare si posset incedere; non enim habebat consuetudinem. Dixitque David ad Saul: \"Non possum sic incedere.\" Et deposuit arma, et tulit baculum suum, quem semper in manibus habebat, et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem, quam habebat secum, et fundam manu tulit, et exivit adversum Philisthaeum. Ibat autem Philisthaeus incedens, et appropinquans adversum David, et armiger eius ante eum. Cumque conspexisset Philisthaeus, et vidisset David, despexit eum. Erat enim adolescens. Et dixit Philisthaeus ad David: \"Num ego canis sum, quod tu venturus es ad me cum baculo?\" Et maledixit Philisthaeus David per deos suos, dixitque ad David: \"Veni ad me, daturus enim sum carnes tuas volatilibus caeli, et bestiis terrae.\" Dixit autem David ad Philisthaeum: \"Tu venis ad me cum gladio et hasta et clypeo: ego autem venio ad te nomine Domini exercituum, Dei acierum Israel, quibus exprobravisti hodie, et dabit te Dominus in manu mea, et percussurus sum te, et ablaturus caput tuum a te, et daturus cadavera castrorum Philisthiim hodie volatilibus caeli, et bestiis terrae: ut sciat omnis terra, quod est Deus in Israel. Et sciant omnes qui adsunt, quod non gladio, nec hasta salvat Dominus. Eius enim est bellum, et tradet vos in manus nostras.\"",
      "explanation": "Future Active Participle: for some time we have been learning a third part for some verbs that is not a perfect participle. Notice that they all end in -urus. The same form can be made for any verb: merely change the final -us of the perfect participle to -urus. It has all the endings of bonus. For example, paratus becomes paraturus. The meaning is easy to learn: about to prepare, going to prepare, intending to prepare. Future Active Infinitive: if we use the infinitive esse (to be) with a future active participle, we have the future active infinitive. We must remember to use the right ending on the participle, that is, gender, number, and case. Recall that one form of indirect statement uses the objective case with an infinitive. For example, Dicit Caesarem venire means He says that Caesar is coming; Dicit Caesarem venisse means He says that Caesar came; Dicit Caesarem venturum esse means He says that Caesar will come; Dixit Caesarem venturum esse means He said that Caesar would come. Notice that the ending of venturum agrees with the subject of the infinitive, Caesarem. Note also that the infinitive expresses time relative to the time of the main verb: the present infinitive is the same time as the main verb, the perfect is action done before the main verb, and the future is action to come after the time of the main verb.",
+     "divisio": {
+      "overview": "The reading builds toward combat through David's offer, his preparation, and the exchange of taunts as the two close in.",
+      "parts": [
+       {
+        "label": "David's offer and Saul's doubt",
+        "detail": "Brought to Saul, David volunteers to fight, and Saul objects that he is only a boy against a seasoned warrior."
+       },
+       {
+        "label": "David's argument from experience",
+        "detail": "David recounts killing the lion and bear and trusts that the Lord who saved him then will save him now."
+       },
+       {
+        "label": "Refusing the armor",
+        "detail": "Saul arms David in helmet, corslet, and sword, but unable to walk in them David takes only his staff and sling."
+       },
+       {
+        "label": "Choosing the stones",
+        "detail": "David picks five smooth stones from the brook, puts them in his pouch, and goes out to meet the Philistine."
+       },
+       {
+        "label": "The exchange of taunts",
+        "detail": "Goliath despises and curses David, who answers that he comes in the Lord's name, who saves not by sword or spear."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "annuntiare",
@@ -24103,6 +27184,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The stone flies; Goliath falls; and what follows brings David both a true friend and a dangerous enemy.",
      "original": "Cum ergo surrexisset Philisthaeus, et veniret et appropinquaret contra David, festinavit David, et cucurrit ad pugnandum contra Philisthaeum. Et misit David manum suam in peram, tulitque unum lapidem, et funda iecit, et percussit Philisthaeum in fronte. Et infixus est lapis in fronte eius, et cecidit in faciem suam super terram. Praevaluitque David adversum Philisthaeum funda et lapide, percussumque Philisthaeum interfecit. Cumque gladium non haberet in manu David, cucurrit et stetit super Philisthaeum, et tulit gladium eius, et interfecit eum, absciditque caput eius. Videntes autem Philisthiim quod mortuus esset fortissimus eorum, fugerunt. Et consurgentes viri Israel et Juda, vociferantes persecuti sunt Philisthaeos donec venirent in vallem, et usque ad portas civitatis Accaron. Et revertentes filii Israel postquam persecuti sunt Philisthaeos, invaserunt castra eorum. Assumens autem David caput Philisthaei, attulit illud in Jerusalem; arma vero eius posuit in tabernaculo suo. Optimam doctrinam videre possumus in hac narratione de David et Goliath. David enim erat puer sine armis: Goliath autem erat vir magnus, et bellator, decem pedes in altitudinem habens. Clarum est ergo, quod David per se non poterat vincere virum talem. Sed si memoria nostra bona est, possumus recordari ea quae fecit Deus temporibus Gedeon. Cum enim Gedeon magnum haberet exercitum, Deus imperavit ei ut magnam exercitus partem dimitteret. Itaque Gedeon cum paucis viris, qui per se nullo modo satis erant ad victoriam, fecit victoriam. Quid vult Deus docere nos per haec et similia facta? Vult nos intellegere quod melius est sperare in Deo et in fortitudine eius: homo debet facere id quod potest, sed debet intellegere omnia bona revera a Deo venire. In his factis, Deus elegit homines infirmos et per se insufficientes ut intellegeremus quod cum auxilio Dei etiam infirmus potest omnia facere. Haec cogitans, Sanctus Paulus in Novo Testamento, in Epistola secunda ad Corinthios dicit: \"Libenter igitur gloriabor in infirmitatibus meis, ut habitet in me potestas Christi.\" Et in prima Epistola ad Corinthios, idem Paulus etiam scribit: \"Ea quae stulta sunt mundi elegit Deus, ut confundat sapientes; et infirma mundi elegit Deus, ut confundat fortia, et ignobilia mundi et contemptibilia elegit Deus, et ea quae non sunt elegit, ut ea quae sunt deleret, ut non glorietur omnis caro in conspectu eius.\" Post victoriam super Goliath, David ad palatium Saul ductus est. Ibi Saul eum de multis interrogavit. Jonathas autem, filius Saul, aderat, et audivit omnia. Et factum est: cum complesset loqui ad Saul, anima Jonathae conglutinata est animae David, et dilexit eum Jonathas quasi animam suam. Inierunt autem David et Jonathas foedus; et dedit ei Jonathas multa dona, etiam tunicam suam qua erat indutus, et gladium suum. Egrediebatur quoque David ad omnia, ad quaecumque misisset eum Saul, et prudenter agebat. Posuitque eum Saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu servorum Saul. Sed cum reverteretur, percusso Philisthaeo, David, egressae sunt mulieres de universis urbibus Israel, cantantes: \"Percussit Saul mille, et David decem millia.\" His auditis, iratus est Saul nimis, et displicuit in oculis eius sermo iste, dixitque: \"Dederunt David decem millia, et mihi mille dederunt. Quid ei superest, nisi solum regnum?\" Non rectis ergo oculis Saul aspiciebat David a die illa et deinceps. Post haec, Saul magna invidia contra David affectus est voluitque ei nocere. Quidam scriptores putant eum etiam insanum mente, vel vere insanum fuisse. Quidquid sit, Saul conatus est interficere David. Cum enim David psalleret ante eum, Saul iecit lanceam ad David, sed David declinavit lanceam. Et timuit Saul David eo quod Dominus esset cum eo, et a se recessisset. Amovit ergo eum Saul a se, et fecit eum tribunum super mille viros; et egrediebatur et intrabat in conspectu populi. In omnibus quoque viis suis David prudenter agebat, et Dominus erat cum eo. Vidit itaque Saul, quod prudens esset nimis, et coepit cavere eum. Omnia autem Israel et Juda diligebat David: Ipse enim ingrediebatur et egrediebatur ante eos. Dixitque Saul ad David: \"Ecce filia mea maior Merob. Ipsam dabo tibi uxori. Tantummodo esto vir fortis et proeliare bella Domini.\" Saul autem cogitabat in corde suo: \"Non sit manus mea in eum, sed sit super eum manus Philisthinorum.\" Sed revera Saul non dedit filiam suam Merob Davidi, cuidam alio qui vocatus erat Hadriel dedit eam. Sed filia altera Saulis amavit David. Nomen eius erat Michol. Et nuntiatum est Saul, et placuit ei. Dixitque ad David Saul: \"Dabo eam uxori tibi, si interficies centum Philisthinos, ut fiat ultio de inimicis regis.\" Porro Saul cogitabat tradere David in manus Philisthinorum.",
      "explanation": "Most draws the moral of the story: David was a boy without arms, while Goliath was a great man and a warrior, ten feet tall, so it is clear that David by himself could not conquer such a man. Just as God had Gedeon dismiss a great part of his army and then won the victory with few men, so God chooses the weak and those insufficient of themselves, that we may understand that with the help of God even a weak man can do all things. Most reinforces this with the words of St. Paul (quoted in the reading) that God chose the foolish and weak things of the world to confound the wise and the strong, so that no flesh should glory in His sight.",
+     "divisio": {
+      "overview": "The passage moves from David's victory, through an inserted moral reflection, to the friendship with Jonathan and the rise of Saul's jealousy.",
+      "parts": [
+       {
+        "label": "The kill and rout",
+        "detail": "David slings the stone into Goliath's forehead, beheads him with his own sword, and the Philistines flee."
+       },
+       {
+        "label": "Moral reflection",
+        "detail": "The author compares David to Gedeon and cites St. Paul that God chooses the weak to confound the strong."
+       },
+       {
+        "label": "Jonathan's friendship",
+        "detail": "At the palace Jonathan's soul is knit to David's, and they make a covenant sealed with gifts."
+       },
+       {
+        "label": "The women's song and Saul's envy",
+        "detail": "The women sing David's greater praise, and Saul, jealous, eyes him with suspicion from that day."
+       },
+       {
+        "label": "Saul's plots",
+        "detail": "Saul hurls a spear, removes David to a command, and offers his daughters hoping the Philistines will kill him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cadaver",
@@ -24410,6 +27516,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Saul, jealous of David's success against the Philistines, turns hostile. Jonathan pleads for David, Saul throws a spear at him, and Michol lowers David through a window to safety.",
      "original": "Placuerunt haec verba in oculis David, et post paucos dies surgens, abiit cum viris qui cum eo erant. Et percussit ex Philisthiim ducentos viros. Dedit itaque Saul ei Michol filiam suam uxorem. Et vidit Saul, et intellexit, quod Dominus esset cum David. Michol autem filia Saul eum diligebat. Et Saul magis coepit timere David; factusque est Saul inimicus David omnibus diebus. Locutus est autem Saul ad Jonathan filium suum, et ad omnes servos suos, ut occiderent David. Porro Ionathas filius Saul diligebat David valde. Et indicavit Ionathas David dicens: \"Quaerit Saul pater meus occidere te. Quapropter, observa te, quaeso, mane, et abscondas te. Ego autem egrediens stabo iuxta patrem meum, in agro ubicumque fueris, et ego loquar de te ad patrem meum, et quodcumque videro nuntiabo tibi.\" Locutus est ergo Ionathas de David bona ad Saul patrem suum, persuasitque ei ne noceret Davidi: \"Ne pecces, rex, in servum tuum David, quia non peccavit tibi, et opera eius bona sunt tibi valde. Posuit animam suam in manu sua, et percussit Philisthaeum, et fecit Dominus salutem magnam universo Israeli. Vidisti opera eius, et grata tibi erant valde. Quare ergo peccas in sanguine innocenti, interficiens David, qui est sine culpa?\" Quod cum audisset Saul, placatus voce Ionathae, iuravit: \"Vivit Dominus, quia non occidetur.\" Vocavit itaque Ionathas David, et indicavit ei omnia verba haec. Et introduxit Ionathas David ad Saul, et fuit ante eum, sicut fuerat heri et nudiustertius. Motum est autem rursum bellum: et egressus David pugnavit adversus Philisthiim; percussitque eos plaga magna, et fugerunt a facie eius. Postea autem, cum Saul sederet in domo sua, et David psalleret, conatus est Saul David configere lancea. Et declinavit David a facie Saul, et David fugit, et salvatus est nocte illa. Misit ergo Saul servos suos in domum David, ut custodirent eum, et interficeretur mane. Sed Michal, uxor David, nuntiavit haec ei dicens: \"Nisi salvaveris te hac nocte, cras morieris.\" Quae cum dixisset Michol, deposuit David per fenestram. Porro ille abiit et fugit, atque salvatus est. Tulit autem Michal statuam, et posuit eam in lecto, et operuit eam vestimentis. Misit autem Saul ministros suos, qui raperent David; et responsum est, quod aegrotaret. Rursumque misit Saul nuntios ut viderent David, dicens: \"Afferte eum ad me in lecto, ut occidatur.\" Cumque venissent nuntii, inventa est statua in lecto. David autem fugiens, venit ad Samuel in Ramatha.",
      "explanation": "Comparison of adjectives. In English an adjective has three degrees: clear, clearer, clearest. The first is the positive, the second the comparative, the third the superlative; the comparative is sometimes formed with the word more (more ready). Latin has a similar set for all adjectives. To make the comparative, take a base from the ablative singular (the ablative singular minus its ending) and add -ior, -ius. We have already met some of these, such as melior; they are all declined alike, all third declension with ablative in -e (even those from bonus-type words). For the superlative, use the same base and add -issimus, declined like bonus. Thus clarus gives clarior, clarissimus. The comparative may be rendered clearer or quite clear; the superlative most clear, clearest, or very clear.",
+     "divisio": {
+      "overview": "The narrative tracks Saul's hardening hostility against two interventions that save David: Jonathan's plea and Michol's trick.",
+      "parts": [
+       {
+        "label": "David's success and Saul's hatred",
+        "detail": "David kills more Philistines and marries Michol, and Saul, seeing the Lord with him, becomes his lifelong enemy."
+       },
+       {
+        "label": "Jonathan's defense",
+        "detail": "Warning David to hide, Jonathan pleads his innocence to Saul, who swears David will not be killed."
+       },
+       {
+        "label": "The renewed spear attack",
+        "detail": "After David again routs the Philistines, Saul tries to pin him with a lance, but David dodges and flees by night."
+       },
+       {
+        "label": "Michol's rescue",
+        "detail": "Warned by his wife, David is let down through a window, while Michol disguises a statue in the bed."
+       },
+       {
+        "label": "Escape to Samuel",
+        "detail": "Saul's messengers find the statue, and David, having fled, comes to Samuel at Ramatha."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "uxor",
@@ -24573,6 +27704,31 @@ window.COURSE_DATA.courses.push({
      "lead": "David flees to the cave of Adullam and becomes leader of a band of men. Saul hunts him, but in a cave David cuts only the hem of Saul's cloak instead of killing him; his words move Saul to weep and swear peace.",
      "original": "Locutusque est David ad Ionatham: \"Quid feci? Quae est iniquitas mea, et quod peccatum in patrem tuum, quia quaerit animam meam?\" Qui dixit ei: \"Absit, non morieris: neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi. Hunc ergo sermonem tantummodo celavit me pater meus? Nequaquam erit istud.\" Et iuravit rursum Davidi. Et ille ait: \"Scit profecto pater tuus quod inveni gratiam in oculis tuis, et dicet: 'Nesciat hoc Ionathas, ne forte tristetur.' Immo vero, vivit Dominus, et vivit anima tua--quia uno tantum gradu (ut ita dicam) ego morsque dividimur.\" Et ait Ionathas ad David: \"Quodcumque dixerit mihi anima tua, faciam tibi.\" Ionatha itaque, rogante David, patrem suum observabat, vidensque malitiam eius completam esse, exivit, et indicavit David. Et osculantes alterutrum, fleverunt pariter, David autem amplius. Et surrexit David et fugit; sed Ionathas ingressus est civitatem. David venit in speluncam Odollam. Quod cum audissent fratres eius, et omnis domus patris eius, descenderunt ad eum illuc. Et convenerunt ad eum omnes qui erant in angustia constituti, et oppressi aere alieno, et amaro animo. Et factus est David princeps eorum, fueruntque cum eo quasi quadringenti viri. Saul autem secutus est David, et audiens quosdam sacerdotes Domini auxilium dedisse Davidi, non timuit interficere sacerdotes. Quodam tempore Saul David circumdederat, et fere cepit, sed nuntius venit ad Saul dicens: \"Festina, et veni, quia Philisthiim terram invaserunt.\" Reversus est ergo Saul ut pugnaret contra Philisthiim, et non persecutus est David die illo. Cumque reversus esset Saul, postquam persecutus est Philisthaeos, nuntiaverunt ei dicentes: \"Ecce, David in deserto Engaddi est.\" Assumens ergo Saul tria millia electorum virorum ex omni Israel, perrexit ad apprehendendum David et viros eius. Acciditque ut Saul ingrederetur quamdam speluncam in qua David et viri eius interiore parte absconderentur. Et dixerunt servi David ad eum: \"Ecce dies, de qua locutus est Dominus ad te: 'Ego tradam tibi inimicum tuum, ut facias ei sicut placuerit in oculis tuis.'\" Surrexit ergo David, et praecidit oram chlamydis Saul silenter. Sed post haec percussit cor suum David, eo quod abscidisset oram chlamydis Saul, dixitque ad viros suos: \"Propitius sit mihi Dominus, non faciam hanc rem domino meo, christo Domini. Non mittam manum meam in eum, quia christus Domini est.\" Et non permisit David viris suis ut consurgerent in Saul. Porro Saul exsurgens de spelunca, itinere suo pergebat. Surrexit autem David post eum, et egressus de spelunca, clamavit post Saul dicens: \"Domine mi rex.\" Et respexit Saul post se, et inclinans se David pronus in terram, adoravit, dixitque ad Saul: \"Quare audis verba hominum loquentium: 'David quaerit malum adversum te?' Ecce hodie viderunt oculi tui quod tradiderit te Dominus in manu mea in spelunca, et cogitavi ut occiderem te, sed pepercit tibi oculus meus. Dixi enim: Non extendam manum meam in dominum meum, quia christus Domini est. Immo vero, pater mi, vide, et cognosce oram chlamydis tuae in manu mea, quia cum abscinderem oram chlamydis tuae nolui extendere manum meam in te. Animadverte, et vide, quod non est in manu mea malum, neque iniquitas, neque peccavi in te. Tu autem insidias facis animae meae, ut auferas eam. Quem persequeris, rex Israel? Quem persequeris? Canem mortuum persequeris, et pulicem unum. Sit Dominus iudex, et iudicet inter me et te. Et videat, et iudicet causam meam, et eruat me de manu tua.\" Cum autem complesset David loquens sermones huiuscemodi ad Saul, dixit Saul: \"Num vox haec tua est, fili mi David?\" Et levavit Saul vocem suam, et flevit, dixitque ad David: \"Iustior tu es quam ego. Tu enim tribuisti mihi bona: ego autem reddidi tibi mala. Et tu indicavisti hodie, quae feceris mihi bona: quomodo tradiderit me Dominus in manum tuam, et non occideris me. Quis enim cum invenerit inimicum suum, dimittet eum in via bona? Sed Dominus reddat tibi vicissitudinem hanc pro eo, quod hodie operatus es in me. Et nunc, quia scio te certissime regnaturum esse, et habiturum in manu tua regnum Israel, iura (imperative) mihi in Domino, ne deleas semen meum post me, neque auferas nomen meum de domo patris mei.\" Et David non negavit, sed iuravit Sauli. Abiit ergo Saul in domum suam; et David et viri eius ad tutiora loca ascenderunt.",
      "explanation": "Irregular comparatives and superlatives. The base method (base plus -ior, -issimus) is used for most adjectives, but there are a few exceptions. (1) Adjectives in -er (such as acer or pulcher) make the superlative by adding -rimus to the masculine nominative singular: acerrimus, pulcherrimus. (2) Six adjectives add -limus to the base (ablative singular minus ending): facilis-facillimus, difficilis-difficillimus, similis-simillimus, dissimilis-dissimillimus, humilis-humillimus, gracilis-gracillimus. (3) Several common adjectives are wholly irregular: bonus-melior-optimus, malus-peior-pessimus, parvus-minor-minimus, multus-plus-plurimus, magnus-maior-maximus. Ablative of comparison: after a comparative you may either use quam with the same case on both sides (Iosephus melior est quam Pharao, where Pharao stays nominative) or put the second term in the ablative (Iosephus melior est Pharaone).",
+     "divisio": {
+      "overview": "The passage runs from David's parting with Jonathan, to his gathering a band at the cave, to the cave encounter where he spares Saul and they are reconciled.",
+      "parts": [
+       {
+        "label": "Parting with Jonathan",
+        "detail": "David protests his innocence, Jonathan confirms Saul's malice, and the two weep and part."
+       },
+       {
+        "label": "The band at Adullam",
+        "detail": "At the cave of Adullam about four hundred distressed men gather, and David becomes their leader."
+       },
+       {
+        "label": "Saul's pursuit",
+        "detail": "Saul hunts David, breaking off once for a Philistine raid, then resumes the chase at Engaddi."
+       },
+       {
+        "label": "Sparing Saul in the cave",
+        "detail": "Saul enters the very cave where David hides, and David cuts only the hem of his robe, refusing to harm the Lord's anointed."
+       },
+       {
+        "label": "Reconciliation",
+        "detail": "David shows the hem and proclaims his innocence, and Saul weeps, admits David's righteousness, and makes him swear to spare his line."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "iniquitas",
@@ -24814,6 +27970,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Saul hunts David in the desert of Ziph, but David, finding the king asleep, refuses to harm the anointed of the Lord.",
      "original": "Cum autem esset Saul in Gabaa, nuntiatum est ei ubi David adesset. Et surrexit Saul, et descendit in desertum Ziph, et cum eo tria millia virorum de electis Israel, ut quaereret David in deserto Ziph. David autem, videns regem venisse post se in desertum, misit qui spectarent Saul, et didicit quod illuc venisset certissime. Et surrexit David clam, et venit nocte ad locum in quo dormiebat Saul et Abner princeps exercitus eius. Venit ergo David, et invenit Saul dormientem in tabernaculo, et hastam fixam in terra ad caput eius. Abner autem et populus dormiebant in circuitu eius. Dixitque ad David vir quidam, nomine Abisai, qui cum eo venerat: \"Conclusit Deus inimicum tuum hodie in manus tuas. Nunc ergo, perfodiam eum lancea in terra semel, et secundo opus non erit.\" Et dixit David ad Abisai: \"Ne interficias eum. Quis enim extendet manum suam in christum Domini et innocens erit?\" Et dixit David: \"Vivit Dominus, quia, nisi Dominus percusserit eum, aut dies eius venerit ut moriatur, aut in proelium descendens perierit -- propitius sit mihi Dominus: non extendam manum meam in christum Domini. Nunc igitur tolle hastam, quae ad caput eius est, et scyphum aquae, et abeamus.\" Tulit ergo David hastam et scyphum aquae, qui erat ad caput Saul, et clam abierunt. Et non erat quisquam qui videret et intelligeret et evigilaret, sed omnes dormiebant, quia sopor Domini irruerat super eos. Cumque transisset David et esset grande intervallum inter eos, clamavit David ad populum, et ad Abner, principem exercitus dicens: \"Nonne respondebis, Abner?\" Et respondens Abner, ait: \"Quis es tu, qui clamas, et inquietas regem?\" Et ait David ad Abner, \"Nonne vir tu es? Et quis alius similis tui in Israel? Quare ergo non custodisti dominum tuum regem? Ingressus est enim unus de turba clam ut interficeret regem dominum tuum. Non est bonum hoc, quod fecisti. Vivit Dominus, quoniam filii mortis estis vos, quia non custodistis dominum vestrum, christum Domini. Nunc ergo vide, ubi sit hasta regis, et ubi sit scyphus aquae, qui erat ad caput eius.\" Cognovit autem Saul vocem David et dixit: \"Num vox haec tua, fili mi David?\" Et ait David: \"Vox mea, domine mi rex?\" Dixitque David: \"Quam ob causam dominus meus persequitur servum suum? Quid feci, aut quod (interrogative) est malum in manu mea? Et nunc non effundatur sanguis meus in terram coram Domino, quia egressus est rex Israel, ut quaerat pulicem unum.\" Et ait Saul: \"Peccavi; revertere fili mi David, nequaquam enim ultra tibi malefaciam, eo quod pretiosa fuerit anima mea in oculis tuis hodie. Apparet enim quod stulte egerim, et ignoraverim multa nimis.\" Et respondens David, ait: \"Ecce hasta regis: transeat unus de pueris regis, et tollat eam.\" Ait ergo Saul ad David: \"Benedictus tu, fili mi David.\" Abiit autem David in viam suam, et Saul reversus est in locum suum.",
      "explanation": "Formation of adverbs (regular). a) From first and second declension adjectives: take the base (ablative singular minus ending) and add -e. Thus clarus becomes clare. b) From third declension adjectives: take the base (ablative singular minus ending) and add -ter. Thus acer becomes acriter. Comparative and superlative of adverbs: the comparative is the same as the neuter singular form of the comparative adjective, thus clarius means more clearly; the superlative uses the -e ending instead of the -us of the adjective, thus clarissime means most clearly. A few irregular adverbs must simply be learned, such as bene (well), melius (better), optime (very well); male (badly), peius (worse), pessime (very badly).",
+     "divisio": {
+      "overview": "The reading repeats the cave pattern in a new setting: David finds Saul defenseless, restrains a companion, takes proofs, and rebukes from afar, ending in Saul's confession.",
+      "parts": [
+       {
+        "label": "Saul's pursuit to Ziph",
+        "detail": "Saul descends into the desert of Ziph with three thousand chosen men to hunt David."
+       },
+       {
+        "label": "David finds Saul asleep",
+        "detail": "By night David and Abisai reach the camp and find Saul sleeping with his spear fixed at his head."
+       },
+       {
+        "label": "Restraining Abisai",
+        "detail": "Abisai begs to pin Saul to the ground, but David forbids any hand raised against the Lord's anointed."
+       },
+       {
+        "label": "Taking the proofs",
+        "detail": "David carries off the spear and the water cup from beside Saul's head and withdraws unseen."
+       },
+       {
+        "label": "Rebuke and confession",
+        "detail": "From a distance David rebukes Abner and Saul, and Saul admits his sin and blesses David before each goes his way."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "misit qui...",
@@ -24984,6 +28165,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Fearing he will one day fall into Saul's hand, David takes refuge among the Philistines, while Saul's reign ends in defeat and death.",
      "original": "Et ait David in corde suo: \"Aliquando incidam una die in manus Saul. Nonne melius est, ut fugiam, et salver in terra Philisthinorum, ut Saul cesset me quaerere in cunctis finibus Israel? Fugiam ergo manus eius.\" Et surrexit David, et abiit ipse et sescenti viri cum eo, ad Achis, regem urbis Geth in terra Philisthinorum. Et nuntiatum est Saul quod fugisset David in Geth, et non ultra quaesivit eum. Dixit autem David ad Achis: \"Si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis huius, ut habitem ibi.\" Dedit itaque ei Achis in die illa urbem Siceleg. David autem ex civitate illa exivit saepe ad pugnandum contra Amalecitas, qui erant inimici Israel, et qui etiam vastabant terras Philisthinorum. Achis enim, rex Geth, putavit David esse socium suum. Revera autem David pro Philisthinis noluit pugnare contra populum suum, nec hoc fecit. Pugnando contra Amalecitas, Israel iuvabat, et simul regi Geth placebat. Factum est autem in diebus illis: congregaverunt Philisthiim agmina sua ut praepararentur ad bellum contra Israel, dixitque Achis rex ad David: \"Nunc egredieris mecum in castris, tu et viri tui.\" David autem nolebat pugnare contra populum suum, dixitque: \"Nunc acies, quae facturus est servus tuus.\" Et ait Achis ad David: \"Et ego custodem capitis mei ponam te cunctis diebus.\" Sed non erat difficultas: cum enim omnia agmina Philisthiim congregata essent in Aphec, alii, principes Philisthinorum dixerunt ad Achis: \"Quid sibi volunt Hebraei isti?\" Et noluerunt permittere ut David cum exercitu Philisthinorum esset. Irati sunt itaque adversus eum principes Philisthiim, et dixerunt ei: \"Revertatur vir iste, et sedeat in loco suo, in quo constituisti eum, et non descendat nobiscum in proelium, ne fiat nobis adversarius, cum proeliari coeperimus. Nonne iste est David, cui cantabant mulieres Israel dicentes: 'Percussit Saul mille et David decem millia'?\" Vocavit ergo Achis David, et remisit eum in civitatem suam Siceleg. Philisthiim autem pugnabant adversum Israel, et fugerunt viri Israel ante faciem Philisthiim, et ceciderunt interfecti in monte Gelboe. Rueruntque Philisthiim in Saul et in filios eius, et percusserunt Ionathan, et Abinadab, et Melchisua filios Saul. Totumque pondus proelii versum est in Saul, et consecuti sunt eum viri sagittarii, et vulneratus est vehementer a sagittariis. Dixitque Saul ad armigerum suum: \"Evagina gladium tuum, et percute me, ne forte veniant incircumcisi isti et interficiant me, illudentes mihi.\" Et noluit armiger eius: fuerat enim nimio terrore perterritus. Arripuit itaque Saul ipse gladium, et irruit super gladium. Mortuus est ergo Saul et tres filii eius, et universi viri eius in die illa. Videntes autem viri Israel qui erant trans vallem, et trans Iordanem, quod fugissent viri Israelitae, et quod mortuus esset Saul, et filii eius, reliquerunt civitates suas, et fugerunt. Veneruntque Philisthiim et habitaverunt ibi. Die autem altera, venerunt Philisthiim ut spoliarent interfectos, et invenerunt Saul et tres filios eius iacentes in monte Gelboe. Et absciderunt caput Saul, et spoliaverunt eum armis, et miserunt nuntium in terram Philisthinorum per circuitum, ut annuntiaretur in templo idolorum, et in populis. Et posuerunt arma eius in templo Astaroth, corpus vero eius suspenderunt in muro Bethsan. Quod cum audissent habitatores civitatis Iabes Galaad quaecumque fecerant Philisthiim Saul, desideraverunt servare corpus eius, et ambulaverunt tota nocte et tulerunt cadaver Saul, et cadavera filiorum eius de muro Bethsan, veneruntque ad Iabes Galaad, et combusserunt corpora ibi. Et tulerunt ossa eorum, et sepelierunt, ieiunaveruntque septem dies.",
      "explanation": "Ablative of measure of difference. We already know how to say a comparison after a comparative, for example: He is taller than Marcus, Altior est Marco (or quam Marcus). But how do we say how much taller? Just use the ablative without a preposition. For example: He is taller than Marcus by two feet, Altior Marco est duobus pedibus. He is much taller than Marcus (taller by much), Multo altior quam Marcus est.",
+     "divisio": {
+      "overview": "The passage interweaves David's exile among the Philistines with the collapse of Saul's reign, ending with the burial of the fallen king.",
+      "parts": [
+       {
+        "label": "David takes refuge at Geth",
+        "detail": "Fearing Saul, David flees with six hundred men to King Achis, who gives him the city of Siceleg."
+       },
+       {
+        "label": "Raids and Achis's trust",
+        "detail": "David raids the Amalecites while letting Achis believe he is an ally, secretly aiding Israel."
+       },
+       {
+        "label": "Dismissed before battle",
+        "detail": "Mustered for war against Israel, David is sent back when the Philistine princes distrust him."
+       },
+       {
+        "label": "Saul's defeat and death",
+        "detail": "On Mount Gelboe Israel is routed, Saul's sons fall, and the wounded Saul kills himself on his sword."
+       },
+       {
+        "label": "Recovery and burial",
+        "detail": "The Philistines despoil and display the bodies, but the men of Iabes Galaad recover them, burn them, and bury the bones."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "cantare",
@@ -25245,6 +28451,27 @@ window.COURSE_DATA.courses.push({
      "lead": "After Saul's death the whole land falls to the Philistines, but David rises to be anointed king over all Israel.",
      "original": "De Regno David: 1004 - 965 Ante Christum\n\nSaule mortuo, exercituque eius victo, tota Palestina in potestatem Philisthinorum venit. David autem in civitate sua Siceleg erat. Die autem tertia apparuit homo veniens de castris Saul, veste conscissa, et pulvere conspersus caput; et, ut venit ad David, cecidit super faciem suam, et adoravit. Dixitque ad eum David: \"Unde venis?\" Qui ait ad eum: \"De castris Israel fugi.\" Et dixit ad eum David: \"Quod est verbum quod factum est? indica mihi.\" Qui ait: \"Fugit populus ex proelio, et multi cadentes e populo mortui sunt. Sed et Saul et Ionathas filius eius interierunt.\" Dixitque David ad adolescentem qui nuntiabat ei: \"Unde scis quod mortuus est Saul, et Ionathas filius eius?\" Et ait adolescens qui nuntiabat ei: \"Casu veni in montem Gelboe, et Saul incumbebat super hastam suam: porro currus et equites appropinquabant ei, et conversus, vidensque me vocavit. Cui cum respondissem: 'Adsum', dixit mihi: 'Quisnam es tu?' Et dixi ad eum: 'Amalecites ego sum.' Et locutus est mihi: 'Sta super me, et interfice me: quoniam tenent me angustiae, et adhuc tota anima mea in me est.' Stansque super eum, occidi illum: sciebam enim eum non posse vivere post ruinam; et tuli diadema, quod erat in capite eius, et armillam de brachio illius, et attuli ad te dominum meum huc.\"\n\nApprehendens autem David vestimenta sua scidit, omnesque viri, qui erant cum eo, et planxerunt, et fleverunt, et ieiunaverunt usque ad vesperam super Saul, et super Ionatham filium eius, et super populum Domini, et super domum Israel, eo quod corruissent gladio. Dixitque David ad iuvenem qui nuntiaverat ei: \"Unde es tu?\" Qui respondit: \"Filius hominis advenae Amalecitae ego sum.\" Et ait ad eum David: \"Quare non timuisti mittere manum tuam, ut occideres christum Domini?\" Vocansque David unum de servis suis, ait: \"Accedens irrue in eum.\" Qui percussit illum, et mortuus est. Et ait ad eum David: \"Sanguis tuus super caput tuum: os enim tuum locutum est adversum te, dicens: 'Ego interfeci christum Domini.'\" Ille enim iuvenis mendacium locutus erat dicens se, rogatum a Saule, interfecisse eum. Scimus enim veritatem, quod Saul, cum rogasset armigerum suum ut ipsum interficeret, seipsum interfecit. Vir itaque qui nuntiavit ad David probabiliter erat latro qui venerat ad spolia capienda ex cadaveribus interfectorum: et nuntiando mortem Saulis Davidi, sperabat se praemium magnum accepturum a David.\n\nIgitur post haec consuluit David Dominum dicens: \"Num ascendam in unam de civitatibus Iuda?\" Et ait Dominus ad eum: \"Ascende.\" Dixitque David: \"Quo ascendam?\" Et respondit ei: \"In Hebron.\" Ascendit ergo David, cum viris qui erant secum. Veneruntque viri Iuda, et unxerunt ibi David, ut regnaret super domum Iuda. Sed reliqui tribus non acceperunt David, sed Abner, princeps exercitus Saul, tulit Isboseth, filium Saul, et circumduxit eum per castra, regemque constituit eum super Israel universum. Quadraginta annorum erat Isboseth filius Saul, cum regnare coepisset super Israel: multi tribus secuti sunt eum; sola autem domus Iuda sequebatur David.\n\nSed rixa facta est inter Abner, qui fecerat Isboseth regnare super reliquos tribus, et Isboseth. Misit ergo Abner nuntios ad David pro se qui dicerent: \"Cuius est terra? Fac mecum amicitias, et erit manus mea tecum, et reducam ad te universum Israel.\" Locutus est quoque Abner ad seniores Israel, dicens: \"Tam heri quam nudiustertius quaerebatis David, ut regnaret super vos. Nunc ergo facite, quoniam Dominus locutus est ad David dicens: 'In manu servi mei David salvabo populum meum Israel de manu Philisthiim, et omnium inimicorum eius.'\" Itaque, postquam David duos annos super tribum Iuda regnavit, venerunt universae tribus Israel ad David in Hebron. Et percussit cum eis rex David foedus in Hebron coram Domino; unxeruntque David in regem super Israel. Isboseth enim, filius Saul, interfectus erat a duobus servis suis. In Hebron regnavit David septem annis et sex mensibus. Fere anno nongentesimo nonagesimo octavo ante Christum (998 BC) David cepit urbem Ierusalem. Post haec, quia arca Domini adhuc erat in Cariathiarim (in quem locum venerat postquam Philisthiim eam remiserant), David surrexit et abiit, et universus populus, qui erat cum eo de viris Iuda, ut arcam Dei adducerent. Cumque tulissent eam de domo Abinadab, David et omnis Israel ludebant coram Domino in omnibus instrumentis ligneis et citharis et cymbalis, et ducebant arcam testamenti Domini in Ierusalem in civitatem David. Et introduxerunt arcam Domini, et imposuerunt eam in loco suo in medio tabernaculi quod tetenderat ei David. Et obtulit David holocausta coram Domino.",
      "explanation": "Neuters of the Fourth Declension: There are just a few of these. The most common are probably genu (knee) and cornu (horn, or flank of an army). They are declined thus: genu, genus, genu, genu, genu in the singular; genua, genuum, genibus, genua, genibus in the plural. The singular is monotonous, and therefore easy. The plural is about what we should expect from a neuter, but note that it has not just an ending in short a, but ua. A few fourth declension words use ubus instead of ibus in the dative and ablative plural.",
+     "divisio": {
+      "overview": "A four-stage narrative of succession, moving from a false report of Saul's death to David's full kingship and the ark in Jerusalem.",
+      "parts": [
+       {
+        "label": "The Amalekite's false report",
+        "detail": "A man from Saul's camp comes in torn clothing and claims he killed Saul at his own request, bringing the crown and bracelet to David."
+       },
+       {
+        "label": "Mourning and the liar's death",
+        "detail": "David and his men rend their clothes and fast for Saul, David has the self-confessed killer executed, and the narrator explains the man lied to win a reward."
+       },
+       {
+        "label": "Anointing at Hebron and the rival king",
+        "detail": "David consults the Lord, goes up to Hebron, and is anointed over Juda, while Abner sets up Isboseth over the other tribes."
+       },
+       {
+        "label": "United kingship and the ark",
+        "detail": "After Abner's quarrel and offer, all Israel anoints David at Hebron; he takes Jerusalem and brings the ark of the Lord into the city with offerings."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "vestis",
@@ -25493,6 +28720,27 @@ window.COURSE_DATA.courses.push({
      "lead": "God promises David an eternal throne, and Most asks whether the prophecy points to Solomon or to Christ.",
      "original": "Pugnavit etiam David contra multos inimicos Israel fecitque victorias magnas. Factum est autem, cum sedisset rex in domo sua, et Dominus dedisset ei requiem undique ab universis inimicis suis, dixit ad Nathan prophetam: \"Videsne, quod ego habitem in domo cedrina, et arca Dei posita sit in medio pellium?\" Dixitque Nathan ad regem: \"Omne quod est in corde tuo, vade, fac, quia Dominus tecum est.\" Placuit ergo Domino valde quod David cogitavit aedificare templum Domino. Attamen, quamquam David ipse hoc facturus non erat iuxta Dei providentiam, in illa nocte venit sermo Domini ad Nathan dicens: \"Vade, et loquere ad servum meum David: 'Haec dicit Dominus: Num tu aedificabis mihi domum ad habitandum? Neque enim habitavi in domo ex die illa qua eduxi filios Israel de terra Aegypti usque in diem hanc: sed ambulabam in tabernaculo, et in tentorio. Per cuncta loca, quae transivi cum omnibus filiis Israel, num locutus sum ad unam de tribubus Israel, dicens: Quare non aedificastis mihi domum cedrinam? Et nunc dices servo meo David: Haec dicit Dominus exercituum: Ego tuli te de pascuis sequentem greges, ut regeres populum meum Israel, et fui tecum in omnibus, ubicumque ambulavisti, et universos inimicos tuos a facie tua interfeci. Fecique tibi nomen grande, iuxta nomen magnorum, qui sunt in terra. Et dabo locum populo meo Israel, et plantabo eum, et habitabit in eo, et non turbabitur amplius, nec audebunt filii iniquitatis ut affligant eum sicut prius ex die qua constitui iudices super populum meum Israel. Et requiem dabo tibi ab omnibus inimicis tuis. Praedicitque tibi Dominus quod Dominus tibi domum faciet. Cumque completi fuerint dies tui, et dormieris cum patribus tuis, suscitabo semen tuum post te, et firmabo regnum eius. Ipse aedificabit domum nomini meo, et stabiliam thronum regni eius usque in sempiternum. Ego ero ei in patrem, et ipse erit mihi in filium. Qui si inique aliquid gesserit, puniam eum in virga virorum, et in plagis filiorum hominum. Misericordiam autem meam non auferam ab eo. Et fidelis erit domus tua, et regnum tuum usque in aeternum, et thronus tuus erit firmus in sempiternum.'\"\n\nIn hac prophetia Deus promisit David quod regnum eius firmum esset usque in sempiternum, et quod vir ex semine eius revera aedificaret templum Domino. De quo viro loquitur prophetia? Quaedam in hac prophetia videntur vera esse de filio David qui vocatus est Salomon, ipse enim aedificavit templum magnum Domino. Sed non omnia in prophetia conveniunt Salomoni. Prophetia enim dixit domum eius fidelem futuram esse et regnum eius firmum futurum esse in aeternum: haec autem non vera sunt de Salomone. Ipse enim multa peccata magna commisit, et etiam deos falsos coluit pro uno vero Deo. Nec erant semper reges in Israel ex semine David, ante adventum Christi reges defecerunt ex populo Israel. Similiter, in prophetia dicitur quod magnus successor Davidis, de quo loquitur prophetia, venturus est post mortem Davidis: \"cum... dormieris cum patribus tuis, suscitabo semen tuum post te.\" Salomon autem regnare coepit ante mortem Davidis, non post mortem eius. Itaque clarum est quod non omnia in hac prophetia convenire possunt Salomoni. Cui igitur conveniunt? Multa in hac prophetia conveniunt soli Christo: ille enim, sicut angelus Gabriel dixit Mariae Virgini: \"Regnabit in domo Iacob in aeternum et regni eius non erit finis.\" Domus Christi, id est ecclesia Christi, fidelis erit ei usque in sempiternum. Verum templum Domini quae est ecclesia eius, aedificata est a Christo ipso. Sed quaedam in prophetia etiam non conveniunt Christo: Prophetia enim dicit: \"Qui si inique aliquid gesserit, puniam eum.\" Christus autem peccatum non fecit. Videtur ergo quod tota prophetia partim loquitur de Salomone, partim de Christo.",
      "explanation": "Let us go over conditional sentences (page 139 of this book). For the scramble work, notice how Most lays a chain of conditions over this reign: he asks whether all the land Saul ruled would have fallen to the Philistines had Saul always obeyed the Lord, and whether the people would now be in peace rather than captivity had the chosen king not acted so wickedly. The conditions move from past contrary to fact (had Saul obeyed) to present contrary to fact (the sons of Israel would be in peace) to a future less vivid about David and the temple.",
+     "divisio": {
+      "overview": "An oracle followed by a commentary: God's promise through Nathan is reported first, then Most weighs to whom the prophecy applies.",
+      "parts": [
+       {
+        "label": "David's wish and Nathan's first word",
+        "detail": "At rest from his enemies, David notes that he dwells in cedar while the ark sits among hides, and Nathan tells him to do as he wishes."
+       },
+       {
+        "label": "The Lord's night oracle",
+        "detail": "God sends word that David will not build the house; instead He recounts His past favor and promises David an offspring, a temple-builder, and an everlasting throne."
+       },
+       {
+        "label": "The question of reference",
+        "detail": "Most asks of whom the prophecy speaks and tests it against Solomon, finding some features fit but others, the eternal faithful kingdom and the successor after David's death, do not."
+       },
+       {
+        "label": "Fulfillment in Christ",
+        "detail": "Most concludes the eternal reign and faithful house belong to Christ, yet the clause about punishing sin cannot, so the prophecy speaks partly of Solomon and partly of Christ."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "requies",
@@ -25693,6 +28941,27 @@ window.COURSE_DATA.courses.push({
      "lead": "David wrote prophetic psalms about Christ, but his adultery brought Nathan's stern rebuke.",
      "original": "David etiam ipse scripsit multos psalmos, et in ipsis videre possumus multas prophetias de Christo venturo. Christus ipse in cruce moriens recitavit partem psalmi vigesimi primi. Legamus et nos partem huius psalmi in quo videre possumus praedictas multas passiones Christi: Deus meus, Deus meus, quare me dereliquisti? Longe abes a precibus, a verbis clamoris mei. Deus meus, clamo per diem, et non exaudis, et nocte, et non attendis ad me. In te speraverunt patres nostri: speraverunt, et liberasti eos. Ego autem sum vermis et non homo. Omnes videntes me derident me. Aruit tamquam testa guttur meum, et lingua mea adhaeret faucibus meis, et in pulverem mortis deduxisti me. Foderunt manus meas et pedes meos: dinumerare possum omnia ossa mea. Ipsi vero aspiciunt, et videntes me laetantur; dividunt sibi vestimenta mea, et de veste mea mittunt sortem. Sed in psalmo decimo quinto David etiam prophetavit de resurrectione Christi. In hoc psalmo, quamquam David videtur de se loqui, nihilominus haec ait, ad Deum dicens: \"Quia non relinques animam meam apud inferos; non sines sanctum tuum videre corruptionem.\" Sanctus Petrus Apostolus, in primo festo Pentecostes, cum Spiritus Sanctus super Apostolos descendisset, interpretatus est hunc psalmum in oratione sua, dicens: \"David... defunctus est et sepultus, et sepulchrum eius est apud nos usque in hodiernum diem. Propheta igitur cum esset... providens locutus est de resurrectione Christi.\" Sanctus Petrus dicit haec verba psalmi non posse David ipsum significare, quia David mortuus est, et caro eius corrupta est. Ergo, vera sunt haec verba solummodo in Christo, quia caro eius non vidit corruptionem, sed surrexit ex sepulchro tertia die post mortem suam. David autem non semper bonus erat. Etiam adulterium commisit, sumendo sibi uxorem viri qui vocabatur Urias Hethaeus. Quam propter causam misit ad David Dominus Nathan prophetam dicentem: \"Haec dicit Dominus Deus Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul, et dedi tibi domum domini tui, dedique tibi domum Israel et Iuda, et si parva sunt ista, adiciam tibi multo maiora. Quare ergo contempsisti verbum Domini, ut faceres malum in conspectu meo? Uriam Hethaeum percussisti gladio filiorum Ammon, et uxorem illius accepisti in uxorem tibi. Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod despexeris me. Itaque haec dicit Dominus: Ecce, ego suscitabo super te malum de domo tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo. Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu omnis Israel, et in conspectu solis.\" Et dixit David ad Nathan: \"Peccavi Domino.\" Dixitque Nathan ad David: \"Dominus quoque abstulit peccatum tuum: non morieris. Verumtamen, quoniam blasphemare fecisti inimicos Domini propter verbum hoc, filius, qui natus est tibi, morte morietur.\" Et reversus est Nathan in domum suam, et David poenitentiam egit pro peccato suo.",
      "explanation": "Further uses of the gerundive: We have already seen how to use the gerundive (the -ndus form) to express PURPOSE; in that sense it was used with ad, causa, gratia, and sometimes ob or propter. When the gerundive is used without any of those prepositions (and, of course, not with a linking verb to express obligation), it may give the same effect as the English gerund with an object. Quite a variety of combinations are possible: Marcus consul factus est donis dandis (Marcus became consul by giving bribes). Brutus interfectus est in liberanda patria (Brutus was killed in freeing his country). Scripsit librum de contemnenda gloria (He wrote a book about despising glory). Curavit pontem faciendum (He took care of making a bridge). To translate, first render the preposition (if any) or note the case, then translate the -ndus form by the English gerund (-ing), and put the Latin noun with which the gerundive agrees after the gerund in English, as its object. The verb malle (prefer) has forms much like velle (wish): present indicative malo, mavis, mavult, malumus, mavultis, malunt; imperfect malebam; future malam, males; perfect malui, maluisti; present subjunctive malim.",
+     "divisio": {
+      "overview": "Two contrasting halves: David the prophet of the psalms, then David the sinner rebuked, joined by the theme of his words and his deeds.",
+      "parts": [
+       {
+        "label": "The psalm of the passion",
+        "detail": "David's prophetic psalms are introduced, and Psalm 21, which Christ recited on the cross, is quoted as foretelling the sufferings of Christ."
+       },
+       {
+        "label": "The psalm of the resurrection",
+        "detail": "Psalm 15 is read as foretelling the resurrection, with Peter's Pentecost interpretation that the words fit not the buried David but the risen Christ."
+       },
+       {
+        "label": "David's sin and Nathan's rebuke",
+        "detail": "David commits adultery by taking Uriah's wife, and the Lord sends Nathan to recount his favors, charge him with the crime, and announce punishment on his house."
+       },
+       {
+        "label": "Confession and penance",
+        "detail": "David answers 'Peccavi', Nathan tells him the Lord has taken away his sin but the child will die, and David does penance."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "psalmus",
@@ -25908,6 +29177,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Absalom courts the people and seizes the kingdom, and David flees Jerusalem in humble grief.",
      "original": "Praestans inter filios David erat Absalom. Ille fecit sibi currus et equites, et quinquaginta viros qui praecederent eum. Et mane consurgens Absalom stabat iuxta portam, et omnem virum, qui habebat negotium, ut veniret ad regis iudicium, Absalom vocabat ad se, et dicebat: \"De qua civitate es tu?\" Qui respondit dicens: \"Ex una tribu Israel ego sum servus tuus.\" Respondebatque ei Absalom: \"Videntur mihi sermones tui boni et iusti; sed non est qui te audiat constitutus a rege.\" Dicebatque Absalom: \"Quis me constituat iudicem super terram, ut ad me veniant omnes qui habent negotium, et iuste iudicem?\" Sed et cum accederet ad eum homo, ut salutaret illum, extendebat manum suam, et apprehendens osculabatur eum. Faciebatque hoc omni Israel venienti ad iudicium, ut audiretur a rege. Et sic sollicitabat corda virorum Israel. Post quattuor autem annos, dixit Absalom ad regem David: \"Vadam, et reddam vota mea quae vovi Domino in Hebron. Vovens enim vovit servus tuus, cum esset in Gessur Syriae, dicens: 'Si reduxerit me Dominus in Jerusalem, sacrificabo Domino.'\" Dixitque ei rex David: \"Vade in pace.\" Et surrexit, et abiit in Hebron. Misit autem Absalom in universas tribus Israel exploratores qui dicerent: \"Statim, ut audieritis clangorem buccinae, dicite: 'Regnavit Absalom in Hebron.'\" Porro cum Absalom ierunt ducenti viri de Jerusalem, euntes simplici corde, et causam penitus ignorantes. Venit igitur nuntius ad David dicens: \"Toto corde universus Israel sequitur Absalom.\" Et ait David servis suis, qui erant cum eo in Jerusalem: \"Surgite, fugiamus. Neque enim erit nobis effugium a facie Absalom. Festinate egredi, ne forte veniens occupet nos, et impellat super nos ruinam, et percutiat civitatem in ore gladii.\" Dixeruntque servi regis ad eum: \"Omnia quaecumque praeceperit dominus noster rex, libenter exsequemur servi tui.\" Egressus est ergo rex, et universa domus pedibus suis; et universi servi eius iuxta eum ambulabant, et legiones quaedam. Venit autem et Sadoc sacerdos, et universi Levitae cum eo, portantes arcam foederis. Et dixit rex ad Sadoc: \"Reporta arcam Dei in urbem: Si invenero gratiam in oculis Domini, reducet me, et ostendet mihi eam, et tabernaculum suum. Si autem dixerit mihi: 'Non places': praesto sum. Faciat quod bonum est coram se.\" Et dixit rex ad Sadoc sacerdotem: \"O Videns, revertere in civitatem in pace, et Achimaas et Ionathas sint vobiscum. Ecce ego abscondar in deserto, donec veniat sermo a vobis indicans mihi.\" Reportaverunt ergo Sadoc et Abiathar arcam Dei in Jerusalem et manserunt ibi. Porro David ascendebat Montem Olivarum, flens, et nudis pedibus incedens, et operto capite. Sed et omnis populus qui erat cum eo, operto capite ascendebat plorans. Venit ergo rex David usque ad Bahurim, et ecce egrediebatur vir de cognatione domus Saul, nomine Semei. Procedebatque et maledicebat, mittebatque lapides contra David, et contra universos servos regis David; omnis autem populus et universi bellatores a dextero et a sinistro latere regis incedebant. Ita autem loquebatur Semei, cum malediceret regi: \"Egredere, egredere, vir sanguinum, et vir iniquitatis. Reddidit tibi Dominus universum sanguinem domus Saul, quoniam invasisti regnum pro eo, et dedit Dominus regnum in manu Absalom filii tui. Et ecce, premunt te mala tua, quoniam vir sanguinum es.\" Dixit autem Abisai ad regem: \"Quare maledicit canis hic mortuus domino meo regi? Vadam et amputabo caput eius.\" Et ait rex: \"Quid mihi et vobis est, fili Sarviae? Dimitte eum ut maledicat: Dominus enim mandavit ei ut malediceret David; et quis est qui audeat dicere quare sic fecerit?\" (Revera autem Deus non mandat homini ut talia loquatur: sed David scit bene Deum haec permisisse, ut pro peccatis suis puniretur. David autem, sciens peccata sua magna fuisse, vult accipere haec maledicta in poenam peccati.) Et ait rex ad Abisai et ad universos servos suos: \"Ecce, filius meus quaerit animam meam. Quanto magis nunc hic filius Iemini? Dimittite eum ut maledicat: si forte respiciat Dominus afflictionem meam et reddat mihi Dominus bonum pro maledictione hac hodierna.\"",
      "explanation": "This scene practices the gerundive used as a gerund with an object (the -ndus form rendered by the English -ing plus an object), as seen in the Scramble: \"Sibi uxore Uriae accipienda... peccavit David rex\" means \"By taking for himself the wife of Uriah, David the king sinned.\" Likewise \"Sollicitandis cordibus virorum Israel, Absalom potestatem accepit\" means \"By enticing the hearts of the men of Israel, Absalom obtained power.\" Translate the case or preposition first, then the -ndus form as an -ing gerund, then place the agreeing noun after it as the object. The verb malle (prefer) recurs here: \"se autem malle ignoscere quam punire\" means \"that He preferred rather to forgive than to punish.\"",
+     "divisio": {
+      "overview": "A revolt narrative that builds from Absalom's quiet seduction of the people to David's open flight and humiliation.",
+      "parts": [
+       {
+        "label": "Absalom courts the people",
+        "detail": "At the gate Absalom intercepts those seeking justice, flatters and kisses them, and so steals the hearts of the men of Israel."
+       },
+       {
+        "label": "The feigned vow and the revolt",
+        "detail": "Absalom gets leave to pay a vow at Hebron, sends spies with the trumpet signal, and is proclaimed king as all Israel follows him."
+       },
+       {
+        "label": "David flees Jerusalem",
+        "detail": "David orders his household to flee, sends the priests back with the ark to await God's will, and climbs the Mount of Olives weeping and barefoot."
+       },
+       {
+        "label": "Semei's curse",
+        "detail": "Semei pelts and curses David as a man of blood; David forbids Abisai to kill him and humbly accepts the cursing as God's chastisement for his sins."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "praestans",
@@ -26175,6 +29465,27 @@ window.COURSE_DATA.courses.push({
      "lead": "David divides his army before the battle in the forest of Ephraim, orders that Absalom be spared, yet Joab pierces him as he hangs by his hair from an oak; the grieving king then turns to settle the succession of his throne.",
      "original": "David autem venit trans Iordanem in quandam urbem quae vocabatur Machanaim. Et constituit super populum suum tribunos et centuriones; et posuit populi tertiam partem sub manu Ioab, et tertiam partem sub manu Abisai, et tertiam partem sub manu Ethai; dixitque rex ad populum: \"Egrediar et ego vobiscum.\" Et respondit populus: \"Non exibis: sive enim fugerimus, sive media pars ceciderit e nobis, non multum refert. Sed tu unus pro decem millibus computaris. Melius est igitur ut sis in urbe.\" Ad quos rex ait: \"Quod vobis videtur bonum, hoc faciam.\" Stetit ergo rex iuxta portam; egrediebaturque populus. Et praecepit rex ad Ioab et Abisai et Ethai dicens: \"Servate mihi puerum Absalom.\" Itaque egressus est populus in campum contra Israel, et factum est proelium in silva Ephraim. Et caesus est ibi populus Israel ab exercitu David, factaque est plaga magna in die illa, viginti millium. Accidit autem ut occurreret Absalom servis David, sedens mulo. Cumque ingressus fuisset mulus sub condensam et magnam quercum, adhaesit caput eius quercui; et illo suspenso inter coelum et terram, mulus transivit. Vidit autem hoc quidam, et nuntiavit ad Ioab dicens: \"Vidi Absalom pendere de quercu.\" Et ait Ioab viro qui nuntiaverat ei: \"Si vidisti, quare non confodisti eum?\" Qui dixit ad Ioab: \"Si dederis in manibus meis mille argenteos, nequaquam mitterem manum meam in filium regis. Audientibus enim nobis mandavit rex tibi dicens: 'Custodite mihi puerum Absalom.'\" Et ait Ioab: \"Non sicut tu vis, sed ego aggrediar eum coram te.\" Tulit ergo tres lanceas in manu sua, et infixit eas in corde Absalom. Et tulerunt Absalom et proiecerunt eum in foveam grandem, et comportaverunt super eum acervum lapidum magnum nimis. Omnis autem Israel fugit in tabernacula sua. Cumque nuntiatum esset ad David quod puer eius Absalom mortuus esset, contristatus flevit, dixitque: \"Fili mi, Absalom, fili mi: quis mihi tribuat ut ego moriar pro te, Absalom fili mi, fili mi Absalom!\" Cum rex David senuisset valde, quodam die venit ad eum uxor eius Bethsabee, sicut consuluerat eam Nathan propheta, inclinavitque se Bethsabee, et adoravit regem. Ad quam rex: \"Quid tibi,\" inquit, \"vis?\" Quae respondens ait: \"Domine mi, tu iuravisti per Dominum Deum tuum ancillae tuae: 'Salomon filius tuus regnabit post me, et ipse sedebit in solio meo.' Et ecce, nunc Adonias (qui erat alius filius David) regnat, te ignorante, domine mi rex.\" Adhuc illa loquente cum rege, Nathan propheta venit. Et nuntiaverunt regi dicentes: \"Adest Nathan propheta.\" Cumque introisset in conspectu regis, et adoravisset eum pronus in terram, dixit Nathan: \"Domine mi rex, dixistine tu: 'Adonias regnet post me?' Quia descendit hodie, et multas immolavit victimas, vocavitque universos filios regis et principes exercitus, et Abiathar sacerdotem. Illisque comedentibus et bibentibus coram eo, et dicentibus: 'Vivat rex Adonias': me servum tuum, et Sadoc sacerdotem, et Salomonem famulum tuum non vocavit. Numquid a domino meo rege exivit hoc verbum, et mihi non indicavisti servo tuo, quis sessurus esset super thronum domini mei regis post eum?\" Et respondit rex David dicens: \"Vocate ad me Bethsabee.\" Quae cum fuisset ingressa, et stetisset ante eum, iuravit rex et ait: \"Vivit Dominus, quia, sicut iuravi tibi per Dominum Deum Israel, dicens: Salomon filius tuus regnabit post me, et ipse sedebit super solium meum--- sic faciam hodie.\"",
      "explanation": "Ablative of cause and ablative of separation. We have already learned that the ablative without a preposition may be translated in English by in or with. Now we must add two more meanings: because of and from. An ablative of separation (from) often does have a preposition (ab, ex, de), but sometimes it does not. Hardly ever does it have one with names of towns, as we have already seen. For example: Peccatis meis Deus haec fecit, Because of my sins God has done this; Liberavit me omni cura, He freed me from all care. Let us also review impersonal verbs, and recall last year's word-order practice on objective-infinitive indirect statements: when an objective accusative stands with an infinitive and a verb of saying, we handle it by saying that the person is simply involved in something, since he may be the subject of an active infinitive or the object of a passive one.",
+     "divisio": {
+      "overview": "A battle narrative that ends in grief and then pivots to the unsettled succession of the throne.",
+      "parts": [
+       {
+        "label": "Marshalling the army",
+        "detail": "David crosses the Jordan to Machanaim, divides the people under Joab, Abisai, and Ethai, is persuaded to stay behind, and charges them to spare Absalom."
+       },
+       {
+        "label": "The battle and Absalom's death",
+        "detail": "Israel is routed in the forest of Ephraim, Absalom hangs by his head from an oak, and Joab drives three lances into him against the king's order."
+       },
+       {
+        "label": "David's mourning",
+        "detail": "Word comes to David, who weeps and cries that he wishes he had died in place of his son Absalom."
+       },
+       {
+        "label": "The succession disputed",
+        "detail": "With David grown old, Bethsabee and then Nathan warn him that Adonias has made himself king, and David swears that Solomon will reign and sit on his throne."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "sive... sive",
@@ -26357,6 +29668,27 @@ window.COURSE_DATA.courses.push({
      "lead": "David has Sadoc and Nathan anoint Solomon at Gihon to the shout 'Long live king Solomon'; before his death David charges his son to walk in the Lord's ways, and Solomon, given the chance to ask anything, asks only for a wise and understanding heart.",
      "original": "Dixit quoque rex David: \"Vocate mihi Sadoc sacerdotem et Nathan prophetam.\" Qui cum ingressi fuissent coram rege, dixit ad eos: \"Tollite vobiscum servos domini vestri, et imponite Salomonem filium meum super mulam meam, et ducite eum in Gihon. Et ungat eum ibi Sadoc sacerdos, et Nathan propheta in regem super Israel.\" Descendit ergo Sadoc sacerdos et Nathan propheta et imposuerunt Salomonem super mulam regis David, et adduxerunt eum in Gihon. Sumpsitque Sadoc sacerdos cornu olei de tabernaculo, et unxit Salomonem, et cecinerunt buccina et dixit omnis populus: \"Vivat rex Salomon.\" Dixitque David: \"Benedictus Dominus Deus Israel, qui dedit hodie sedentem in solio meo, videntibus oculis meis.\" Appropinquaverunt autem dies David, ut moreretur, praecepitque Salomoni filio suo dicens: \"Ego ingredior viam universae terrae. Confortare (imperative) et esto vir. Et cura ut ambules in viis Domini Dei tui, ut custodias ceremonias eius et praecepta eius, et iudicia et testimonia, sicut scriptum est in lege Moysi, ut intelligas universa quae facis, ut confirmet Dominus sermones suos quos locutus est de me dicens: 'Si custodierint filii tui vias suas, et ambulaverint coram me in veritate, in omni corde suo, non auferetur tibi vir de solio Israel.'\" Dormivit igitur David cum patribus suis, et sepultus est in civitate David. De Regno Salomonis: 965-26 Ante Christum. In prima parte regni eius, apparuit Dominus Salomoni per somnium nocte, dicens: \"Postula quod vis, ut dem tibi.\" Et ait Salomon: \"Tu fecisti cum servo tuo David patre meo misericordiam magnam, sicut ambulavit in conspectu tuo in veritate, et iustitia, et recto corde tecum. Custodisti ei misericordiam tuam grandem, et dedisti ei filium sedentem super thronum eius, sicut est hodie. Et nunc, Domine Deus, tu regnare fecisti servum tuum pro David patre meo. Ego autem sum puer parvulus, et ignorans egressum et introitum meum. Et servus tuus in medio est populi, quem elegisti, populi infiniti, qui numerari et supputari non potest prae multitudine. Dabis ergo servo tuo cor docile, ut populum tuum iudicare possit, et discernere inter bonum et malum. Quis enim poterit iudicare populum istum, populum tuum hunc multum?\" Placuit ergo sermo coram Domino, quod Salomon postulavisset huiuscemodi rem. Et dixit Dominus Salomoni: \"Quia postulavisti verbum hoc, et non petisti tibi dies multos, nec divitias, nec animas inimicorum tuorum, sed postulavisti tibi sapientiam ad discernendum iudicium: feci tibi secundum sermones tuos, et dedi tibi cor sapiens et intelligens, in tantum, ut nullus ante te similis tui fuerit, nec post te surrecturus sit. Sed et haec, quae non postulavisti, dedi tibi, divitias scilicet, et gloriam, ut nemo fuerit similis tui in regibus omnibus temporum praeteritorum. Si autem ambulaveris in viis meis, et custodieris praecepta mea et mandata mea, sicut ambulavit pater tuus, longos faciam dies tuos.\" Sapientia autem Salomonis vere mirabilis erat; et veniebant de cunctis populis ad audiendam sapientiam Salomonis. Et mirati sunt audientes eum.",
      "explanation": "This scene shows the ablative of cause at work: it was because of his very wise heart (corde sapienti eius) that many came to hear Solomon, and because Solomon's plea pleased the Lord (Placuit ergo sermo coram Domino) that God granted it. Notice also the ablative absolutes, such as videntibus oculis meis (my eyes seeing it) and the anointing told with the people shouting. God's reply to Solomon contrasts what he did ask (sapientiam) with what he did not (divitias, gloriam), and promises both because his request pleased.",
+     "divisio": {
+      "overview": "Solomon's accession told in four movements: anointing, royal charge, divine offer, and the gift of wisdom.",
+      "parts": [
+       {
+        "label": "Anointing at Gihon",
+        "detail": "David orders Sadoc and Nathan to set Solomon on the royal mule and anoint him at Gihon, where the people shout 'Vivat rex Salomon'."
+       },
+       {
+        "label": "David's charge and death",
+        "detail": "Near death, David charges Solomon to be a man and walk in the Lord's ways and laws, then sleeps with his fathers and is buried in the city of David."
+       },
+       {
+        "label": "The dream and the request",
+        "detail": "The Lord appears by night offering whatever Solomon wishes, and the young king, calling himself a small child, asks for a teachable heart to judge the people."
+       },
+       {
+        "label": "Wisdom granted and renowned",
+        "detail": "Pleased that he asked not long life or riches, God gives Solomon an unmatched wise heart plus wealth and glory, and peoples come from everywhere to hear his wisdom."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "mula",
@@ -26569,6 +29901,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Solomon writes to Hiram of Tyre for cedars of Lebanon, completes the temple, and the glory of the Lord fills the house. Read the continuous Latin and let the meaning come.",
      "original": "Misit autem Salomon ad Hiram, regem Tyri dicens: \"Tu scis voluntatem David patris mei, et quia non potuerit aedificare domum nomini Domini Dei sui propter bella imminentia per circuitum, donec daret Dominus eos sub pedibus eius. Nunc autem requiem dedit Dominus Deus meus mihi per circuitum et non est adversarius, neque occursus malus. Quam ob rem, cogito aedificare templum nomini Domini Dei mei, sicut locutus est Dominus David patri meo, dicens: 'Filius tuus quem dabo pro te super solium tuum, ipse aedificabit domum nomini meo.' Praecipe igitur ut praecidant mihi servi tui cedros de Libano, et servi mei sint cum servis tuis. Mercedem autem servorum tuorum dabo tibi quamcumque petieris. Scis enim, quod non est in populo meo vir qui noverit ligna caedere sicut Sidonii.\" Cum ergo audisset Hiram verba Salomonis, laetatus est valde, et ait: \"Benedictus Dominus Deus hodie, qui dedit David filium sapientissimum super populum hunc plurimum.\" Et misit Hiram ad Salomonem dicens: \"Audivi quaecumque mandavisti mihi: ego faciam omnem voluntatem tuam in lignis cedrinis. Servi mei deponent ea de Libano ad mare, et ego componam ea in ratibus in mare usque ad locum quem significaveris mihi. Et applicabo ea ibi, et tu tolles ea, praebebisque necessaria mihi, ut detur cibus domui meae.\" Anno quarto regni Salomonis fundata est domus Domini, et in anno undecimo perfecta est domus in omni opere suo. Et intulit Salomon in domum Domini argentum et aurum et vasa quae pater eius David dedicaverat, reposuitque ea in thesauris domus Domini. Tunc congregati sunt omnes maiores natu Israel cum principibus tribuum, et duces familiarum ad regem Salomonem in Ierusalem ut deferrent arcam foederis Domini de civitate David, id est, de Sion. Convenitque ad regem Salomonem universus Israel, veneruntque cuncti senes de Israel, et arcam tulerunt sacerdotes, et arcam Domini portaverunt et omnia vasa sanctuarii quae erant in tabernaculo, et ferebant ea sacerdotes et Levitae. Rex autem Salomon et omnis multitudo Israel, quae convenerat ad eum, incedebat cum illo ante arcam, et immolabant oves et boves sine numero. Et intulerunt sacerdotes arcam foederis Domini in locum suum, in Sanctum sanctorum. Factum est autem, cum exissent sacerdotes de sanctuario, nebula implevit domum Domini, et non poterant sacerdotes stare et ministrare propter nebulam; impleverat enim gloria Domini domum Domini. Tunc ait Salomon: \"Dominus dixit quod habitaret in nebula.\" Factum est autem cum perfecisset Salomon aedificium domus Domini, apparuit ei Dominus secundo, sicut apparuerat ei in Gabaon. Dixitque Dominus ad eum: \"Exaudivi orationem tuam. Sanctificavi domum hanc, quam aedificavisti, ut ponerem nomen meum ibi in sempiternum, et erunt oculi mei et cor meum ibi cunctis diebus. Tu quoque si ambulaveris coram me, sicut ambulavit pater tuus, in simplicitate cordis et in aequitate, et feceris omnia quae praecepi tibi, et mandata mea et iudicia mea servaveris, ponam thronum regni tui super Israel in sempiternum, sicut locutus sum David patri tuo, dicens: 'Non auferetur vir de genere tuo de solio Israel.' Si autem aversione aversi fueritis vos et filii vestri, non sequentes me, nec custodientes mandata mea et caeremonias meas, quas dedi vobis, sed abieritis et colueritis deos alienos, et adoraveritis eos: auferam Israel de superficie terrae quam dedi eis, et templum, quod sanctificavi nomini meo abiciam a facie mea. Eritque Israel in proverbium et in fabulam cunctis populis. Et domus haec erit in exemplum: omnis qui transierit per eam, stupebit, et sibilabit, et dicet: 'Quare fecit Dominus sic terrae huic et domui huic?' Et respondebunt: 'Quia Dominum Deum suum dereliquerunt, qui eduxit patres eorum de terra Aegypti, et secuti sunt deos alienos, et adoraverunt eos, et coluerunt eos: idcirco induxit Dominus super eos omne malum hoc.'\"",
      "explanation": "Two construction points to keep before you while reading. First, the locative case names the place at which something happens for the names of towns and small islands and a few common words: Tyri (at Tyre), Ierusalem and Hierosolymis (at Jerusalem). Second, watch the two passive constructions that fill this story. The ablative of agent shows the person by whom an action is done and takes a or ab with the ablative: a sacerdotibus (by the priests), a Deo (by God). The ablative of means shows the thing with which something is done and takes no preposition: gladiis (with swords). Review pages 154 to 155 of this book on the locative and on the ablatives of agent and means.",
+     "divisio": {
+      "overview": "The temple's story in five steps: the request for timber, the reply, the building, the ark's installation, and the Lord's response.",
+      "parts": [
+       {
+        "label": "Solomon's letter to Hiram",
+        "detail": "Solomon writes that, now at rest where David could not build, he means to raise the temple and asks Hiram for cedars of Lebanon and skilled Sidonian woodcutters."
+       },
+       {
+        "label": "Hiram's reply",
+        "detail": "Hiram rejoices, blesses the Lord, and agrees to float the timber by sea in rafts to the place Solomon names in exchange for provisions."
+       },
+       {
+        "label": "Building and furnishing",
+        "detail": "The house is founded in the fourth year and finished in the eleventh, and Solomon stores the dedicated silver, gold, and vessels in its treasuries."
+       },
+       {
+        "label": "The ark brought up",
+        "detail": "The elders gather, the priests carry the ark into the Holy of Holies amid countless sacrifices, and the cloud of the Lord's glory fills the house."
+       },
+       {
+        "label": "The Lord's promise and warning",
+        "detail": "God appears a second time, promising an enduring throne if Solomon walks faithfully, but threatening to cast off Israel and the temple if they turn to other gods."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Tyrus",
@@ -26783,6 +30140,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Solomon's heart is turned aside by foreign wives, so the Lord promises to rend the kingdom. After his death Roboam answers the people's plea for relief with a harsh boast.",
      "original": "Rex autem Salomon non semper fidelis Domino Deo Israel erat. In ultima enim parte vitae suae multas mulieres ex aliis nationibus amavit, de gentibus de quibus dixit Dominus filiis Israel: \"Ne accipiatis eas in uxores: certissime enim avertent corda vestra, ut sequamini deos earum.\" Salomoni autem fuerunt uxores multae; et averterunt mulieres cor eius. Cumque iam esset senex, depravatum est cor eius per mulieres, ut sequeretur deos alienos; nec erat cor eius perfectum cum Domino Deo suo, sicut cor David patris eius. Sed colebat Salomon Astarthen, deam Sidoniorum, et Moloch idolum Ammonitarum. Fecitque Salomon quod non placuerat coram Domino, et non adimplevit ut sequeretur Dominum, sicut David pater eius. Tunc aedificavit Salomon fanum pro Chamos, idolo de Moab in monte qui est contra Ierusalem, et pro Moloch, idolo filiorum Ammon. Atque simili modo fecit universis uxoribus suis alienigenis, quae adolebant thura, et diis suis immolabant. Igitur iratus est Dominus Salomoni, quod aversa esset mens eius a Domino Deo Israel, qui apparuerat ei, et praeceperat de verbo hoc ne sequeretur deos alienos. Dixit itaque Dominus Salomoni: \"Quia habuisti hoc apud te, et non custodisti pactum meum et praecepta mea, quae mandavi tibi, scindens scindam regnum tuum, et dabo illud servo tuo. Verumtamen in diebus tuis non faciam, propter David patrem tuum: de manu filii tui scindam illud. Nec totum regnum auferam, sed tribum unam dabo filio tuo propter David servum meum, et Ierusalem, quam elegi.\" Dies autem quos regnavit Salomon in Ierusalem super omnem Israel, quadraginta anni sunt. Dormivitque Salomon cum patribus suis, et sepultus est in civitate David patris sui; regnavitque Roboam filius eius pro eo. Venit autem Roboam in Sichem; illuc enim congregatus erat omnis Israel ad constituendum eum regem. At vero Ieroboam (qui fuerat dux rebellionis contra Salomon, et in Aegyptum fugerat) audita morte Salomonis, reversus est de Aegypto. Miseruntque et vocaverunt eum; venit ergo Ieroboam et omnis multitudo Israel, et locuti sunt ad Roboam dicentes: \"Pater tuus durissimum iugum imposuit nobis: tu itaque nunc imminue paululum de imperio patris tui durissimo et de iugo gravissimo quod imposuit nobis, et serviemus tibi.\" Qui ait eis: \"Ite usque ad tertium diem, et revertimini ad me.\" Cumque abiisset populus, iniit consilium rex Roboam cum senioribus qui assistebant coram Salomone patre eius, cum adhuc viveret, et ait: \"Quod (interrogative adjective with consilium) datis mihi consilium, ut respondeam populo huic?\" Qui dixerunt ei: \"Si hodie obedieris populo huic, et servieris, et petitioni eorum cesseris, locutusque fueris ad eos verba lenia, erunt tibi servi cunctis diebus.\" Qui dereliquit consilium senum, quod dederant ei, et adhibuit adolescentes, qui nutriti fuerant cum eo, et assistebant illi; dixitque ad eos: \"Quod mihi datis consilium, ut respondeam populo huic, qui dixerunt mihi: 'Levius fac iugum quod imposuit pater tuus super nos'?\" Et dixerunt ei iuvenes qui nutriti fuerant cum eo: \"Sic loqueris populo huic qui locuti sunt ad te dicentes: 'Pater tuus aggravavit iugum nostrum, tu releva nos.' Sic loqueris ad eos: Minimus digitus meus grossior est dorso patris mei. Et nunc pater meus posuit super vos iugum grave, ego autem addam super iugum vestrum: pater meus cecidit vos flagellis, ego autem caedam vos scorpionibus.\"",
      "explanation": "These episodes turn on subordinate clauses of cause and condition, but the case you will meet again and again is the ablative. Notice the ablative of means without a preposition in the last speech: cecidit vos flagellis (he beat you with whips), caedam vos scorpionibus (I will beat you with scorpions). Compare the ablative of agent with a or ab when the doer is a person, as in the matching exercises: a sacerdotibus, a Deo. And keep the locative in view for towns: Ierusalem and Hierosolymis say at Jerusalem, Tyri says at Tyre. Review pages 154 to 155 on the locative and the ablatives of agent and means.",
+     "divisio": {
+      "overview": "The seeds of the division told in sequence: Solomon's apostasy, the Lord's sentence, the people's plea at Sichem, and Roboam's fatal choice of counsel.",
+      "parts": [
+       {
+        "label": "Solomon's apostasy",
+        "detail": "In old age Solomon's foreign wives turn his heart aside, and he builds shrines to Astarthe, Moloch, and Chamos against the Lord's command."
+       },
+       {
+        "label": "The Lord's sentence",
+        "detail": "Angered, God tells Solomon He will tear the kingdom away and give it to a servant, sparing one tribe for David's sake and delaying it to his son's day."
+       },
+       {
+        "label": "The people's plea at Sichem",
+        "detail": "After Solomon's death Roboam comes to Sichem, and the people with the returned Jeroboam ask him to lighten his father's harsh yoke."
+       },
+       {
+        "label": "Roboam's two counsels",
+        "detail": "Roboam puts off the people three days, the elders advise gentle words, but the young men he was raised with urge the boast of a heavier yoke and scorpions."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "inducere",
@@ -27004,6 +30382,27 @@ window.COURSE_DATA.courses.push({
      "lead": "After Solomon's death the kingdom of Israel is torn in two, and the northern king Jeroboam leads his people into the sin of false worship.",
      "original": "Venit ergo Jeroboam et omnis populus ad Roboam die tertia, sicut locutus fuerat rex dicens: \"Revertimini ad me die tertia.\" Responditque rex populo dura, derelicto consilio seniorum quod ei dederant, et locutus est secundum consilium iuvenum dicens: \"Pater meus aggravavit iugum vestrum; ego autem addam iugo vestro. Pater meus cecidit vos flagellis; ego autem caedam vos scorpionibus.\" Videns itaque populus, quod noluisset eos audire rex, respondit ei dicens: \"Quae nobis pars in David? vel quae hereditas in filio Isai? Vade in tabernacula tua, Israel. Nunc vide domum tuam, David.\" Et abiit Israel in tabernacula sua. Super filios autem Israel, quicumque habitabant in civitatibus Iuda, regnavit Roboam. Hoc modo regnum divisum est, secundum prophetiam quam dedit Deus Salomoni dicens: \"Quia non custodisti pactum meum, scindens scindam regnum tuum, et dabo illud servo tuo. Verumtamen in diebus tuis non faciam, propter David patrem tuum: de manu filii tui scindam illud.\" Nunc ergo erant regna duo: regnum septentrionale, quod vocatum est Israel, et regnum meridionale, quod vocatum est Iuda. In septentrionali rex erat Jeroboam; in meridionali, Roboam. Regnum septentrionale finitum est anno septingentesimo vigesimo secundo (722), quando rex erat Osee. Regnante Osee, Assyrii sub rege eorum Shalmanesar quintus, venerunt, totamque terram vastaverunt viceruntque. Regnum Iuda finitum est anno quingentesimo octogesimo septimo (587), quando rex erat Sedecias. Illo enim tempore, rex Babyloniorum Nabuchodonosor cepit Ierusalem, et duxit Iudaeos captivos in Babyloniam. Roboam voluit capere Israel, et congregavit universam domum Iuda et tribum Benjamin ut pugnarent contra domum Israel et reducerent regnum Roboam filio Salomonis. Factus est autem sermo Domini ad Semeiam, virum Dei, dicens: \"Loquere ad Roboam filium Salomonis regem Iuda, et ad omnem domum Iuda, et Beniamin, et reliquos de populo dicens: 'Haec dicit Dominus: Non ascendetis, neque bellabitis contra fratres vestros, filios Israel. Revertatur vir in domum suam: a me enim factum est verbum hoc.' \" Audierunt sermonem Domini, et reversi sunt de itinere, sicut eis praeceperat Dominus. Ieroboam autem, rex regni septentrionalis, timebat ne populus regni sui ascenderet in Ierusalem pro festis religiosis, dixitque in corde suo: \"Nunc, si ascenderit populus iste, ut faciat sacrificia in domo Domini in Ierusalem revertetur regnum ad domum David, et convertetur cor populi huius ad Roboam, regem Iuda, interficientque me, et revertentur ad eum.\" Et excogitato consilio, fecit duos vitulos aureos, et dixit populo suo: \"Nolite ascendere in Ierusalem: ecce dii tui, Israel, qui te eduxerunt de terra Aegypti.\" Posuitque vitulum unum in Bethel, et alterum in Dan. Et ibat populus ad adorandum vitulos. Et fecit fana in excelsis, et sacerdotes de viris qui non erant de filiis Levi. Constituitque diem solemnem in mense octavo, quinta decima die mensis, in similitudinem solemnitatis quae celebrabatur in Iuda. Hoc peccatum regis Ieroboam magnum valde erat. Deus enim prohibuerat ne imagines facerent ad adorandum. Verum est, Ieroboam non voluit facere deum falsum, sed imagines Dei veri. Fortitudo enim vituli, putabat Jeroboam, erat symbolum potentiae Dei veri. Nihilominus, Jeroboam haec facere non debuit. Similiter peccavit constituendo sacerdotes qui non erant ex tribu Levi. Hoc peccatum eius viam aperuit idololatriae: vitulus enim etiam erat symbolum dei falsi Baal.",
      "explanation": "Mixed-stem nouns in the third declension. We already learned that third-declension nouns fall into two large groups according to the ablative singular. An -i in the ablative singular means the genitive plural will be -ium and that the nominative and accusative plural of neuters will be -ia; an -e in the ablative singular means the genitive plural will be -um and the neuter plural will be -a. There are also some mixed-stem nouns: they have -e in the ablative singular but -ium in the genitive plural. There is no simple rule; experience and much reading are the best teacher. But note that no neuters are mixed stems, and most one-syllable nouns whose nominative ends in -ns, -rs, -rx, or -lx are mixed. For i-stem nouns there are three helpful rules for the ablative singular. First, monosyllables whose base (ablative singular minus i or e) ends in two consonants will be either i-stems or mixed stems, and this group is masculine or feminine. Second, parisyllables with the same number of syllables in the nominative and ablative singular, with nominative singular in -is or -es, will be masculine or feminine. Third, neuters in -e, -al, or -ar will be i-stems. There are exceptions, but the rules are still a help to memory.",
+     "divisio": {
+      "overview": "The rupture and its aftermath, from Roboam's harsh answer to Jeroboam's idolatry, closed by Most's comment on the sin.",
+      "parts": [
+       {
+        "label": "Roboam's harsh answer and the split",
+        "detail": "On the third day Roboam follows the young men's counsel, the people reject the house of David, and only Juda is left under him while Israel goes home."
+       },
+       {
+        "label": "The two kingdoms and their ends",
+        "detail": "The text names the northern kingdom Israel and the southern Juda and notes their later falls, to Assyria under Osee in 722 and to Babylon under Sedecias in 587."
+       },
+       {
+        "label": "Semeias forbids civil war",
+        "detail": "Roboam musters Juda and Benjamin against Israel, but Semeias the man of God brings the Lord's word forbidding the war, and they turn back."
+       },
+       {
+        "label": "Jeroboam's golden calves",
+        "detail": "Fearing his people will return to Roboam at the feasts, Jeroboam makes two golden calves at Bethel and Dan and appoints non-Levite priests, which Most names a great sin opening the way to idolatry."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "secundum (w. obj.)",
@@ -27146,6 +30545,27 @@ window.COURSE_DATA.courses.push({
      "lead": "God does not abandon his people but sends the prophet Elias, whose words bring drought, miraculous food, and the raising of a widow's son.",
      "original": "Deus autem populum suum non deseruit, sed multos prophetas misit. In regno septentrionali, quando rex erat Achab, erat magnus propheta cui nomen erat Elias. Achab erat rex malus. Non satis enim erat ei ut ambularet in peccatis Jeroboam: insuper duxit uxorem Iezabel, filiam Ethbaal regis Sidoniorum. Et abiit Achab, et servivit Baal, et adoravit eum. Et posuit aram Baal in templo Baal, quod aedificaverat in Samaria, et irritavit Dominum Deum Israel plus quam omnes reges Israel, qui fuerunt ante eum. Misit itaque Deus ad eum Eliam prophetam, dicentem: \"Vivit Dominus Deus Israel, in cuius conspectu sto: non erit annis his ros et pluvia, nisi iuxta oris mei verba.\" Et factum est verbum Domini ad Eliam dicens: \"Recede hinc, et vade ad orientem, et abscondere in torrente Carith, et ibi de torrente bibes: corvisque praecepi, ut pascant te ibi.\" Abiit ergo, et fecit iuxta verbum Domini. Cumque abiisset, sedit ad torrentem Carith. Corvi quoque deferebant ei panem et carnes mane, similiter panem et carnes vesperi, et bibebat de torrente. Post dies autem siccatus est torrens: non enim venerat pluvia super terram. Factus est ergo sermo Domini ad eum, dicens: \"Surge, et vade in Sarephta Sidoniorum, et manebis ibi. Praecepi enim ibi mulieri viduae ut pascat te.\" Surrexit, et abiit in Sarephta. Cumque venisset ad portam civitatis, apparuit ei mulier vidua colligens ligna; et vocavit eam, dixitque ei: \"Da mihi paululum aquae in vase, ut bibam.\" Cumque illa pergeret ut afferret, clamavit post eam dicens: \"Affer mihi, obsecro, etiam bucellam panis in manu tua.\" Quae respondit: \"Vivit Dominus Deus tuus: quia non habeo panem, nisi quantum farinae pugillus capere potest, et paululum olei in lecytho. Ecce, colligo duo ligna, ut ingrediar, et faciam haec mihi et filio meo, ut comedamus et moriamur.\" Ad quam Elias: \"Noli timere, sed vade, et fac sicut dixisti. Verumtamen, mihi primum fac de ipsa farina panem parvulum, et affer ad me. Tibi autem et filio tuo facies postea. Haec autem dicit Dominus Deus Israel: 'Hydria farinae non deficiet, nec lecythus olei minuetur usque ad diem in qua Dominus daturus est pluviam super faciem terrae.' \" Quae abiit, et fecit iuxta verbum Eliae; et comedit ipse, et illa et domus eius. Et ex illa die, hydria farinae non defecit, et lecythus olei non est imminutus, iuxta verbum Domini, quod locutus fuerat in manu Eliae. Factum est autem post haec: aegrotavit filius mulieris; et erat languor fortissimus, ita ut non remaneret in eo halitus. Dixit ergo ad Eliam: \"Quid mihi et tibi, vir Dei? Ingressus es ad me, ut rememorarentur iniquitates meae, et interficeres filium meum?\" Et ait ad eam Elias: \"Da mihi filium tuum.\" Tulitque eum, et portavit in coenaculum ubi manebat ipse, et posuit eum super lectum suum. Et clamavit ad Dominum et dixit: \"Domine Deus meus, revera viduam, apud quam ego utcumque sustineor, afflixisti, ita ut interficeres filium eius?\" Posuitque Elias corpus suum super corpus pueri tribus vicibus, et clamavit ad Dominum et ait: \"Domine Deus meus, revertatur, obsecro, anima pueri huius in viscera eius.\" Et exaudivit Dominus vocem Eliae; et reversa est anima pueri intra eum, et revixit. Tulitque Elias puerum et tradidit matri suae et ait illi: \"Ecce, vivit filius tuus.\" Dixitque mulier ad Eliam: \"Nunc in isto cognovi quod vir Dei es tu, et verbum Domini in ore tuo verum est.\"",
      "explanation": "Last year we learned to use cum with the subjunctive to mean because or although, and with the indicative or subjunctive to mean when or after. Now we make more precise the rules for the mood when cum means when or after. The forms in this reading show those temporal cum-clauses at work, alongside the result (consecutive) clause 'ita ut non remaneret in eo halitus', where anticipatory 'ita' in the main clause points forward to the ut-clause. Watch how the tense of the verb in the cum-clause sets the time of the main action.",
+     "divisio": {
+      "overview": "Elias' early ministry told in four scenes, framed by Achab's wickedness and rising through three signs of God's care.",
+      "parts": [
+       {
+        "label": "Achab's wickedness",
+        "detail": "The northern king Achab marries Iezabel, serves Baal, and provokes the Lord more than any king before him."
+       },
+       {
+        "label": "Drought and the ravens",
+        "detail": "Elias swears there will be no rain except by his word, then hides at the brook Carith where ravens bring him bread and meat until the stream dries up."
+       },
+       {
+        "label": "The widow of Sarephta",
+        "detail": "Sent to a widow gathering wood, Elias asks for water and bread; trusting his word, she shares her last meal, and her jar of flour and flask of oil do not fail."
+       },
+       {
+        "label": "The son raised to life",
+        "detail": "When the widow's son dies, Elias stretches himself on the boy three times and prays, the Lord restores his life, and the widow confesses Elias is a man of God."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "irritare",
@@ -27411,6 +30831,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Read for the deponent verbs that take an ablative object (uti, frui, fungi, potiri, vesci): note how Eliseus asks for a double portion (duplex spiritus) of his master's spirit before Elias is taken up.",
      "original": "Post dies multos factum est verbum Domini ad Eliam, in anno tertio dicens: \"Vade, et ostende te Achab, ut dem (from) pluviam super faciem terrae.\" Quem cum vidisset Achab, ait: \"Tune (tu with enclitic-ne) es ille qui conturbas Israel?\" Et ille ait: \"Non ego turbavi Israel, sed tu et domus patris tui, qui dereliquistis mandata Domini, et secuti estis Baal. Verumtamen nunc mitte, et congrega ad me universum Israel in monte Carmeli, et prophetas Baal quadringentos quinquaginta (450), prophetasque lucorum quadringentos (400) qui comedunt de mensa Iezabel.\" Misit Achab ad omnes filios Israel, et congregavit prophetas in monte Carmeli. Tunc Elias paravit victimas ad sacrificium, et similiter prophetae Baal paraverunt. Sed nec Elias nec prophetae Baal posuerunt ignem in sacrificio. Prophetae Baal clamaverunt ad deum suum, ut ignem de coelo mitteret: sed non venit ignis. Deinde Elias rogavit Deum ut ignem mitteret, et ecce, ignis statim de coelo venit, sacrificiumque consumpsit. (Haec omnia legimus ultimo anno in libro primo nostro.) Dixitque Elias ad populum: \"Apprehendite prophetas Baal, et ne unus quidem effugiat ex eis.\" Quos cum apprehendissent, duxit eos Elias ad torrentem Cison, et interfecit eos ibi.\nEt ait Elias ad Achab: \"Ascende, comede, et bibe: quia sonus multae pluviae est.\" Ascendit Achab ut comederet et biberet; Elias autem ascendit in verticem Carmeli, et pronus in terram posuit faciem suam inter genua sua; et dixit ad puerum suum: \"Ascende, et prospice ad mare.\" Qui cum ascendisset, et spectasset, ait: \"Non est quidquam.\" Et rursum ait illi: \"Revertere septem vicibus.\" In septima autem vice, ecce nubecula parva quasi vestigium hominis ascendebat de mari. Qui ait: \"Ascende et dic ad Achab: 'Iunge currum tuum, et descende, ne occupet te pluvia.'\" Cumque verteret se huc atque illuc, ecce coeli contenebrati sunt, et nubes et ventus, et facta est pluvia grandis.\nPost multos dies Elias invenit in agris Eliseum, filium Saphat, arantem. Cumque venisset Elias ad eum, misit pallium suum super illum. Ex illo die secutus est Eliseus Eliam, et ministrabat ei. Quodam die dixit Elias ad Eliseum: \"Sede hic, quia Dominus misit me usque in Bethel.\" Cui ait Eliseus: \"Vivit Dominus, et vivit anima tua, quia non derelinquam te.\" Cumque descendissent Bethel, egressi sunt discipuli prophetarum qui erant in Bethel, ad Eliseum et dixerunt ei: \"Numquid nosti, quia hodie Dominus tollet dominum tuum a te?\" Qui respondit: \"Et ego novi: silete.\" Dixit autem Elias ad Eliseum: \"Sede hic, quia Dominus misit me in Iericho.\" Et ille ait: \"Vivit Dominus, et vivit anima tua, quia non derelinquam te.\" Cumque venissent Iericho, accesserunt filii (id est, discipuli) prophetarum, qui erant in Iericho, ad Eliseum, et dixerunt ei: \"Numquid nosti, quia Dominus hodie tollet dominum tuum a te?\" Et ait: \"Et ego novi: silete.\" Dixit autem ei Elias: \"Sede hic, quia Dominus misit me usque ad Iordanem.\" Qui ait: \"Vivit Dominus, et vivit anima tua, quia non derelinquam te.\" Ierunt igitur ambo pariter, et quinquaginta viri de filiis prophetarum secuti sunt eos, qui et steterunt a longe; illi autem ambo stabant ad Iordanem. Tulitque Elias pallium suum, et involvit illud, et percussit aquas. Quae divisae sunt in utramque partem: et transierunt ambo per siccum. Cumque transissent, Elias dixit ad Eliseum: \"Postula quod vis, ut faciam tibi antequam tollar a te.\" Dixitque Eliseus: \"Obsecro, ut fiat in me duplex spiritus tuus.\" Qui respondit: \"Rem difficilem postulasti: attamen si videris me quando tollar a te, erit tibi quod petisti. Si autem non videris, non erit.\" Cumque pergerent et incedentes loquerentur, ecce currus igneus, et equi ignei diviserunt utrumque: et ascendit Elias per turbinem in coelum. Eliseus autem videbat, et clamabat: \"Pater mi, pater mi, currus Israel, et auriga eius.\" Et non vidit eum amplius. Et tollens pallium Eliae, quod ceciderat ei, reversus est stetitque ad Iordanem. Et pallio Eliae quod ceciderat ei, percussit aquas, et divisae sunt huc atque illuc, et transiit Eliseus. Videntes autem filii prophetarum, qui erant in Iericho, dixerunt: \"Requievit spiritus Eliae super Eliseum.\" Et verum erat: Eliseus enim multa et magna faciebat miracula.\nSed nunc tempus est ut videamus nonnulla de Assyriis, qui vicerunt regnum septentrionale, populumque eius in captivitatem duxerunt.",
      "explanation": "Five deponent verbs govern the ablative instead of the accusative, because they are really middle voice (something neither active nor passive, meaning the subject acts so as to affect himself). They are: uti, usus est, use, as in gladio utitur, he uses a sword; frui, fructus est, enjoy, as in cibo fruitur, he enjoys food; fungi, functus est, busy oneself with or perform, as in consulatu fungitur, he performed the duty of a consul; potiri, potitus est, get possession of, as in terra potitus est, he got possession of the land; and vesci, eat, as in cibis vescitur, he eats food. The idea is that uti is to serve oneself by means of something, fungi is to busy oneself with something, and so on. Also note the contracted perfect and pluperfect forms of verbs whose perfect ends in -avit, -evit, or -ivit: amasti for amavisti, delesti for delevisti, audisti for audivisti, and similarly amarunt, delerunt, audierunt. A few other verbs contract in the same way, so that from noscere, novisti becomes nosti, noverunt becomes norunt, and noveram becomes noram.",
+     "divisio": {
+      "overview": "The close of Elias' ministry in five movements, from the trial on Carmel to his ascent and the passing of his spirit, ending with a bridge to the Assyrians.",
+      "parts": [
+       {
+        "label": "Carmel and the fire from heaven",
+        "detail": "Elias confronts Achab, gathers the prophets of Baal on Carmel, and after their failure calls down fire that consumes the sacrifice, then slays the false prophets at Cison."
+       },
+       {
+        "label": "The return of the rain",
+        "detail": "Elias prays on the peak while his servant watches the sea; at the seventh look a small cloud rises, and the sky darkens into a great rain."
+       },
+       {
+        "label": "The call of Eliseus",
+        "detail": "Elias finds Eliseus plowing and casts his mantle on him, and Eliseus follows and ministers to him."
+       },
+       {
+        "label": "The journey to the Jordan",
+        "detail": "Elias and Eliseus go from Bethel to Jericho to the Jordan, the disciples thrice foretell Elias' departure, and Elias parts the waters with his mantle."
+       },
+       {
+        "label": "The ascent and the inheritance",
+        "detail": "Eliseus asks for a double portion of the spirit; a fiery chariot takes Elias up in a whirlwind, Eliseus parts the Jordan with the fallen mantle, and the text turns to the Assyrians."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "conturbare",
@@ -27659,6 +31104,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Watch the chain of powerful kings (potens, potentia) and how Assyria grows strong, fades, and rises again before crushing the northern kingdom.",
      "original": "Ad orientem a Palestina est terra quae Mesopotamia vocatur. Mesopotamia, sicut ultimo vidimus anno, significat terram quae est \"inter flumina,\" id est, inter Tigrin et Euphraten. In parte septentrionali huius terrae est Assyria. Haec terra probabiliter habitabatur aere miliario tertio ante Christum a populo Semitico, mixto cum quibusdam hominibus ex Sumeria (quae est in parte meridionali Mesopotamiae). Difficile est scribere historiam Assyriorum hoc tempore. Assyrii autem non erant potentes, et saltem quibusdam temporibus regebantur a regibus potentibus meridionalis Mesopotamiae. Per tempus breve, sub rege qui nominatus est Shamsi Adad I (regnavit aere 1748-16), Assyria potens erat. Hoc tempore urbs Ashur incepit magna esse, grandeque habuit templum. Alius rex magnus Assyriae erat Ashur-uballit I (qui regnavit aere 1362-27) -- ille scripsit epistolam ad Ikhnaton, regem Aegypti, in qua sentit se esse aequalem regi Aegypti. Sed post haec per multos annos Assyria magnam potentiam non habuit. Ab anno 1250 usque ad annum 883 ante Christum, Assyria debilis erat -- sed etiam aliae civitates eiusdem terrae debiles erant. Etiam illo tempore excipere debemus regem Tiglath Pileser I, qui regnavit fere 1114-1076, magnamque potentiam habebat. Sed ab anno 882 usque ad 612 ante Christum potentia Assyriae valde magna erat, ita ut aliae terrae eam vehementer timerent. Primus magnorum regum erat Ashurnasirpal (fere 883-59). Ille fecit exercitum Assyriae magnum. Ille rex non solummodo populos alios vincebat, sed captivos maxima crudelitate interficiebat. In annalibus suis, gloriatur se esse maxime crudelem. Filius eius erat Shalmaneser (858-24). Ille gloriatur quod in primo anno regni sui exercitus Assyriae \"arma sua in mari (id est, in Mari Mediterraneo) lavabat.\" Quibus verbis significare vult se vicisse multos populos usque ad mare magnum. Post hunc venerunt quidam reges qui non tam potentes erant, nec erat Assyria tam magna temporibus eorum.\nTiglath-Pileser (744-27) fecit patriam suam iterum magnam. Ille vicit terras quae amissae erant sub regibus debilioribus. Etiam magnam urbem Damascum, et Babyloniam vicit. Tributum accepit a rege Israel Manahem, sicut legimus in Libro Quarto Regum (15.19-ibi rex Assyriae vocabatur Phul-quo nomine Babylonii etiam vocaverunt eum): \"Veniebat Phul rex Assyriorum in terram, et dabat Manahem Phul mille talenta argenti, ut esset in auxilium ei, et firmaret regnum eius\" (Manahem erat rex in Israel 746-37). Filius regis Manahem, Phaceia, regnavit in Israel annos duos. Ille fecit quod erat malum coram Domino. Interfectus est Phaceia a Phacee, qui erat dux exercitus eius. Diebus huius Phacee, venit Tiglath Pileser rex Assyriorum, cepitque partem terrae eius, duxitque multos ex Israel in captivitatem in Assyriam. Sed quidam alius vir cuius nomen erat Osee fecit coniurationem contra Phacee, regem Israel, interfecitque eum. Osee erat rex ultimus regni septentrionalis. Ille enim recusavit dare tributum Assyriae, tempore quo Shalmaneser V, filius regis Tiglath Pileser rex erat (727-21). Shalmaneser cepit Osee, eumque in carcerem misit. Post haec obsedit Shalmaneser urbem Samariae per annos tres. Mortuus est autem Shalmaneser antequam Samariam caperet, sed frater eius Sargon II (qui erat rex Assyriae 721-05) urbem cepit, portavitque populum Israel in Assyriam. Hoc modo venit finis regni septentrionalis, nec postea restitutum est regnum. Sargon autem et successores eius populos alios, qui deos falsos coluerunt, in terram Samariae introduxerunt. Hi populi mixti sunt cum Israelitis qui remanserant in terra.",
      "explanation": "This section reviews the deponent verbs of boasting and possessing seen in the grammar note: Ashurnasirpal and Shalmaneser gloriantur, they boast (gloriari, boast, glory), and Tiglath-Pileser takes tribute (tributum). It also gives a chance to watch the words for power and weakness work together: potens, powerful, and potentia, power, against debilis, weak, so that Assyria is by turns powerful and weak across the centuries. Note too the historical vocabulary that Most groups here for this reading: annales, annals; crudelitas, cruelty; coniuratio, conspiracy; recusare, refuse; obsidere, besiege; and firmare, strengthen.",
+     "divisio": {
+      "overview": "A historical survey moving chronologically from Assyria's geography and origins through its kings to the fall of the northern kingdom.",
+      "parts": [
+       {
+        "label": "Land and early origins",
+        "detail": "Assyria is located in northern Mesopotamia, the land between the Tigris and Euphrates, settled by a Semitic people mixed with Sumerians."
+       },
+       {
+        "label": "Early rise and long weakness",
+        "detail": "Brief strength under Shamsi Adad I and Ashur-uballit I gives way to centuries of weakness, broken only by Tiglath Pileser I."
+       },
+       {
+        "label": "The age of the cruel great kings",
+        "detail": "From 882 to 612 Assyria is dreaded, with Ashurnasirpal and Shalmaneser boasting of their conquests and cruelty."
+       },
+       {
+        "label": "Pressure on Israel",
+        "detail": "Tiglath-Pileser revives Assyria, takes tribute from Manahem, and carries off part of Israel in the days of Phacee."
+       },
+       {
+        "label": "The fall of the northern kingdom",
+        "detail": "The last king Osee refuses tribute and is imprisoned; Shalmaneser V besieges Samaria, and Sargon II takes it and deports Israel, ending the kingdom for good."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Semiticus",
@@ -27864,6 +31334,31 @@ window.COURSE_DATA.courses.push({
      "title": "Achaz and the Prophecies of Isaiah",
      "summary": "The wicked king Achaz refuses to ask the Lord for a sign, so Isaiah foretells the virgin birth of Emmanuel and the Messiah from the line of David.",
      "lead": "King Achaz of Juda will not trust the Lord, and the prophet Isaiah answers his unbelief with the great signs of Emmanuel and the suffering Christ.",
+     "divisio": {
+      "overview": "The passage moves from a wicked king's history to his refusal of a sign, then expands into three quoted prophecies of Isaiah with the author's interpretive notes between them.",
+      "parts": [
+       {
+        "label": "Achaz introduced",
+        "detail": "sketches the reign and idolatry of Achaz and the wars waged against him"
+       },
+       {
+        "label": "The sign refused",
+        "detail": "Isaiah is sent, the Lord invites Achaz to ask a sign, and the king declines"
+       },
+       {
+        "label": "Prophecy of Emmanuel",
+        "detail": "Isaiah answers with the virgin who conceives, and the name is glossed as God with us"
+       },
+       {
+        "label": "Prophecy of the royal child",
+        "detail": "the ninth chapter on the child born to rule David's throne, with a note on the prophetic perfect"
+       },
+       {
+        "label": "Prophecy of the suffering Christ",
+        "detail": "the fifty third chapter on the man of sorrows, closed by comments on bearing iniquity and God speaking in the first person"
+       }
+      ]
+     },
      "original": "Unus ex pessimis regibus in Iuda erat Achaz, qui regnavit a 742 ad 725. Viginti annorum erat Achaz cum regnare coepisset, et sedecim annis regnavit in Ierusalem; non fecit quod erat placitum in conspectu Domini Dei sui, sicut David pater eius; sed ambulavit in via regum Israel. Insuper etiam filium suum sacrificavit deo Moloch. Rasin, rex Syriae, et Phacee, rex Israel contra Achaz pugnaverunt, sed non potuerunt eum vincere. Hoc tempore vivebat unus ex maximis prophetis, Isaias. Dominus Isaiam ad Achaz misit ne Achaz vellet vocare Tiglath Pileser in auxilium suum. Achaz enim debuit sperare in auxilio Dei sui. Dixitque Dominus ad Achaz per Isaiam: \"Vide, ut sileas. Noli timere.\" Sed etiam monuit Achaz: \"Si non credideritis, non permanebitis.\" Ut Achaz certitudinem haberet, Dominus etiam dixit ei: \"Pete tibi signum a Domino Deo tuo, in profundum inferni, sive in excelsum supra.\" Et dixit Achaz: \"Non petam, et non tentabo Dominum.\" Et dixit Isaias: \"Audite ergo domus David: Numquid parum vobis est, molestos esse hominibus? Quia molesti estis et Deo meo. Propter hoc, dabit Dominus ipse vobis signum. Ecce virgo concipiet, et pariet filium, et vocabitur nomen eius Emmanuel.\" Nomen enim Emmanuel significat: Deus nobiscum. Achaz debuit spem ponere in prophetia data ad David dicente thronum eius in sempiternum futurum esse. Quia hoc non fecit, Deus ipse dedit signum ad Achaz, promittens Messiam, qui venturus erat ex Virgine Maria, de genere David. Regnum Messiae futurum erat sempiternum. Sed Achaz non credidit, deditque tributum regi Assyriae Tiglath Pileser. Idem propheta Isaias etiam alias prophetias de eodem Messia dedit. In capitulo nono libri Isaiae legimus: \"Parvulus enim natus est nobis, et filius datus est nobis. Et factus est principatus super humerum eius; et vocabitur nomen eius: admirabilis consiliarius, Deus fortis, pater futuri saeculi, princeps pacis. Multiplicabitur eius imperium, et pacis non erit finis. Super solium David, et super regnum eius sedebit, ut confirmet illud, et corroboret in iudicio et iustitia, amodo et usque in sempiternum.\" Notandum est quod Isaias loquitur in tempore perfecto \"Natus est, datus est, factus est.\" Sed Isaias scripsit sicut prophetae saepe scribunt; scribit de rebus futuris quasi iam acciderint. Hoc facit aut quia vidit res futuras in visione, et ergo quia vidit, scribit de eis quasi de praeteritis; aut quia res quae vidit tam certa sunt ac si iam acciderint. Notandum est etiam quod Isaias vocat hunc puerum \"Deus fortis.\" Probabiliter multi Iudaei, quia sciebant quod solummodo unus Deus est, et quia nesciebant mysterium Sanctissimae Trinitatis, haec verba de vera divinitate Christi non intellexerunt. Sed nihilominus, haec verba revera divinitatem Christi significant. Isaias etiam scripsit de passione Christi, in capitulo quinquagesimo tertio. Legamus partem huius prophetiae: \"Non habet speciem, neque decorem; et vidimus eum.... despectum et novissimum virorum, virum dolorum, et scientem infirmitatem. Et quasi absconditus vultus eius, et despectus: ergo non reputavimus eum. Vere, languores nostros ipse tulit, et dolores nostros ipse portavit. Et nos putavimus eum quasi leprosum, et percussum a Deo, et humiliatum. Ipse autem vulneratus est propter iniquitates nostras. Attritus est propter scelera nostra. Disciplina pacis nostrae super eum: et livore eius sanati sumus. Omnes nos quasi oves erravimus: unusquisque in viam suam declinavit. Et posuit Dominus in eo iniquitatem omnium nostrum. Oblatus est quia ipse voluit, et non aperuit os suum. Sicut ovis ad occisionem ducetur, et quasi agnus coram tondente se obmutescet, et non aperiet os suum....abscissus est de terra viventium: propter scelus populi mei percussi eum.\" In hac prophetia, verba: \"posuit ... in eo iniquitatem omnium nostrum\" significant quod Christus portabit, satisfaciet pro iniquitatibus nostris--ipse certe non habuit iniquitatem. In ultima sententia prophetiae: \"propter scelus populi mei percussi eum\"-- Deus loquitur in persona prima.",
      "explanation": "This Lectio begins a series of exercises on Latin word order, starting with the ablative absolute. Most has us turn a subordinate clause into an ablative absolute in which the verb (the participle) comes first instead of second, putting the noun second. Some examples need the present participle, others the perfect; some need more rearrangement than others. For instance, \"Postquam agnus visus est, Maria laeta fuit\" becomes \"Viso agno\"; and \"Cum Maria veniret, agnus laetus erat\" becomes \"Veniente Maria.\" Most also notes that Isaiah speaks in the perfect tense (\"Natus est, datus est, factus est\") even though he writes of things still to come, because prophets often describe future events as though they had already happened, either because they saw them in a vision or because what they saw is as certain as if it had already taken place.",
      "keyTerms": [
@@ -28098,6 +31593,27 @@ window.COURSE_DATA.courses.push({
      "title": "From Ezechias to Iosias",
      "summary": "Good king Ezechias trusts the Lord and is saved when an angel strikes the Assyrian camp; later kings Manasses and Amon do evil, while Iosias is devout and tears down the altars of Baal.",
      "lead": "The narrative returns to history: Ezechias purifies the temple and is delivered from Sennacherib, while the kings who follow swing between great sin and true repentance.",
+     "divisio": {
+      "overview": "A reign by reign chronicle that contrasts faithful and faithless kings of Juda across four successions.",
+      "parts": [
+       {
+        "label": "Ezechias purifies worship",
+        "detail": "the good king summons the Levites and calls the people to cleanse the temple and renew the covenant"
+       },
+       {
+        "label": "Deliverance from Sennacherib",
+        "detail": "the Lord through Isaiah promises the city's safety, an angel strikes the Assyrian camp, and Sennacherib dies"
+       },
+       {
+        "label": "Manasses, sin and repentance",
+        "detail": "the wicked son builds altars to Baal, is taken to Babylon, then repents and removes the idols"
+       },
+       {
+        "label": "Amon and Iosias",
+        "detail": "Amon repeats his father's evil and is killed, while the devout Iosias destroys the altars of Baal"
+       }
+      ]
+     },
      "original": "Sed nunc revertamur ad historiam nostram. Sicut iam vidimus, Sargon, rex Assyriae, cepit Samariam anno 721. Ezechias qui erat rex in Iuda fere hoc tempore (fere 725-697), vidit regnum septentrionale ad finem suum venisse quia non servaverat pactum Domini Dei sui. Ezechias, vir bonus, vocavit sacerdotes atque Levitas, dixitque ad eos, \"Audite me, Levitae, et sanctificamini. Mundate domum Domini Dei patrum vestrorum, et auferte omnem immunditiam de sanctuario. Peccaverunt patres nostri, et fecerunt malum in conspectu Domini Dei nostri, derelinquentes eum. Averterunt facies suas a tabernaculo Domini, et praebuerunt dorsum suum. Concitatus est itaque furor Domini super Iudam et Ierusalem, sicut ipsi cernitis oculis vestris. En, corruerunt patres nostri gladiis; filii nostri, et filiae nostrae, et coniuges captivae ductae sunt propter hoc scelus. Nunc ergo placet mihi, ut ineamus foedus cum Domino Deo Israel, et avertet a nobis furorem irae suae.\" Cum ergo Sennacherib, rex Assyriorum (705-681) misisset exercitum magnum contra Ierusalem, dixit Dominus Ezechiae per Isaiam prophetam: \"Haec dicit Dominus de rege Assyriorum: 'Non ingredietur urbem hanc, nec mittet in eam sagittam. Per viam qua venit, revertetur, et civitatem hanc non ingredietur, dicit Dominus. Protegamque urbem hanc, et salvabo eam propter me, et propter David servum meum.'\" Factum est igitur, in nocte illa venit Angelus Domini, et percussit in castris Assyriorum centum octoginta quinque millia. Cumque diluculo surrexisset Sennacherib, vidit corpora mortuorum, et recedens abiit, et reversus est et mansit in Ninive. Cumque adoraret in templo Nesroch deum suum, filii eius percusserunt eum gladio, et regnavit Asarhaddon filius eius pro eo (681-69). Post Ezechiam regnavit Manasses filius Ezechiae (696-41). Manasses erat unus ex pessimis regibus in Iuda. Duodecim annorum erat Manasses cum regnare coepisset, et quinquaginta quinque annis regnavit in Ierusalem. Fecit autem malum coram Domino, construxitque aras Baalim. Etiam filios suos in sacrificiis obtulit. Locutusque est Dominus ad eum et ad populum illius; et attendere noluerunt. Idcirco superinduxit eis principes exercitus regis Assyriorum; ceperuntque Manassen, et vinctum catenis atque compedibus duxerunt in Babylonem. (Nescimus quis fuerit hic rex Assyriorum qui cepit Manassen-- probabiliter erat Assurbanipal, qui filius erat regis Asarhaddon, et regnavit 669-33). Sed Manasses, postquam coangustatus est, oravit Dominum Deum suum, et egit poenitentiam valde coram Deo patrum suorum. Et exaudivit orationem eius Dominus, reduxitque eum Ierusalem in regnum suum; et cognovit Manasses, quod Dominus ipse est Deus. Cumque in Ierusalem reversus esset, Manasses abstulit deos alienos, et simulacrum de domo Domini. Cumque dormisset Manasses cum patribus suis, regnavit pro eo filius eius Amon. Viginti duorum annorum erat Amon cum regnare coepisset, et duobus annis regnavit in Ierusalem. Fecitque malum in conspectu Domini sicut fecerat Manasses pater eius. Sed servi sui coniuraverunt adversus eum, interfeceruntque eum in domo sua. Filius eius Iosias (639-09) pius et bonus erat, fecitque quod erat rectum in conspectu Domini, et aras Baalim destruxit.",
      "explanation": "The grammar focus of this Lectio is word order in the ablative absolute, especially placing the participle first and the noun second. After the practice clauses, Most adds a Scramble Exercise built from this same story (the prophecy to Achaz) and an English to Latin set drawn from the deliverance of Ezechias from Sennacherib. Watch how the perfect participle (for example, visis corporibus, the bodies having been seen) and the present participle (for example, protegente angelo, with the angel protecting) shape these absolutes when verb and noun change places.",
      "keyTerms": [
@@ -28295,6 +31811,31 @@ window.COURSE_DATA.courses.push({
      "title": "De fine regni Assyriae",
      "summary": "Assyria falls to the Medes and Babylonians, and the kings of Juda are deported to Babylon.",
      "lead": "Lectio Vigesima Sexta: De ablativis absolutis cum clausulis subordinatis. The end of the Assyrian empire and the captivity of Juda.",
+     "divisio": {
+      "overview": "A chronological account of empire's end, tracing the fall of Assyria and then the deportation of Juda's kings one after another.",
+      "parts": [
+       {
+        "label": "Assurbanipal and the library",
+        "detail": "recalls the powerful learned king and the tablet collection that survives in part today"
+       },
+       {
+        "label": "The coalition against Assyria",
+        "detail": "Babylonians, Medes and Scythians take Assur and then Nineveh, ending the empire"
+       },
+       {
+        "label": "Haran, Nechao, and the death of Iosias",
+        "detail": "Ashur Uballit holds Haran, Nechao of Egypt marches to aid him, and Iosias of Juda dies fighting to block Nechao"
+       },
+       {
+        "label": "Division of the conquered lands",
+        "detail": "Nabopolassar and Cyaxares split the Assyrian territory south and west, north and east of the Tigris"
+       },
+       {
+        "label": "The kings of Juda deported",
+        "detail": "Ioachaz, Ioakim, Ioachin and Sedecias are carried off in turn until Jerusalem is destroyed and made a province"
+       }
+      ]
+     },
      "original": "De fine regni Assyriae. In diebus Iosiae finis imperii Assyriae venit. Assurbanipal, de quo supra locuti sumus, fuerat rex potens et etiam vir doctus: misit enim servos suos ut tabulas inscriptionum colligerent, fecitque sibi magnam bibliothecam. Pars huius bibliothecae etiam nunc habetur in Statibus Foederatis Americae, in Universitate Pennsylvaniae. Sed post Assurbanipal venerunt tres reges qui non tam magni erant. In regno Sin-shum-lishir, qui tertius erat ex his, tres reges simul pugnaverunt contra Assyriam. Nabopolassar, qui rex erat Babyloniae, multas urbes in partibus meridionalibus et occidentalibus Assyriae cepit. Cyaxares, qui rex erat Medorum, cepit magnam urbem Assur in anno 614. Post haec Cyaxares et Nabopolassar, cum auxilio regis Scythorum, obsederunt Ninive, urbem principalem Assyriae, ceperuntque urbem anno 612. Hoc modo finis venit imperio Assyriorum. Verumtamen, quidam vir qui se vocavit Ashur Uballit II poterat retinere urbem Haran in parte occidentali Assyriae per paucos annos. Pharao Aegypti, cuius nomen erat Nechao II, conatus est adiuvare Uballit. Iosias, rex Iuda, mortuus est pugnans contra Nechao, ne possit venire cum exercitu suo ad Ashur Uballit. Nabopolassar autem, rex Babyloniae, accepit terras Assyriorum quae erant ad meridiem et ad occidentem a flumine Tigride. Cyaxares, rex Medorum, accepit terras Assyriorum quae erant ad septentriones et ad orientem ab eodem flumine. Babylonia itaque regit Mesopotamiam. Sed Nabopolassar, post paucos annos, mortuus est, filiusque eius Nabuchodonosor II factus est rex pro eo. Tulit ergo populus Iuda Ioachaz, filium Iosiae, et constituit eum regem pro patre suo in Ierusalem. Viginti trium annorum erat Ioachaz cum regnare coepisset, et tribus mensibus regnavit in Ierusalem. Amovit autem eum Nechao, rex Aegypti, constituitque pro eo regem Eliakim, fratrem eius, et mutavit nomen eius, vocavitque eum Ioakim; ipsum vero Ioachaz tulit secum, et abduxit in Aegyptum. Viginti quinque annorum erat Ioakim cum regnare coepisset, et undecim annis regnavit in Ierusalem; fecitque malum coram Domino Deo suo. Contra hunc ascendit Nabuchodonosor, rex Chaldaeorum, et vinctum catenis duxit in Babylonem. Ad quam et vasa Domini transtulit, et posuit ea in templo suo. Ioachin, filius Ioakim, factus est rex anno 598. Decem et octo annorum erat Ioachin cum regnare coepisset, et tribus mensibus regnavit in Ierusalem. In tempore illo ascenderunt servi Nabuchodonosor, regis Babyloniae, in Ierusalem, et circumdata est urbs munitionibus. Venitque Nabuchodonosor rex Babyloniae ad civitatem cum servis suis, ut oppugnarent eam. Egressusque est Ioachin rex Iuda ad regem Babyloniae, ipse et mater eius et servi eius et principes eius; et suscepit eum rex Babylonis anno octavo regni sui. Et protulit inde omnes thesauros domus Domini, et thesauros domus regiae; et concidit universa vasa aurea, quae fecerat Salomon rex Israel in templo Domini iuxta verbum Domini. Et transtulit omnem Ierusalem et universos principes, et omnes fortes exercitus, decem millia, in captivitatem: nihilque relictum est, exceptis pauperibus, populi terrae. Et constituit Nabuchodonosor Matthaniam, patruum eius pro eo, imposuitque nomen ei Sedeciam. Et fecit Sedecias malum coram Domino, iuxta omnia quae fecerat Ioakim. Factum est autem anno nono regni eius, venit Nabuchodonosor, et omnis exercitus eius in Ierusalem, et circumdedit eam, urbemque destruxit, et succendit domum Domini et domum regis, et domos Ierusalem. Et muros Ierusalem in circuitu destruxit omnis exercitus Chaldaeorum. Filios autem Sedeciae occidit coram eo, et oculos eius effodit, vinxitque eum catenis, et adduxit in Babylonem. Hoc modo finis regni meridionalis venit, et terra Iuda facta est provincia Babyloniae.",
      "explanation": "This Lectio practices ablative absolutes that contain subordinate clauses. As in the previous lessons we turn dependent clauses into ablative absolutes, but this time the absolute itself encloses a relative or other clause. Try, at least part of the time, to put the participle of the absolute first. Sample: Postquam agnum qui in scholam venerat vidit, Maria laeta fuit becomes Viso agno qui in schola fuerat (or, more elegantly, Viso qui in schola fuerat agno). It is good practice to translate these sentences as well, as you did in lesson 25.",
      "keyTerms": [
@@ -28526,6 +32067,27 @@ window.COURSE_DATA.courses.push({
      "title": "De Propheta Daniele in Babylone",
      "summary": "Daniel and his companions, kept pure from the king's food, surpass all in wisdom at Nabuchodonosor's court.",
      "lead": "The young Hebrews chosen for the palace of Nabuchodonosor, and how God gave them knowledge and wisdom.",
+     "divisio": {
+      "overview": "A single court narrative built around Daniel's resolve, organized as setup, test, and outcome.",
+      "parts": [
+       {
+        "label": "Selection for the palace",
+        "detail": "Nabuchodonosor orders unblemished royal youths trained on the king's food, and they are renamed"
+       },
+       {
+        "label": "Daniel's resolve and proposal",
+        "detail": "refusing to be defiled, Daniel asks the steward for a ten day trial on legumes and water"
+       },
+       {
+        "label": "The trial and its result",
+        "detail": "after ten days the four look healthier, so their special food is withdrawn and God grants them wisdom"
+       },
+       {
+        "label": "Presented to the king",
+        "detail": "brought before Nabuchodonosor, they surpass all the diviners and magicians tenfold"
+       }
+      ]
+     },
      "original": "De Propheta Daniele in Babylone. Nabuchodonosor rex Babyloniae duxit multos Iudaeos in captivitatem in terram suam. Et ait rex ad Asphenez, praepositum eunuchorum, ut introduceret de filiis Israel, et de semine regio pueros in quibus nulla esset macula, qui possent stare in palatio regis, ut doceret eos litteras et linguam Chaldaeorum. Et constituit eis rex annonam per singulos dies de cibis suis, et de vino, unde bibebat ipse, ut, enutriti tribus annis, postea starent in conspectu regis. Fuerunt ergo inter eos de filiis Iuda: Daniel, Ananias, Misael et Azarias. Et imposuit eis praepositus eunuchorum nomina: Danieli, Baltassar; Ananiae, Sidrach; Misaeli, Misach; et Azariae Abdenago. Proposuit autem Daniel in corde suo, ne pollueretur de mensa regis (lex enim Mosaica prohibebat ne comederent quosdam cibos), et rogavit eunuchorum praepositum, ne contaminaretur. Dedit autem Deus Danieli gratiam et misericordiam in conspectu principis eunuchorum. Et ait princeps eunuchorum ad Danielem: \"Timeo ego dominum meum regem, qui constituit vobis cibum et potum. Qui si viderit vultus vestros macilentiores prae ceteris adolescentibus coaevis vestris, condemnabitis caput meum regi.\" Et dixit Daniel ad Malasar, quem constituerat princeps eunuchorum super Danielem, Ananiam, Misaelem et Azariam: \"Tenta nos, obsecro, servos tuos diebus decem, et dentur nobis legumina ad vescendum, et aqua ad bibendum: et tunc contemplare vultus nostros, et vultus puerorum qui aluntur cibo regio. Et sicut videris, facies cum servis tuis.\" Qui, audito sermone huiuscemodi, tentavit eos diebus decem. Post dies autem decem apparuerunt vultus eorum meliores et corpulentiores prae omnibus pueris qui alebantur cibo regio. Porro Malasar tollebat cibos et vinum eorum, dabatque eis legumina. Pueris autem his dedit Deus scientiam et disciplinam in omni libro et sapientia; Danieli autem intelligentiam omnium visionum et somniorum. Completis itaque diebus, post quos dixerat rex ut introducerentur, introduxit eos praepositus eunuchorum in conspectu Nabuchodonosor. Cumque eis locutus fuisset rex, non sunt inventi tales de universis sicut Daniel, Ananias, Misael et Azarias; et steterunt in conspectu regis. Et omne verbum sapientiae et intellectus quod petivit ab eis rex, invenit in eis decuplum super cunctos ariolos et magos qui erant in universo regno eius.",
      "explanation": "Continue building ablative absolutes that contain a subordinate clause, as with Rogante qui ex semine regio erat Daniele (Because Daniel, who was of the royal line, asked) and Completis sicut rex imperaverat diebus (When the days had been fulfilled as the king ordered). Place the participle first where you can, and let the inner relative or comparative clause sit inside the absolute. Translating each sentence after rebuilding it remains excellent practice.",
      "keyTerms": [
@@ -28786,6 +32348,27 @@ window.COURSE_DATA.courses.push({
      "title": "The Dream of Nebuchadnezzar: The King's Demand",
      "summary": "Nebuchadnezzar dreams a dream he forgets, demands that his wise men tell both the dream and its meaning, and on their failure decrees death for all the wise men of Babylon.",
      "lead": "King Nebuchadnezzar wakes troubled, his dream slipping away, and orders his magicians to recover and interpret it on pain of death.",
+     "divisio": {
+      "overview": "A tense court dialogue framed by the king's forgotten dream, escalating through repeated exchanges to a death decree.",
+      "parts": [
+       {
+        "label": "The troubling dream",
+        "detail": "Nabuchodonosor wakes terrified and the dream slips from him"
+       },
+       {
+        "label": "The impossible demand",
+        "detail": "the king orders the wise men to tell both the dream and its meaning, with rewards and threats"
+       },
+       {
+        "label": "The Chaldeans' protests",
+        "detail": "they answer twice that the king must first tell the dream, and confess no man can do this"
+       },
+       {
+        "label": "The decree of death",
+        "detail": "enraged, the king orders all the wise men killed, and Daniel and his companions are sought"
+       }
+      ]
+     },
      "original": "De Somnio quod habuit Nabuchodonosor\n\nAnno secundo regni sui vidit Nabuchodonosor somnium, et conterritus est spiritus eius, et somnium eius fugit ab eo. Praecepit autem rex, ut convocarentur arioli et magi, et malefici et Chaldaei, ut indicarent regi somnia sua. Qui cum venissent, steterunt coram rege. Et dixit rex ad eos: \"Vidi somnium, et mente confusus, ignoro quid viderim.\" Responderuntque Chaldaei regi: \"Rex, in sempiternum vive: dic somnium servis tuis, et interpretationem eius indicabimus.\" Et respondens rex ait Chaldaeis: \"Somnium recessit a me. Sed nisi indicaveris mihi somnium, et interpretationem eius, peribitis vos, et domus vestrae publicabuntur. Si autem somnium et interpretationem eius narraveritis, praemia et dona, et honorem multum accipietis a me. Somnium igitur et interpretationem eius indicate mihi.\" Responderunt secundo, atque dixerunt: \"Rex somnium dicat servis suis, et interpretationem illius indicabimus.\" Respondit rex, et ait: \"Vere novi, quod tempus redimitis, scientes quod somnium fugit a me. Si ergo somnium non indicaveritis mihi, clarum est quod interpretationem quoque fallacem, et deceptione plenam composueritis, ut loquamini mihi. Somnium itaque dicite mihi, ut sciam quod interpretationem quoque eius veram loquamini.\" Respondentes ergo Chaldaei coram rege dixerunt: \"Non est homo super terram qui sermonem tuum, rex, possit implere. Neque regum quisquam magnus et potens verbum huiuscemodi petit ab omni ariolo et mago et Chaldaeo. Sermo enim, quem tu quaeris rex, gravis est, nec reperietur quisquam qui indicet illum in conspectu regis, exceptis diis, quorum non est cum hominibus conversatio.\" Quo audito, rex, in furore et in ira magna, praecepit ut perirent omnes sapientes Babylonis. Et, egressa sententia, sapientes interficiebantur. Quaerebanturque Daniel et socii eius, ut perirent.",
      "explanation": "Most perfect participles have a passive feeling, e.g., interfectus means, in crude basic translation, \"having been killed.\" But the perfect participle of a deponent verb has, of course, active meaning. So we drop the word \"been,\" e.g., locutus means \"having spoken.\" So let us practice a few ablative absolutes using such deponent participles. To make it more interesting, we will put in some examples of normal verbs too. Show that you understand the following examples by giving an expanded Latin form for each. You need not repeat the main clause with each. Sample: Rege locuto, captivi interfecti sunt. Answer: Quia rex locutus est. Or: Postquam rex locutus est. It would be good to translate each example twice: once in crude literal form, once in good expanded English form.",
      "keyTerms": [
@@ -28931,6 +32514,27 @@ window.COURSE_DATA.courses.push({
      "title": "The Dream of Nebuchadnezzar: Daniel's Revelation and Reward",
      "summary": "Daniel prays, receives the mystery by night, blesses God, and reveals to the king both the dream of the great statue and its meaning, and is richly rewarded.",
      "lead": "Where the magicians failed, Daniel turns to the God of heaven, who unveils the dream of the four-metal statue shattered by a stone, and the king exalts Daniel above all.",
+     "divisio": {
+      "overview": "A reversal narrative in four movements: Daniel obtains the secret by prayer, reports the dream to the king, gives its interpretation, and is exalted.",
+      "parts": [
+       {
+        "label": "Prayer and revelation",
+        "detail": "Daniel asks Arioch for time, his companions pray, the mystery is shown by night, and he blesses God"
+       },
+       {
+        "label": "Daniel before the king",
+        "detail": "brought in by Arioch, he credits God alone and recounts the statue of gold, silver, bronze, iron and clay struck by a stone"
+       },
+       {
+        "label": "The interpretation",
+        "detail": "he names the four kingdoms and the everlasting kingdom that the stone, grown to a mountain, represents"
+       },
+       {
+        "label": "Daniel rewarded",
+        "detail": "the king falls down, praises Daniel's God, and sets him over the provinces with his companions"
+       }
+      ]
+     },
      "original": "Tunc Daniel interrogavit de lege atque sententia ab Arioch, principe exercitus regis, qui egressus fuerat ad interficiendos sapientes Babylonis. Et interrogavit eum qui a rege potestatem acceperat, quam ob causam tam crudelis sententia a facie regis esset egressa. Cum ergo rem indicasset Arioch Danieli, Daniel ingressus rogavit regem, ut tempus daret sibi ad solutionem indicandam regi. Et ingressus est domum suam, Ananiaeque et Misaeli et Azariae sociis suis indicavit negotium, ut quaererent misericordiam a facie Dei coeli de mysterio isto, et non perirent Daniel et socii eius cum ceteris sapientibus Babylonis. Tunc Danieli mysterium per visionem nocte revelatum est; et benedixit Daniel Deum coeli, et locutus ait: \"Sit nomen Domini benedictum, a saeculo et usque in saeculum, quia sapientia et fortitudo eius sunt. Et ipse mutat tempora et aetates: transfert regna, atque constituit: dat sapientiam sapientibus, et scientiam intelligentibus disciplinam. Ipse revelat profunda et abscondita, et novit constituta in tenebris, et lux cum eo est. Tibi, Deus patrum nostrorum, confiteor, teque laudo, quia sapientiam et fortitudinem dedisti mihi; et nunc ostendisti mihi quae rogavimus te, quia sermonem regis aperuisti nobis.\"\n\nPost haec Daniel ingressus ad Arioch, quem constituerat rex, ut perderet sapientes Babylonis, sic ei locutus est: \"Sapientes Babylonis ne perdas: introduc me in conspectu regis, et solutionem regi narrabo.\" Tunc Arioch festinus introduxit Danielem ad regem, et dixit ei: \"Inveni hominem de filiis captivitatis Iuda, qui solutionem regi annuntiet.\" Respondit rex, et dixit Danieli, cuius nomen erat Baltassar: \"Putasne, vere potes mihi indicare somnium quod vidi, et interpretationem eius?\" Et respondens Daniel coram rege ait: \"Mysterium, quod rex interrogat, sapientes, magi, arioli, et aruspices non possunt indicare regi. Sed est Deus in caelo, revelans mysteria, qui indicavit tibi rex Nabuchodonosor, quae ventura sunt in novissimis temporibus. Somnium tuum, et visiones capitis tui in cubili tuo huiuscemodi sunt: Tu rex cogitare coepisti in lecto tuo, quid esset futurum post haec, et Deus qui revelat mysteria, ostendit tibi quae ventura sunt. Mihi quoque non in sapientia (quae in me est plus quam in cunctis viventibus) mysterium hoc revelatum est, sed ut interpretatio regi manifesta fieret, et cogitationes mentis tuae scires. Tu, rex, videbas, et ecce, quasi statua una grandis. Statua illa magna et statura sublimis stabat contra te, et aspectus eius erat terribilis. Huius statuae caput ex auro optimo erat, pectus autem et brachia de argento, porro venter et femora ex aere. Tibiae autem ferreae; pedum quaedam pars erat ferrea, quaedam autem fictilis. Videbas ita, donec abscissus est lapis de monte sine manibus, et percussit statuam in pedibus eius ferreis et fictilibus, et comminuit eos. Tunc contrita sunt pariter ferrum, testa, aes, argentum et aurum, et redacta quasi in paleam aestivae areae. Quae rapta sunt vento, nullusque locus inventus est eis. Lapis autem, qui percusserat statuam, factus est mons magnus, et implevit universam terram. Hoc est somnium: interpretationem quoque eius dicemus coram te, rex. Tu rex regum es, et Deus coeli, regnum et fortitudinem, et imperium et gloriam dedit tibi. Et omnia in quibus habitant filii hominum et bestiae agri, volucres quoque coeli dedit in manu tua; et sub ditione tua universa constituit: tu es ergo caput aureum. Et post te consurget regnum aliud, minus te, argenteum: et regnum tertium, aereum, quod imperabit universae terrae. Et regnum quartum erit velut ferrum. Quomodo ferrum comminuit et domat omnia, sic comminuet et conteret omnia haec. Porro, quia vidisti pedum et digitorum partem testae figuli, et partem ferream -- regnum divisum erit: ex parte regnum erit solidum, et ex parte contritum. In diebus autem regnorum illorum suscitabit Deus coeli regnum, quod in aeternum non dissipabitur; et regnum eius alteri populo non tradetur. Comminuet autem, et consumet universa regna haec, et ipsum stabit in aeternum, secundum quod vidisti quod de monte abscissus est lapis sine manibus, et comminuit testam et ferrum et aes et argentum et aurum. Deus magnus ostendit regi quae ventura sunt postea: et verum est somnium, et fidelis interpretatio eius.\"\n\nTunc rex Nabuchodonosor cecidit in faciem suam, et Danielem adoravit, et hostias et incensum praecepit, ut sacrificarent ei. Loquens ergo rex, ait Danieli: \"Vere Deus vester Deus deorum est, et Dominus regum, et revelans mysteria, quoniam tu potuisti aperire hoc mysterium.\" Tunc rex Danielem in sublime extulit, et munera multa et magna dedit ei, et constituit eum principem super omnes provincias Babyloniae, et praefectum magistratum super cunctos sapientes Babyloniae. Daniel autem postulavit a rege; et constituit rex Sidrach, Misach, et Abdenago super opera provinciae Babyloniae.",
      "explanation": "There is still dispute among present-day writers about the interpretation of Daniel's prophecy. It is clear enough that the first kingdom is the Neo-Babylonian kingdom, the kingdom of king Nebuchadnezzar. Likewise it is clear that the stone signifies the kingdom or church of Christ, which will spiritually overcome all the kingdoms of this world. But what of the second, third, and fourth kingdoms? Many think they are the kingdoms of the Medes, the Greeks, and the Romans; but others say they signify the kingdoms of the Medes, of Alexander the Great, and of the Successors of Alexander the Great. The certain truth of this matter we do not know.",
      "keyTerms": [
@@ -29250,6 +32854,27 @@ window.COURSE_DATA.courses.push({
      "title": "Daniel and the False God Bel",
      "summary": "Daniel exposes the priests of Bel who secretly eat the food offered to the idol, and the king destroys Bel and his temple.",
      "lead": "Daniel refuses to worship the idol Bel and proves to the king that the god does not eat its offerings.",
+     "divisio": {
+      "overview": "A trick and exposure story shaped as challenge, secret test, and public unmasking.",
+      "parts": [
+       {
+        "label": "The idol and the challenge",
+        "detail": "Bel is fed daily and worshipped, but Daniel denies it eats and the king stakes their lives on a test"
+       },
+       {
+        "label": "The sealed offering",
+        "detail": "the seventy priests set out food, the room is sealed, and Daniel secretly has ashes scattered on the floor"
+       },
+       {
+        "label": "The footprints exposed",
+        "detail": "by morning the food is gone, but the footprints in the ashes reveal the priests, wives and children"
+       },
+       {
+        "label": "Bel destroyed",
+        "detail": "the angry king kills the priests and gives Bel and his temple over to Daniel, who overturns them"
+       }
+      ]
+     },
      "original": "De Daniele et falso deo Bel.\n\nErat quoque idolum apud Babylonios nomine Bel. Et impendebantur in eo per dies singulos duodecim artabae similae, et oves quadraginta, vinique amphorae sex. Rex quoque colebat eum, et ibat per singulos dies adorare eum. Porro Daniel adorabat Deum suum. Dixitque ei rex: \"Quare non adoras Bel?\" Qui respondens, ait ei: \"Quia non colo idola manufacta, sed viventem Deum, qui creavit coelum et terram et habet potestatem omnis carnis.\" Et dixit rex ad eum: \"Non videtur tibi esse Bel vivens Deus? An non vides quanta comedat et bibat quotidie?\" Et ait Daniel arridens: \"Ne erres, rex: iste enim intrinsecus luteus est, et forinsecus aereus, neque comedit aliquando.\" Et iratus rex vocavit sacerdotes eius, et ait eis: \"Nisi dixeritis mihi, quis est qui comedat cibos hos, moriemini. Si autem ostenderitis quoniam Bel comedat haec, morietur Daniel, quia blasphemavit in Bel.\" Et dixit Daniel regi: \"Fiat iuxta verbum tuum.\"\n\nErant autem sacerdotes Bel septuaginta. Et venit rex cum Daniele in templum Bel. Et dixerunt sacerdotes Bel: \"Ecce, nos egredimur foras, et tu rex pone escas, et vinum misce, et claude ostium, et signa anulo tuo: et cum ingressus fueris mane, nisi inveneris omnia comesta a Bel, morte moriemur, vel Daniel, qui mentitus est adversum nos.\" Contemnebant autem, quia fecerant sub mensa absconditum introitum, et per illum ingrediebantur semper, et devorabant ea quae posita sunt. Factum est igitur, postquam egressi sunt illi, rex posuit cibos ante Bel; praecepit autem Daniel pueris suis, et attulerunt cinerem, et cribravit cinerem per totum templum coram rege; et egressi clauserunt ostium, et signantes anulo regis, abierunt. Sacerdotes autem ingressi sunt nocte iuxta consuetudinem suam, et uxores et filii eorum, et comederunt omnia, et biberunt. Surrexit autem rex primo diluculo, et Daniel cum eo. Et ait rex: \"Salva sunt signacula, Daniel?\" Qui respondit: \"Salva sunt, rex.\" Statimque cum aperuisset ostium, videns rex mensam, exclamavit voce magna: \"Magnus es Bel, et non est apud te dolus ullus.\" Et risit Daniel, et tenuit regem ne ingrederetur intro, et dixit: \"Ecce pavimentum: animadverte, cuius vestigia sint haec.\" Et dixit rex: \"Video vestigia virorum et mulierum et infantium.\" Et iratus est rex. Tunc apprehendit sacerdotes et uxores et filios eorum; et ostenderunt ei abscondita ostiola, per quae ingrediebantur, et consumebant quae erant super mensam. Occidit ergo illos rex, et tradidit Bel in potestatem Danielis, qui subvertit eum et templum eius.",
      "explanation": "Often participles are used outside of ablative absolutes in such a way that they have the feeling of sidetracks. In the following kinds of sentences, you can expand the participle into a suitable sidetrack clause in Latin, without repeating the whole sentence. For example, Daniel erat vir qui, interrogatus a rege, somnium explicavit can become Quia interrogatus est, or Postquam interrogatus est, or Cum interrogatus esset. It is good to translate each such example in two ways, as you did in lesson 27.",
      "keyTerms": [
@@ -29460,6 +33085,27 @@ window.COURSE_DATA.courses.push({
      "title": "Daniel and the Dragon; the End of the Neo-Babylonian Kingdom",
      "summary": "Daniel destroys the dragon and survives the lions' den, the wicked priests are devoured, and Cyrus the Persian takes Babylon and lets the Jews return.",
      "lead": "Daniel kills the dragon worshipped by the Babylonians, is thrown to the lions but kept safe by God, and then Cyrus the Persian captures Babylon and frees the Jews.",
+     "divisio": {
+      "overview": "A two part lesson joining a final Daniel miracle to a historical survey that closes the Babylonian age.",
+      "parts": [
+       {
+        "label": "Daniel kills the dragon",
+        "detail": "he destroys the worshipped serpent with cakes of pitch, fat and hair, enraging the Babylonians"
+       },
+       {
+        "label": "The lions' den",
+        "detail": "handed over and thrown to the lions, Daniel is fed by Habacuc and found unharmed, and the king praises his God"
+       },
+       {
+        "label": "Fall of the Neo-Babylonian kingdom",
+        "detail": "after Nabuchodonosor weak kings follow until Cyrus the Persian easily takes Babylon"
+       },
+       {
+        "label": "Return of the Jews",
+        "detail": "Cyrus decrees the rebuilding of the temple, the exiles return, and work stalls until the reign of Darius"
+       }
+      ]
+     },
      "original": "De Daniele et Dracone.\n\nEt erat draco magnus (id est, Serpens magnus) in loco illo; et colebant eum Babylonii. Et dixit rex Danieli: \"Ecce, nunc non potes dicere quod iste non sit deus vivens: adora ergo eum.\" Dixitque Daniel: \"Dominum Deum meum adoro, quia ipse est Deus vivens: iste autem non est Deus vivens. Tu autem rex, concede mihi potestatem, et interficiam draconem sine gladio et fusti.\" Et ait rex: \"Potestatem tibi concedo.\" Tulit ergo Daniel picem, et adipem et pilos, et coxit pariter, fecitque massas, et posuit in os draconis: et diruptus est draco. Et dixit: \"Ecce, quem colebatis.\" Quod cum audissent Babylonii, indignati sunt vehementer, et congregati adversum regem, dixerunt: \"Iudaeus factus est rex: Bel destruxit, draconem interfecit, et sacerdotes occidit.\" Et dixerunt cum venissent ad regem: \"Trade nobis Danielem, alioquin interficiemus te et domum tuam.\" Vidit ergo rex, quod irruerent in eum vehementer, et, necessitate compulsus, tradidit eis Danielem. Qui miserunt eum in lacum leonum; et erat ibi diebus sex. Porro in lacu erant leones septem; et dabantur eis duo corpora quotidie, et duae oves; et tunc non data sunt eis, ut devorarent Danielem. Erat autem Habacuc propheta in Iudaea, et ipse coxerat cibos, et ibat in campum, ut ferret messoribus. Dixitque Angelus Domini ad Habacuc: \"Fer prandium quod habes, in Babylonem Danieli, qui est in lacu leonum.\" Et dixit Habacuc: \"Domine, Babylonem non vidi, et lacum nescio.\" Et apprehendit eum Angelus Domini in vertice eius, et portavit eum capillo capitis sui, posuitque eum in Babylone supra lacum in impetu spiritus sui. Et clamavit Habacuc, dicens: \"Daniel, serve Dei, tolle prandium, quod misit tibi Deus.\" Et ait Daniel: \"Recordatus es mei, Deus, et non dereliquisti diligentes te.\" Surgensque Daniel comedit. Porro Angelus Domini restituit Habacuc confestim in loco suo. Venit ergo rex die septimo, ut lugeret Danielem, et venit ad lacum, et introspexit, et ecce, Daniel sedens incolumis et integer in medio leonum. Et exclamavit voce magna rex, dicens: \"Magnus es, Domine Deus Danielis.\" Et extraxit eum de lacu leonum. Porro illos, qui perditionis eius causa fuerant, intromisit in lacum; et devorati sunt in momento coram eo. Tunc rex ait: \"Paveant omnes habitantes in universa terra Deum Danielis, quia ipse est Salvator; faciens signa et mirabilia in terra, qui liberavit Danielem de lacu leonum.\"\n\nDebemusne ergo credere quod hic rex Babylonis (nomen eius nescimus, nam Scriptura Sancta nomen eius non dat nobis) credidit in Deum verum, ita ut fieret Iudaeus? Non. Probabiliter rex solummodo credidit Deum Danielis esse unum inter multos veros deos.\n\nDe Fine Regni Neo-Babylonici, et de Principio Regni Persarum.\n\nNabuchodonosor erat maximus regum Neo-Babylonicorum. Ille fecit urbem Babylonem valde magnum et bene rexit imperium suum. Sed post mortem eius, in thronum venit filius eius Amel-Marduk. Ille non placuit sacerdotibus Babylonicis, et interfectus est post duos annos. Illi successerunt duo reges debiles: Nergal-shar-usur, et Labashi-Marduk. Sed hic depositus est per coniurationem, et Nabunaid factus est rex. Nabunaid erat homo religiosus et superstitiosus. Per magnam regni sui partem erat non in Babylone, sed in Arabia. Sed antequam discederet Nabunaid, auctoritatem in Babylone filio suo Belshazzar dedit, sicut legimus in quodam textu Babylonico: \". . . commisit regnum ei.\" Itaque Belshazzar regebat in Babylone pro patre suo per multos annos, et cives huius urbis locuti sunt de eo sicut de rege, quia auctoritatem regis habuit.\n\nSed ad orientem, in Persia, erat rex magnus nomine Cyrus II (559-30). Ille vicit Medos, sed nihilominus dedit Mediae eadem iura quae Persae ipsi habebant. Anno 539 Cyrus Babylonem facile cepit. Hoc modo venit finis imperii Neo-Babylonici in Mesopotamia, et principium regni Persarum in eadem terra. Cyrus erat vir bonus, et bene regere novit. Ut amorem populorum subiectorum conciliaret, permisit omnibus ut deos suos colerent sine prohibitione. Ipse etiam coluit Marduk, deum maximum Babyloniae.\n\nMemoria tenemus quod multi ex regno Israel, et etiam ex regno Iuda in Babyloniam portati sunt ab Assyriis, et etiam a Nabuchodonosor. Israelitae qui ex regno septentrionali venerunt, mixti sunt cum Babyloniis, et tempore Cyri, non iam erant populus distinctus. Sed Iudaei ex regno meridionali non ita mixti sunt. Principio regni sui, rex Persarum et Medorum Iudaeis concessit ut in terram suam reverterentur, dixitque: \"Haec dicit Cyrus, rex Persarum: 'Omnia regna terrae dedit mihi Dominus Deus coeli, et ipse praecepit mihi, ut aedificarem ei domum in Ierusalem, quae est in Iudaea. Quis est in vobis de universo populo eius? Sit Deus illius cum ipso: ascendat in Ierusalem, quae est in Iudaea, et aedificet domum Domini Dei Israel.'\" Rex quoque Cyrus protulit vasa templi Domini, quae tulerat Nabuchodonosor de Ierusalem, et posuerat ea in templo dei sui, remisitque ea in Ierusalem. Probabiliter fere quadraginta duo millia Iudaeorum in Iudaeam reversi sunt prima parte anni 538. Hi qui reversi sunt, conati sunt reaedificare templum Domini, et altare holocaustorum refecerunt. Viri autem qui in Samaria habitabant, voluerunt Iudaeos adiuvare in aedificatione templi. Iudaei autem auxilium eorum non acceperunt, qua de causa Samaritani accusationes contra Iudaeos miserunt ad regem Persarum. Tunc intermissum est opus domus Domini in Ierusalem, et non fiebat usque ad annum secundum regni Darii, regis Persarum (qui regnavit 522-486).",
      "explanation": "Practice expanding the participles into suitable Latin sidetrack clauses, just as in the previous lesson. For instance, a phrase like a Deo servatum (saved by God) can be turned into Quia a Deo servatus est, or Postquam a Deo servatus est, or Cum a Deo servatus esset. Translate each example in two ways for good practice.",
      "keyTerms": [
@@ -29774,6 +33420,27 @@ window.COURSE_DATA.courses.push({
      "title": "De aedificatione templi",
      "summary": "In the second year of Darius the prophet Aggaeus urges Zorobabel and the people to rebuild the Lord's house; work resumes, the governor Thathanai writes to Darius, who confirms the decree of Cyrus and the temple is finished.",
      "lead": "The word of the Lord comes through the prophet Aggaeus rebuking the people for leaving the temple deserted, and after a letter to King Darius the rebuilding is brought to completion.",
+     "divisio": {
+      "overview": "A documentary narrative organized around the prophet's word, the resumed work, and an official correspondence that confirms it.",
+      "parts": [
+       {
+        "label": "The prophet's rebuke",
+        "detail": "in the second year of Darius the word through Aggaeus reproaches the people for the deserted house and bids them build"
+       },
+       {
+        "label": "Work resumed and questioned",
+        "detail": "Zorobabel and the others begin building, and the governor Thathanai asks who authorized it"
+       },
+       {
+        "label": "The letter to Darius",
+        "detail": "Thathanai writes recounting the Jews' answer and asks the king to search for Cyrus's decree"
+       },
+       {
+        "label": "Confirmation and completion",
+        "detail": "Darius finds the scroll, forbids interference, aids the work, and the temple is finished and dedicated"
+       }
+      ]
+     },
      "original": "De aedificatione templi\n\nIn anno secundo Darii regis, in mense sexto, in die una mensis factum est verbum Domini in manu Aggaei prophetae ad Zorobabel, ducem Iuda dicens: \"Haec ait Dominus exercituum dicens: Populus iste dicit: 'Nondum venit tempus domus Domini aedificandae.' \" Et factum est verbum Domini in manu Aggaei prophetae dicens: \"Numquid tempus vobis est ut habitetis in domibus laqueatis, et domus ista deserta? Et nunc haec dicit Dominus exercituum: Ponite corda vestra super vias vestras. Seminastis multum, et intulistis parum. Comedistis, et non estis satiati. Bibistis, et non pleni estis. Operuistis vos, et non estis calefacti: et qui mercedes congregavit, misit eas in sacculum pertusum. Haec dicit Dominus exercituum: Ponite corda vestra super vias vestras: ascendite in montem, portate ligna, aedificate domum, et acceptabilis mihi erit.\"\n\nSurrexerunt ergo Zorobabel, dux Iuda, et prophetae Dei, et viri alii, coeperuntque aedificare templum Domini. In ipso autem tempore venit ad eos Thathanai, qui erat dux constitutus a Persis trans flumen, dixitque eis: \"Quis dedit vobis consilium, ut domum hanc aedificaretis.\" Misitque Thathanai dux regionis trans flumen epistolam ad Darium, regem Persarum, dicens: \"Dario regi, pax omnis. Notum sit regi, venisse nos ad Iudaeam provinciam, et vidisse domum Dei magni, quam aedificant Iudaei. Interrogavimus ergo senes illos: 'Quis dedit vobis potestatem, ut domum hanc aedificaretis?' Et responderunt nobis dicentes: 'Nos sumus servi Dei coeli et terrae, et aedificamus templum quod erat exstructum ante hos annos multos, quodque rex Israel magnus aedificaverat, et exstruxerat. Postquam autem ad iram provocaverunt patres nostri Deum coeli, tradidit eos in manus Nabuchodonosor regis Babylonis; domum quoque hanc destruxit, et populum eius in Babylonem transtulit. Anno autem primo Cyri regis Babylonis, Cyrus rex proposuit edictum, ut domus Dei haec aedificaretur.' Nunc ergo, si videtur regi bonum, recenseat in bibliotheca regis, quae est in Babylone, utrum a Cyro rege iussum fuerit, ut aedificaretur domus Dei in Jerusalem: et voluntatem regis super hac re mittat ad nos.\" Tunc Darius rex praecepit; et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone; et inventum est in Ecbatania volumen unum; taliaque scriptus erat in eo commentarius: \"Anno primo Cyri regis, Cyrus rex decrevit ut domus Dei aedificaretur, quae est in Jerusalem.\" Praecepit itaque Darius rex, ne Thathanai impediret opus. Insuper dedit rex auxilium Iudaeis, ut templum aedificare possent. Et compleverunt domum Dei anno sexto regni Darii regis. Fecerunt autem filii Israel, sacerdotes et Levitae, et reliqui filiorum transmigrationis dedicationem domus Dei in gaudio.",
      "explanation": "Present participles can be very handy to replace relative clauses, among other things. Often, though not always, these participles stand alone and mean 'the one who does something.' So we can expand a present participle into a relative clause in Latin. For example, Credentes venerunt becomes Illi qui credebant venerunt. Notice that we use the nominative of ille because the participle was nominative; is, ea, id could be used instead of ille. When the participle is in the objective case, the form of ille follows it: Vidit credentes becomes Vidit illos qui credebant. When the participle is dative or ablative, ille takes that case too: Dedit dona laborantibus becomes Dedit dona illis qui laborabant.",
      "keyTerms": [
@@ -30033,6 +33700,31 @@ window.COURSE_DATA.courses.push({
      "title": "De Regina Esther",
      "summary": "After Darius, Assuerus reigns over the Medes and Persians; when Queen Vasthi refuses to appear, she is deposed, and the Jewish maiden Esther is chosen queen in her place while Mardochaeus uncovers a plot against the king.",
      "lead": "King Assuerus holds a great banquet and deposes Queen Vasthi for disobedience; from the maidens sought across the provinces, the Jewish girl Esther is made queen, and her kinsman Mardochaeus exposes a conspiracy of two eunuchs.",
+     "divisio": {
+      "overview": "A court narrative that pivots from one queen's fall to another's rise, then adds a foiled conspiracy.",
+      "parts": [
+       {
+        "label": "The royal banquets",
+        "detail": "Assuerus displays his wealth in a long feast while Vasthi holds her own banquet for the women"
+       },
+       {
+        "label": "Vasthi deposed",
+        "detail": "the queen refuses to appear, and on Mamuchan's counsel an irrevocable edict removes her"
+       },
+       {
+        "label": "The search for a queen",
+        "detail": "beautiful maidens are gathered, among them Esther, whom Mardochaeus has raised and bidden hide her people"
+       },
+       {
+        "label": "Esther made queen",
+        "detail": "she pleases the king above all and receives the crown in Vasthi's place"
+       },
+       {
+        "label": "The plot uncovered",
+        "detail": "Mardochaeus learns of the eunuchs' conspiracy, reports it through Esther, and the record is made"
+       }
+      ]
+     },
      "original": "De Regina Esther\n\nNon omnes Iudaei reversi sunt ex captivitate. Quidam enim ex eis remanere maluerunt. Post mortem autem Darii regis, venit in solium Medorum et Persarum filius eius Assuerus (qui etiam vocabatur Artaxerxes, vel Xerxes: regnavit 486-65). Tertio anno imperii sui, fecit Assuerus grande convivium cunctis principibus et pueris suis, fortissimis Persarum, et Medorum inclytis, et praefectis provinciarum coram se, ut ostenderet divitias gloriae regni sui, ac magnitudinem potentiae suae, multo tempore, centum et octoginta diebus. Cumque implerentur dies convivii, invitavit omnem populum qui inventus est in Susan, a maxima usque ad minimum, et iussit septem diebus convivium praeparari in vestibulo horti et nemoris, quod regio cultu et manu consitum erat. Vasthi quoque regina fecit convivium feminarum in palatio, ubi rex Assuerus manere consueverat. Itaque die septimo, cum rex esset hilarior, et post nimiam potationem incaluisset vino, praecepit septem eunuchis qui in conspectu eius ministrabant, ut introducerent reginam Vasthi coram rege, posito super caput eius diademate, ut ostenderet cunctis populis et principibus pulchritudinem illius; erat enim pulchra valde. Quae recusavit, et ad regis imperium, quod per eunuchos mandaverat, venire contempsit. Unde iratus rex, et nimio furore succensus, interrogavit sapientes (qui ex more regio semper ei aderant) cui sententiae Vasthi regina subiaceret, quae Assueri regis imperium, quod per eunuchos mandaverat, facere noluisset. Responditque Mamuchan, audiente rege atque principibus: \"Non solum regem laesit regina Vasthi, sed et omnes populos et principes qui sunt in cunctis provinciis regis Assueri. Egredietur enim sermo reginae ad omnes mulieres, ut contemnant viros suos, et dicant: 'Rex Assuerus imperavit ut regina Vasthi intraret ad eum, et illa noluit.' Atque hoc exemplo omnes coniuges principum Persarum atque Medorum parvipendent imperia maritorum. Ergo regis iusta est indignatio. Si tibi placet, egrediatur edictum a facie tua, et scribatur iuxta legem Persarum atque Medorum, quam mutari illicitum est, ut nequaquam ultra Vasthi ingrediatur ad regem, sed alia, quae melior est illa, regnum illius accipiat.\" Placuit consilium eius regi et principibus, fecitque rex iuxta consilium Mamuchan. His ita gestis, postquam regis Assueri ira quievit, dixerunt servi regis: \"Quaerantur regi puellae virgines ac speciosae, et mittantur qui considerent per universas provincias puellas speciosas et virgines; et adducant eas ad civitatem Susan. Et quaecumque inter omnes oculis regis placuerit, ipsa regnet pro Vasthi.\" Placuit sermo regi, et ita ut consilium dederant, iussit fieri.\n\nErat vir Iudaeus in Susan, nomine Mardochaeus, qui fuit nutritius filiae fratris sui quae vocabatur Esther, et erat pulchra nimis. Cumque amisisset utrumque parentem Esther (mortuis patre eius ac matre), Mardochaeus sibi eam adoptavit in filiam. Cumque regis imperium nuntiatum esset et iuxta mandatum illius multae pulchrae virgines adducerentur Susan; Esther quoque inter ceteras puellas tradita est Egeo eunucho. Quae placuit ei, et invenit gratiam in conspectu illius. Ipsa autem noluit indicare ei populum et patriam suam: Mardochaeus enim praeceperat ei, ut de hac re omnino taceret, ne reiceretur quia mulier Iudaea esset (nomen enim Esther non erat nomen Iudaicum, sed nomen Persicum, significans \"stella\"). Mardochaeus deambulabat quotidie ante vestibulum domus in qua electae virgines servabantur, curam agens salutis Esther, et scire volens, quid ei accideret.\n\nInstabat dies quo Esther deberet intrare ad regem. Quae non quaesivit muliebria ornamenta, sed accepit quaecumque voluit Egeus eunuchus. Ducta est itaque ad regem Assuerum, et adamavit eam rex plus quam omnes mulieres, habuitque gratiam et misericordiam coram eo super omnes mulieres, et posuit diadema regni in capite eius, fecitque eam regnare in loco Vasthi. Et iussit convivium praeparari permagnificum cunctis principibus et servis suis pro nuptiis Esther.\n\nMardochaeus autem manebat ad portam regis et ecce, Bagathan et Thares duo eunuchi regis, qui ianitores erant et in primo palati limine praesidebant, voluerunt insurgere contra regem et occidere eum. Quod Mardochaeum non latuit, statimque nuntiavit reginae Esther, et illa regi ex nomine Mardochaei, qui ad se rem detulerat. Quaesitum est, et inventum; et suspensus est uterque eorum in patibulo. Mandatumque est historiis et annalibus coram rege.",
      "explanation": "Continuing with the present participle as a relative clause: such participles can also stand in the objective case, where the form of ille follows them, as in Vidit venientes (Vidit illos qui veniebant), or in the dative and ablative, where ille takes that case too, as in Locutus est venientibus (Locutus est illis qui veniebant) and Servatus est a custodientibus (Servatus est ab illis qui custodiebant). When sentences grow longer, simply give the relative clause and the matching form of ille, as in Rex dedit auxilium laborantibus in templo, where laborantibus stands for illis qui laborabant. The aim is to move freely between the participle and the full relative clause in Latin.",
      "keyTerms": [
@@ -30319,6 +34011,27 @@ window.COURSE_DATA.courses.push({
      "title": "The Plot of Aman against the Jews",
      "summary": "Aman, enraged that Mardochaeus will not bow to him, persuades the king to issue an edict ordering all the Jews destroyed.",
      "lead": "The story of Queen Esther continues: the proud Aman is exalted, but one Jew refuses to kneel.",
+     "divisio": {
+      "overview": "A rising conflict that turns one man's refusal into a decree against a whole people, ending in public mourning.",
+      "parts": [
+       {
+        "label": "Aman exalted",
+        "detail": "the king raises Aman above all the princes and orders everyone to kneel before him"
+       },
+       {
+        "label": "Mardochaeus refuses",
+        "detail": "alone he will not bow, the officials report it, and Aman is enraged on learning he is a Jew"
+       },
+       {
+        "label": "The edict obtained",
+        "detail": "Aman persuades the king with money and slander, takes the royal ring, and letters order all Jews killed"
+       },
+       {
+        "label": "The reaction",
+        "detail": "the king and Aman feast while the city is bewildered, and Mardochaeus mourns in sackcloth and ashes"
+       }
+      ]
+     },
      "original": "Continuatio narrationis de regina Esther\n\nPost haec rex Assuerus exaltavit Aman, et posuit solium eius super omnes principes quos habebat. Cunctique servi regis, qui in foribus palatii versabantur, flectebant genua, et adorabant Aman; sic enim praeceperat eis rex. Solus Mardochaeus non flectebat genu, neque adorabat eum. Cui dixerunt pueri regis, qui ad fores palatii praesidebant: \"Cur tu solus non observas mandatum regis?\" Cumque hoc crebrius dicerent, et ille nollet audire, nuntiaverunt Aman, scire cupientes utrum perseveraret Mardochaeus in sententia sua: dixerat enim eis se esse Iudaeum. Quod cum audisset Aman, et experimento probasset quod Mardochaeus non flecteret sibi genu, nec se adoraret, iratus est valde. Et non solum in Mardochaeum voluit mittere manus suas; audierat enim quod esset gentis Iudaeae, magisque voluit omnem Iudaeorum, qui erant in regno Assueri, perdere nationem. Dixitque Aman regi Assuero: \"Est populus per omnes provincias regni tui dispersus, novis utens legibus et ceremoniis, insuper et regis scita contemnens. Et optime nosti, quod non expediat regno tuo, ut insolescat hic populus per licentiam. Si tibi placet, decerne, ut pereat, et decem millia talentorum dabo thesauris tuis.\" Tulit ergo anulum, quo utebatur, de manu sua, et dedit eum Aman, inimico Iudaeorum, dixitque ad eum: \"Argentum quod tu polliceris tuum sit: de populo age quod tibi placet.\" Vocatique sunt scribae regis, et scriptum est ut iusserat Aman, missaeque sunt litterae signatae anulo regis Assueri ad universas provincias, ut occiderent atque delerent omnes Iudaeos, a puero usque ad senem quodam die, hoc est, tertio decimo die mensis duodecimi. Statimque in Susan pependit edictum, rege et Aman celebrante convivium, et cunctis Iudaeis, qui in urbe erant, flentibus.\n\nQuae cum audisset Mardochaeus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti, et in platea mediae civitatis voce magna clamabat, ostendens amaritudinem animi sui.",
      "explanation": "Nihil novi hodie, veteribus studeamus. Nothing new today; let us study the old. This Lectio adds no new grammar and instead asks us to review what we have been practicing in the last five lessons. As you read, notice the ablative absolute constructions (for example, rege et Aman celebrante convivium, cunctis Iudaeis flentibus) and the indirect statements introduced by verbs of saying and perceiving (dixerat se esse Iudaeum; audierat quod esset gentis Iudaeae). Keep watching how the relative pronoun agrees with its antecedent in gender and number while taking its case from its own clause.",
      "keyTerms": [
@@ -30540,6 +34253,31 @@ window.COURSE_DATA.courses.push({
      "title": "Esther before the King",
      "summary": "Mardochaeus urges Esther to plead with the king; after a three-day fast she enters unbidden and is spared. At her banquet Aman, swollen with pride, plans a gallows for Mardochaeus, but the king, reading of an old service, is forced to make Aman honor Mardochaeus instead.",
      "lead": "Esther risks death to enter the king's presence, and Aman's pride begins to turn against him.",
+     "divisio": {
+      "overview": "A suspense narrative in five scenes carrying Esther to the king and beginning Aman's downfall.",
+      "parts": [
+       {
+        "label": "Mardochaeus persuades Esther",
+        "detail": "through Athach he sends the edict and presses her to approach the king for her people"
+       },
+       {
+        "label": "The fast and the resolve",
+        "detail": "Esther calls a three day fast and resolves to enter unbidden though it break the law"
+       },
+       {
+        "label": "Esther received",
+        "detail": "she faints before the throne, but the king softens, extends the golden scepter, and grants her request to a banquet"
+       },
+       {
+        "label": "Aman's gallows",
+        "detail": "leaving in joy yet galled by Mardochaeus, Aman is urged by his household to build a high gallows"
+       },
+       {
+        "label": "The king's sleepless night",
+        "detail": "reading of Mardochaeus's old service, the king forces Aman to honor him publicly, and Aman returns mourning"
+       }
+      ]
+     },
      "original": "Ingressae autem sunt puellae Esther, nuntiaveruntque ei. Vocatoque Athach eunucho, quem rex ministrum ei dederat, praecepit ei ut iret ad Mardochaeum et disceret ab eo cur hoc faceret. Egressusque Athach ivit ad Mardochaeum stantem in platea civitatis, ante ostium palatii; qui indicavit ei omnia quae acciderant. Exemplar quoque edicti, quod pendebat in Susan, dedit ei, ut reginae ostenderet et moneret eam, ut intraret ad regem, et deprecaretur eum pro populo suo. Regressus Athach, nuntiavit Esther omnia quae Mardochaeus dixerat. Quae respondit ei, et iussit ut diceret Mardochaeo: \"Omnes servi regis, et cunctae quae sub ditione eius sunt provinciae norunt, quod sive vir, sive mulier non vocatus in atrium regis intraverit, sine ulla cunctatione, statim interficiatur: nisi forte rex auream virgam ad eum tetenderit pro signo clementiae atque ita possit vivere. Ego igitur quomodo ad regem intrare potero, quae triginta diebus non sum vocata ad eum?\" Quod cum audisset Mardochaeus rursum mandavit Esther, dicens: \"Ne putes quod animam tuam tantum liberes, quia in domo regis es: si enim nunc tacueris, per aliam occasionem liberabuntur Iudaei, et tu, et domus patris tui peribitis. Et quis novit, utrum idcirco ad regnum veneris, ut in tali tempore saluti nobis sis?\" Rursumque Esther haec Mardochaeo verba mandavit: \"Vade, et congrega omnes Iudaeos quos in Susan repereris, et orate pro me. Non comedatis, et non bibatis tribus diebus et tribus noctibus. Et ego cum ancillis meis similiter ieiunabo: et tunc ingrediar ad regem, contra legem agens, non vocata, tradensque me morti et periculo.\" Ivit itaque Mardochaeus, et fecit omnia quae ei Esther praeceperat.\n\nDie autem tertio, induit Esther vestimenta sua regalia et splendida, et cum invocasset omnium salvatorem Deum, assumpsit duas ancillas, et ingressa est cuncta per ordinem ostia, stetitque ante regem, ubi ille sedebat super solium regni sui, indutus vestibus regalibus, auroque fulgens, et pretiosis lapidibus; eratque terribilis aspectu. Cumque elevasset faciem, et ardentibus oculis furorem pectoris indicasset, regina corruit, et, vultu pallido, caput reclinavit super ancillam suam. Sed convertit Deus spiritum regis in mansuetudinem, et festinus ac metuens exsilivit de solio, et sustentans eam brachiis suis donec rediret ad se, his verbis blandiebatur: \"Quid habes Esther? Ego sum frater tuus. Noli timere: non morieris. Non enim pro te, sed pro omnibus haec lex constituta est. Accede igitur, et tange sceptrum.\" Cumque illa adhuc taceret, tulit rex auream virgam, et posuit super collum eius, et osculatus est eam et ait: \"Cur mihi non loqueris?\" Quae respondit: \"Vidi te, domine, quasi Angelum Dei: et conturbatum est cor meum prae timore gloriae tuae. Valde enim mirabilis es, domine, et facies tua plena est gratiarum.\" Cumque loqueretur, rursus corruit regina, et paene exanimata est. Rex autem turbabatur, et omnes ministri eius consolabantur eam.\n\nPost haec dixit ad eam rex: \"Quid vis Esther regina? Quae est petitio tua? Etiam si dimidiam partem regni petieris, dabitur tibi.\" At illa respondit: \"Si regi placet, obsecro, ut venias ad me hodie, et Aman tecum ad convivium, quod paravi.\" Statimque rex \"Vocate,\" inquit, \"cito Aman, ut obediat voluntati Esther.\" Venerunt itaque rex et Aman ad convivium, quod eis regina paraverat. Dixitque ei rex, postquam vinum biberat abundanter: \"Quid petis, ut detur tibi? Et pro qua re postulas? Etiam si dimidiam partem regni mei petieris, impetrabis.\" Cui respondit Esther: \"Petitio mea et preces sunt istae: Si inveni in conspectu regis gratiam, et si regi placet, ut det mihi quod postulo, et meam impleat petitionem, veniat rex et Aman ad convivium quod paravi eis, et cras aperiam regi voluntatem meam.\"\n\nEgressus est itaque illo die Aman laetus. Cumque vidisset Mardochaeum sedentem ante fores palatii, et non solum non surrexisse sibi, sed ne motum quidem esse de loco suo, iratus est valde. Et reversus in domum suam, convocavit ad se amicos suos et uxorem suam; et exposuit illis magnitudinem divitiarum suarum, et quanta gloria eum rex elevasset super omnes principes. Et post haec ait: \"Regina quoque Esther nullum alium vocavit ad convivium cum rege praeter me, apud quam etiam cras cum rege comedam. Et cum haec omnia habeam, nihil me habere puto, quamdiu videro Mardochaeum Iudaeum sedentem ante palatium regis.\" Responderuntque ei uxor eius et ceteri amici: \"Iube parari excelsam crucem, et dic mane regi, ut appendatur super eam Mardochaeus, et sic ibis cum rege laetus ad convivium.\" Placuit ei consilium et iussit excelsam parari crucem.\n\nNoctem illam duxit rex insomnem, iussitque sibi afferri historias et annales praeteritorum temporum. Quae cum, illo praesente, legerentur, ventum est ad locum, ubi scriptum erat, quomodo nuntiasset Mardochaeus insidias Bagathan et Thares eunuchorum, regem occidere cupientium. Quod cum audisset rex, ait: \"Quid praemii et honoris pro hac re Mardochaeus accepit?\" Dixerunt ei servi: \"Nihil omnino mercedis accepit.\" Statimque rex: \"Quis est,\" inquit, \"in atrio?\" Aman enim in atrium domus regis intraverat, ut rogaret regem, ut iuberet Mardochaeum suspendi in cruce quae ei fuerat praeparata. Responderuntque pueri: \"Aman stat in atrio.\" Dixitque rex: \"Ingrediatur.\" Cumque esset ingressus ait rex illi: \"Quid debet fieri viro, quem rex honorare desiderat?\" Cogitans autem in corde suo Aman quod nullum alium nisi se rex vellet honorare respondit: \"Homo quem rex honorare cupit, debet indui vestibus regiis, et imponi super equum in quo rex ipse sedet, et accipere regium diadema super caput suum; et primus de regiis principibus teneat equum eius, et per plateam civitatis incedens clamet et dicat: Sic honorabitur, quemcumque rex voluerit honorare.\" Dixitque ei rex: \"Festina, et sumpta stola et equo, fac sicut locutus es Mardochaeo Iudaeo, qui sedet ante fores palatii. Cave, ne praetermittas quidquam ex his quae locutus es.\" Tulit itaque Aman stolam et equum, indutumque Mardochaeum in platea civitatis, et impositum equo praecedebat atque clamabat: \"Hoc honore dignus est, quemcumque rex voluerit honorare.\" Reversus est Mardochaeus ad fores palatii, et Aman festinavit ire in domum suam, lugens et operto capite. Narravitque uxori suae et amicis omnia quae evenissent sibi. Cui responderunt sapientes, quos habebat in consilio, et uxor eius: \"Si de semine Iudaeorum est Mardochaeus, ante quem cadere coepisti, non poteris ei resistere, sed cades in conspectu eius.\" Adhuc loquentibus illis, venerunt eunuchi regis, et celeriter eum ad convivium, quod regina paraverat, ire compulerunt.",
      "explanation": "Nihil novi hodie, veteribus studeamus. Watch the subjunctives of fearing and result and the indirect commands that fill this passage. Mardochaeus warns Esther with subjunctive clauses (Ne putes quod animam tuam tantum liberes), and Esther sends back her own commands in indirect form (iussit ut diceret; mandavit ut orarent). Note the double dative in saluti nobis sis, where saluti is dative of purpose and nobis dative of reference. The many ablative absolutes (auro fulgens; vultu pallido; ardentibus oculis) again reward close attention as you review.",
      "keyTerms": [
@@ -30833,6 +34571,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Esther reveals the wicked Haman to the king, and his plot turns back upon his own head.",
      "original": "Intravit itaque rex et Aman, ut biberent cum regina. Dixitque ei rex etiam secunda die postquam vino incaluerat: \"Quae est petitio tua, Esther, ut detur tibi? Et quid vis fieri? Etiam si dimidiam regni mei petieris, impetrabis.\" Ad quem illa respondit: \"Si inveni gratiam in oculis tuis, O rex, et si tibi placet, da mihi animam meam, pro qua rogo, et populum meum, pro quo obsecro. Traditi enim sumus ego et populus meus, ut conteramur, interficiamur, et pereamus. Atque utinam in servos et ancillas venderemur: esset tolerabile malum, et gemens tacerem. Nunc autem hostis noster est ille cuius crudelitas redundat in regem.\" Respondensque rex Assuerus ait: \"Quis est iste, et cuius auctoritatis, ut haec audeat facere?\" Dixitque Esther: \"Hostis et inimicus noster pessimus iste est Aman.\" Quod ille audiens, statim obstupuit, vultum regis ac reginae videre non ferens. Rex autem iratus surrexit, et de loco convivii intravit in hortum. Aman quoque surrexit, ut rogaret Esther reginam pro anima sua: intellexit enim a rege sibi paratum malum. Qui cum reversus esset de horto, et intrasset convivii locum, dixit Harbona, unus de eunuchis, qui stabant in ministerio regis: \"En patibulum, quod paraverat Mardochaeo, qui locutus est pro rege, stat in domo Aman.\" Cui dixit rex: \"Appendite eum in eo.\" Suspensus est itaque Aman in patibulo quod paraverat Mardochaeo; et regis ira quievit. Die illo dedit rex Assuerus Esther reginae domum Aman, inimici Iudaeorum, et Mardochaeus ingressus est ante faciem regis. Tulitque rex anulum, quem Aman habuerat, et Mardochaeo tradidit. Esther autem constituit Mardochaeum super domum suam.",
      "explanation": "This Lectio is titled \"On the order of words in indirect statement.\" Notice how freely Most lets the parts of a sentence move about. The verb of saying can come in the middle of a clause, and the objective and its infinitive can be separated by other words. When you read for sense, find the main verb first, then the subject in the accusative, then the infinitive that belongs to it, no matter how far apart they stand.",
+     "divisio": {
+      "overview": "A banquet scene that builds from the king's renewed offer to Esther's accusation, then to Haman's downfall and the reordering of the court.",
+      "parts": [
+       {
+        "label": "The king's offer",
+        "detail": "At the wine the king again invites Esther to name her petition, promising even half the kingdom."
+       },
+       {
+        "label": "Esther's plea and accusation",
+        "detail": "She begs for her own life and her people's, then names Haman as the enemy whose cruelty reaches the king."
+       },
+       {
+        "label": "The king's anger and Haman's panic",
+        "detail": "The king rises and withdraws to the garden, while Haman stays to beg Esther, knowing his doom."
+       },
+       {
+        "label": "Haman hanged",
+        "detail": "On Harbona's word the king orders Haman hung on the very gibbet built for Mardochaeus, and his anger subsides."
+       },
+       {
+        "label": "Rewards reversed",
+        "detail": "The king gives Haman's house and signet ring to Mardochaeus, whom Esther sets over it."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "incalescere",
@@ -30972,6 +34735,31 @@ window.COURSE_DATA.courses.push({
      "lead": "From Alexander's conquests to the persecution of Antiochus IV, one old man's refusal to feign obedience becomes an example of courage.",
      "original": "In ultima parte saeculi quarti, imperator potens ex Macedonia qui nominatus est Alexander Magnus omne imperium Persarum cepit. In hac terra erat Iudaea. Sed Alexander mortuus est post paucos annos, et duces exercitus eius inter se pugnaverunt. Ptolomaeus Aegyptum accepit; Seleucus magnam partem antiqui imperii Persarum tenere potuit, sed non potuit Iudaeam habere: hanc enim terram Ptolomaeus rexit. Usque ad annum centesimum nonagesimum nonum (199) ante Christum reges Aegypti Iudaeam tenuerunt: sed illo anno Antiochus tertius, qui erat rex Syriae, habens partem imperii quod olim Seleucus rexerat, Iudaeam vicit. Antiochus III et Seleucus IV, successor Antiochi, multa privilegia Iudaeis dederunt (quamquam Seleucus, in parte ultima regni sui, thesauros templi capere conatus est). Post haec successit Seleuco frater eius, qui Antiochus Quartus nominatus est. Hic Antiochus, quaerens unitatem in omni imperio suo, conatus est inducere mores Hellenicos in terris suis. Seipsum vocavit, lingua Graeca \"Theos Epiphanes,\" quod significat: \"Deus manifestus,\" vel \"Deus qui apparet\" hominibus. (Regnavit 175-164 ante Christum). Scripsit itaque rex Antiochus IV omni regno suo, ut esset omnis populus unus, et relinqueret unusquisque legem suam. Et consenserunt omnes gentes secundum verbum regis Antiochi; et multi ex Israel consenserunt servituti eius, et sacrificaverunt idolis, et coinquinaverunt sabbatum. Sed non post multum temporis, misit rex senem quendam Antiochenum, qui compelleret Iudaeos ut se transferrent a patriis et Dei legibus. In hac persecutione Eleazarus, unus ex principibus scribarum iussus est carnes porcinas comedere, id quod non licebat Iudaeis. At ille gloriosissimam mortem magis quam odibilem vitam volens, voluntarie praeibat ad supplicium. Hi autem qui adstabant, iniqua miseratione commoti, propter antiquam viri amicitiam tollentes eum, secrete rogabant ut aliae carnes afferrentur quas comedere ei licebat, ut videretur comedisse carnes porcinas sicut rex imperaverat. At ille cogitare coepit dignitatem suae aetatis et vitam suam praeteritam bene actam, et secundum legem Dei respondit cito dicens: \"Mori malo. Non enim aetati nostrae dignum est fingere, ut multi adolescentium, arbitrantes Eleazarum transisse ad mores alienigenarum, decipiantur propter meam simulationem et propter modicum corruptibilis vitae tempus. Nam etsi in praesenti tempore suppliciis hominum eripiar, sed manum Omnipotentis nec vivus nec defunctus effugiam. Quam ob rem, fortiter e vita excedendo, senectute dignus apparebo. Adolescentibus autem exemplum forte relinquam, si prompto animo, ac fortiter pro gravissimis ac sanctissimis legibus moriar.\" His dictis, confestim ad supplicium trahebatur.",
      "explanation": "Watch the indirect statements in Eleazar's speech. Verbs like arbitrari (think) and the participle volens set up accusative subjects with infinitives that stand at a distance, for example multi adolescentium ... Eleazarum transisse. Latin can carry the accusative subject and its infinitive far apart, so name the main verb of saying or thinking first, then trace which accusative belongs to which infinitive.",
+     "divisio": {
+      "overview": "A historical survey funnels from Alexander's empire down to one man's choice, then dwells on Eleazar's refusal and his reasoned speech.",
+      "parts": [
+       {
+        "label": "Alexander and the division of empire",
+        "detail": "Alexander conquers Persia, dies young, and his generals split the realm, with Egypt holding Judaea."
+       },
+       {
+        "label": "From the Ptolemies to Antiochus IV",
+        "detail": "Control passes to the Seleucids, and Antiochus IV imposes Greek customs and one law on all his subjects."
+       },
+       {
+        "label": "Persecution and Eleazar's test",
+        "detail": "Many Jews comply, but the aged scribe Eleazar is ordered to eat pork and chooses death."
+       },
+       {
+        "label": "The friends' offer",
+        "detail": "Bystanders, moved by old friendship, secretly urge him to fake compliance with lawful meat."
+       },
+       {
+        "label": "Eleazar's refusal and speech",
+        "detail": "He rejects pretense, reasons that he cannot escape God, and resolves to leave the young a brave example before being led off."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Ptolomaeus",
@@ -31214,6 +35002,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Under Antiochus, seven brothers face cruel torments together, each choosing death over breaking God's law.",
      "original": "Accidit etiam ut septem fratres una cum matre sua apprehensi, iuberentur a rege comedere contra legem carnes porcinas. Unus autem ex illis, qui erat primus, sic ait: \"Quid quaeris, et quid vis discere a nobis? Parati sumus mori magis quam patrias Dei leges praevaricari.\" Iratus itaque rex iussit sartagines et ollas aeneas succendi. Quibus statim succensis, iussit linguam amputari ei qui primus locutus fuerat, et, cute capitis abstracta, iussit summas quoque manus et pedes eius abscindi, ceteris eius fratribus et matre spectantibus. Et cum iam per omnia inutilis factus esset, iussit ignem admoveri, et eum adhuc spirantem torreri in sartagine. In qua, cum diu cruciaretur, ceteri una cum matre invicem hortabantur mori fortiter dicentes: \"Dominus Deus videbit veritatem et consolabitur in nobis.\" Mortuo itaque illo primo, hoc modo, sequentem ducebant ad illudendum, et, cute capitis eius cum capillis abstracta, interrogabant eum si comederet priusquam toto corpore per membra singula puniretur. At ille, respondens patria voce dixit: \"Non faciam.\" Propter quod et iste primi tormenta accepit; et in ultimo spiritu constitutus sic ait: \"Tu autem scelestissime, in praesenti vita nos perdis; sed rex mundi defunctos nos pro suis legibus in aeternae vitae resurrectione suscitabit.\" Post hunc tertius illuditur, et linguam postulatus, cito protulit, et manus fortiter extendit. Et cum fiducia ait: \"E coelo ista possideo, sed propter Dei leges nunc haec ipsa despicio, quoniam ab ipso me ea recepturum spero.\" Ita ut rex et qui cum ipso erant mirarentur adolescentis animum, quod tamquam nihilum duceret cruciatus.",
      "explanation": "Here the historical infinitives and indirect statements pile up under the cruelty of the scene. Verbs of ordering (iussit) govern passive infinitives such as amputari, abscindi, admoveri, while the brothers' speeches give accusative subjects with infinitives, for example defunctos nos ... suscitabit and me ea recepturum (esse) spero. Find the controlling verb first, then attach each infinitive to its accusative.",
+     "divisio": {
+      "overview": "A serial martyrdom that opens with the brothers' joint resolve, then narrates three of them in turn, each death framed by a defiant speech.",
+      "parts": [
+       {
+        "label": "The brothers seized and defiant",
+        "detail": "Seven brothers and their mother are arrested, and the first declares they will rather die than break the law."
+       },
+       {
+        "label": "The first brother tortured",
+        "detail": "The enraged king has pans heated and the spokesman's tongue, scalp, hands, and feet cut off before he is roasted alive."
+       },
+       {
+        "label": "The mother and the rest encourage one another",
+        "detail": "As he is tormented, mother and brothers urge each other to die bravely, trusting that God will see and console."
+       },
+       {
+        "label": "The second brother and the resurrection hope",
+        "detail": "The next refuses with Non faciam and, dying, proclaims that the king of the world will raise them up."
+       },
+       {
+        "label": "The third brother's confidence",
+        "detail": "He offers his tongue and hands willingly, despising the torments, to the wonder of the king and his men."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "torrere",
@@ -31441,6 +35254,31 @@ window.COURSE_DATA.courses.push({
      "lead": "More on word order in indirect discourse: the martyrdom of the remaining brothers and their mother.",
      "original": "De morte aliorum fratrum\n\nEt hoc ita defuncto, quartum vexabant, similiter torquentes. Et cum iam esset ad mortem, sic ait: \"Meliorem nos a te interfecti spem habemus resurrectionis: tibi enim, resurrectio ad vitam non erit.\" Et cum cepissent quintum, vexabant eum. At ille, respiciens in eum dixit: \"Potestatem inter homines habens, cum sis corruptibilis, facis quod vis. Noli autem putare genus nostrum a Deo esse derelictum. Tu autem exspecta: et videbis magnam potestatem eius--quomodo te et semen tuum torquebit.\" Post hunc ducebant sextum, et is, mori incipiens, sic ait: \"Noli frustra errare. Nos enim propter nos ipsos haec patimur, quia peccavimus in Deum nostrum. Tu autem, ne putes tibi sine poena futurum esse quod contra Deum pugnare tentaveris.\"\n\nMater autem, quae septem filios sub unius diei tempore pereuntes conspiciebat, bono animo ferebat, propter spem quam in Deum habebat. Singulos illorum hortabatur fortiter, voce repleta sapientia, masculinum animum femineae cogitationi inserens, et dixit ad eos: \"Mundi creator, qui formavit hominis nativitatem, quique omnium invenit originem, spiritum vobis iterum cum misericordia reddet et vitam, sicut nunc vosmetipsos despicitis propter leges eius.\"\n\nAntiochus autem, contemni se arbitrans, simul etiam despiciens vocem matris, cum adhuc adolescentior remaneret, non solum verbis hortabatur, sed et cum iuramento dixit se divitem et felicem eum facturum. Sed ad haec cum adolescens nequaquam inclinaretur, vocavit rex matrem et suadebat ei, ut servaret adolescentem. Cum autem multis eam verbis esset hortatus, promisit se locuturam filio suo. Itaque, inclinata ad illum, irridens crudelem tyrannum, ait patria voce: \"Fili mi, miserere mei. Peto, fili, ut aspicias ad coelum et terram, et ad omnia quae in eis sunt, et intelligas, quod ex nihilo fecit illa Deus, et hominum genus. Ita fiet, ut non timeas carnificem istum, sed dignus fratribus tuis effectus, suscipe mortem, ut in illa miseratione cum fratribus tuis te recipiam.\" Cum haec illa adhuc diceret, ait adolescens: \"Quem exspectatis? Non obedio praecepto regis, sed praecepto legis, quae data est nobis per Moysen. Tu autem, qui inventor omnis malitiae in Hebraeos factus es, non effugies manum Dei. Nos enim pro peccatis nostris haec patimur. Et si nobis propter increpationem et correptionem Dominus Deus noster modicum iratus est--sed iterum reconciliabitur servis suis. Tu autem o sceleste, et omnium hominum pessime noli frustra extolli vanis spebus. Nondum enim omnipotentis Dei iudicium effugisti. Nam fratres mei, modico nunc dolore sustentato, sub testamento aeternae vitae effecti sunt: Tu autem iudicio Dei iustas poenas superbiae tuae solves. Ego autem, sicut et fratres mei, animam et corpus meum trado pro patriis legibus, invocans Deum ut genti nostrae propitius sit, et ut tu confitearis quod ipse est Deus solus. In me et in fratribus meis cessabit Omnipotentis ira, quae super omne genus nostrum iuste venit.\" Tunc rex in ira crudelius super omnes hunc torsit. Et hic itaque defunctus est purus, per omnia in Domino confidens. Novissime autem post filios, mater ipsa consumpta est.",
      "explanation": "This Lectio continues the study of word order in indirect discourse (oratio obliqua). Notice how Most arranges the accusative-and-infinitive constructions, for example: \"Noli putare genus nostrum a Deo esse derelictum\" and \"dixit se divitem et felicem eum facturum.\" The subject of the reported speech goes into the accusative and its verb into the infinitive, with the supporting words distributed naturally around them. Watch also the verbs of urging and persuading (hortor, suadeo) which govern subjunctive clauses with ut.",
+     "divisio": {
+      "overview": "The martyrdom continues brother by brother, then shifts to the mother's witness, the king's failed bribe of the youngest, and the mother's own death.",
+      "parts": [
+       {
+        "label": "The fourth, fifth, and sixth brothers",
+        "detail": "Each dies with a defiant word: hope of resurrection, a warning of God's power, and an admission that they suffer for sin."
+       },
+       {
+        "label": "The mother's faith and exhortation",
+        "detail": "Watching all seven perish in one day, she bears it for hope's sake and urges each son toward the Creator who gives life again."
+       },
+       {
+        "label": "The king's attempt on the youngest",
+        "detail": "Antiochus, scorned, tries oaths of wealth and then asks the mother to persuade her last son."
+       },
+       {
+        "label": "Mother and youngest son defy the king",
+        "detail": "She mocks the tyrant and bids her son accept death, and he refuses the king, condemns him, and trusts God's mercy."
+       },
+       {
+        "label": "The end of son and mother",
+        "detail": "The king tortures him most cruelly of all, he dies pure, and last of all the mother herself is killed."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "vexare",
@@ -31664,6 +35502,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The opening of the wars of the Maccabees: Mathathias and his five sons stand firm against Antiochus.",
      "original": "De Bellis Machabaeorum\n\nIn diebus illis surrexit Mathathias, qui erat sacerdos, et quinque filios habuit: Ioannem, Simonem, Iuda, Eleazarum, et Jonathan. Hi viderunt mala quae fiebant in populo Juda et in Jerusalem. Et dixit Mathathias: \"Vae mihi. Quare natus sum videre contritionem populi mei, et contritionem civitatis sanctae, et sedere hic cum datur in manibus inimicorum? Templum enim eius sicut homo ignobilis.\" Et scidit vestimenta sua Mathathias, et filii eius, et operuerunt se ciliciis, et luxerunt valde. Et venerunt illuc in civitatem Modin qui missi erant a rege Antiocho, ut cogerent eos qui in hanc civitatem fugerant sacrificare, et a lege Dei discedere. Et multi de populo Israel consentientes accesserunt ad eos. Sed Mathathias et filii eius constanter steterunt. Et respondentes, qui missi erant ab Antiocho, dixerunt Mathathiae: \"Princeps, et clarissimus, et magnus es in hac civitate, et ornatus filiis et fratribus. Ergo accede prior, et fac iussum regis, sicut fecerunt omnes gentes, et viri Iuda, et qui remanserunt in Jerusalem, et eris tu, et filii tui, inter amicos regis, et habebis aurum et argentum et munera multa.\" Et respondit Mathathias, et dixit magna voce: \"Etsi omnes gentes regi Antiocho obediunt, ut discedat unusquisque a lege patrum suorum et consentiat mandatis eius, ego, et filii mei, et fratres mei, obediemus legi patrum nostrorum. Propitius sit nobis Deus: non est nobis bonum relinquere legem et iustitiam Dei: non audiemus verba regis Antiochi, nec sacrificabimus transgredientes legis nostrae mandata, ut eamus altera via.\" Et ut (when) cessavit loqui verba haec, accessit quidam Judaeus in omnium conspectu sacrificare idolis super aram in civitate Modin, secundum iussum regis. Et vidit Mathathias, et doluit, et contremuit cor eius.\n\nEt exclamavit Mathathias voce magna in civitate, dicens: \"Omnis qui zelum habet legis, exeat post me.\" Et fugit ipse et filii eius in montes, et reliquerunt quaecumque habebant in civitate. Tunc descenderunt multi quaerentes iudicium et iustitiam in desertum. Et sederunt ibi ipsi, et filii eorum, et mulieres eorum. Et nuntiatum est viris regis, et exercitui qui erat in Jerusalem civitate David, quod discessissent viri quidam, qui non obedierunt mandato regis, in loca secreta in deserto, et abiissent post illos multi. Et statim perrexerunt ad eos viri regis Antiochi, et constituerunt adversus eos proelium in die sabbatorum, et dixerunt ad eos: \"Resistitis et nunc adhuc? Exite, et facite secundum verbum regis Antiochi, et vivetis.\" Et dixerunt: \"Non exibimus, neque faciemus verba regis, ut polluamus diem sabbatorum.\" Et fecerunt viri Antiochi adversus eos proelium. Et non responderunt Iudaei eis, nec lapidem miserunt in eos, dicentes: \"Moriamur omnes in innocentia nostra, et testes erunt super nos coelum et terra, quod iniuste perditis nos.\" Et intulerunt illis bellum die sabbatorum, et mortui sunt ipsi, et uxores eorum, et filii eorum et pecora eorum, usque ad mille animas hominum. Et cognovit Mathathias, et amici eius, et luxerunt super eos valde. Et dixit vir proximo suo: \"Si omnes fecerimus sicut fratres nostri fecerunt, et non pugnaverimus adversus gentes pro animabus nostris et iustificationibus nostris, nunc citius disperdent nos a terra.\" Et cogitaverunt in die illa dicentes: \"Omnis homo, quicumque venerit ad nos in bello die sabbatorum, pugnemus adversus eum, et non moriemur omnes, sicut mortui sunt fratres nostri.\"",
      "explanation": "From the Vocabularium: efficio, efficere, fecit, fectus, make or bring about; hic, here; hortari, urge, encourage; frustra, in vain; suadere, suasit, suasum (with dative), persuade; testis, witness; torquere, torsit, tortus, twist, torture; transgredior, cross over, transgress; iustitia, justice; propitius, merciful, kind; Spartiates, a Spartan; spes, hope. This reading keeps developing indirect discourse and the use of subjunctives in purpose and result clauses (ut cogerent, ut discedat, ut eamus, pugnemus adversus eum).",
+     "divisio": {
+      "overview": "The revolt opens with Mathathias' grief and defiance, then his flight, followed by a second movement on the sabbath massacre and the decision to fight.",
+      "parts": [
+       {
+        "label": "Mathathias' lament",
+        "detail": "The priest and his five sons see the city profaned, tear their garments, and mourn in sackcloth."
+       },
+       {
+        "label": "Refusal of the king's officers",
+        "detail": "Sent to enforce sacrifice, the officers flatter Mathathias, who answers that he and his will keep the law of their fathers."
+       },
+       {
+        "label": "Killing the apostate and flight",
+        "detail": "Mathathias strikes down a Jew sacrificing to idols, calls the zealous to follow, and flees with many to the mountains and desert."
+       },
+       {
+        "label": "The sabbath massacre",
+        "detail": "The king's men attack on the sabbath, and the refugees, refusing to fight or defile the day, die to a thousand souls."
+       },
+       {
+        "label": "Resolve to fight on the sabbath",
+        "detail": "Mourning the dead, Mathathias and his men decide they will fight any attacker even on the sabbath rather than perish."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "vae",
@@ -31893,6 +35756,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The story of the wars of the Maccabees continues: Mathathias gathers the faithful, destroys the altars, and gives his sons a dying exhortation.",
      "original": "Continuatur narratio de bellis Machabeorum.\n\nTunc congregati sunt ad eos omnes Assidaei (verbum Hebraicum Hasidim significat \"Pii\"), fortes viribus ex Israel; et omnes qui fugiebant a malis additi sunt ad eos, et collegerunt exercitum, et percusserunt peccatores in ira sua, et viros iniquos (id est, Iudaei qui ad legem gentium transierunt) in indignatione sua. Et circuivit Mathathias, et amici eius, et destruxerunt aras, et persecuti sunt filios superbiae (id est, eos qui missi erant a rege Antiocho), et victorias fecerunt.\n\nEt appropinquaverunt dies Mathathiae moriendi, et dixit filiis suis: \"Nunc o filii, zelum legis habete, et date animas vestras pro testamento patrum vestrorum. Et memoria tenete opera patrum, quae fecerunt in generationibus suis, et accipietis gloriam magnam et nomen aeternum. Abraham nonne in tentatione inventus est fidelis, et reputatum est ei ad iustitiam? Ioseph in tempore angustiae suae custodivit mandatum, et factus est dominus Aegypti. David in sua misericordia consecutus est solium regni in sempiternum. Elias, dum zelat zelum legis, receptus est in coelum. Daniel in sua simplicitate liberatus est de ore leonum. Et ita cogitate per generationem et generationes, quod omnes qui sperant in Deum, non deficiunt. Et verba viri peccatoris ne timeatis, quia gloria eius stercus et vermis est: hodie extollitur, et cras non invenietur, quia reversus est in terram suam, et cogitatio eius periit. Vos ergo, filii, confortamini, et viriliter agite in lege, quia in ipsa gloriosi eritis. Et ecce, Simon frater vester, scio quod vir consilii est: ipsum audite semper, et ipse erit vobis pater. Et Iudas Machabaeus, fortis viribus a iuventute sua, sit vobis princeps exercitus; et ipse aget bellum populi.\" Et benedixit eos, et appositus est ad patres suos, et sepultus est a filiis suis in sepulchris patrum suorum in Modin.",
      "explanation": "Since Latin depends on endings, it is possible to separate two words that agree and would belong together in English. Sometimes this is done for the sake of rhythm, sometimes for emphasis or balance, sometimes simply for the sake of fancy work. We have already seen some of it in the ablative absolutes with side tracks inside them. To read such a sentence, find the words that agree by their endings and mentally put the separated pair back together; then translate the whole sentence.",
+     "divisio": {
+      "overview": "The narrative moves from the gathering of the faithful and their campaigns to Mathathias' deathbed speech and burial.",
+      "parts": [
+       {
+        "label": "The Assidaei rally",
+        "detail": "Pious and fugitive men join Mathathias, form an army, and strike the lawless."
+       },
+       {
+        "label": "Tearing down the altars",
+        "detail": "Mathathias and his allies destroy pagan altars, pursue the king's agents, and win victories."
+       },
+       {
+        "label": "The dying charge",
+        "detail": "Near death, Mathathias bids his sons keep zeal for the law and recalls Abraham, Joseph, David, Elias, and Daniel as proof that the faithful do not fail."
+       },
+       {
+        "label": "Naming the leaders",
+        "detail": "He appoints Simon as counselor and father and Judas Maccabaeus as commander of the army."
+       },
+       {
+        "label": "Death and burial",
+        "detail": "He blesses his sons, is gathered to his fathers, and is buried at Modin."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Assidaei",
@@ -32085,6 +35973,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Judas the Maccabee rises in his father's place, wins battles against Apollonius and Seron, and the people assemble at Maspha to ready themselves for war.",
      "original": "Et surrexit Iudas, qui vocabatur Machabaeus (probabiliter nomen eius significat \"malleus\" --haec est enim significatio verbi Hebraici \"Maqqabah\") filius eius pro eo; et adiuvabant eum omnes fratres eius, et universi qui se coniunxerant patri eius, et proeliabantur proelium Israel cum laetitia. Et persecutus est iniquos, et repulsi sunt inimici prae timore eius. Et perambulavit civitates Iuda et perdidit impios ex eis, et avertit iram ab Israel. Et congregavit Apollonius gentes (hic Apollonius, secundum scriptorem Iudaicum, Flavium Iosephum nomine, erat gubernator Samariae) et a Samaria virtutem multam et magnam ad bellandum contra Israel. Et cognovit Iudas, et exiit obviam illi, et percussit et occidit illum; et ceciderunt vulnerati multi, et reliqui fugerunt. Et accepit spolia eorum, et gladium Apollonii abstulit Iudas, et erat pugnans eo omnibus diebus.\n\nEt audivit Seron, princeps exercitus Syriae, quod congregavit Iudas fideles et ait: \"Faciam mihi nomen, et glorificabor in regno, et vincam Iudam et eos qui cum ipso sunt.\" Et praeparavit se; et ascenderunt cum eo castra impiorum; et appropinquaverunt usque ad Bethoron. Et exivit Iudas obviam illi cum paucis. Ut autem viderunt exercitum venientem sibi obviam, dixerunt Iudae: \"Quomodo poterimus pauci, pugnare contra multitudinem tantam et tam fortem, et nos fatigati sumus ieiunio hodie?\" Et ait Iudas: \"Facile est ut multi concludantur in manus paucorum: et non est differentia in conspectu Dei coeli, liberare per multos, vel per paucos: quoniam non in multitudine exercitus est victoria belli, sed de coelo fortitudo est. Ipsi veniunt ad nos in multitudine superba, ut disperdant nos; nos vero pugnabimus pro animabus nostris et legibus nostris: et ipse Dominus conteret eos ante faciem nostram: vos autem ne timueritis eos.\" Ut cessavit autem loqui, insiluit in eos subito; et contritus est Seron et exercitus eius in conspectu ipsius; et secutus est eum usque in campum, et ceciderunt ex eis octingenti viri, reliqui autem fugerunt in terram Philisthiim.\n\nEt cecidit timor Iudae ac fratrum eius super omnes gentes in circuitu eorum; et pervenit ad regem nomen eius, et de praeliis Iudae narrabant omnes gentes. Ut audivit autem rex Antiochus sermones istos iratus est, et misit et congregavit exercitum universi regni sui, castra fortia valde; et aperuit aerarium suum, et dedit stipendia exercitui in annum; et mandavit illis ut essent parati ad omnia. Et vidit, quod defecit pecunia de thesauris suis, et tributa regionis modica erant propter plagam quam fecit in terra. Et timuit, et cogitavit ire in Persidem, et accipere tributa regionum, et congregare argentum multum. Et reliquit Lysiam, hominem nobilem de genere regali, et tradidit ei medium exercitum et elephantos, et mandavit ei de omnibus quae volebat, ut mitteret exercitum ad conterendam virtutem Israel et reliquias Ierusalem, et ad auferendam memoriam eorum de loco. Et rex assumpsit partem exercitus et exivit ab urbe sua, et venit trans Euphraten flumen. Et elegit Lysias Ptolomaeum, et Nicanorem, et Gorgiam, viros potentes ex amicis regis, et misit cum eis quadraginta millia virorum et septem millia equitum ut venirent in terram Iuda et disperderent eam secundum verbum regis.\n\nEt vidit Iudas et fratres eius quod multiplicata sunt mala, et exercitus applicabant ad terram eorum; et cognoverunt verba regis, quae mandaverat. Et dixerunt unusquisque ad proximum suum: \"Erigamus deiectionem populi nostri, et pugnemus pro populo nostro, et sanctis nostris.\" Et congregatus est conventus, ut essent parati in proelium, et ut orarent, et misericordiam peterent. Et venerunt in Maspha. Ierusalem enim erat sicut desertum: non erat ex filiis eius qui ingrederetur et egrederetur, sed filii alienigenarum erant in arce. Venerunt ergo in Maspha, quia locus orationis erat in Maspha temporibus antiquis. Et ieiunaverunt illa die, et induerunt se ciliciis, et cinerem imposuerunt capiti suo, et sciderunt vestimenta sua: et clamaverunt voce magna in coelum, dicentes: \"Quid faciemus? Ecce, nationes convenerunt adversum nos, ut nos disperdant. Tu scis quae cogitant in nos. Quomodo poterimus stare ante faciem eorum, nisi tu, Deus, adiuves nos?\" Et ait Iudas: \"Accingimini, et estote filii potentes, et estote parati in mane, ut pugnetis adversus nationes has, quae convenerunt adversus nos, disperdere nos et sancta nostra. Quoniam melius est nos mori in bello, quam videre mala gentis nostrae et sanctorum. Sicut autem fuerit voluntas in coelo, sic fiat.\"",
      "explanation": "Continue practicing the separation of agreeing words. Read each sentence, repeat the whole clause in which the pair of words appears but put the separated words back together, and then translate the whole sentence. The same device of splitting an adjective from its noun, or a noun from its modifier, runs through this battle narrative.",
+     "divisio": {
+      "overview": "Five scenes carry Judas from his rise through two victories to the enemy's countermove and the assembly at Maspha.",
+      "parts": [
+       {
+        "label": "Judas succeeds his father",
+        "detail": "Judas, called Maccabaeus, takes his father's place, gathers his brothers, and clears the wicked from Judah's cities."
+       },
+       {
+        "label": "Defeat of Apollonius and Seron",
+        "detail": "Judas kills Apollonius and takes his sword, then with few men routs Seron at Bethoron, declaring that strength comes from heaven."
+       },
+       {
+        "label": "Antiochus' great muster",
+        "detail": "Hearing of Judas, the angry king pays his army, then leaves Lysias with half the force and sets out for Persia for funds."
+       },
+       {
+        "label": "Lysias sends his generals",
+        "detail": "Lysias dispatches Ptolemy, Nicanor, and Gorgias with forty thousand foot and seven thousand horse against Judea."
+       },
+       {
+        "label": "The assembly at Maspha",
+        "detail": "Judas' men gather at Maspha to pray, fast, and put on sackcloth, and Judas bids them be ready to fight at dawn."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "malleus",
@@ -32334,6 +36247,31 @@ window.COURSE_DATA.courses.push({
      "lead": "More on the agreement of separated words: Judas Maccabaeus and the rededication of the Temple.",
      "original": "Et assumpsit Gorgias quinque millia virorum, et mille equites electos; et moverunt castra nocte, ut applicarent ad castra Iudaeorum, et percuterent eos subito. Et audivit Iudas, et surrexit ipse et potentes, percutere virtutem exercituum regis. Et venit Gorgias in castra Iudae nocte, et neminem invenit, et quaerebat eos in montibus, quoniam dixit: \"Fugiunt hi a nobis.\" Et cum dies factus esset, apparuit Iudas in campo cum tribus millibus virorum, qui tegumenta et gladios non habebant. Et ait Iudas viris, qui secum erant: \"Ne timueritis multitudinem eorum, et impetum eorum ne formidetis. Mementote, quomodo salvi facti sunt patres nostri in Mari Rubro, cum sequeretur eos Pharao cum exercitu multo. Et nunc clamemus in coelum, et miserebitur nostri Dominus, et memor erit testamenti patrum nostrorum, et conteret exercitum istum ante faciem nostram hodie: et scient omnes gentes, quia est, qui liberet Israel.\" Et elevaverunt alienigenae oculos suos, et viderunt eos venientes. Et exierunt de castris in proelium; et tuba cecinerunt hi qui erant cum Iuda. Et congressi sunt; et contritae sunt gentes et fugerunt in campum. Et vidit Gorgias quod in fugam conversi sunt sui, et succenderunt castra. Et Iudas reversus est ad spolia castrorum, et acceperunt aurum multum et argentum et alia bona. Et conversi hymnum canebant et benedicebant Deum quoniam bonus est, quoniam in saeculum misericordia eius. Sequenti anno congregavit Lysias virorum electorum sexaginta millia, et equitum quinque millia et venerunt in Iudaeam. Et viderunt Iudaei exercitum fortem et oraverunt dicentes: \"Benedictus es, salvator Israel, qui contrivisti impetum potentis in manu servi tui David. Conclude exercitum istum in manu populi tui Israel, et confundantur in exercitu suo et equitibus.\" Et commiserunt proelium, et ceciderunt de exercitu Lysiae quinque millia virorum. Videns autem Lysias fugam suorum et Iudaeorum audaciam, et quod parati sunt aut vivere aut mori fortiter, abiit Antiochiam ut rursus venirent in Iudaeam. Dixit autem Iudas et fratres eius: \"Ecce, contriti sunt inimici nostri. Ascendamus nunc mundare sancta, et renovare.\" Et congregatus est omnis exercitus, et ascenderunt in montem Sion. Et viderunt sanctuarium desertum, et altare profanatum. Et sciderunt vestimenta sua, et luxerunt valde, et imposuerunt cinerem super caput suum. Tunc acceperunt lapides integros secundum legem, et aedificaverunt altare novum, et aedificaverunt sancta. Et fecerunt dedicationem altaris diebus octo, et obtulerunt holocausta cum laetitia, et sacrificium laudis. Et ornaverunt faciem templi coronis aureis; et facta est laetitia in populo magna valde. Haec dedicatio facta est mense Decembri, anno centesimo sexagesimo quinto ante Christum.",
      "explanation": "Now for a bit more practice on separated words in agreement, but this time with some examples having three words, all separated. Again, let us translate each example after putting together the separated words. Watch how an adjective or modifier may stand far from the noun it agrees with, so that you must rejoin them in sense before you can render the Latin: for instance, Multis non sunt victi maximis qui venerant exercitibus, where Multis... maximis... exercitibus all belong together; or Aureis cum laetitia coronis templum ornaverunt, where Aureis goes with coronis. Train your eye to gather such separated words by their endings.",
+     "divisio": {
+      "overview": "Two battles bracketed by trust in God lead into the purification and rededication of the Temple.",
+      "parts": [
+       {
+        "label": "Gorgias outmaneuvered",
+        "detail": "Gorgias marches by night to surprise the camp, but Judas has moved, appears at dawn, and exhorts his unarmored men to trust the God of the Red Sea."
+       },
+       {
+        "label": "Rout and plunder",
+        "detail": "The trumpet sounds, the enemy is crushed and flees, the camp is burned, and Judas' men gather spoils and sing God's praises."
+       },
+       {
+        "label": "Defeat of Lysias",
+        "detail": "The next year Lysias brings a huge force; the Jews pray, kill five thousand, and Lysias withdraws to Antioch."
+       },
+       {
+        "label": "Cleansing the sanctuary",
+        "detail": "Judas resolves to purify the holy place, finds the sanctuary deserted and altar profaned, mourns, and builds a new altar of whole stones."
+       },
+       {
+        "label": "Eight days of dedication",
+        "detail": "They keep an eight-day dedication with offerings, joy, and golden crowns, dated to December of 165 BC."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "tegumentum",
@@ -32522,6 +36460,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The wretched death of the proud king Antiochus, who is humbled by God for his pride.",
      "original": "Fere hoc tempore Antiochus sine honore revertebatur de Persia. Intraverat enim in urbem quae dicitur Persepolis, et tentavit exspoliare templum, et civitatem opprimere, sed, multitudine concurrente ad arma, in fugam versus est Antiochus. Hic itaque magna affectus ira, volebat Iudaeos perdere. Ideoque, iussit exercitum suum iter sine intermissione facere, dicens se facturum esse Ierusalem congeriem sepulchrorum Iudaeorum. Sed qui universa conspicit, Dominus Deus Israel, percussit eum insanabili et invisibili plaga. Ut enim finivit sermonem istum, apprehendit eum dolor dirus viscerum, et amara internorum tormenta. Insuper accidit ut de curru caderet, et gravi corporis collisione vexaretur. Itaque is, qui sibi videbatur etiam fluctibus maris imperare, supra humanum modum superbia repletus, nunc, humiliatus ad terram, in gestatorio portabatur, manifestam Dei potentiam in semetipso contestans, ita ut de corpore impii regis vermes scaturirent, et in doloribus carnes eius effluerent. Odore illius et foetore exercitus gravabatur ita ut nemo eum, qui paulo ante sidera coeli contingere sibi arbitrabatur, portare posset. Hinc igitur rex, ex gravi superbia deductus, coepit ad scientiam sui venire, divina plaga admonitus, doloribus suis augmenta capientibus per momenta singula. Et cum nec ipse iam foetorem suum ferre posset, ita ait: \"Iustum est subditum esse Deo.\" Orabat autem hic scelestus Dominum, et nunc optat liberam facere civitatem ad quam festinans veniebat ut eam sepulchrorum congeriem faceret. Et Iudaeos nunc aequales Atheniensibus facturum esse pollicetur, templum etiam sanctum pollicetur optimis donis ornaturum. Super haec, se Iudaeum futurum. Sed, non cessantibus doloribus, scripsit ad Iudaeos dicens: \"Optimis civibus Iudaeis, plurimam salutem, et bene valere, et esse felices (optat) rex Antiochus. Si bene valetis, et filii vestri bene valent, et si sicut vultis omnia sunt, maximas agimus gratias. Et ego in infirmitate constitutus, necessarium arbitratus sum pro communi utilitate curam habere, et designavi filium meum Antiochum regem, et scripsi ad eum. Oro itaque vos, et peto ut memores sitis beneficiorum et ut unusquisque conservet fidem ad me et ad filium meum.\" Igitur hic homicida et blasphemus, pessime percussus, in montibus miserabili morte mortuus est.",
      "explanation": "A closing reflection: Why did God not hear the prayer and promises of Antiochus, so as to heal him? Probably Antiochus did not have true repentance. For perhaps he repented because he had sinned against God; but perhaps he repented because he was feeling the pain of his entrails and the stench. If his repentance was good, because he had sinned against God, then God truly forgave his sin, even though He did not free him from an evil death. But what the truth is, it is hard to say.",
+     "divisio": {
+      "overview": "A fall narrative that moves from the king's failed plunder and prideful rage through his foul affliction to his hollow repentance, flattering letter, and wretched death.",
+      "parts": [
+       {
+        "label": "Failure and renewed fury",
+        "detail": "Repulsed at Persepolis, Antiochus rages and vows to make Jerusalem a graveyard of the Jews."
+       },
+       {
+        "label": "The stroke of God",
+        "detail": "God strikes him with an incurable inner torment; he falls from his chariot, and worms and stench pour from the once-proud king."
+       },
+       {
+        "label": "Humbled to repentance",
+        "detail": "Brought low, he confesses it is right to be subject to God and now promises to free the city and honor the Temple."
+       },
+       {
+        "label": "The flattering letter",
+        "detail": "Still in pain, he writes the Jews as best of citizens, names his son as successor, and begs their loyalty."
+       },
+       {
+        "label": "Miserable death",
+        "detail": "This murderer and blasphemer dies a wretched death in the mountains."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "exspoliare",
@@ -32777,6 +36740,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The Maccabean struggle continues: Ionathas is lured to Ptolemais and slain, and his brother Simon is later murdered at a banquet.",
      "original": "Post mortem Antiochi, Lysias adhuc pugnavit contra Iudaeos - filius enim Antiochi, heres Syriae, puer erat. Iudas Machabaeus contra Lysiam, Tryphon et etiam contra alios hostes populi sui pugnavit. Anno centesimo sexagesimo ante Christum, in proelio interfectus est, et exercitus eius victus est. Nihilominus, frater eius Ionathas alium collegit exercitum, sed pauci Iudaei secuti sunt eum. Anno autem centesimo quadragesimo secundo Ionathas exivit ut pugnaret contra ducem exercitus Syriae, qui vocabatur Tryphon. Tryphon autem, videns quod Ionathas veniebat ad se cum exercitu, excepit eum cum honore, et dixit Ionathae: \"Utquid vexasti universum populum, cum bellum nobis non sit? Et nunc remitte eos in domos suas. Elige autem tibi viros paucos qui tecum sint, et veni mecum in Ptolemaidam, et tradam illam urbem tibi, et reliqua praesidia, et exercitum, et conversus, abibo. Propterea enim veni.\" Et credidit ei Ionathas et fecit sicut dixit et dimisit exercitum, et abierunt in terram Iuda. Retinuit autem secum tria millia virorum, ex quibus remisit in Galilaeam duo millia, mille autem venerunt cum eo. Ut autem intravit Ptolemaidam Ionathas, clauserunt portas civitatis cives huius civitatis; et comprehenderunt eum, et interfecerunt gladio omnes qui cum eo intraverant. Ionathas autem ipse interfectus est postea. Post haec, factus est frater Ionathae Simon dux Iudaeorum (142-135 ante Christum), qui multas etiam victorias fecit. Sed ipse cum duobus filiis interfectus est dolo in convivio a quodam Ptolomaeo (non erat rex Aegypti) qui erat gener eius. Unus autem filius eius, Ioannes Hyrcanus nomine, non erat in convivio. Ptolomaeus misit viros qui Ioannem interficerent, sed Ioannes, monitus a quodam viro quod pater eius perierat et quod alii veniebant ad eum interficiendum, apprehendit viros qui venerant perdere eum, et occidit eos.",
      "explanation": "This Lectio reviews the use of the present participle in place of a relative clause (De usu participii praesentis loco clausulae relativae). In Lesson 29 we learned to turn a present participle into a relative clause, and now we return to it to refresh our memory. Sample: Venientes laeti erant becomes Illi qui veniebant erant laeti. Other cases work the same way, but the case of ille must match the case of the participle: Amavit pugnantes, Audiverunt venientem, Dedit dona venienti, Dederunt multa laborantibus, Opera laborantium erant bona, Verba amantis placuerunt. Notice too that the verb in the expanded version need not be past: it matches the tense of the principal verb, so it may shift to present or future. Venientes laeti sunt becomes Illi qui veniunt laeti sunt; Venientes laeti erunt becomes Illi qui venient laeti erunt.",
+     "divisio": {
+      "overview": "A succession of leaders, each meeting a treacherous end, except the son who turns the tables.",
+      "parts": [
+       {
+        "label": "Judas falls, Ionathas rises",
+        "detail": "After Judas is killed in battle, his brother Ionathas gathers a new but small army."
+       },
+       {
+        "label": "Tryphon's deceit",
+        "detail": "Tryphon feigns friendship, lures Ionathas to dismiss his troops, and invites him to Ptolemais."
+       },
+       {
+        "label": "Ionathas trapped and slain",
+        "detail": "Inside Ptolemais the gates are shut, his men killed, and Ionathas himself later put to death."
+       },
+       {
+        "label": "Simon's rule and murder",
+        "detail": "Simon becomes leader and wins victories, but is killed with two sons by guile at a banquet by his son-in-law Ptolemy."
+       },
+       {
+        "label": "Ioannes Hyrcanus survives",
+        "detail": "Warned in time, the absent son seizes and kills the men sent to murder him."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "excipere",
@@ -32899,6 +36887,31 @@ window.COURSE_DATA.courses.push({
      "lead": "The narrative leaves the Old Testament and sketches the later kings, the rise of Rome and Pompey, and finally Herod, in whose reign Christ is born.",
      "original": "Hoc loco venimus ad finem Veteris Testamenti. Reliquas partes historiae Iudaeorum invenimus in libris scriptoris Iudaei, qui vocatur Flavius Iosephus. Reges huius temporis pugnabant plus pro gloria sua quam pro lege Dei. Spiritus enim huius mundi gradatim venit in eos ita ut mox opprimerent Pharisaeos (qui ex Assidaeis descenderunt. Assidaei autem pugnaverant cum Mathathia et Iuda Machabaeo) et faverent Sadducaeis. Sadducaei erant sacerdotes et alii qui traditiones Pharisaeorum reiciebant, et solummodo legem scriptam habere volebant (ipsi autem etiam suas habebant traditiones). Videbantur res huius mundi plus quam res Dei amare. Ioannes Hyrcanus (134-104) erat summus sacerdos, sed non videtur nomen regis assumpsisse. Quia Pharisaei ambitiones mundanas huius Summi Sacerdotis non amaverunt, et voluerunt expellere eum ex Summo Sacerdotio, Ioannes Pharisaeos oppressit. Post mortem Ioannis, filius eius Aristobulus I successit, sed solummodo unum annum regnavit. De regno eius fere nihil certi scimus. Huic successit Alexander Iannaeus (103-76) qui in matrimonium duxit Alexandram, viduam Aristobuli I. Iannaeus autem fere pessimus omnium horum regum erat. Pugnavit contra Pharisaeos in bello civili, sed cum moreretur, persuasit uxori suae, Alexandrae, ut pacem cum Pharisaeis faceret. Post mortem eius, Alexandra regnavit 76-67. Duo filii Alexandrae, Hyrcanus II et Aristobulus II, pugnaverunt inter se ut regnum obtinerent post mortem Alexandrae. Hyrcanus II regnavit tres menses, sed post hos, coactus est thronum suum et Summum Sacerdotium Aristobulo II dare. Hic autem non potuit regnum suum in pace possidere. Aretas enim, rex Arabiae, rogatus ab Antipatro (qui fuerat gubernator Idumaeae) pugnavit contra Aristobulum et pro Hyrcano. Aristobulus itaque et Hyrcanus auxilium Romae rogaverunt. Fere hoc tempore, Pompeius Magnus, dux Romanus, de quo audivimus primo anno, erat in Syria, quam in provinciam Romanam fecit. Pompeius autem addidit etiam Iudaeam provinciae Syriae, anno sexagesimo tertio ante Christum. Hyrcanus factus est Ethnarcha et Summus Sacerdos, sed nomen regis non habuit. Anno quadragesimo, Antigonus, filius Aristobuli II, Ierusalem cepit. Herodes, filius Antipatri, fugit Romam. Ibi favorem Antonii et senatus Romani obtinuit, et factus est Rex Iudaeae a senatu Romano anno quadragesimo ante Christum. Regnante hoc Herode, Christus natus est.",
      "explanation": "Continuing the review of the present participle for a relative clause, let us now put several together: Rex videt venientes in palatium becomes Rex videt illos qui veniunt in palatium; Nihil agentes non accipient dona; Interpretanti somnium multa bona dabit; Multi cibi dati sunt venientibus ad convivium; Contemnentes regem puniuntur; Laborantes in templo placuerunt Domino. In each case remember to keep ille (or its understood equivalent) in the same case as the participle, and to match the tense of the participle's verb to the main verb of the sentence.",
+     "divisio": {
+      "overview": "A genealogical sketch tracing the decline of the later kings through internal strife and Rome's intervention down to Herod and the birth of Christ.",
+      "parts": [
+       {
+        "label": "Worldly kings and the parties",
+        "detail": "The narrative leaves the Old Testament; later rulers fight for glory, oppress the Pharisees, and favor the Sadducees."
+       },
+       {
+        "label": "From Hyrcanus to Iannaeus",
+        "detail": "Ioannes Hyrcanus, Aristobulus I, and the wicked Alexander Iannaeus rule, the last urging peace with the Pharisees at his death."
+       },
+       {
+        "label": "The brothers' civil war",
+        "detail": "Alexandra reigns, then her sons Hyrcanus II and Aristobulus II fight for the throne, drawing in Aretas and Antipater."
+       },
+       {
+        "label": "Rome takes Judea",
+        "detail": "Both brothers appeal to Rome, and Pompey annexes Judea to Syria in 63 BC, leaving Hyrcanus as ethnarch and high priest."
+       },
+       {
+        "label": "Herod and the birth of Christ",
+        "detail": "Herod wins Rome's favor, is made king of Judea in 40 BC, and in his reign Christ is born."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "gradatim",
@@ -33056,6 +37069,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Instead of a narrative reading, Most gathers a series of ancient liturgical orations to drill the constructions learned since lesson 25.",
      "original": "Lectio Trigesima Sexta. De sententiis periodicis.\n\nWe have already spent some time this year learning to work with sidetracks. This sort of practice is extremely valuable, for with it, even long interwoven sentences are easy to follow. But it becomes easy only with much practice. Now it happens that in the Missale Romanum there are very many miniature \"orations\" in the form of prayers. Some of these are very ancient; all are written in beautiful, finely wrought style. They have the further advantage of giving us practice on many of the features we have been studying since lesson 25. You will find them less involved and complicated than the Scrambles; but, on the other hand, the fact that they are not narrative, and do not come from a familiar context is a disadvantage. In all, the total difficulty should be about the same as that of the Scrambles. It will pay us to go over these many times, sometimes translating, sometimes following them in Latin without translating.\n\nWe will begin with some of the easier examples. Notice a few special features in some of these: 1. Some have two words in agreement that are separated, following the patterns we saw in lessons 33 and 34. To help us get started, we have printed some of the separated words in capitals, but this will be done only in a few orations, for we will not really need more than that. 2. Some have balanced combinations such as: sicut... ita; just as ... so also. But they are easy. 3. Some have such patterns as ut qui... -- that who .... Of course, ut qui can also mean: \"he who, you who, they who, etc.\" 4. Notice a pattern that appears for the first time in oration 9: facias praesentari: \"may you make us (cause us) to be presented.\" The same thing can be done with other verbs, e.g., tribue.\n\nOne more help before starting: there are some stock words that come back over and over. If we learn them at once, it is a great help: Praesta-grant! Exaudi-hear! Concede-grant! Quaesumus--we beg. Omnipotens-Almighty. Supplices-humbly. Propitius-graciously.\n\nFinally, if you should get stuck, always look for three things: subject, verb, object; and translate them in that order, omitting all other words until that has been done. It is remarkable how often this device alone will clear a difficulty.\n\n1. Preces populi tui, quaesumus Domine, clementer exaudi: ut, qui iuste pro peccatis nostris affligimur, pro tui nominis gloria misericorditer liberemur. (preces-prayers; clementer-graciously; misericorditer-mercifully)\n\n2. Concede, quaesumus, omnipotens Deus, ut qui ex merito nostrae actionis affligimur, tuae gratiae consolatione respiremus. (actio-action; respirare-breathe easily)\n\n3. Concede, quaesumus, omnipotens Deus; ut qui peccatorum pondere premimur, beati Dominici Confessoris tui patrocinio sublevemur. (pondus-weight; beatus-blessed; confessor-confessor, a saint who is not a martyr; patrocinium,o-patronage, intercession; sublevare-relieve)\n\n4. Deus qui nos beati Barnabae Apostoli tui meritis et intercessione laetificas; concede propitius; ut, qui TUA per eum BENEFICIA poscimus, dono tuae gratiae consequamur. (laetificare-gladden; poscere-ask; donum-gift; consequi-obtain)\n\n5. Mentes nostras, quaesumus, Domine, Paraclitus, qui a te procedit, illuminet; et inducat in OMNEM, sicut tuus, promisit Filius, VERITATEM. (Paraclitus-Paraclete; illuminare-enlighten; inducere-lead into)\n\n6. Sancti tui, quaesumus, Domine, nos ubique laetificent: ut, dum eorum merita recolimus, patrocinia sentiamus. (ubique-everywhere; recolere-recall)\n\n7. Absolve, quaesumus, Domine, tuorum delicta populorum; ut a peccatorum nexibus, quae pro nostra fragilitate contraximus, tua benignitate liberemur. (absolvere-forgive; delictum-sin; nexus-bond; pro-because of; fragilitas-frailty; contrahere-contract; benignitas-kindness)\n\n8. Praesta, quaesumus, omnipotens Deus: ut, qui in afflictione nostra de tua pietate confidimus, contra adversa omnia, tua semper protectione muniamur. (de-in; pietas-devotedness; adversa-adverse things; munire,4,-fortify, protect)\n\n9. Omnipotens sempiterne Deus, maiestatem tuam supplices exoramus: ut, sicut unigenitus Filius tuus hodierna die, cum nostrae carnis substantia in templo est praesentatus; ita nos facias PURIFICATIS tibi MENTIBUS praesentari. (sempiternus-eternal; maiestas-majesty; exorare-beg; unigenitus-only begotten; hodierna die-today; purificatis-with purified)\n\n10. Praesta, quaesumus, omnipotens Deus, ut familia tua, quae se, affligendo carnem, ab alimentis abstinet, sectando iustitiam, a culpa ieiunet. (alimentum-food; se abstinere-keep self from; sectari-pursue; culpa-fault; ieiunare-fast)\n\n11. Quaesumus, omnipotens Deus: ut, qui caelestia alimenta percepimus, per haec contra omnia adversa muniamur. (caelestis-heavenly; percipere-receive)\n\n12. Concede, quaesumus, omnipotens Deus: ut, qui hodierna die Unigenitum tuum, redemptorem nostrum, ad caelos ascendisse credimus; ipsi quoque mente in caelestibus habitemus. (hodierna die-today; Unigenitus-only begotten)\n\n13. Deus misericordiarum pater, per merita et intercessionem beati Hieronymi, quem orphanis adiutorem et patrem esse voluisti; concede: ut spiritum adoptionis, quo filii tui nominamur et sumus, fideliter custodiamus. (Hieronymus-Jerome; adiutor-helper; nominare-name)\n\n14. Praesta, quaesumus, omnipotens Deus: ut, qui gloriosos Martyres fortes in sua confessione cognovimus, [eos] pios apud te in nostra intercessione sentiamus. (confessio-confession of faith; pius,a,um-devoted, pious; apud-with)\n\n15. Suscipe, Domine, munera pro tuorum commemoratione Sanctorum; ut, sicut illos passio gloriosos effecit, ita nos devotio reddat innocuos. (suscipere-receive; munus-gift; passio-suffering; reddere-make; innocuus-innocent)\n\n16. Cordibus nostris, quaesumus Domine, gratiam tuam benignus infunde; ut, sicut ab escis carnalibus abstinemus, ita sensus quoque nostros a noxiis retrahamus excessibus. (gratia-grace; benignus-kind, kindly; esca-food; carnalis-meat; sensus,u-sense; noxius-harmful; retrahere-withdraw)\n\n17. Deus qui beatam Margaritam reginam eximia in pauperes caritate mirabilem effecisti: da, ut eius intercessione et exemplo, tua in cordibus nostris caritas iugiter augeatur. (eximius-outstanding; caritas,tate-love; iugiter-constantly; augere-increase)\n\n18. Da nobis, quaesumus, omnipotens Deus: ut, sicut adoranda Filii tui natalitia praevenimus, sic eius munera capiamus sempiterna gaudentes. (adorandus-adorable; natalitia,ibus-birthday; praevenire-anticipate; munus,ere-gift, duty, function; gaudere-rejoice)\n\n19. Deus qui nobis sub Sacramento mirabili, passionis tuae memoriam reliquisti: tribue, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari; ut redemptionis tuae fructum in nobis iugiter sentiamus. (mirabilis-wonderful; tribuere-grant, give; venerari-venerate; iugiter-constantly)",
      "explanation": "This lesson trains periodic sentences, the long interwoven prayers (orationes) of the Missale Romanum. Watch for four special features: words in agreement that are separated (here some are printed in capitals to help you, as in lessons 33 and 34); balanced pairs like sicut... ita (just as ... so also); the pattern ut qui... (that who, or he who, you who, they who); and forms like facias praesentari (may you cause us to be presented), which works the same way with other verbs such as tribue. Learn the stock words that recur: Praesta (grant), Exaudi (hear), Concede (grant), Quaesumus (we beg), Omnipotens (Almighty), Supplices (humbly), Propitius (graciously). If you get stuck, find the subject, verb, and object first and translate them in that order, setting the other words aside until that is done.",
+     "divisio": {
+      "overview": "An instructional preface sets up the exercise, then a numbered series of liturgical orations supplies the practice texts.",
+      "parts": [
+       {
+        "label": "Why these orations",
+        "detail": "Most explains that the Missale's short prayers drill the constructions learned since lesson 25, harder for lacking narrative context."
+       },
+       {
+        "label": "Four features to watch",
+        "detail": "He flags separated agreeing words (some capitalized), the balanced sicut... ita, the ut qui pattern, and forms like facias praesentari."
+       },
+       {
+        "label": "Stock words and a reading rule",
+        "detail": "He lists recurring words such as Praesta and Quaesumus and advises finding subject, verb, and object first when stuck."
+       },
+       {
+        "label": "Orations 1 to 19",
+        "detail": "A graded series of prayers, from simpler petitions to longer woven ones, each followed by its own glosses for practice."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "quaesumus",
@@ -33251,6 +37285,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Most moves to prayers built on participles, reminding us how to translate present and perfect participles before listing the lesson vocabulary.",
      "original": "And now, let us take some with participles outside of ablative absolutes.\n\nRemember, the basic translation for the present participle is: facientes -- doing; factus (pf. pass. of normal verb) -- having...; locutus (pf. part. of deponent) -- having spoken.\n\n20. Deus qui beatum Titum Confessorem tuum atque Pontificem apostolicis virtutibus decorasti: eius meritis et intercessione concede: ut iuste et pie viventes in hoc saeculo, ad caelestem patriam pervenire mereamur. (Pontifex-Bishop; apostolicus-apostolic; decorare-adorn; saeculum-world; patria,a-fatherland; mereri, deponent-merit)\n\n21. Excita, Domine, in Ecclesia tua Spiritum, cui beatus Laurentius Levita servivit: ut, eodem nos repleti, studeamus amare [id] quod amavit, et opere exercere quod docuit. (excitare-arouse; replere-fill; studere-be eager)\n\n22. Omnipotens sempiterne Deus, qui in dilecto Filio tuo, universorum Rege, omnia instaurare voluisti; concede propitius; ut cunctae familiae gentium, peccati vulnere disgregatae, eius suavissimo subdantur imperio. (dilectus-beloved; instaurare-restore; vulnus-wound; disgregare-disperse, scatter; suavis-sweet; subdere-subject)\n\n23. Deus, qui ad maiorem tui nominis gloriam propagandam, NOVO per beatum Ignatium SUBSIDIO militantem Ecclesiam roborasti; concede: ut, eius auxilio et imitatione certantes in terris, coronari cum ipso mereamur in caelis. (propagare-spread; subsidium-help; militare-struggle; Ecclesia-Church; roborare-strengthen; certare-struggle; coronare-crown)\n\n24. Ecclesiam tuam, Domine, benignus illustra, ut, beati Ioannis Apostoli tui et Evangelistae illuminata doctrinis, ad dona perveniat sempiterna. (benignus-kind, kindly; illustrare-enlighten, adorn; illuminare-enlighten; doctrina-doctrine)\n\n25. Deus qui beatum Franciscum, novi ordinis institutorem, orandi studio et poenitentiae amore decorasti; da famulis tuis in eius imitatione ita proficere; ut, semper orantes et corpus in servitutem redigentes, ad caelestem gloriam pervenire mereantur. (ordinis institutor-founder of order; studium-eagerness; poenitentia-penance; decorare-adorn; famulus-servant; proficere-make progress; in servitutem redigere-bring into subjection)\n\n26. Deus, qui diligentibus te bona invisibilia praeparasti; infunde cordibus nostris tui amoris affectum; ut te in omnibus et super omnia diligentes, promissiones tuas, quae omne desiderium superant, consequamur. (diligere, lexit, lectus-love; diligentibus-for those who love; amoris affectus-attitude of love; desiderium-desire; consequi, secutus-attain, reach, catch)\n\n27. Praesta nobis, quaesumus, Domine, auxilium gratiae tuae; ut, ieiuniis et orationibus convenienter intenti, liberemur ab hostibus mentis et corporis. (gratia-grace; ieiunium-fasting; convenienter-fittingly; intentus-applying self to)\n\n28. Excita, quaesumus, Domine, tuorum fidelium voluntates; ut, divini operis fructum propensius exsequentes, pietatis tuae remedia maiora percipiant. (excitare-arouse; propensius-more diligently; exsequi-pursue; pietas,tate-devotedness; remedium-remedy; percipiunt,3-receive)",
      "explanation": "This second batch of orations features participles used outside of ablative absolutes. Keep the basic renderings in mind: the present participle facientes means 'doing'; the perfect passive participle of a normal verb, factus, means 'having (been done)'; and the perfect participle of a deponent, locutus, means 'having spoken'. As you read, look for these participles agreeing with nouns inside the woven sentence and translate the subject, verb, and object first.",
+     "divisio": {
+      "overview": "A short reminder on translating participles introduces a second numbered run of orations chosen to show participles outside ablative absolutes.",
+      "parts": [
+       {
+        "label": "Participle renderings recalled",
+        "detail": "Most restates the basic translations: facientes (doing), factus (having been done), locutus (having spoken)."
+       },
+       {
+        "label": "Saints' orations 20 to 25",
+        "detail": "Prayers invoking particular saints such as Titus, Laurence, Ignatius, John, and Francis, each carrying participial phrases."
+       },
+       {
+        "label": "Petitions 26 to 28",
+        "detail": "Closing prayers on God's gifts to those who love Him and on fasting and prayer, again built on participles."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "beatus,a,um",
@@ -33440,6 +37491,23 @@ window.COURSE_DATA.courses.push({
      "lead": "More on periodic sentences: collects in which an ablative absolute, often with the participle first, carries the main thought.",
      "original": "Now let us take some with ablative absolutes in them. Notice especially that many of them have the participle first, the same pattern that we saw in lessons 25 and 26. Remember to use the basic translation for the sake of practice, e.g., te protegente - with you protecting. 29. Haec nos communio, Domine, purget a crimine; et, intercedente beato Thoma Martyre tuo atque Pontifice, caelestis remedii faciat esse consortes. (communio-communion; purgare-cleanse; crimen-fault; intercedere-intercede; remedium-remedy; consors-sharing in) 30. Praesta, quaesumus, omnipotens Deus, ut de perceptis muneribus gratias exhibentes, intercedente beato Silvestro Confessore tuo atque Pontifice, beneficia potiora sumamus. (gratias exhibere-give thanks; perceptus-received; beneficium-favor; potior-greater) 31. Deus a quo bona cuncta procedunt, largire supplicibus tuis; ut cogitemus, te inspirante, quae recta sunt; et, te gubernante, eadem faciamus. (largire-grant!; supplex-suppliant, petitioner; inspirare-inspire; gubernare-govern, direct) 32. Praesta quaesumus, omnipotens Deus; ut, qui paschalia festa peregimus, haec, te largiente, moribus et vita teneamus. (paschalis-paschal; peragere-complete, carry through; largiri-grant) 33. Munera, Domine, oblata sanctifica; et, intercedente beato Barnaba apostolo tuo, nos per haec a peccatorum nostrorum maculis emunda. (sanctificare-make holy; oblatus-offered; macula-stain; emundare-cleanse) 34. Gratiam tuam, quaesumus, Domine, mentibus nostris infunde; ut, qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem, ad resurrectionis gloriam perducamur. (incarnatio-incarnation) 35. Subveniat nobis, Domine, misericordia tua; ut ab IMMINENTIBUS peccatorum nostrorum PERICULIS, TE mereamur PROTEGENTE eripi, te liberante salvari. (subvenire, w. dat.-come to aid; imminens-imminent; eripere-deliver; salvare-save) 36. Quaesumus, omnipotens Deus; ut, qui caelestia alimenta percepimus, intercedente beato Caietano Confessore tuo, per haec contra omnia adversa muniamur. (alimentum-food) 37. Praesta, quaesumus, omnipotens Deus, ut, qui in tua protectione confidimus, cuncta nobis adversantia, te adiuvante, vincamus. (adversantia-adverse things; adiuvare-help) 38. Da quaesumus, omnipotens Deus; ut, qui in tot adversis ex nostra infirmitate deficimus; intercedente unigeniti Filii tui passione respiremus. (tot-so many; infirmitas-weakness; deficere-faint; respirare-have relief)",
      "explanation": "These are periodic sentences containing ablative absolutes. Notice especially that many of them have the participle placed first, the very pattern seen in lessons 25 and 26. For the sake of practice, use the basic translation of the ablative absolute, for example te protegente as with you protecting, intercedente beato Thoma as with blessed Thomas interceding, and te largiente as with you granting. Once the construction is recognized, you can render it more smoothly in English afterward, but begin with the literal form so that the structure stays clear.",
+     "divisio": {
+      "overview": "An instructional preface on the ablative absolute, then a numbered series of collect prayers each carrying its main petition alongside an ablative absolute.",
+      "parts": [
+       {
+        "label": "Preface on the construction",
+        "detail": "Most explains that many collects place the participle first and asks students to render the ablative absolute literally for practice."
+       },
+       {
+        "label": "Collects 29 to 34",
+        "detail": "Petitions in which an intercessor or divine action stands in the ablative absolute, mostly placed before the main verb."
+       },
+       {
+        "label": "Collects 35 to 38",
+        "detail": "Further prayers, including ones with the absolute split around its participle, asking for protection, defense, and relief."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "communio",
@@ -33613,6 +37681,27 @@ window.COURSE_DATA.courses.push({
      "lead": "A favorite Latin trick: placing the relative clause and its case forms before the spot English would expect them.",
      "original": "There is a very interesting type that is found in many Latin writers. The trick is that they have put a clause with some form of qui, quae, quod ahead of the spot where we would place it in English, e.g., Concede nobis: ut, QUEM in terris amamus, EUM in caelis videamus. If we try to reproduce that effect in the same word order in English, it helps us get the feel of the Latin, though it is poor English: Grant to us: that, WHOM we love on earth, HIM we may see in heaven. In reading the Latin, try to follow in Latin word order, which is not hard once you practise a bit. But in translating into English, it is better to rearrange BY FOLLOWING UP THE qui CLAUSE ACROSS THE SWITCHES: that we may see him in heaven, whom we love on earth. Notice too that Latin can do without such words as EUM in this pattern: Concede nobis: ut, QUEM in terris amamus, in caelis videamus. We can also omit HIM in English, though not so easily. 39. Deus, qui nos annua beatae Caeciliae Virginis et Martyris tuae solemnitate laetificas: da, ut QUAM veneramur officio, [EAM] etiam piae conversationis sequamur exemplo. (annuus, a, um-annual; solemnitas-solemnity; venerari-honor; officio-by our prayer; conversatio-life) 40. Adesto nobis, Domine Deus noster: et, QUOS tuis mysteriis recreasti, perpetuis defende subsidiis. (Adesto nobis-be near us; recreare-restore; perpetuus-perpetual; subsidium-help) 41. Spiritum nobis, Domine, tuae caritatis infunde: ut, QUOS uno pane caelesti satiasti, tua facias pietate concordes. (satiare-satisfy; concors-harmonious) 42. Deus qui in liberandis fidelibus tuis ab impiorum captivitate, beatum Raymundum Confessorem tuum mirabilem effecisti: eius nobis intercessione concede: ut, a peccatorum vinculis absoluti, QUAE tibi sunt placita, liberis mentibus exsequamur. (impius-wicked; absolutus-freed; placitus-pleasing; exsequi-carry out) 43. Deus qui Ecclesiam tuam beati Thomae Confessoris tui mira eruditione clarificas, et sancta operatione foecundas; da nobis, quaesumus: et QUAE docuit intellectu conspicere, et QUAE egit, imitatione complere. (eruditio-learning; clarificare-enlighten; operatio-work; foecundare-make fruitful; intellectu conspicere-see with the mind) 44. Praesta, quaesumus, omnipotens et misericors Deus, ut quod ore contingimus, pura mente capiamus. (ore contingere-receive with our mouth, i.e., Holy Communion) 45. Quaesumus, Domine Deus noster; ut, quos DIVINIS reparare non desinis SACRAMENTIS, TUIS non destituas benignus AUXILIIS. (reparare-restore; desinere, sivit, situs-cease; destituere-desert; benignus-kind) 46. Deus, qui populo tuo aeternae salutis beatum Ambrosium ministrum tribuisti; praesta, quaesumus: ut, quem Doctorem vitae habuimus in terris, intercessorem habere mereamur in caelis. (salutis ministrum-minister of salvation; Doctor vitae-teacher of life; intercessorem habere-have AS an intercessor) 47. Deus, qui beatum Paschalem Confessorem tuum mirifica erga Corporis et Sanguinis tui sacra mysteria dilectione decorasti: concede propitius: ut quam ille ex hoc divino convivio spiritus percepit pinguedinem, eandem et nos percipere mereamur. (mirificus-wonderful; erga-towards; dilectio, one-love; decorare-adorn; quam spiritus pinguedinem-what richness of spirit; convivium-banquet) 48. Quaesumus, omnipotens Deus; ut quos divina tribuis participatione gaudere, HUMANIS non sinas subiacere PERICULIS. (participatio-sharing; gaudere, gavisus est-rejoice; sinere-allow; subiacere-be subject to) Now it is time to see the same pattern in other cases. They too are easy, but will need practice, e.g., Concede: ut, CUIUS merita veneramur, EIUS vitam imitemur. -- Grant: that WHOSE merits we venerate, HIS life we may imitate. Again, in reading in Latin, it is best to follow in the Latin order, but in translating, to rearrange as we have been doing: Grant that we may imitate his life (it is much easier to say: the life of him), whose merits we venerate. Still further, Latin can omit such words as EIUS in this pattern, but, in this case, English cannot: so we must supply them in English. 49. Deus qui Indiarum gentes beati Francisci praedicatione et miraculis Ecclesiae tuae aggregare voluisti; concede propitius: ut, cuius gloriosa merita veneramur, virtutum quoque imitemur exempla. (praedicatio-preaching; aggregare-join to; venerari-honor; imitari-imitate) 50. Deus qui nos hodierna die Exaltationis sanctae Crucis laetificas; praesta, quaesumus: ut, cuius mysterium in terra cognovimus, eius redemptionis praemia in caelo mereamur. (hodierna die-on this day; exaltatio-exaltation) 51. Deus qui hanc sacratissimam noctem veri luminis fecisti illustratione clarescere: da, quaesumus: ut, cuius lucis mysteria in terra cognovimus, eius quoque gaudiis in caelo perfruamur. (sacratus-consecrated; illustratione clar.-shine with brightness; perfrui-enjoy, w. abl.) 52. Deus qui ad evangelizandum pauperibus, et ecclesiastici ordinis decorem promovendum, beatum Vincentium apostolica virtute roborasti: praesta, quaesumus: ut, cuius pia merita veneramur, virtutum quoque instruamur exemplis. (ad evang. paup.-to preach the Gospel to the poor and to promote the beauty of the order of the Church; roborare-strengthen; instruere-instruct) 53. Quaesumus, Domine, salutaribus repleti mysteriis; ut, quorum solemnia celebramus, eorum orationibus adiuvemur. (repletus-filled; celebrare-celebrate) 54. Deus fidelium remunerator animarum, qui hunc diem beati Apollinaris Sacerdotis tui martyrio consecrasti; tribue nobis, quaesumus, famulis tuis: ut, cuius venerandam celebramus festivitatem, precibus eius indulgentiam consequamur. (remunerator-rewarder; martyrium-martyrdom; consecrare-consecrate; venerandus-venerable; indulgentia-pardon) 55. Vota populi tui, quaesumus, Domine, propitius intende; et quorum nos tribuis solemnia celebrare, fac gaudere suffragiis. (votum-prayer; intende-hear; solemnia-solemnity; fac-make!; suffragium-intercession) And now, we can vary this pattern just a trifle, thus: Concede: ut, CUIUS meritis laetificamur, (EIUS) intercessione adiuvemur. -- Grant: that BY WHOSE merits we are gladdened, we may be helped by his intercession. Note that the ablative of meritis causes us to put some such preposition as BY ahead of WHOSE. 56. Quaesumus, Domine, salutaribus repleti mysteriis: ut, CUIUS solemnia celebramus, EIUS orationibus adiuvemur. (salutaris-saving; solemnia-solemnity; celebrare-celebrate; oratio-prayer) 57. Salutaris tui, Domine, munere satiati, supplices exoramus: ut cuius laetamur gustu, renovemur effectu. (salutaris tui-your salvation; satiatus-satisfied; exorare-beg; laetari-be gladdened; gustus-taste; renovare-renew) 58. Omnipotens sempiterne Deus, qui Slavoniae gentes per beatos Confessores tuos atque Pontifices Cyrillum et Methodium ad agnitionem tui nominis venire tribuisti; praesta: ut quorum festivitate gloriamur, eorum consortio copulemur. (Slavonia, a-Slavonia; agnitio-knowledge; festivitas-feast; gloriari-glory; consortium-fellowship; copulare-join) 59. Caelestibus refecti sacramentis et gaudiis, supplices te rogamus, Domine: ut, quorum gloriamur triumphis, protegamur auxiliis. (refectus-refreshed; gaudium-joy; triumphum-triumph) 60. Refecti cibo potuque caelesti, Deus noster, te supplices exoramus: ut, in cuius haec commemoratione percepimus, eius muniamur et precibus. (potus-drink; commemoratio-commemoration; et-also) 61. Deus qui nos annua Apostolorum tuorum Philippi et Iacobi solemnitate laetificas; praesta, quaesumus: ut, quorum gaudemus meritis, instruamur exemplis. (instruere-teach)",
      "explanation": "A very common Latin pattern fronts a relative clause built on qui, quae, quod, placing it ahead of the position English would give it. Thus ut, QUEM in terris amamus, EUM in caelis videamus literally runs that, WHOM we love on earth, HIM we may see in heaven. When reading, follow the Latin order, which becomes easy with practice; when translating, rearrange by tracing the qui clause across the switches, giving that we may see him in heaven, whom we love on earth. Latin often omits the antecedent word such as EUM, and English can sometimes drop the matching him as well. The same fronting appears in other cases, such as the genitive cuius merita veneramur, EIUS vitam imitemur, whose merits we venerate, his life we may imitate, and the ablative cuius meritis laetificamur, by whose merits we are gladdened.",
+     "divisio": {
+      "overview": "A model of the fronted relative clause, then three blocks of collects grouped by the case of the fronted relative pronoun.",
+      "parts": [
+       {
+        "label": "The model and reading rule",
+        "detail": "Most shows quem... eum in word order and advises following the Latin order while reading, rearranging only when translating."
+       },
+       {
+        "label": "Accusative relatives, collects 39 to 48",
+        "detail": "Prayers fronting quem, quos, quae in the accusative, often with the demonstrative antecedent omitted."
+       },
+       {
+        "label": "Genitive relatives, collects 49 to 55",
+        "detail": "Prayers fronting cuius and quorum, venerating merits and mysteries before naming the reward."
+       },
+       {
+        "label": "Ablative variation, collects 56 to 61",
+        "detail": "Prayers where cuius and quorum carry an ablative force, prompting an English by before whose."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "annuus, a, um",
@@ -33824,6 +37913,23 @@ window.COURSE_DATA.courses.push({
      "lead": "More of the same periodic sentence patterns as in lesson 37, but now featuring the dative.",
      "original": "Now let us try a few of the same patterns as those in lesson 37, but these will have the dative. 62. Deprecationem nostram, quaesumus, Domine, benignus exaudi; et QUIBUS supplicandi praestas affectum, [ EIS ] tribue defensionis auxilium. (deprecatio-prayer; supplicandi affectus-desire of praying; defensio-defense) 63. Deus qui Apostolis tuis Sanctum dedisti Spiritum; concede plebi tuae piae petitionis effectum: ut, quibus dedisti fidem, largiaris et pacem. (petitio-petition; largiri,4-give abundantly or freely) 64. Adesto supplicationibus nostris, omnipotens Deus, et, quibus fiduciam sperandae pietatis indulges, consuetae misericordiae tribue benignus effectum. (Adesto suppl.-hear our prayers; fiduciam sper piet. indul.-you give confidence to hope in your devotedness; consuetus-accustomed) 65. Suscipe munera, Domine, quaesumus, exultantis Ecclesiae; et, cui causam tanti gaudii praestitisti, perpetuae fructum concede laetitiae. (exultare-exult; perpetuus-perpetual)",
      "explanation": "These prayers continue the periodic sentence patterns of lesson 37, but here the relative pronoun stands in the dative. When the antecedent of QUIBUS or CUI is left unexpressed, supply the matching demonstrative (EIS, EI) in your mind: \"to those to whom...\" The dative marks the person to whom God grants, gives, or shows favor, so render it with TO or FOR.",
+     "divisio": {
+      "overview": "A short note that these repeat lesson 37's patterns in the dative, followed by four collects built on the dative relative.",
+      "parts": [
+       {
+        "label": "Orienting note",
+        "detail": "Most tells students the same periodic patterns now appear with the relative pronoun in the dative."
+       },
+       {
+        "label": "Collects 62 to 64, quibus in the dative",
+        "detail": "Three prayers fronting plural quibus, asking that to those to whom God gives one gift He grant a further one."
+       },
+       {
+        "label": "Collect 65, cui in the dative",
+        "detail": "A prayer fronting singular cui, marking the Church to whom God has given the cause of so great a joy."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "deprecatio",
@@ -33940,6 +38046,23 @@ window.COURSE_DATA.courses.push({
      "lead": "An assortment of the same periodic patterns, with a few slightly different ones added in.",
      "original": "And now that we are fairly well used to the various patterns, let us take an assortment of the same patterns, and also, add just a few that are slightly different. 66. Deus qui nos annua beatorum Martyrum tuorum Marcellini, Petri atque Erasmi solemnitate laetificas; praesta, quaesumus: ut, quorum gaudemus meritis, accendamur exemplis. (accendere-enkindle, arouse) 67. Deus qui beatum Petrum Chrysologum, Doctorem egregium, divinitus praemonstratum, ad regendam et instruendam Ecclesiam tuam eligi voluisti; praesta, quaesumus: ut, quem Doctorem vitae habuimus in terris, intercessorem habere mereamur in caelis. (divinitus praem.-divinely pointed out; Petrum... eligi voluisti; Doctorem vitae-as a teacher of life) 68. Esto, Domine, propitius plebi tuae; et, quam tibi facis esse devotam, BENIGNO refove miseratus AUXILIO. (Esto-be; devotus-devoted; refovere-restore; miseratus-taking pity) 69. Esto, quaesumus, Domine, propitius plebi tuae; ut, quae tibi non placent respuentes, tuorum potius repleantur delectationibus mandatorum. (respuere-reject; potius-rather; replere-fill; delectatio-delight; mandatum-command) 70. Deus, qui beatum Philippum Confessorem tuum Sanctorum tuorum gloria sublimasti; concede propitius: ut, cuius solemnitate laetamur, eius virtutum proficiamus exemplo. (sublimare-exalt; laetari-be glad; proficere-profit) 71. Deus qui, miro ordine, Angelorum ministeria hominumque dispensas, concede propitius: ut, a quibus tibi ministrantibus in caelo semper assistitur, ab his in terra vita nostra muniatur. (miro ordine-in wonderful order; ministerium-ministry; dispensare-regulate; ministrans-servant; assistitur: impersonal use-service is given) 72. Adesto, quaesumus, Domine, supplicationibus nostris; ut esse, te largiente, mereamur, et inter prospera humiles, et inter adversa securi. (adesto-be present to, hear; supplicatio-prayer; prospera, adversa-prosperity, adversity; securus-safe) 73. Deus cuius Unigenitus per vitam, mortem et resurrectionem suam nobis salutis aeternae praemia comparavit; concede, quaesumus: ut, haec mysteria sacratissimo beatae Mariae Virginis Rosario recolentes, et imitemur quod continent, et quod promittunt, assequamur. (salus aeterna-eternal salvation; comparare-obtain; Rosarium-Rosary; recolere-recall; imitari-imitate; continere-contain; assequi-attain) 74. Praesenti sacrificio nomini tuo, nos, Domine, ieiunia dicata sanctificent; ut, [id] quod observantia nostra profitetur exterius, interius operetur effectu. (praesenti sacrificio-by the present sacrifice; ieiunium-fast; dicatus-dedicated; observantia-observance; profiteri-profess; exterius, interius-outwardly, inwardly; operari-bring about) 75. Respice, quaesumus, Domine, ad ineffabilem Cordis dilecti Filii tui caritatem; ut quod offerimus, sit tibi munus acceptum, et nostrorum expiatio delictorum. (ineffabilis-inexpressible; dilectus-beloved; acceptus-acceptable; expiatio-expiation; delictum-sin) 76. Familiam tuam, quaesumus, Domine, continua pietate custodi; ut quae in sola spe gratiae caelestis innititur, tua semper protectione muniatur. (continuus-constant; inniti-depend on) 77. Refecti cibo potuque caelesti, Deus noster, te supplices deprecamur: ut, in cuius haec commemoratione percepimus, eius muniamur et precibus. (refectus-refreshed; potus-drink; deprecari-beg) 78. Adesto nobis, Domine Deus noster: et quos sanctae Crucis laetari facis honore, eius quoque perpetuis defende subsidiis. (adesto-be near to) 79. Excita, quaesumus, Domine, in Ecclesia tua Spiritum, quo repletus beatus Iosephat Martyr et Pontifex tuus animam suam pro ovibus posuit; ut, eo intercedente, nos quoque eodem Spiritu moti ac roborati, animam nostram pro fratribus ponere non vereamur. (excitare-arouse; replere-fill; animam ponere-lay down life; oves-sheep; roborare-strengthen; vereri-fear) 80. Supplices te rogamus, omnipotens Deus: ut, QUOS tuis reficis sacramentis, intercedente beato Barnaba apostolo tuo, tibi etiam placitis moribus dignanter tribuas deservire. (reficiunt-restore; placitis moribus-pleasing morals; dignanter-graciously; deservire-serve, w. dat.) 81. Deus qui nos sanctorum Martyrum tuorum Faustini et Jovitae solemnitate laetificas; concede propitius: ut, quorum gaudemus meritis, accendamur exemplis. 82. Deus, qui omnipotentiam tuam parcendo maxime et miserando manifestas; multiplica super nos misericordiam tuam: ut, ad tua promissa currentes, caelestium bonorum facias esse consortes. (omnipotentia-omnipotence; parcendo-by sparing; miserari-be merciful; manifestare-show; multiplicare-multiply; promissa-promises; consors-sharer) 83. Praesta, quaesumus, omnipotens Deus, ut quos ieiunia votiva castigant, ipsa quoque devotio sancta laetificet; ut, terrenis affectibus mitigatis, facilius caelestia capiamus. (ieiunium-fast; votivus-prayerful; castigare-chasten; terrenus-earthly; affectus-love; mitigare-lessen) 84. Quaesumus, omnipotens Deus, ut illius salutaris capiamus effectum, cuius per haec mysteria pignus accepimus. (illius salutaris effectus-accomplishment of salvation; pignus, ore, magnum-pledge) 85. Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et Iesum vocari iussisti; concede propitius: ut, cuius sanctum nomen veneramur in terris, eius quoque aspectu perfruamur in caelis. (Salvator-Savior; aspectus-sight; perfrui-enjoy, w. abl.) 86. Quos tantis, Domine, largiris uti mysteriis; quaesumus: ut effectibus nos eorum veraciter aptare digneris. (uti-use, enjoy, w. abl.; effectus-effect; veraciter-truly; aptare-make fit for, w. dat.; digneris-may you deign) 87. Suscipe, quaesumus, Domine, preces populi tui cum oblationibus hostiarum; et, tua mysteria celebrantes, ab omnibus nos defende periculis. (oblatio-offering; hostia-sacrifice) 88. Deus, qui beatum Norbertum, Confessorem tuum atque Pontificem, verbi tui praeconem eximium effecisti, et per eum Ecclesiam tuam nova prole foecundasti; praesta, quaesumus: ut, eiusdem suffragantibus meritis, QUOD ore simul et opere docuit, te adiuvante, exercere valeamus. (praeco-herald; eximius-excellent; proles-offspring; foecundare-make fertile; suffragare-aid; simul-at same time; exercere-practice; valere-be able) 89. Deus, qui ad animarum salutem, beatum Franciscum Confessorem tuum atque Pontificem omnibus omnia factum esse voluisti; concede propitius: ut, caritatis tuae dulcedine perfusi, eius dirigentibus monitis ac suffragantibus meritis, aeterna gaudia consequamur. (ad-for; salus-salvation; omnibus omnia-all things to all men; dulcedo-sweetness; perfusus-filled with; dirigere-direct; monitum-advice; suffragare-help) 90. Vota populi tui, Domine, propitiatus intende; et, cuius nos tribuis solemnia celebrare, fac gaudere suffragiis. (vota-prayers; intende-hear; suffragium-intercession) 91. Concede, quaesumus, omnipotens Deus: ut, qui protectionis tuae gratiam quaerimus, liberati a malis omnibus, secura tibi mente serviamus. 92. Deus, qui in Filii tui humilitate, iacentem mundum erexisti; fidelibus tuis perpetuam concede laetitiam; ut quos perpetuae mortis eripuisti casibus, gaudiis facias perfrui sempiternis. (humilitas-lowliness; iacens-prostrate; erigere, rexit, rectus-lift up, exalt; eripiunt, ere, ripuit, reptus-snatch from, deliver; casus-fall, ruin) 93. Populum tuum, quaesumus Domine, propitius respice; et, quos ab escis carnalibus praecipis abstinere, a noxiis quoque vitiis cessare concede. (respice-look favorably on; esca carnalis-meat; abstinere-keep from; noxius-harmful; vitium-vice, fault; cessare-keep from) 94. Deus qui beatum Thomam Pontificem insignia in pauperes misericordiae virtute decorasti: quaesumus: ut, eius intercessione, in omnes, qui te deprecantur, divitias misericordiae tuae benignus effundas. (insignia-outstanding; decorare-adorn; deprecari-beg; effundere-pour forth) 95. Deus, qui novum per beatam Angelam sacrarum Virginum collegium in Ecclesia tua florescere voluisti; da nobis: eius intercessione, angelicis moribus vivere; ut, terrenis omnibus abdicatis, gaudiis perfrui mereamur aeternis. (collegium-order; florescere-flower; angelicus-angelic; terrenus-earthly; abdicare-resign) 96. Da nobis, quaesumus, omnipotens Deus, ut, qui infirmitatis nostrae conscii de tua virtute confidimus, sub tua semper pietate gaudeamus. (infirmitas-weakness; conscius-aware of) 97. Protector noster aspice, Deus, ut, qui malorum nostrorum pondere premimur, percepta misericordia, libera tibi mente famulemur. (aspice-look on us; pondus, ere-weight; perceptus-having been received; famulari-serve) 98. Deus qui Ecclesiam tuam semper gentium vocatione multiplicas; concede propitius: ut, quos aqua baptismatis abluis, continua protectione tuearis. (vocatio-call; multiplicare-multiply; baptisma-baptism; abluere-wash; tuearis-may you guard) 99. Praesta, quaesumus, omnipotens Deus: ut natus hodie Salvator mundi, sicut divinae nobis generationis est auctor, ita et immortalitatis sit ipse largitor. (generatio-birth; auctor-author; largitor-giver) 100. Spiritum nobis, Domine, tuae caritatis infunde; ut, quos sacramentis paschalibus satiasti, tua facias pietate concordes. (paschalis-paschal; satiare-satisfy; concors-harmonious)",
      "explanation": "Now that the periodic patterns are familiar, this set mixes them freely and slips in a few new turns. Watch for the relative pronoun in every case: QUORUM and CUIUS take the genitive (\"by whose merits,\" \"in whose solemnity\"), QUOS and QUEM the accusative, and a few verbs govern special cases (deservire and aptare with the dative, perfrui and uti with the ablative). When the antecedent is left out, supply the matching demonstrative such as EOS or EIS in thought.",
+     "divisio": {
+      "overview": "A short preface, then one long unsorted assortment of collects 66 to 100 that deliberately mixes all the familiar relative patterns rather than grouping them by case.",
+      "parts": [
+       {
+        "label": "Preface promising variety",
+        "detail": "Most says the patterns are now familiar and will be mixed together, with a few slightly different ones added."
+       },
+       {
+        "label": "The mixed body of collects",
+        "detail": "Collects 66 to 100 recycle quorum, cuius, quos, and quem in no fixed order, the established frontings reappearing throughout."
+       },
+       {
+        "label": "Scattered new turns",
+        "detail": "Interspersed among them, not set apart, are the few different cases: deservire and aptare with the dative, perfrui and uti with the ablative."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "accendere",
@@ -34183,6 +38306,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Today we begin to read a very practical and interesting work of St. Cyprian of Carthage, a courageous Bishop of the third century who died rather than worship idols as the Emperors Decius and Valerian commanded. It will take us a little while to get used to his style, for he writes a style that is somewhat different from that which we have been reading. In addition, he, like most ancient writers, uses his most elaborate language in the first few paragraphs. But it becomes notably easier after just a few paragraphs.",
      "original": "Locus et annus nativitatis huius sancti non sunt noti nobis. Nihilominus, clarum est eum natum esse in Africa septentrionali, probabiliter in magna urbe, Carthagine, quae in antiquis temporibus contra Romam pugnaverat. Forsan natus est fere anno ducentesimo decimo post Christum. Sanctus Hieronymus (in libro suo De Viris Illustribus 67) dicit Cyprianum, antequam factus est Christianus rhetoricam docuisse gloriose, et conversum esse ad Christum a sacerdote qui nominatus est Caecilius. Christianus effectus, Cyprianus magnam partem bonorum suorum vendidit, et pauperibus dedit. Haec facta sunt probabiliter fere anno ducentesimo quadragesimo quinto. Sacerdos factus est biennio post ac deinde, fere anno ducentesimo quadragesimo nono, episcopus Carthaginiensis consecratus est. Sed mense Ianuario anni ducentesimi quinquagesimi, orta est persecutio ecclesiae, sub Decio imperatore Romano. Cyprianus, cogitans futurum esse ut interficeretur si in sua urbe remansisset, fugit et abscondit se. Ex loco secreto curam egit populi sui per epistolas. Ibi remansit usque ad Pascha anni ducentesimi quinquagesimi primi. In hac persecutione, multi Christiani fidem negaverunt, vel saltem per munera libellos emerunt, in quibus scriptum est eos idolis sacrificasse, quamquam id revera non fecerant. Quaestio ergo magna erat quid fieri deberet de his Christianis lapsis. De hac re scripsit Cyprianus in opere suo De Lapsis. Voluit admittere lapsos in ecclesiam, sed non sine gravibus operibus poenitentiae, nisi litteras speciales ab aliquo martyre accepissent. Imperator Romanus Decius mortuus est anno 251. Etiam ante mortem eius, plaga magna imperium Romanum coepit vastare. Multi homines mortui sunt in hac plaga. Cyprianus ad populum scripsit opus De Mortalitate, ut scirent quomodo sentire deberent in hac angustia. Sed alia orta est persecutio sub Imperatore Romano Valeriano. Die trigesimo Augusti, anno 257, Cyprianus apprehensus est, et in exsilium missus est. Proximo anno, die decimo tertio Septembris, Cyprianus iterum comprehensus est, et sequenti die, decollatus est. Non solum De Lapsis et De Mortalitate scripsit Cyprianus -- etiam de multis aliis rebus opera eius habemus, praesertim De Catholicae Ecclesiae Unitate, De Bono Patientiae, De Opere et Eleemosynis. Etiam multas scripsit epistolas, e quibus quinquaginta novem habemus quae certe a Cypriano scripta sunt. Sed nunc volumus legere opus eius De Oratione Dominica. Hoc opus scripsit Cyprianus fere anno 251. Inter optima opera eius est -- immo vero, inter optima commentaria omnium temporum in hanc orationem est. Sanctus Hilarius, in commentario suo de Evangelio secundum Matthaeum, nihil scripsit de oratione Dominica, dicens: \"De orationis autem sacramento necessitate nos commentandi Cyprianus, vir sanctae memoriae, liberavit.\"",
      "explanation": "As a special extra help, short Latin summaries of the thought are given in square brackets at the start of each paragraph. To make it easier to get started, notice two features of Cyprian's style that are a bit new to us. First, Dominus praedixerat horam venire, the Lord had predicted that the hour would come; what is new is just the present, venire, where we might have expected the future, venturum, but this is merely a feature of conversational Latin style. Second, Ille qui fecit nos vivere, docuit et orare, He who made us live also taught us to pray; so the trick is simple, anytime there is an et that will not fit in as and (or both and), it is the same as etiam, even or also. Cyprian also likes patterns we have seen since lesson 25, particularly the present participle standing for a relative clause, e.g., credentium, of those who believe.",
+     "divisio": {
+      "overview": "A chronological life of Cyprian moving from birth through his martyrdom, closing with a survey of his writings and an introduction to On the Lord's Prayer.",
+      "parts": [
+       {
+        "label": "Origins and conversion",
+        "detail": "His uncertain birth in North Africa, his career teaching rhetoric, and his conversion and sale of his goods."
+       },
+       {
+        "label": "Bishop and the Decian persecution",
+        "detail": "His ordination and consecration as bishop, his flight into hiding, and the question of the lapsed treated in De Lapsis."
+       },
+       {
+        "label": "Plague and martyrdom",
+        "detail": "Decius's death, the plague that prompted De Mortalitate, and his arrest, exile, and beheading under Valerian."
+       },
+       {
+        "label": "His writings and this work",
+        "detail": "A list of his treatises and letters, leading to De Oratione Dominica and Hilary's tribute to it."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Hieronymus",
@@ -34324,6 +38468,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Now we begin Cyprian's own text. Short Latin summaries of the thought are given in square brackets at the start of each paragraph to help us get started.",
      "original": "[1. Praecepta Evangelii faciunt multa pro nobis: docent nos res divinas, ponunt fundamentum in quo spes aedificetur, faciunt fidem firmam, et alia bona faciunt. Docent mentes nostras in hac terra: et ducunt nos ad regna coelorum. In temporibus antiquis, Deus locutus est per prophetas; sed nunc loquitur per Filium ipsum. Filius aperit viam nobis, ut nos (qui caeci fuimus, et erravimus in tenebris mortis) habeamus lucem gratiae, et sic sequamur iter vitae, Domino duce.]\n\n1. Evangelica praecepta, fratres dilectissimi, nihil sunt aliud quam magisteria divina, fundamenta aedificandae spei, firmamenta corroborandae fidei, nutrimenta fovendi cordis, gubernacula dirigendi itineris, praesidia obtinendae salutis. Quae dum docibiles credentium mentes in terris instruunt, ad coelestia regna perducunt. Multa et per prophetas, servos suos, dici Deus voluit et audiri. Sed quanto maiora sunt quae illis loquitur, quae Dei sermo, qui in prophetis fuit, propria voce testatur, non iam mandans ut paretur venienti via, sed ipse veniens, et viam nobis aperiens et ostendens: ut qui, in tenebris mortis errantes, improvidi et caeci prius fuimus, luce gratiae luminati, iter vitae, duce et rectore Domino, teneremus.\n\n[2. Inter alia, Deus qui fecit nos, etiam docuit nos orare. Hoc modo, loquentes ad Patrem oratione quam Filius docuit, facilius audiemur.]\n\n2. Qui, inter caetera salutaria sua monita et praecepta divina, quibus populo suo consulit ad salutem, etiam orandi ipse formam dedit. Ipse quid precaremur monuit et instruxit. Qui fecit vivere, docuit et orare, benignitate ea scilicet qua et caetera dare et conferre dignatus est, ut, dum prece et oratione quam Filius docuit apud Patrem loquimur, facilius audiamur. Iam praedixerat horam venire quando veri adoratores adorarent Patrem in spiritu et veritate, et implevit quod ante promisit: ut, qui spiritum et veritatem de eius sanctificatione percepimus, de traditione quoque eius vere et spiritualiter adoremus. Quae enim potest esse magis spiritalis oratio, quam [ea] quae a Christo nobis data est, a quo nobis et Spiritus sanctus missus est? Quae vera magis apud Patrem precatio, quam quae a Filio, qui est veritas, de eius ore prolata est? Ut aliter orare quam docuit non ignorantia sola sit, sed et culpa, quando ipse posuerit et dixerit: \"Reicitis mandatum Dei, ut traditionem vestram statuatis.\"\n\n[3. Ergo, oremus hoc modo quo Deus docuit nos. Filius eius promisit: \"Si quid petieritis a Patre in nomine meo, dabit vobis.\" -- Nonne optime obtinebimus, si loquimur in verbis Filii ipsius!]\n\n3. Oremus itaque, fratres dilectissimi, sicut magister Deus docuit. Amica et familiaris oratio est, Deum de suo rogare, ad aures eius ascendere Christi oratione. Agnoscat Pater Filii sui verba, cum precem facimus. Qui habitat intus in pectore, ipse sit et in voce. Et cum ipsum habeamus apud Patrem advocatum pro peccatis nostris, quando peccatores pro delictis nostris petimus, advocati nostri verba promamus. Nam cum dicat, quia quodcumque petierimus a Patre in nomine eius, dabit nobis, quanto efficacius impetramus quod petimus in Christo nomine, si petamus ipsius oratione?",
      "explanation": "For some time we have been reading sentences beginning with some form of qui, and have not found them at all hard. There are two quite different types. In one of these, the qui stands for some such pattern as Et ille; the first sentence of paragraph 2 above is one of these, Qui etiam orandi ipse formam dedit, that is, Et ille (Filius) etiam orandi formam dedit. This first type may be a whole sentence all by itself; it is not necessary to have another clause. In the second kind, the qui stands for some such pattern as Ille qui, nos qui, vos qui; the second sentence of paragraph 2 has this form, Qui fecit vivere, docuit et orare, that is, Ille qui fecit nos vivere, etiam docuit nos orare. This second type cannot stand as a sentence by itself; at least one more clause is needed.",
+     "divisio": {
+      "overview": "Three numbered opening paragraphs, each prefaced by a bracketed Latin summary, building from the value of the Gospel precepts to the duty of praying in the Son's own words.",
+      "parts": [
+       {
+        "label": "Paragraph 1, the Gospel precepts",
+        "detail": "The commands are divine teachings and foundations that lead to heaven, now spoken by the Son who opens the way."
+       },
+       {
+        "label": "Paragraph 2, God taught us to pray",
+        "detail": "The God who made us live also gave the form of prayer, so we are heard more easily speaking the Son's words."
+       },
+       {
+        "label": "Paragraph 3, pray as the Master taught",
+        "detail": "Since Christ is our advocate, we should bring forward his words, praying more effectively in his own prayer."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Evangelicus",
@@ -34540,6 +38701,27 @@ window.COURSE_DATA.courses.push({
      "lead": "We continue Cyprian's teaching on prayer: God is everywhere present and hears the heart, so we should pray modestly and in secret, as Anna did.",
      "original": "Sit autem orantibus sermo et precatio cum disciplina, quietem continens et pudorem. Cogitemus nos sub conspectu Dei stare. Placendum est divinis oculis et habitu corporis et modo vocis. Nam, ut impudentis est clamoribus strepere, ita contra, congruit verecundo modestis precibus orare. Denique magisterio suo Dominus secreto orare nos praecepit, in abditis et semotis locis, in cubiculis ipsis, quod magis convenit fidei: ut sciamus Deum ubique esse praesentem, audire omnes et videre, et maiestatis suae plenitudine in abdita quoque et occulta penetrare, sicut scriptum est: \"Ego Deus approximans, et non Deus de longinquo. Si absconditus fuerit homo in absconditis, ego ergo non videbo eum? Nonne coelum et terram ego impleo?\" Et iterum: \"In omni loco oculi Dei speculantur bonos et malos.\" Et quando unum cum fratribus convenimus, et sacrificia divina cum Dei sacerdote celebramus, verecundiae et disciplinae memores esse debemus, non passim ventilare preces nostras inconditis vocibus, nec petitionem, commendandam modeste, Deo tumultuosa loquacitate iactare. Quia Deus non vocis, sed cordis auditor est. Nec admonendus est clamoribus, qui cogitationes videt, probante Domino et dicente: \"Quid cogitatis nequam in cordibus vestris?\" Et alio loco: \"Et scient omnes ecclesiae, quia ego sum scrutator renis et cordis.\" Quod Anna in primo regnorum libro, Ecclesiae typum portans, custodit et servat: quae Deum non clamosa petitione, sed tacite et modeste intra ipsas pectoris latebras precabatur. Loquebatur prece occulta, sed manifesta fide. Loquebatur, non voce, sed corde, quia sic Deum sciebat audire: et impetravit efficaciter quod petiit, quia fideliter postulavit. Declarat Scriptura divina quae dicit: \"Loquebatur in corde suo, et labia eius movebantur, et vox eius non audiebatur, et exaudivit eam Dominus.\" Item legimus in psalmis: \"Dicite in cordibus vestris et in cubilibus vestris conpungimini.\" Per Hieremiam quoque haec eadem Spiritus sanctus suggerit et docet dicens: \"In sensu autem tibi debet adorari Deus.\"",
      "explanation": "Today let us practice on the type of qui that is equivalent to ille qui (the man who, he who). As we have mentioned, we can tell the two kinds apart since in this kind the qui clause cannot be the whole sentence by itself: it needs another clause. But the general sense helps very much too. So, let us change the qui to a suitable expanded Latin form and then translate. Sample: Qui fecit haec, malus erat becomes Ille qui fecit haec, malus erat. Of course, other cases of the relative can be used too: the relative may change case while the ille remains nominative, as in Quem rex amat, dona accipiet, which becomes Ille quem rex amat, dona accipiet.",
+     "divisio": {
+      "overview": "A teaching on the manner of prayer that moves from a rule of quiet modesty, through Scripture proofs that God hears the heart, to Anna as the model of silent prayer.",
+      "parts": [
+       {
+        "label": "Rule of quiet, modest prayer",
+        "detail": "Prayer should be disciplined and reserved, made in secret, since God is everywhere present and hears all."
+       },
+       {
+        "label": "Proof that God hears the heart",
+        "detail": "Scriptural sayings show God as searcher of hearts who needs no shouting, even in common worship."
+       },
+       {
+        "label": "Anna's silent example",
+        "detail": "Anna prayed within her breast, with voice unheard but faith manifest, and obtained what she asked."
+       },
+       {
+        "label": "Closing Scripture confirmations",
+        "detail": "Psalm and Jeremiah verses seal the point that God is to be adored in the heart and mind."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "disciplina",
@@ -34793,6 +38975,27 @@ window.COURSE_DATA.courses.push({
      "lead": "The one who prays should not trust in himself like the Pharisee, but should be humble like the publican; then we learn the words of the prayer the Lord himself gave us.",
      "original": "Adorans autem, fratres dilectissimi, nec illud ignoret, quemadmodum in templo cum pharisaeo publicanus oraverit, non allevatis in coelum impudenter oculis, nec manibus insolenter erectis, sed pectus suum pulsans, et peccata intus inclusa contestans, divinae misericordiae implorabat auxilium. Et cum sibi pharisaeus placeret, sanctificari hic magis meruit qui sic rogavit, qui spem salutis non in fiducia innocentiae suae posuit; cum innocens nemo sit, sed peccata confessus humiliter oravit; et exaudivit orantem qui humilibus ignoscit. Quae Dominus in evangelio suo ponit et dicit: \"Homines duo ascenderunt in templum orare, unus pharisaeus et unus publicanus. Pharisaeus cum stetisset, talia apud se precabatur: Deus, gratias tibi ago, quia non sum sicut caeteri homines: iniusti, raptores, adulteri, quomodo et publicanus iste. Ieiuno bis in sabbato, decimas do omnium quaecumque possideo. Publicanus autem de longinquo stabat, et neque oculos suos levabat ad coelum, sed percutiebat pectus suum dicens: Deus, propitius esto mihi peccatori. Dico vobis, descendit hic iustificatus in domum suam magis quam ille pharisaeus. Quia omnis qui se extollit humiliabitur, et qui se humiliat exaltabitur.\" Quae nos, fratres dilectissimi, de divina lectione discentes, postquam cognovimus ad orationem qualiter accedere debeamus, cognoscamus, docente Domino, et quid oremus. \"Sic, inquit, orate: Pater noster, qui es in coelis, sanctificetur nomen tuum, adveniat regnum tuum, fiat voluntas tua in coelo et in terra, panem nostrum cottidianum da nobis hodie, et dimitte nobis debita nostra sicut et nos remittimus debitoribus nostris, et ne patiaris nos induci in temptationem, sed libera nos a malo. Amen.\"",
      "explanation": "Now let us try some examples in which we use, not ille, but some other pronoun such as ego or nos. The general sense tells us which to use. But we can also notice that where the qui is nominative (which is most common) we simply look at the verb that goes with qui: if it has a first person subject understood, we supply nos. Sample: Qui Deum amamus, debemus orare becomes Nos qui Deum amamus, debemus orare. There are also examples where the parts of the expanded form are in cases other than the nominative, but since these are not very frequent we need not practice them today. These two special uses of qui can come not only at the very start of a sentence: sometimes they come inside a sentence, especially after a break in the thought.",
+     "divisio": {
+      "overview": "A lesson on humble prayer drawn from the Pharisee and publican, the Gospel parable quoted in full, then a transition into the words of the Lord's Prayer.",
+      "parts": [
+       {
+        "label": "The humble publican commended",
+        "detail": "Cyprian recalls the publican beating his breast, justified above the self-satisfied Pharisee."
+       },
+       {
+        "label": "The Gospel parable quoted",
+        "detail": "The full text of Luke's parable, ending that the self-exalting are humbled and the humble exalted."
+       },
+       {
+        "label": "Transition to what we pray",
+        "detail": "Having learned how to approach prayer, the hearers turn to learn what to pray."
+       },
+       {
+        "label": "The Our Father",
+        "detail": "The text of the Lord's Prayer set out in the Lord's own words."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "quemadmodum",
@@ -34980,6 +39183,19 @@ window.COURSE_DATA.courses.push({
      "lead": "St. Cyprian explains why Christ taught us to pray 'Pater noster' rather than 'Pater meus,' and what it means that the Lord's Prayer makes us sons of God.",
      "original": "Lectio Quadragesima Prima. De specialibus demonstrativis.\n\n[8. Christus, doctor pacis, non vult homines orare solummodo pro seipsis. Ergo non dicimus, \"Pater meus,\" sed \"Pater noster.\" Omnes enim unum sumus. Sic oraverunt tres amici Danielis in camino (furnace) ignis. Sic Apostoli et Maria, Mater Iesu, oraverunt: et Deus orationem eorum exaudivit.]\n\n8. Ante omnia pacis doctor atque unitatis magister singillatim noluit et privatim precem fieri, ut quis cum precatur, non pro se tantum precetur. Non enim dicimus: \"Pater meus qui es in coelis,\" nec: \"Panem meum da mihi hodie\": nec dimitti sibi tantum unus quisque debitum postulat, aut, ut in temptationem non inducatur, atque a malo liberetur, pro se solo rogat. Publica est nobis et communis oratio, et quando oramus, non pro uno sed pro populo oramus, quia totus populus unum sumus. Deus pacis et concordiae magister, qui docuit unitatem, sic orare unum pro omnibus voluit, quomodo in uno omnes ipse portavit. Hanc orationis legem servaverunt tres pueri in camino ignis inclusi, consonantes in prece, et spiritus consensione concordes. Declarat scripturae divinae fides, et dum docet quomodo oraverint tales, dat exemplum quod imitari in precibus debeamus, ut tales esse possimus. \"Tunc,\" inquit, \"illi tres tamquam ex uno hymnum canebant et benedicebant Dominum.\" Loquebantur quasi ex uno ore, et nondum illos Christus docuerat orare. Et idcirco orantibus fuit impetrabilis et efficax sermo, quia promerebatur Dominum pacifica et simplex et spiritalis oratio. Sic et apostolos cum discipulis post ascensum Domini invenimus orasse. \"Erant,\" inquit, \"perseverantes omnes unanimes in oratione cum mulieribus et Maria, quae fuerat mater Iesu, et fratribus eius.\" Perseverabant in oratione unanimes, orationis suae et instantiam simul et concordiam declarantes; quia Deus, qui inhabitare facit unanimes in domo, non admittit in divinam et aeternam domum nisi apud quos est unanimis oratio.\n\n[9. Sacramenta orationis dominicae sunt magna: haec oratio continet omnia quae necessaria sunt. Nam homo qui renatus est per baptismum, vocat Deum ipsum \"Pater.\" Christus enim dedit nobis hanc potestatem, ut filii Dei simus.]\n\n9. Qualia autem sunt, fratres dilectissimi, orationis dominicae sacramenta! quam multa! breviter in sermone collecta, sed in virtute spiritualiter copiosa, ut nihil omnino praetermissum sit, quod non in precibus atque orationibus nostris coelestis doctrinae compendio comprehendatur! \"Sic,\" ait, \"orate: pater noster qui es in coelis.\" Homo novus, renatus, et Deo suo per eius gratiam restitutus, \"Pater\" primo in loco dicit, quia filius esse iam coepit. \"In sua,\" inquit, \"propria venit, et sui eum non receperunt. Quotquot autem eum receperunt, dedit illis potestatem ut filii Dei fierent, qui credunt in nomine eius.\" Qui ergo credidit in nomine eius, et factus est Dei filius, hinc debet incipere, ut et gratias agat, et profiteatur se Dei filium. Dum nominat patrem sibi esse in coelis Deum, contestatur quoque, inter prima statim nativitatis suae verba, renuntiasse se terreno et carnali patri, et patrem solum nosse se et habere coepisse qui sit in coelis, sicut scriptum est: \"Qui dicunt patri et matri, 'non novi te,' et filios suos non agnoverunt, hi custodierunt praecepta tua, et testamentum tuum servaverunt.\" Item Dominus in evangelio suo praecepit, ne vocemus nobis patrem in terra, quod sit scilicet nobis unus pater qui est in coelis. Et discipulo qui mentionem defuncti patris fecerat respondit: \"Sine: mortui mortuos suos sepeliant.\" Dixerat enim patrem suum mortuum, cum sit credentium pater solus.",
      "explanation": "Many writers, including St. Cyprian, often use a sort of pointer system to put emphasis on a certain clause. Before they come to the clause, they place a word that points ahead to it, to focus attention on it. Paragraph 9 has one sample: Qui factus est Dei filius, hinc debet incipere, ut gratias agat (He who has become a son of God should begin with this, namely that he gives thanks). Many words can serve as pointers, for example any form of hic, or words like propterea or idcirco, which can point ahead to a quod or ut clause. Sometimes one of these words points ahead to an infinitive or objective-infinitive clause, for example Hoc dicit, nos debere amare Deum.",
+     "divisio": {
+      "overview": "Two numbered paragraphs, each with a bracketed summary, arguing that prayer is communal because Christ taught us to say Our Father.",
+      "parts": [
+       {
+        "label": "Paragraph 8, prayer is common",
+        "detail": "Christ forbade private prayer, so we pray as one for all, like the three youths in the furnace and the apostles with Mary."
+       },
+       {
+        "label": "Paragraph 9, the word Father",
+        "detail": "The reborn man says Father first, claiming the power Christ gave to become sons of God and renouncing the earthly father."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "doctor",
@@ -35189,6 +39405,19 @@ window.COURSE_DATA.courses.push({
      "lead": "Cyprian continues: the word 'Father' rebukes the unbelieving, and God's indulgence in letting us call Him Father means we must live as His sons.",
      "original": "[10. Deus est Pater eorum qui credunt et qui per novam nativitatem (in Baptismo) coeperunt esse filii Dei. Illi qui non credunt, non possunt Deum vocare Patrem hoc modo.]\n\n10. Nec hoc solum, fratres dilectissimi, animadvertere et intelligere debemus, quod appellemus patrem qui sit in coelis, sed coniungimus et dicimus, \"Pater noster,\" id est, eorum qui credunt, eorum, qui per eum sanctificati et gratiae spiritalis nativitate reparati, filii Dei esse coeperunt. Quae vox etiam Iudaeos perstringit et percutit, qui Christum, sibi per prophetas annuntiatum, et ad se prius missum, non tantum spreverunt infideliter, sed et crudeliter necaverunt. Qui iam non possunt patrem Deum vocare, cum Dominus eos confundat et redarguat dicens: \"Vos de diabolo patre nati estis, et concupiscentias patris vestri facere vultis. Ille enim homicida fuit ab initio, et in veritate non stetit, quia veritas non est in illo.\" Et per Esaiam prophetam Deus clamat indignans: \"Filios generavi et exaltavi, ipsi autem me spreverunt. Agnovit bos possessorem suum, et asinus praesepe Domini sui; Israel autem me non cognovit, et populus meus me non intellexit. Vae, gens peccatrix! populus plenus peccatis! semen nequam! filii scelesti! Dereliquistis Dominum, et in indignationem misistis illum sanctum Israel.\" In quorum exprobrationem Christiani, quando oramus, \"Pater noster,\" dicimus, quia noster esse coepit, et Iudaeorum, qui eum reliquerunt, esse desivit. Nec peccator populus potest esse filius; sed quibus remissa peccatorum datur, eis filiorum nomen adscribitur, et eis aeternitas repromittitur, Domino ipso dicente: \"Omnis qui facit peccatum, servus est. Servus autem non manet in domo in aeternum: filius manet in aeternum.\"\n\n[11. Deus vere bonus est! Permittit nobis vocare eum Patrem nostrum. Ergo debemus vitam nostram vivere sicut filii Dei.]\n\n11. Quanta autem Domini indulgentia! quanta circa nos dignationis eius et bonitatis ubertas, ut sic nos voluerit orationem celebrare in conspectu Dei, ut Deum patrem vocemus, et, ut est Christus Dei Filius, sic et nos Dei filios nuncupemur! Quod nomen nemo nostrum in oratione auderet attingere, nisi ipse nobis sic permisisset orare. Meminisse itaque, fratres dilectissimi, et scire debemus, quia quando patrem Deum dicimus, quasi filii Dei agere debemus, ut quomodo nos nobis placemus de Deo patre, sic sibi placeat et ille de nobis. Conversemur quasi Dei templa, ut Dominum in nobis constet habitare. Nec sit degener actus noster a Spiritu, ut, qui coelestes et spiritales esse coepimus, non nisi spiritalia et coelestia cogitemus et agamus, quia et ipse Dominus Deus dixit: \"Eos qui clarificant me clarificabo; et qui me spernit, spernetur.\" Beatus quoque apostolus in epistola sua posuit: \"Non estis vestri. Empti enim estis pretio magno. Clarificate et portate Deum in corpore vestro.\"",
      "explanation": "Now let us practice these pointers. First repeat the pointer and the word to which it points in Latin, and then translate the whole sentence. Idcirco venimus, ut te videamus. Haec propterea dixit ut Romani sperare possent. Ideo hoc fecit ut alii timerent. Orationem vehementem idcirco habuit quia Antonium timebat. Propterea discessit Catilina quia Cicero eum terruerat. Venit ideo in urbem quia voluit nos videre. Hoc dixit: te debere venire. Illud mihi placet, semper laborare. Hoc bonum est, quod Caesar nos amat. Illud melius est, quod pro nobis pugnabit. Hoc bonum est, me te videre. And now, for further practice, let us add pointers to the following sentences: Non venit Marcus ut adiuvet nos. Antonius Ciceronem proscripsit quia oderat eum. Cicero dixit Catilinam esse in senatu. Bonis pueris placet semper studere. Bonum est Caesarem ignoscere Ciceroni. Scripsit haec ut bona disceremus.",
+     "divisio": {
+      "overview": "Two numbered paragraphs, each with a bracketed summary, distinguishing who may call God Father and what that privilege requires.",
+      "parts": [
+       {
+        "label": "Paragraph 10, Father of believers",
+        "detail": "God is Father only of the reborn; the unbelieving Jews who rejected Christ cannot claim him, as the prophets attest."
+       },
+       {
+        "label": "Paragraph 11, live as sons",
+        "detail": "God's indulgence lets us call him Father, so we must act as sons, be temples of God, and think only heavenly things."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "coniungimus",
@@ -35417,6 +39646,19 @@ window.COURSE_DATA.courses.push({
      "lead": "From Cyprian's commentary on the Lord's Prayer, paragraphs 12 and 13: the petitions 'Hallowed be thy name' and 'Thy kingdom come.'",
      "original": "[12. Quando dicimus: \"Sanctificetur nomen tuum,\" non optamus ut Deus ipse sanctificetur: nos non facimus Eum sanctum. Sed oramus ut nos, qui in Baptismo sanctificati sumus, perseveremus in sanctitate.]\n\n12. Post hoc dicimus: \"Sanctificetur nomen tuum.\" Non quod optemus Deo ut sanctificetur orationibus nostris, sed quod petamus Domino ut nomen eius sanctificetur in nobis. Ceterum, a quo Deus sanctificatur, qui ipse sanctificat? Sed quia ipse dixit: \"Sancti estote, quoniam et ego sanctus sum,\" id petimus et rogamus, ut, qui in baptismo sanctificati sumus, in eo, quod esse coepimus, perseveremus. Et hoc cottidie deprecamur. Opus est enim nobis cottidiana sanctificatione, ut qui cottidie delinquimus, delicta nostra sanctificatione assidua repurgemus. Quae autem sit sanctificatio, quae nobis de Dei dignatione confertur, apostolus praedicat dicens: \"Neque fornicarii, neque idolis servientes... neque fraudulenti, neque ebriosi, neque maledici, neque raptores regnum Dei consequentur. Et haec quidem fuistis; sed abluti estis, sed iustificati estis, sed sanctificati estis in nomine Domini nostri Iesu Christi, et in Spiritu Dei nostri.\" Haec sanctificatio ut in nobis permaneat oramus. Et quia Dominus et iudex noster sanato a se et vivificato comminatur iam non delinquere, ne quid ei deterius fiat, hanc continuis orationibus precem facimus. Hoc diebus ac noctibus postulamus, ut sanctificatio et vivificatio quae de Dei gratia sumitur, ipsius protectione servetur.\n\n[13. In petitione: \"Adveniat regnum tuum,\" non rogamus ut Deus ipse regnet--semper enim regnat--sed ut nos cum Christo regnemus. Vel, oramus ut Christus ipse (qui est regnum Dei) veniat nobis. Non desideramus potestatem habere in hoc mundo: coeleste regnum volumus.]\n\n13. Sequitur in oratione: \"Adveniat regnum tuum.\" Regnum etiam Dei repraesentari nobis petimus, sicuti et nomen eius ut in nobis sanctificetur postulamus. Nam Deus quando non regnat? Aut apud eum quando incipit, quod et semper fuit, et esse non desinit? Nostrum regnum petimus advenire a Deo nobis repromissum, Christi sanguine et passione quaesitum; ut, qui in saeculo ante servivimus, postmodum, Christo dominante, regnemus; sicut ipse pollicetur et dicit: \"Venite benedicti Patris mei, percipite regnum quod vobis paratum est ab origine mundi.\" Potest vero, fratres dilectissimi, et ipse Christus esse regnum Dei, quem venire cottidie cupimus, cuius adventus ut cito nobis repraesentetur optamus. Nam cum resurrectio ipse sit, quia in ipso resurgimus, sic et regnum Dei potest ipse intelligi, quia in illo regnaturi sumus. Bene autem regnum Dei petimus, id est, regnum coeleste, quia est et terrestre regnum. Sed qui renuntiavit, iam saeculo maior est et honoribus eius et regno. Et ideo qui se Deo et Christo dicat, non terrena, sed coelestia regna desiderat. Continua autem oratione et prece opus est, ne excidamus a regno coelesti, sicut Iudaei, quibus hoc primum promissum fuerat, exciderunt, Domino manifestante et probante: \"Multi,\" inquit, \"venient ab oriente et occidente, et recumbent cum Abraham et Isaac, et Iacob in regno coelorum. Filii autem regni expellentur in tenebras exteriores. Illic erit ploratio et stridor dentium.\" Ostendit quia ante filii regni Iudaei erant, quando et filii Dei esse perseverabant. Postquam cessavit circa illos nomen paternum, cessavit et regnum. Et ideo Christiani, qui in oratione appellare patrem Deum coepimus, nos et ut regnum Dei nobis veniat oramus.",
      "explanation": "There is an interesting pattern in paragraph 12: Haec sanctificatio ut in nobis permaneat oramus. What has happened? The author has put the subject, haec sanctificatio, out just ahead of the ut clause to which it really belongs. He does this for emphasis. He did a similar thing in paragraph 13. Referring to Christ, who is, in a sense, the kingdom of God, he says: cuius adventus ut cito nobis repraesentetur optamus. Here the cuius stands for eius, and the whole expression really belongs inside the clause as subject: optamus ut eius adventus cito repraesentetur, we hope that His coming may be speedily brought to us.",
+     "divisio": {
+      "overview": "Two numbered paragraphs, each with a bracketed summary, expounding the first two petitions as prayers for change in us, not in God.",
+      "parts": [
+       {
+        "label": "Paragraph 12, hallowed be thy name",
+        "detail": "We do not sanctify God but ask that his name be hallowed in us and that we persevere daily in our sanctification."
+       },
+       {
+        "label": "Paragraph 13, thy kingdom come",
+        "detail": "Since God always reigns, we ask for our promised heavenly kingdom and for Christ, who is the kingdom, to come."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "sanctificare",
@@ -35602,6 +39844,19 @@ window.COURSE_DATA.courses.push({
      "lead": "From Cyprian's commentary on the Lord's Prayer, paragraphs 14 and 15: the petition 'Thy will be done' and what the will of God is.",
      "original": "[14. Similiter, non petimus ut Deus possit facere quod vult--semper hoc potest--sed ut nos possimus facere voluntatem eius. Etiam Christus obedivit Patri, et fecit voluntatem eius: quanto magis nos debemus hoc facere!]\n\n14. Addimus quoque et dicimus: \"Fiat voluntas tua sicut in coelo et in terra,\" non ut Deus faciat quod vult, sed ut nos facere possimus quod Deus vult. Nam Deo quis obsistit quo minus quod velit faciat? Sed quia nobis a diabolo obsistitur, quo minus per omnia noster animus atque actus Deo obsequatur, oramus et petimus ut fiat in nobis voluntas Dei, quae ut fiat in nobis, opus est Dei voluntate, id est, ope eius et protectione. Quia nemo suis viribus fortis est, sed Dei indulgentia et misericordia tutus est. Denique et Dominus infirmitatem hominis quem portabat ostendens ait: \"Pater, si fieri potest, transeat a me calix iste.\" Et exemplum discipulis suis tribuens, ut non voluntatem suam, sed Dei faciant, addidit dicens: \"Verumtamen non quod ego volo, sed quod tu vis.\" Et alio loco dicit: \"Non descendi de coelo ut faciam voluntatem meam, sed voluntatem eius qui misit me.\" Quod si Filius obaudivit ut faceret patris voluntatem, quanto magis servus obaudire debet ut faciat Domini voluntatem! sicut in epistola sua Ioannes quoque ad faciendam voluntatem Dei hortatur et instruit dicens: \"Nolite diligere mundum, neque ea quae in mundo sunt. Si qui dilexerit mundum non est caritas patris in illo. Quia omne quod in mundo est, concupiscentia carnis est, et concupiscentia oculorum et ambitio saeculi, quae non est a Patre, sed ex concupiscentia mundi. Et mundus transibit et concupiscentia eius: qui autem fecerit voluntatem Dei, manet in aeternum, quomodo et Deus manet in aeternum.\" Qui in aeternum manere volumus, Dei, qui aeternus est, voluntatem facere debemus.\n\n[15. Quid vult Deus? Ut simus humiles, stabiles in fide, modesti in verbis, iusti, misericordes. Non debemus facere iniuriam, sed debemus iniurias tolerare et pacem tenere.]\n\n15. Voluntas autem Dei est quam Christus et fecit et docuit. Humilitas in conversatione, stabilitas in fide, verecundia in verbis, in factis iustitia, in operibus misericordia, in moribus disciplina, iniuriam facere non nosse, et factam posse tolerare, cum fratribus pacem tenere, Dominum toto corde diligere, amare in illo quod pater est, timere quod Deus est, Christo nihil omnino praeponere, quia nec nobis quidquam ille praeposuit, caritati eius inseparabiliter adhaerere, cruci eius fortiter ac fidenter assistere, quando de eius nomine et honore certamen est, adhibere in sermone constantiam, qua confitemur, in quaestione fiduciam, qua congredimur, in morte patientiam, qua coronamur. Hoc est cohaeredem Christi velle esse, hoc est praeceptum Dei facere, hoc est voluntatem Patris implere.",
      "explanation": "Sometimes when a word is put out ahead it becomes the object of a verb in the earlier clause: Dominus novit vias hominum, quod vanae sunt. That could have been: Dominus novit quod viae hominum vanae sunt. And with quam (how) followed by an adverb we must keep the quam and its adverb together, both in Latin and in translation: Catilinam novit quam malus est, which restated is Novit quam malus Catilina est. So this device of anticipating a word, whether it stays nominative or becomes the object, is just for emphasis.",
+     "divisio": {
+      "overview": "Two numbered paragraphs, each with a bracketed summary, explaining the petition Thy will be done and then defining what the will of God is.",
+      "parts": [
+       {
+        "label": "Paragraph 14, thy will be done",
+        "detail": "We ask not that God do his will but that we may do it, following Christ who obeyed the Father in Gethsemane."
+       },
+       {
+        "label": "Paragraph 15, what God's will is",
+        "detail": "A catalogue of the virtues Christ did and taught, humility, faith, justice, mercy, and patience even to death."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "obsistere",
@@ -35784,6 +40039,23 @@ window.COURSE_DATA.courses.push({
      "lead": "St. Cyprian continues his treatise on the Lord's Prayer: the will of God in flesh and spirit, love of enemies, and the daily bread.",
      "original": "16. Fieri autem petimus voluntatem Dei in coelo et in terra, quod utrumque ad consummationem nostrae incolumitatis pertinet et salutis. Nam cum corpus e terra et spiritum possideamus e coelo, ipsi terra et coelum sumus; et in utroque, id est, et corpore et spiritu, ut Dei voluntas fiat, oramus. Est enim inter carnem et spiritum colluctatio, et discordantibus adversus se invicem cottidiana congressio, ut non quae volumus ipsa faciamus: dum spiritus coelestia et divina quaerit, caro terrena et saecularia concupiscit. Et ideo petimus impense, inter duo ista ope et auxilio Dei, concordiam fieri; ut, dum et in spiritu et in carne voluntas Dei geritur, quae per eum renata est anima servetur. Quod aperte atque manifeste apostolus Paulus sua voce declarat. \"Caro,\" inquit, \"concupiscit adversus spiritum, et spiritus adversus carnem. Haec enim invicem adversantur sibi, ut non quae vultis ipsa faciatis. Manifesta autem sunt facta carnis, quae sunt adulteria, fornicationes, immunditiae, spurcitiae, idololatriae, veneficia, homicidia, inimicitiae, contentiones, aemulationes, animositates, provocationes, simultates, dissensiones, haereses, invidiae, ebrietates, commisationes, et his similia; quae praedico vobis, sicut praedixi, quoniam qui talia agunt regnum Dei non possidebunt. Fructus autem Spiritus est caritas, gaudium, pax, magnanimitas, bonitas, fides, mansuetudo, continentia, castitas.\" Et idcirco cottidianis, immo continuis orationibus, hoc precamur et in coelo et in terra voluntatem circa nos Dei fieri, quia haec est voluntas Dei ut terrena coelestibus cedant, spiritualia et divina praevaleant.\n\n17. Potest et sic intelligi, fratres dilectissimi, ut quoniam mandat et monet Dominus, etiam inimicos diligere et pro iis quoque qui nos persecuntur orare petamus et pro illis, qui adhuc terra sunt, et necdum coelestes esse coeperunt, ut et circa illos voluntas Dei fiat, quam Christus, hominem conservando et redintegrando, perfecit. Nam cum discipuli ab eo non iam terra appellentur, sed sal terrae, et Apostolus primum hominem vocet de terrae limo, secundum vero de coelo, merito et nos qui esse debemus patri Deo similes, qui solem suum oriri facit super bonos et malos, et pluit super iustos et iniustos, sic, Christo monente, oramus et petimus, ut precem pro omnium salute faciamus: ut quomodo in coelo, id est, in nobis, per fidem nostram voluntas Dei facta est ut essemus e coelo, ita et in terra, hoc est, in illis credere nolentibus, fiat voluntas Dei, ut qui adhuc sunt prima nativitate terreni, incipiant esse coelestes ex aqua et Spiritu nati.\n\n18. Procedente oratione postulamus et dicimus: \"Panem nostrum cottidianum da nobis hodie.\" Quod potest et spiritualiter et simpliciter intelligi, quia et uterque intellectus utilitate divina proficit ad salutem. Nam panis vitae Christus est; et panis hic omnium non est, sed noster est. Et quomodo dicimus \"Pater noster,\" quia intelligentium et credentium pater est, sic et panem nostrum vocamus, quia Christus eorum qui corpus eius contingimus panis est. Hunc autem panem dari nobis cottidie postulamus, ne qui in Christo sumus, et eucharistiam eius cottidie ad cibum salutis accipimus, intercedente aliquo graviore delicto, dum abstenti et non communicantes a coelesti pane prohibemur, a Christi corpore separemur, ipso praedicante et dicente: \"Ego sum panis vitae qui de coelo descendi. Si qui ederit de meo pane, vivet in aeternum. Panem autem quem ego dedero, caro mea est pro saeculi vita.\" Quando ergo dicit in aeternum vivere si qui ederit de eius pane: ut manifestum est eos vivere qui corpus eius attingunt et eucharistiam iure communicationis accipiunt, ita contra timendum est et orandum, ne, dum quis abstentus separatur a Christi corpore, remaneat a salute, comminante ipso et dicente: \"Nisi ederitis carnem Filii hominis et biberitis sanguinem eius non habebitis vitam in vobis.\" Et ideo panem nostrum, id est Christum, dari nobis cottidie petimus, ut qui in Christo manemus et vivimus, a sanctificatione eius et corpore non recedamus.",
      "explanation": "Notice the special pattern that appears in one sentence in paragraph 16: ut ... quae per eum renata est anima servetur. Anima is the antecedent of quae. Now an antecedent usually goes before the relative. But sometimes it comes after the relative, or gets inside the relative clause. If it gets into the relative clause, it normally is put into the same case as the relative. So, for practice, repeat the following sentences, putting the antecedent ahead of its relative, then translate each example. Sample: Quos Romanos vidimus, amavimus. Answer: Romanos quos vidimus amavimus. But sometimes when we put the antecedent out ahead of the relative, it needs to change case, according to the sense of the clause into which it comes. Sample: Quam urbem viderunt, Ierusalem erat. Answer: Urbs quam viderunt Ierusalem erat.",
+     "divisio": {
+      "overview": "Cyprian walks through three successive petitions of the Lord's Prayer, devoting one numbered paragraph to each.",
+      "parts": [
+       {
+        "label": "Thy will be done (16)",
+        "detail": "Treats God's will in body and spirit, citing Paul on the war of flesh against spirit and listing the works of the flesh against the fruits of the Spirit."
+       },
+       {
+        "label": "The will extended to enemies (17)",
+        "detail": "Argues that we pray the same will be done even in unbelievers and persecutors, so the earthly may become heavenly by water and the Spirit."
+       },
+       {
+        "label": "Our daily bread (18)",
+        "detail": "Reads the bread petition as Christ Himself in the Eucharist, warning that sin separating us from His body cuts us off from life."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "quod utrumque",
@@ -36015,6 +40287,23 @@ window.COURSE_DATA.courses.push({
      "lead": "St. Cyprian on the daily bread continued: do not seek riches, do not be anxious for tomorrow, and trust God's providence.",
      "original": "19. Potest vero et sic intelligi, ut qui seculo renuntiavimus, et divitias eius et pompas fide gratiae spiritualis abiecimus, cibum nobis tantum petamus et victum, quando instruat Dominus et dicat: \"Qui non renuntiat omnibus quae sunt eius, non potest meus discipulus esse.\" Qui autem Christi coepit esse discipulus, secundum magistri sui vocem renuntians omnibus, diurnum debet cibum petere, nec in longum desideria petitionis extendere, ipso iterum Domino praescribente et dicente: \"Nolite in crastinum cogitare. Crastinus enim ipse cogitabit sibi. Sufficit diei malitia sua.\" Merito ergo Christi discipulus victum sibi in diem postulat, qui de crastino cogitare prohibetur; quia et contrarium sibi fit et repugnans ut quaeramus in seculo diu vivere, qui petimus regnum Dei velociter advenire. Sic et beatus Apostolus monet, formans et corroborans spei nostrae ac fidei firmitatem. \"Nihil,\" inquit, \"intulimus in hunc mundum, verum nec auferre possumus. Habentes itaque exhibitionem et tegumentum, his contenti simus. Qui autem volunt divites fieri, incidunt in temptationem et muscipulas et desideria multa et nocentia, quae mergunt hominem in perditionem et in interitum. Radix enim omnium malorum est cupiditas, quam quidam appetentes, naufragaverunt a fide et inseruerunt se doloribus multis.\"\n\n20. Docet non tantum contemnendas, sed et periculosas esse divitias: illic esse radicem malorum blandientium, caecitatem mentis humanae occulta deceptione fallentium. Unde et divitem stultum seculares copias cogitantem et se exuberantium fructuum largitate iactantem redarguit Deus, dicens: \"Stulte, hac nocte expostulatur anima tua. Quae ergo parasti, cuius erunt?\" Laetabatur stultus in fructibus ipsa nocte moriturus: et cui vita iam deerat, victus abundantiam cogitabat. Contra autem, Dominus perfectum et consummatum docet fieri qui, omnibus suis venditis atque in usum pauperum distributis, thesaurum sibi condat in coelo. Eum dicit posse se sequi et gloriam dominicae passionis imitari, qui expeditus et succinctus nullis laqueis rei familiaris involvitur, sed solutus ac liber, facultates suas ad Deum ante praemissas ipse quoque comitatur. Ad quod ut possit unusquisque nostrum parare se, sic discat orare, et de orationis lege qualis esse debeat noscere.\n\n21. Neque enim deesse cottidianus cibus potest iusto, cum scriptum sit: \"Non occidet Dominus fame animam iustam,\" et iterum: \"Iuvenior fui, et senui; et non vidi iustum derelictum, neque semen eius quaerens panem,\" item Dominus promittat et dicat: \"Nolite cogitare, dicentes: Quid edemus, aut quid bibemus, aut quid vestiemur? Haec enim nationes quaerunt. Scit autem pater vester quia horum omnium indigetis. Quaerite primo regnum Dei et iustitiam Dei et haec omnia apponentur vobis.\" Quaerentibus regnum et iustitiam Dei omnia promittit apponi. Nam cum Dei sint omnia, habenti Deum nihil deerit, si Deo ipse non desit. Sic Danieli in leonum lacum iussu regis incluso, prandium divinitus procuratur, et inter feras esurientes et parcentes, homo Dei pascitur. Sic alitur Helias in fuga; et in solitudine, corvis ministrantibus et volucribus cibum sibi apportantibus, in persecutione nutritur. Atque, o humanae malitiae detestanda crudelitas! Ferae parcunt, aves pascunt -- et homines insidiantur et saeviunt!",
      "explanation": "Continue the practice on postponed antecedents from this Lectio. When the antecedent is pulled out ahead of its relative, change its case according to the sense of the clause it joins. Sample: In quam terram venerant Persia erat becomes In terram in quam venerant Persia erat. Translate each example after rearranging it.",
+     "divisio": {
+      "overview": "Three numbered paragraphs build the case that the disciple asks only for daily food, then trusts God's providence.",
+      "parts": [
+       {
+        "label": "Ask only for food (19)",
+        "detail": "The disciple who has renounced all begs daily bread alone, not riches, supported by Christ's word against worry for tomorrow and Paul on greed as the root of evils."
+       },
+       {
+        "label": "The danger of riches (20)",
+        "detail": "Wealth is not merely contemptible but perilous, shown by the rich fool who dies the night he counts his harvest and by Christ's call to give all to the poor."
+       },
+       {
+        "label": "God will provide (21)",
+        "detail": "Scripture promises the just man will not starve, capped by the examples of Daniel fed in the lions' den and Elias fed by ravens."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "renuntiare",
@@ -36360,6 +40649,23 @@ window.COURSE_DATA.courses.push({
      "lead": "Nothing new today; let us study old things. We continue the commentary on the Lord's Prayer, here on the petition for forgiveness of debts.",
      "original": "Debemus cottidie petere ut debita nostra dimittantur, quia peccatores sumus, et cottidie peccamus. Sed Dominus fidelis est: promisit veniam (pardon) peccatoribus qui veniam rogant: faciet id quod promisit.]\n\n22. Post haec, et pro peccatis nostris deprecamur dicentes: \"Et remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris.\" Post subsidium cibi petitur et venia delicti, ut qui a Deo pascitur, in Deo vivat, nec tantum praesenti et temporali vitae, sed et aeternae consulatur; ad quam veniri potest, si peccata donentur, quae \"debita\" Dominus appellat, sicut in evangelio suo dicit: \"Dimisi tibi omne debitum, quia me rogasti.\" Quam necessario autem, quam providenter et salutariter admonemur quod peccatores sumus, qui pro peccatis rogare compellimur, ut, dum indulgentia de Deo petitur, conscientiae suae animus recordetur. Ne quis sibi quasi innocens placeat et se extollendo plus pereat, instruitur et docetur peccare se cottidie, dum cottidie pro peccatis iubetur orare. Sic denique et Iohannes in epistola sua monet dicens: \"Si dixerimus quia peccatum non habemus, nos ipsos decipimus, et veritas in nobis non est. Si autem confessi fuerimus peccata nostra, fidelis et iustus est Dominus qui nobis peccata dimittat.\" In epistola sua utrumque complexus est, quod et rogare pro peccatis debeamus, et impetremus indulgentiam cum rogamus. Ideo et fidelem dixit Dominum ad dimittenda peccata, fidem pollicitationis suae reservantem. Quia qui orare nos pro debitis et peccatis docuit, paternam misericordiam promisit et veniam secuturam.\n\n[23. Sed qui petimus veniam peccatis nostris, possumus hoc obtinere solummodo si nos etiam dimittimus illis qui contra nos peccaverunt. Nisi enim dimiserimus, Pater noster non dimittet, nec accipiet sacrificium nostrum.]\n\n23. Adiunxit plane et addidit legem, certa nos conditione et sponsione constringens ut sic nobis dimitti debita postulemus, secundum quod et ipsi debitoribus nostris dimittimus, scientes impetrari non posse quod pro peccatis petimus, nisi et ipsi circa debitores nostros paria fecerimus. Idcirco et alio in loco dicit: \"In qua mensura mensi fueritis in ea remetietur vobis.\" Et qui servus, post dimissum sibi a domino omne debitum, conservo suo noluit ipse dimittere, in carcerem religatur. Quia indulgere conservo noluit, quod sibi a domino indultum fuerat, amisit. Quae adhuc fortius Christus in praeceptis suis, maiore censurae suae vigore, proponit. \"Cum steteritis\", inquit, \"ad orationem, remittite si quid habetis adversus aliquem, ut et pater vester, qui in coelis est, remittat peccata vestra vobis. Si autem vos non remiseritis, neque pater vester, qui in coelis est, remittet vobis peccata vestra.\" Excusatio tibi nulla in die iudicii superest, cum secundum tuam sententiam iudiceris, et quod feceris, hoc et ipse patiaris. Pacificos enim et concordes atque unanimes esse in domo sua Deus praecipit, et quales nos fecit secunda nativitate, tales vult renatos perseverare; ut qui filii Dei esse coepimus, in Dei pace maneamus, et quibus spiritus unus est, unus sit et sensus. Sic nec sacrificium Deus recipit dissidentis, et ab altari revertentem prius fratri reconciliari iubet, ut pacificis precibus et Deus possit esse pacatus. Sacrificium Deo maius est pax nostra, et fraterna concordia, et de unitate Patris et Filii et Spiritus sancti plebs adunata.\n\n[24. Sic sacrificium Abel Deo placuit, et non sacrificium Cain, quia Deus videbat ea quae in cordibus eorum erant. Qui non habet pacem cum fratribus non potest ad regnum coelorum pervenire.]\n\n24. Neque enim in sacrificiis, quae Abel et Cain primi obtulerunt, munera eorum Deus sed corda intuebatur, ut ille placeret in munere, qui placebat in corde. Abel pacificus et iustus, dum Deo sacrificat innocenter, docuit et ceteros, quando ad altare munus offerunt, sic venire cum Dei timore cum simplici corde, cum lege iustitiae, cum concordiae pace. Merito ille dum in sacrificio Dei talis est, ipse postmodum sacrificium Deo factus est, ut martyrium primus ostendens, initiaret sanguinis sui gloria dominicam passionem, qui et iustitiam Domini habuerat et pacem. Tales denique a Domino coronantur, tales in die iudicii cum Domino iudicabunt. Ceterum, discordans et dissidens et pacem cum fratribus non habens, secundum quod beatus Apostolus et scriptura sancta testatur, nec si pro nomine Christi occisus fuerit, crimen dissensionis fraternae poterit evadere, quia sicut scriptum est: \"Qui fratrem suum odit, homicida est,\" nec ad regnum coelorum pervenit aut cum Deo vivit homicida, non potest esse cum Christo, qui imitator Iudae maluit esse quam Christi. Quale delictum est quod nec baptismo sanguinis potest ablui. Quale crimen est quod martyrio non potest expiari.",
      "explanation": "This Lectio is a review (Nihil novi hodie, veteribus studeamus: nothing new today, let us study old things). It continues a patristic commentary on the Lord's Prayer. The petition \"remitte nobis debita nostra, sicut et nos remittimus debitoribus nostris\" makes our own forgiveness conditional: God will forgive us only as we forgive others. Notice the construction with sicut (just as) and secundum quod (according as) joining the two halves of the bargain. The parable of the unmerciful servant (qui conservo suo noluit dimittere, in carcerem religatur) shows the penalty for refusing. The example of Abel and Cain teaches that God looks at the heart (corda intuebatur), not merely the gift, and that one who hates his brother is a murderer (homicida) and cannot reach the kingdom of heaven.",
+     "divisio": {
+      "overview": "Each numbered paragraph of Cyprian is preceded by a short bracketed paraphrase, advancing the petition on forgiving debts in three steps.",
+      "parts": [
+       {
+        "label": "We must beg pardon (22)",
+        "detail": "After bread comes the petition for forgiveness, since we sin daily and are taught to confess rather than presume our own innocence."
+       },
+       {
+        "label": "Forgive to be forgiven (23)",
+        "detail": "States the condition: God pardons only as we pardon, proved by the parable of the servant jailed for refusing his fellow and Christ's warning to reconcile before the altar."
+       },
+       {
+        "label": "Abel against Cain (24)",
+        "detail": "God weighs the heart, not the gift; the peaceable Abel becomes a sacrifice himself, while one who hates his brother is a murderer barred from heaven."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "debitor",
@@ -36633,6 +40939,23 @@ window.COURSE_DATA.courses.push({
      "lead": "We continue the review commentary, now on the petitions concerning temptation and deliverance from evil.",
      "original": "[25. Petimus auxilium Dei in temptationibus, quia inimicus noster diabolus nihil potest facere contra nos sine permissione Dei.]\n\n25. Illud quoque necessarie admonet Dominus ut in oratione dicamus: \"Et ne patiaris nos induci in temptationem.\" Qua in parte ostenditur nihil contra nos adversarium posse, nisi Deus ante permiserit; ut omnis timor noster et devotio atque observatio ad Deum convertatur, quando in tentationibus nostris nihil malo liceat, nisi potestas inde tribuatur. Probat scriptura quae dicit: \"Venit Nabuchodonosor rex Babyloniae in Hierusalem, et expugnabat eam, et dedit eam Dominus in manu eius.\" Datur autem potestas adversus nos malo secundum nostra peccata, sicut scriptum est: \"Quis dedit in direptionem Iacob, et Israel eis qui praedantur illum? Nonne Deus cui peccaverunt, et nolebant in viis eius ambulare neque audire legem eius, et superduxit super eos iram animationis suae.\" Et iterum, Salomone peccante et a praeceptis atque a viis Domini recedente, positum est: \"Et excitavit Dominus satanan ipsi Salomoni.\"\n\n[26. Si peccamus, potestas datur diabolo ut nos puniat; si non peccamus, victoria super temptationem ducet nos ad gloriam.]\n\n26. Potestas vero dupliciter adversus nos datur, vel ad poenam, cum delinquimus, vel ad gloriam, cum probamur; sicuti de Iob factum videmus, manifestante Deo et dicente: \"Ecce omnia quaecumque habet, in manus tuas do; sed ipsum cave ne tangas.\" Et Dominus in evangelio suo loquitur tempore passionis: \"Nullam haberes potestatem adversum me, nisi datum esset tibi desuper.\" Quando autem rogamus ne in temptationem veniamus, admonemur infirmitatis et imbecillitatis nostrae, dum sic rogamus, ne quis se insolenter extollat, ne quis sibi superbe atque arroganter aliquid assumat, ne quis sibi aut confessionis aut passionis gloriam suam ducat, cum Dominus ipse humilitatem docens dixerit: \"Vigilate et orate, ne veniatis in temptationem. Spiritus quidem promptus est, caro autem infirma,\" ut, dum praecedit humilis et summissa confessio, et datur totum Deo, quidquid suppliciter cum timore et honore Dei petitur, ipsius pietate praestetur.\n\n[27. In fine orationis, petimus ut liberemur a malo. Hoc impetrato, nihil ultra postulandum est.]\n\n27. Post ista omnia in consummatione orationis venit clausula universas petitiones et preces nostras, collecta brevitate, concludens. In novissimo enim ponimus, \"sed libera nos a malo,\" comprehendentes adversa cuncta quae contra nos in hoc mundo molitur inimicus; a quibus potest esse fida tutela, si nos Deus liberet, si deprecantibus atque implorantibus opem suam praestet. Quando autem dicimus, \"libera nos a malo,\" nihil remanet quod ultra adhuc debeat postulari, quando semel protectionem Dei adversus malum petamus; qua impetrata, contra omnia quae diabolus et mundus operantur securi stamus et tuti. Quis enim ei de seculo metus est, cui in seculo Deus tutor est?",
      "explanation": "This second half treats the closing petitions of the Lord's Prayer. \"Et ne patiaris nos induci in temptationem\" teaches that the adversary (the devil) can do nothing against us unless God first permits it (nisi Deus ante permiserit). Power is given against us in two ways (dupliciter): for punishment when we sin, or for glory when we are tested, as in the case of Job. The final clause, \"sed libera nos a malo,\" gathers up every petition in a brief summing (collecta brevitate); once we have asked for God's protection against evil, nothing further needs to be sought. Watch the recurring purpose and result clauses with ut and ne plus the subjunctive, and the ablative absolutes such as \"Salomone peccante\" and \"qua impetrata.\"",
+     "divisio": {
+      "overview": "Three numbered paragraphs, each opened by a bracketed paraphrase, treat the last two petitions of the prayer in sequence.",
+      "parts": [
+       {
+        "label": "Nothing without God's leave (25)",
+        "detail": "On the petition against temptation: the adversary can do nothing unless God permits, illustrated by Nabuchodonosor and by power granted against sinners."
+       },
+       {
+        "label": "Power for punishment or glory (26)",
+        "detail": "Distinguishes the two uses of permitted power, punishing the sinner or proving the tested, as with Job, and so counsels humility."
+       },
+       {
+        "label": "Deliver us from evil (27)",
+        "detail": "The closing clause gathers all petitions in brief; once God's protection is secured nothing more need be asked, for the one God guards fears nothing in the world."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "observatio",
@@ -36854,6 +41177,27 @@ window.COURSE_DATA.courses.push({
      "lead": "St. Cyprian, De Dominica Oratione (on the Lord's Prayer): why our Lord made prayer short, and how He taught prayer by His own practice.",
      "original": "Quid mirum, fratres dilectissimi, si oratio talis est magisterium quam Deus docuit, qui magisterio suo omnem precem nostram salutari sermone breviavit? Hoc iam per Esaiam prophetam fuerat ante praedictum, cum, plenus Spiritu sancto, de Dei maiestate ac pietate loqueretur: \"Verbum consummans,\" inquit, \"et brevians in iustitia, quoniam sermonem breviatum faciet Deus in toto terrae.\" Nam, cum Dei sermo Dominus noster Iesus Christus omnibus venerit, et colligens doctos pariter et indoctos, omni sexui atque aetati praecepta salutis ediderit, praeceptorum suorum fecit grande compendium, ut, in disciplina coelesti, discentium memoria non laboraret sed, quod esset simplici fidei necessarium, velociter disceret. Sic, cum doceret quid sit vita aeterna, sacramentum vitae magna et divina brevitate complexus est, dicens: \"Haec est autem vita aeterna, ut cognoscant te solum et verum Deum et quem misisti Iesum Christum.\" Item, cum de Lege et Prophetis praecepta prima et maiora decerperet: \"Audi,\" inquit, \"Israel, Dominus Deus tuus Deus unus est. Et diliges Dominum Deum tuum de toto corde tuo, et de tota anima tua, et de tota virtute tua. Hoc primum mandatum. Et secundum simile huic: Diliges proximum tibi tanquam te. In his duobus praeceptis tota Lex pendet et Prophetae.\" Et iterum: \"Quaecumque volueritis ut faciant vobis homines bona, ita vos facite illis. Haec est enim Lex et Prophetae.\" Nec verbis tantum, sed et factis Dominus orare nos docuit, ipse orans frequenter et deprecans, et quid facere nos oporteret exempli sui contestatione demonstrans, sicut scriptum est: \"Ipse autem fuit secedens in solitudinem et adorans.\" Et iterum: \"Exivit in montem orare, et fuit pernoctans in orationem Dei.\" Quod si ille orabat qui sine peccato erat, quanto magis peccatores oportet orare? Et si ille per totam noctem iugiter vigilans continuis precibus orabat, quanto nos magis in frequentanda oratione debemus nocte vigilare?",
      "explanation": "This Lectio is titled De verbis supplendis, on words that must be supplied. Often, both in English and Latin, a writer leaves out some words, knowing the reader can fill in the thought from the general sense. For example St. Cyprian writes: ut aliud habeamus in corde, aliud in voce. Here the verb habeamus is understood again in the second clause. Similarly in the same sentence the full form would be: quando Dominum orare debeat, non vocis sonus, sed animus et sensus debeat orare. Notice the interlocking omission: in both clauses we feel orare debeat, but one word is omitted in one clause and the other word in the next. As you read, practice filling in the understood word or words.",
+     "divisio": {
+      "overview": "A single argument moves from a prophecy of brevity, to examples of Christ's brief teaching, then to His teaching by example, closing with an a fortiori appeal.",
+      "parts": [
+       {
+        "label": "Brevity foretold",
+        "detail": "Opens by asking why the prayer is short and answers from Isaiah's prophecy that God would make a shortened word upon the earth."
+       },
+       {
+        "label": "Christ's compendia",
+        "detail": "Gives instances where Christ compressed doctrine, defining eternal life, the two greatest commandments, and the golden rule in few words."
+       },
+       {
+        "label": "Teaching by example",
+        "detail": "Turns from words to deeds, showing Christ Himself withdrawing to pray and spending whole nights in prayer."
+       },
+       {
+        "label": "How much more we",
+        "detail": "Closes with the inference: if the sinless one prayed through the night, sinners ought all the more to keep vigil in prayer."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "magisterium",
@@ -37015,6 +41359,27 @@ window.COURSE_DATA.courses.push({
      "lead": "St. Cyprian continues: Christ's prayer was for us and for the unity of His people, and we must pray watchfully, with the heart and not merely the voice.",
      "original": "Orabat autem Dominus et rogabat non pro se (quid enim pro se innocens precaretur?) sed pro delictis nostris, sicut et ipse declarat cum dicit ad Petrum: \"Ecce satanas postulavit ut vos vexaret quomodo triticum. Ego autem rogavi pro te, ne deficiat fides tua.\" Et postmodum, pro omnibus Patrem deprecatur, dicens: \"Non pro his autem rogo solis, sed et pro illis qui credituri sunt per verbum ipsorum in me, ut omnes unum sint, sicut et tu Pater in me et ego in te, ut et ipsi in nobis sint.\" Magna Dei propter salutem nostram benignitas pariter et pietas, ut, non contentus quod nos sanguine suo redimeret, adhuc pro nobis amplius et rogaret! Rogantis autem desiderium videte quod fuerit, ut, quomodo unum sunt Pater et Filius, sic et nos in ipsa unitate maneamus. Ut hinc quoque possit intelligi, quantum delinquat qui unitatem scindit et pacem, cum pro hoc et rogaverit Dominus, volens scilicet sic plebem suam salvam fieri et in pace vivere, cum sciret ad regnum Dei discordiam non venire. Quando autem stamus ad orationem, fratres dilectissimi, vigilare et incumbere ad preces toto corde debemus. Cogitatio omnis carnalis et secularis abscedat, nec quidquam tunc animus quam id solum cogitet quod precatur. Ideo et sacerdos ante orationem, praefatione praemissa, parat fratrum mentes dicendo: \"Sursum corda,\" ut, dum respondet plebs, \"habemus ad Dominum,\" admoneatur nihil aliud se quam Dominum cogitare debere. Cludatur contra adversarium pectus, et soli Deo pateat, nec ad se hostem Dei tempore orationis adire patiatur. Obrepit enim frequenter et penetrat, et subtiliter fallens, preces nostras a Deo avocat, ut aliud habeamus in corde, aliud in voce, quando intentione sincera Dominum debeat non vocis sonus, sed animus et sensus orare. Quae autem segnitia est, alienari et rapi ineptis cogitationibus et profanis cum Dominum deprecaris! Quasi sit aliud, quod magis debeas cogitare, quam quod cum Deo loqueris! Quomodo audiri te a Deo postulas, cum te ipse non audias? Vis esse Deum memorem tui cum rogas, quando tu ipse memor tui non sis? Hoc est ab hoste in totum non cavere; hoc est, quando oras Deum, maiestatem Dei negligentia orationis offendere; hoc est vigilare oculis et corde dormire, cum debeat Christianus et cum dormit oculis vigilare, sicut scriptum est ex persona Ecclesiae loquentis in cantico canticorum: \"Ego dormio, et cor meum vigilat.\" Quapropter, sollicite et caute Apostolus admonet, dicens: \"Instate orationi, vigilantes in ea,\" docens scilicet et ostendens, eos impetrare quod postulant de Deo posse, quos Deus videat in oratione vigilare.",
      "explanation": "Continue practicing the omission of understood words (verba supplenda). In the sentence ut aliud habeamus in corde, aliud in voce, supply habeamus again in the second clause. The writer may also omit the word in the first clause rather than the second, as in: Paulus die, Marcus nocte venit, which fully means Paulus die venit, Marcus nocte venit. As you reread, supply the verb or words left understood in each clause and translate.",
+     "divisio": {
+      "overview": "The passage falls into two movements: first what Christ prayed for, then how we ourselves must pray, joined at the words Quando autem stamus ad orationem.",
+      "parts": [
+       {
+        "label": "He prayed for our sins",
+        "detail": "The sinless Lord prayed not for Himself but for us, as in His word to Peter that his faith not fail."
+       },
+       {
+        "label": "He prayed for unity",
+        "detail": "He asked the Father that all be one as He and the Father are one, so that breaking unity is shown to be a grave offense."
+       },
+       {
+        "label": "Pray with the whole heart",
+        "detail": "Turning to us, it urges watchful prayer with worldly thoughts banished, recalling the priest's Sursum corda."
+       },
+       {
+        "label": "Guard against the enemy",
+        "detail": "Warns how the adversary creeps in to divide heart from voice, and cites Paul and the Canticle that the heart must watch even while we sleep."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "triticum",
@@ -37216,6 +41581,23 @@ window.COURSE_DATA.courses.push({
      "lead": "More on supplying words: prayer joined to fasting and almsgiving rises to God.",
      "original": "Orantes autem non infructuosis nec nudis precibus ad Deum veniant. Inefficax petitio est, cum precatur Deum sterilis oratio. Nam cum omnis arbor non faciens fructum excidatur et in ignem mittatur, utique et sermo non habens fructum promereri Deum non potest, quia nulla operatione foecundus. Et ideo scriptura divina instruit dicens: \"Bona est oratio cum ieiunio et eleemosyna.\" Nam qui in die iudicii praemium pro operibus et eleemosynis redditurus est, hodie quoque ad orationem cum operatione venienti benignus auditor est. Sic denique Cornelius centurio cum oraret, meruit audiri. Fuit faciens multas eleemosynas in plebem et semper orans Deum. Huic circa horam nonam oranti adstitit angelus, testimonium reddens sui operis, et dicens: \"Corneli, orationes tuae et eleemosynae tuae ascenderunt ad memoriam coram Deo.\"",
      "explanation": "This lesson continues the practice of supplying omitted words. In the reading we see why prayer must be accompanied by good works: a tree that bears no fruit is cut down, so prayer without the fruit of good deeds cannot win God's favor. The verbal forms are mostly present participles (orantes, faciens, habens, orans) and subjunctives in cum-clauses (precatur, oraret), with the example of Cornelius the centurion who merited to be heard.",
+     "divisio": {
+      "overview": "A short unit that states a principle, backs it with scripture, then proves it by one example.",
+      "parts": [
+       {
+        "label": "Barren prayer fails",
+        "detail": "Opens with the rule that fruitless prayer cannot move God, since a tree bearing no fruit is cut down and burned."
+       },
+       {
+        "label": "Scripture's prescription",
+        "detail": "Cites the saying that prayer is good with fasting and almsgiving, and that God rewards works."
+       },
+       {
+        "label": "Cornelius as proof",
+        "detail": "Ends with the centurion whose alms and prayers rose to God, the angel testifying that they ascended for a memorial."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "infructuosus",
@@ -37346,6 +41728,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Prayers that the merits of our works lift up ascend quickly to God.",
      "original": "Cito orationes ad Deum ascendunt, quas ad Deum merita nostri operis imponunt. Sic et Raphael angelus Tobiae oranti semper, et semper operanti adstitit, dicens: \"Opera Dei revelare et confiteri honorificum est. Nam quando orabas tu et Sara, ego obtuli memoriam orationis vestrae in conspectu claritatis Dei. Et cum sepelires tu mortuos simpliciter, et quia non es cunctatus exurgere et derelinquere prandium tuum, sed abiisti et condidisti mortuum, et missus sum tentare te; et iterum me misit Deus curare te et Saram nurum tuam. Ego enim sum Raphael, unus ex septem angelis iustis, qui assistimus et conversamur ante claritatem Dei.\" Per Esaiam quoque Dominus admonet et docet similia contestans: \"Solve,\" inquit, \"omnem nodum iniustitiae, resolve suffocationes impotentium commerciorum. Dimitte quassatos in requiem, et omnem consignationem iniustam dissipa. Frange esurienti panem tuum, et egenos sine tecto induc in domum tuam. Si videris nudum, vesti; et domesticos seminis tui non despicies. Tunc erumpet temporaneum lumen tuum, et vestimenta tua cito orientur, et praeibit ante te iustitia, et claritas Dei circumdabit te. Tunc exclamabis, et Deus exaudiet te, et dum adhuc loqueris dicet: Ecce adsum.\" Adesse se repromittit, et audire ac protegere se eos dicit, qui iniustitiae nodos de corde solventes et elemosynas circa domesticos Dei secundum eius praecepta facientes, dum audiunt quod Deus praecipit fieri, ipsi quoque a Deo merentur audiri. Beatus apostolus Paulus in necessitate pressurae adiutus a fratribus, opera bona quae fiunt, sacrificia Dei dixit esse. \"Saturatus sum,\" inquit, \"recipiens ab Epaphradito ea quae a vobis missa sunt, odorem suavitatis, sacrificium acceptum et placitum Deo.\" Nam quando qui miseretur pauperis, Deum foenerat; et qui dat minimis, Deo donat, spiritualiter Deo suavitatis odorem sacrificat.",
      "explanation": "Here Most points to three witnesses that good works lift prayer to God: Raphael, who told Tobias that revealing the works of God is honorable; the Lord through Isaiah, who commands us to loose the knots of injustice, feed the hungry, and shelter the needy; and Paul, who called good works sacrifices pleasing to God. Note the future imperatives and futures in the Isaiah passage (vesti, induc, erumpet, orientur, circumdabit), and the idiom 'Deum foenerat,' he lends at interest to God.",
+     "divisio": {
+      "overview": "An opening thesis is supported by three scriptural witnesses cited in turn.",
+      "parts": [
+       {
+        "label": "Thesis stated",
+        "detail": "Begins by asserting that prayers rise swiftly when the merits of our works lift them up."
+       },
+       {
+        "label": "Raphael to Tobias",
+        "detail": "First witness: the angel tells Tobias his prayer and burial of the dead brought his memory before God's glory."
+       },
+       {
+        "label": "The Lord through Isaiah",
+        "detail": "Second witness: the prophet commands loosing injustice, feeding the hungry, and clothing the naked, with the promise that then God will answer."
+       },
+       {
+        "label": "Paul on works as sacrifice",
+        "detail": "Third witness: Paul calls the brothers' gifts a sweet-smelling sacrifice, and mercy to the poor a loan to God."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "quas... merita... imponunt",
@@ -37486,6 +41889,23 @@ window.COURSE_DATA.courses.push({
      "lead": "In the times of prayer we find a sacrament of the Trinity foreshadowed.",
      "original": "In orationibus vero celebrandis invenimus observasse cum Daniele tres pueros in fide fortes et in captivitate victores horam tertiam, sextam, nonam, sacramento scilicet Trinitatis, quae in novissimis temporibus manifestari habebat. Nam et prima hora in tertiam veniens, consummatum numerum trinitatis ostendit. Itemque ad sextam quarta procedens, declarat alteram trinitatem. Et quando a septima nona completur, per ternas horas trinitas perfecta numeratur. Quae horarum spatia iam pridem spiritualiter determinantes adoratores Dei, statutis et legitimis ad precem temporibus serviebant. Et manifestata postmodum res est sacramenta olim fuisse, quod ante sic iusti precabantur. Nam super discipulos hora tertia descendit Spiritus sanctus, qui gratiam dominicae repromissionis implevit. Item Petrus hora sexta in tectum superius ascendens signo pariter et voce Dei monentis instructus est, ut omnes ad gratiam salutis admitteret, cum de emundandis gentilibus ante dubitaret. Et Dominus hora sexta crucifixus, ad nonam peccata nostra sanguine suo abluit, et, ut redimere et vivificare nos posset, tunc victoriam suam passione perfecit.",
      "explanation": "This lesson explains the spiritual meaning of the hours of prayer. The three youths with Daniel kept the third, sixth, and ninth hours, a sacrament of the Trinity, since one hour growing to the third shows the complete number of the Trinity, and the same pattern recurs to the sixth and ninth. These intervals were later fulfilled in Christian history: the Spirit came at the third hour, Peter received his vision at the sixth, and the Lord crucified at the sixth washed away our sins by the ninth. Watch the gerundives (celebrandis, emundandis) and the participle clauses.",
+     "divisio": {
+      "overview": "The passage establishes the appointed hours, reads their numbers as a sign of the Trinity, then shows each hour fulfilled in gospel history.",
+      "parts": [
+       {
+        "label": "The hours observed",
+        "detail": "Notes that Daniel and the three youths kept the third, sixth, and ninth hours as a sacrament of the Trinity."
+       },
+       {
+        "label": "The numerical sign",
+        "detail": "Argues that each interval of three hours yields the complete number of the Trinity, a mystery the old worshippers honored beforehand."
+       },
+       {
+        "label": "Fulfilled in Christ",
+        "detail": "Shows the hours realized: the Spirit descends at the third, Peter is taught at the sixth, and the Lord crucified at the sixth perfects His victory at the ninth."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "celebrare",
@@ -37600,6 +42020,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Because Christ is the true Sun and Day, we should pray through the whole day and even in the night.",
      "original": "Sed nobis, fratres dilectissimi, praeter horas antiquitus observatas orandi nunc et spatia et sacramenta creverunt. Nam et mane orandum est, ut resurrectio Domini matutina oratione celebretur. Quod olim Spiritus sanctus designabat in psalmis dicens: \"Rex meus et Deus meus, quoniam ad te orabo Domine; mane exaudies vocem meam, mane assistam tibi, et contemplabor te.\" Et iterum per prophetam loquitur Dominus: \"Diluculo vigilabunt ad me dicentes: Eamus et revertamur ad Dominum Deum nostrum.\" Recedente item sole, ac die cessante, necessario rursus orandum est. Nam quia Christus sol verus et dies verus est, sole ac die seculi recedente, quando oramus et petimus, ut super nos lux denuo veniat, Christi precamur adventum, lucis aeternae gratiam praebiturum. Christum autem diem dictum declarat in psalmis Spiritus Sanctus. \"Lapis,\" inquit, \"quem reprobaverunt aedificantes, hic factus est in caput anguli. A Domino factus est iste, et est admirabilis in oculis nostris. Iste est dies quem fecit Dominus, ambulemus et iucundemur in eum.\" Item quod sol appellatus sit, Malachias propheta testatur dicens: \"Vobis autem, qui timetis nomen Domini, orietur sol iustitiae, et in alis eius curatio est.\" Quod si in scripturis sanctis sol verus et dies verus est Christus, hora nulla excipitur Christianis, quo minus frequenter ac semper Deus debeat adorari; ut qui in Christo, hoc est in sole et in die vero sumus, insistamus per totum diem precibus, et oremus; et quando mundi lege decurrens vicibus alternis nox revoluta succedit, nullum de nocturnis tenebris esse orantibus damnum potest, quia filiis lucis et in noctibus dies est. Quando enim sine lumine est, cui lumen in corde est? Aut quando sol et dies non est, cui sol et dies Christus est? Qui autem in Christo, hoc est in lumine, semper sumus, nec noctibus ab oratione cessemus. Sic Anna vidua sine intermissione rogans semper et vigilans perseverabat in promerendo Deo, sicut in evangelio scriptum est: \"Non recedebat de templo, ieiuniis et orationibus serviens nocte ac die.\" Viderint vel gentiles, qui necdum illuminati sunt, vel Iudaei qui, deserto lumine, in tenebris remanserunt. Nos, fratres dilectissimi, qui in Domini luce semper sumus, qui meminimus et tenemus quid esse, accepta gratia, coeperimus, computemus noctem pro die. Ambulare nos credamus semper in lumine, non impediamur a tenebris quas evasimus. Nulla sint horis nocturnis precum damna, nulla orationum pigra et ignava dispendia. Per Dei indulgentiam recreati, spiritualiter et renati, imitemur quod futuri sumus. Habituri in regno sine interventu noctis solum diem, sic nocte quasi in lumine vigilemus. Oraturi semper, et acturi gratias Deo, hic quoque orare et gratias agere non desinamus.",
      "explanation": "This final section adds morning, evening, and night prayer. We pray in the morning to celebrate the Lord's resurrection, and again at sunset; for since Christ is the true Sun and Day, when we ask that light return to us we are praying for Christ's coming. No hour is exempt for Christians, since for the children of light it is day even in the night, as the widow Anna showed by serving with fasting and prayers night and day. Note the future participles used for intention (praebiturum, habituri, oraturi, acturi) and the many hortatory subjunctives (oremus, vigilemus, computemus, imitemur).",
+     "divisio": {
+      "overview": "Moving through the day, the passage prescribes prayer at morning, at evening, and through the night, then ends in exhortation.",
+      "parts": [
+       {
+        "label": "Morning prayer",
+        "detail": "We pray at dawn to celebrate the resurrection, confirmed by the psalm that God hears the voice in the morning."
+       },
+       {
+        "label": "Evening prayer",
+        "detail": "At sunset we pray again, for Christ is the true Sun and Day, proved from the psalms and from Malachias' sun of justice."
+       },
+       {
+        "label": "Night prayer",
+        "detail": "No hour is exempt, since for the children of light it is day even at night, as the widow Anna showed serving night and day."
+       },
+       {
+        "label": "Exhortation",
+        "detail": "Closes with hortatory appeals to count night as day and keep vigil, imitating now the unbroken day of the kingdom to come."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "antiquitus",
@@ -37788,6 +42229,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Before reading, notice two new endings. In the third declension, the accusative plural of i-stem words can be -is instead of -es (e.g. omnis for omnes). In the perfect indicative, -ere can replace -erunt (e.g. amavere for amaverunt). Latin equivalents of a clause, or supplied words, appear in square brackets.",
      "original": "Caesar speaks first:\n\n\"Omnis homines, patres conscripti, qui de rebus dubiis consultant, ab odio, amicitia, ira, atque misericordia vacuos esse decet, [omnes homines vacuos esse decet qui consultant]. Haud facile animus verum providet ubi illa officiunt. Neque quisquam omnium libidini simul et usui paruit. Ubi intenderis ingenium, [ingenium] valet; si libido possidet, ea dominatur: animus nihil valet. Magna mihi copia est memorandi, patres conscripti, qui reges atque populi, ira aut misericordia impulsi, male consuluerint [ex magna memoria dicere possum qui reges... male consuluerint]. Sed ea malo (I prefer) dicere quae maiores nostri contra libidinem animi sui recte atque ordine fecere.\n\nBello Macedonico, quod cum rege Perse gessimus, Rhodiorum civitas, magna atque magnifica, quae populi Romani opibus creverat, infida et adversa nobis fuit. Sed postquam, bello confecto, de Rhodiis consultum est, maiores nostri, ne quis divitiarum magis quam iniuriae causa bellum inceptum diceret, impunitos eos dimisere. Item, bellis Punicis omnibus, cum saepe Carthaginienses, et in pace, et per indutias, multa nefaria facinora fecissent, numquam ipsi per occasionem talia fecere. Magis quid se dignum foret, quam quid in illos iure fieri posset quaerebant.\"",
      "explanation": "Two new endings appear throughout this reading. First, the accusative plural of i-stem nouns and adjectives of the third declension may end in -is rather than -es: thus omnis is used for omnes and immortalis for immortales as accusative plurals. Second, in the perfect active indicative, the third person plural ending -erunt may be replaced by -ere: thus fecere stands for fecerunt, dimisere for dimiserunt, and consuluerint keeps the normal form here. Note also archaic and idiomatic features Sallust favors: haud is used for non, foret is the same as esset, and uti is the same as ut. The verb decet (it is fitting, it is proper) takes an accusative and infinitive: vacuos esse decet means it is fitting for them to be free.",
+     "divisio": {
+      "overview": "Caesar argues from a general principle, then proves it by two historical precedents drawn from Rome's own wars.",
+      "parts": [
+       {
+        "label": "Opening principle",
+        "detail": "Judges of doubtful matters ought to be free of hatred, friendship, anger, and pity."
+       },
+       {
+        "label": "Why emotion blinds",
+        "detail": "The mind cannot see the truth when passion obstructs it, and no one obeys both desire and good sense at once."
+       },
+       {
+        "label": "Announcing the examples",
+        "detail": "Caesar says he could cite many kings and peoples who judged badly under anger or pity, but prefers cases where the ancestors acted rightly."
+       },
+       {
+        "label": "The Rhodian precedent",
+        "detail": "After the Macedonian war the ancestors released the disloyal Rhodians unpunished, lest the war seem waged for plunder."
+       },
+       {
+        "label": "The Carthaginian precedent",
+        "detail": "Through all the Punic wars Rome never repaid Carthaginian treachery in kind, asking what was worthy of Rome rather than what could lawfully be done to the enemy."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "decet, decuit",
@@ -38005,6 +42471,27 @@ window.COURSE_DATA.courses.push({
      "lead": "Caesar continues, appealing to the dangers of cruelty, to the example of the Thirty Tyrants at Athens and of Sulla's proscriptions, and to the precedent of the lex Porcia. Square brackets give Latin equivalents or supplied words; the new endings -is (accusative plural) and -ere (perfect) continue to appear.",
      "original": "\"Hoc item vobis providendum est, patres conscripti, ne plus apud vos valeat P. Lentuli et ceterorum scelus, quam vestra dignitas. Neu magis irae vestrae quam famae consulatis. Nam, si digna poena pro factis eorum reperitur, novum consilium adprobo. Sin magnitudo sceleris omnium ingenia exsuperat, eis [poenis] utendum censeo quae legibus comparata sunt. Plerique eorum qui ante me sententias dixerunt, composite atque magnifice casum rei publicae miserati sunt. Quae belli saevitia esset, quae victis acciderent, enumeravere [dixerunt quae saevitia belli esset...]: rapi virgines, pueros; divelli liberos a parentum complexu; matres familiarum pati quae victoribus conlibuissent; fana atque domos spoliari; caedem, incendia fieri; postremo, armis, cadaveribus, cruore atque luctu omnia compleri. Sed, per deos immortalis, quo illa oratio pertinuit? An uti vos infestos coniurationi faceret? Scilicet, quem res tanta et tam atrox non permovit, eum oratio accendet! Non ita est, neque cuiquam mortalium iniuriae suae parvae videntur: multi eas gravius aequo habuere.\n\nSed alia aliis licentia est, patres conscripti. Qui demissi in obscuro vitam habent, si quid iracundia deliquere, pauci sciunt: fama atque fortuna eorum pares sunt. Qui, magno imperio praediti, in excelso aetatem agunt, eorum facta cuncti mortales novere. Ita, in maxima fortuna, minima licentia est: neque studere, neque odisse, sed minime irasci decet. Quae apud alios iracundia dicitur, ea in imperio superbia atque crudelitas appellatur. Equidem ego sic existimo, patres conscripti: omnis cruciatus minores quam facinora illorum esse. Sed plerique mortales postrema meminere, et, in hominibus impiis, sceleris eorum obliti, de poena disserunt, si ea paulo severior fuit.\"",
      "explanation": "Watch the new endings continue here: immortalis is the accusative plural of immortal-is (for immortales), and omnis cruciatus shows omnis as the accusative plural of an i-stem (for omnes). The perfect forms enumeravere, habuere, deliquere, novere, and meminere all use -ere for -erunt. Note Sallust's idiom: neu and neve are the same as et ne (and may you not / and let not), uti is the same as ut, and Sallust prefers mortalis (mortal) where ordinary prose would use homo (man). The gerundive of obligation appears in providendum est (it is to be looked out for) and utendum censeo (I think they should be used), expressing what must be done. Equidem means for my part, surely.",
+     "divisio": {
+      "overview": "Caesar moves from a fresh warning, through a rebuttal of the prior speakers' rhetoric, to a maxim on the conduct required of the powerful.",
+      "parts": [
+       {
+        "label": "Renewed warning",
+        "detail": "The senators must not let the conspirators' crime or their own anger outweigh their dignity, and should choose the penalty the laws provide."
+       },
+       {
+        "label": "Rebutting the pathetic speeches",
+        "detail": "Caesar recalls how earlier speakers vividly pictured the horrors of a sacked city, then asks what such oratory was for, since words cannot inflame those whom the deed itself did not."
+       },
+       {
+        "label": "License varies with station",
+        "detail": "The faults of obscure men go unnoticed, but the powerful are watched by all, so in the highest fortune there is the least license to act on passion."
+       },
+       {
+        "label": "Closing judgment",
+        "detail": "Though every torment is less than the conspirators' crimes deserve, most men remember only the end and call a slightly harsh penalty cruelty."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "providendum est",
@@ -38275,6 +42762,31 @@ window.COURSE_DATA.courses.push({
      "lead": "Sallust, Bellum Catilinae: after Caesar speaks, M. Porcius Cato is asked for his opinion and tries to refute Caesar's arguments. (New ending today: the optional -re for the second person singular passive -ris, as in persequare.)",
      "original": "Postquam Caesar dicendi finem fecit, ceteri verbo alius alii varie adsentiebantur. At M. Porcius Cato, rogatus sententiam, huiusce modi orationem habuit:\n\n\"Longe mihi alia mens est, patres conscripti, cum res atque pericula nostra considero, et cum sententias non nullorum ipse mecum reputo. Illi mihi disseruisse videntur de poena eorum qui patriae, parentibus, aris, atque focis suis bellum paravere. Res autem monet cavere ab illis magis quam quid in illos statuamus consultare. Nam cetera maleficia tum persequare (optional 2nd sg. ending), ubi facta sunt -- hoc, nisi provideris ne accidat, ubi evenit, frustra iudicia implores. Capta urbe, nihil fit reliqui victis! Sed, per deos immortalis, vos ego appello, qui semper domos, villas, signa, tabulas vestras pluris quam rem publicam fecistis. Si ista (cuiuscumque modi sunt quae amplexamini) retinere, si voluptatibus vestris otium praebere vultis -- expergiscimini aliquando! et capessite rem publicam! Non agitur de vectigalibus, neque de sociorum iniuriis; libertas et anima nostra in dubio est!\n\nSaepenumero, patres conscripti, multa verba in hoc ordine feci. Saepe de luxuria atque avaritia nostrorum civium questus sum, multosque mortalis ea causa adversos habeo. Qui mihi atque animo meo nullius umquam delicti gratiam fecissem, haud facile alterius libidini male facta condonabam. Sed ea tametsi vos parvi pendebatis, tamen res publica firma erat; opulentia neglegentiam tolerabat. Nunc vero non id agitur: bonisne an malis moribus vivamus, neque quantum aut quam magnificum imperium populi Romani sit, sed haec, cuiuscumque modi videntur, nostra an nobiscum una hostium futura sint. Hic mihi quisquam mansuetudinem et misericordiam nominat? Iam pridem quidem nos vera vocabula rerum amisimus. Quia bona aliena largiri liberalitas, malarum rerum audacia fortitudo vocatur, eo res publica in extremo sita est. Sint sane -- quoniam ita se mores habent -- liberales ex sociorum fortunis. Sint misericordes in furibus aerari. Ne illi sanguinem nostrum largiantur, et, dum paucis sceleratis parcunt, bonos omnis perditum eant.\"",
      "explanation": "Today's reading reviews the new endings and adds one more: the optional -re for the second person singular passive ending -ris. This change can be made on any form that could have used -ris; it appears here in persequare and persequare-type forms. The grammar focus of this final stretch of the course concerns causal and conditional clauses, that is, clauses that tell why or on what condition something happens. A causal clause usually answers because and is introduced by words like quia, quod, quoniam, nam, or cum (meaning since); it normally takes the indicative when it states a plain fact (Quia bona aliena largiri liberalitas vocatur, because giving away others' goods is called generosity), but it may turn to the subjunctive in indirect speech or when the reason is reported as someone else's. A conditional clause answers if and is introduced by si (if), nisi (unless, if not), or sin (but if); the if part is the protasis and the result is the apodosis. A simple, factual condition keeps the indicative in both halves (Si voluptatibus vestris otium praebere vultis, expergiscimini, if you wish to give leisure to your pleasures, wake up). Watch in this passage how Cato moves from a plain causal statement to an urgent conditional appeal, and note nisi provideris ne accidat (unless you provide that it not happen), a future-more-vivid condition with the future perfect indicative in the if clause.",
+     "divisio": {
+      "overview": "A brief narrative frame introduces Cato, who then redefines the question, rebukes the senators' priorities, and exposes how moral words have been corrupted.",
+      "parts": [
+       {
+        "label": "Narrative frame",
+        "detail": "After Caesar finishes and others murmur vague agreement, Cato is asked his opinion and begins to speak."
+       },
+       {
+        "label": "Reframing the debate",
+        "detail": "Cato says his mind is wholly different: the moment calls not for deliberating on penalties but for guarding against the danger, for ordinary crimes can be prosecuted once done, but once the city is taken nothing is left to the conquered."
+       },
+       {
+        "label": "Rebuke of the property-lovers",
+        "detail": "He charges the senators who prize houses, statues, and paintings above the state to wake up and take charge, for the question is not tribute or allies but freedom and life itself."
+       },
+       {
+        "label": "His record of warnings",
+        "detail": "Cato recalls that he has often denounced the citizens' luxury and greed and made enemies by it, while the strong state once tolerated such neglect."
+       },
+       {
+        "label": "Corrupted language",
+        "detail": "Now that giving away others' goods is called generosity and reckless crime called courage, the state stands on the brink, and he scorns appeals to mildness and mercy."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "idoneus, a, um",
@@ -38568,6 +43080,35 @@ window.COURSE_DATA.courses.push({
      "lead": "Sallust, Bellum Catilinae (continued): Cato answers Caesar's specific motion point by point, recalls the virtues of the ancestors, and gives his own formal verdict on Lentulus and the rest.",
      "original": "\"Bene et composite C. Caesar paulo ante in hoc ordine de vita et morte disseruit -- credo falsa existimans ea quae de inferis memorantur: diverso itinere malos a bonis loca taetra, inculta, foeda atque formidulosa habere. Itaque censuit pecunias eorum publicandas, ipsos per municipia in custodiis habendos -- videlicet timens ne, si Romae sint, aut a popularibus coniurationis, aut a multitudine conducta per vim eripiantur. Quasi vero mali atque scelesti tantummodo in urbe, et non per totam Italiam sint; aut non ibi plus possit audacia, ubi ad defendendum opes minores sunt. Qua re vanum equidem hoc consilium est, si periculum ex illis metuit. Sin in tanto omnium metu solus non timet, eo magis refert me mihi atque vobis timere. Qua re cum de P. Lentulo ceterisque statuetis, pro certo habetote vos simul de exercitu Catilinae et de omnibus coniuratis decernere. Quanto vos attentius ea agetis, tanto illis animus infirmior erit. Si paulum modo vos languere viderint, iam feroces aderunt.\n\nNolite existimare maiores nostros armis rem publicam ex parva magnam fecisse. Si ita res esset, multo pulcherrimam eam nos haberemus. Quippe sociorum atque civium, praeterea, armorum atque equorum maior copia nobis quam illis est. Sed alia fuere quae illos magnos fecere, quae nobis nulla sunt -- domi industria, foris iustum imperium, animus in consulendo liber, neque delicto neque libidini obnoxius. Pro his nos habemus luxuriam atque avaritiam, publice egestatem, privatim opulentiam. Laudamus divitias, sequimur inertiam. Inter bonos et malos, discrimen nullum: omnia virtutis praemia ambitio possidet. Neque mirum. Ubi vos separatim sibi quisque consilium capitis, ubi domi voluptatibus servitis, hic pecuniae aut gratiae servitis, eo fit ut impetus fiat in vacuam rem publicam.\n\nSed ego haec omitto. Coniuravere nobilissimi cives patriam incendere. Gallorum gentem infestissimam nomini Romano ad bellum arcessunt. Dux hostium cum exercitu supra caput est. Vos cunctamini etiam nunc? Et dubitatis quid intra moenia deprensis hostibus faciatis? Misereamini, censeo -- deliquere homines adulescentuli per ambitionem -- atque etiam armatos dimittatis! Ne ista vobis mansuetudo et misericordia, si illi arma ceperint, in miseriam convertat. Scilicet res ipsa aspera est, sed vos non timetis eam. Immo vero maxime -- sed inertia et mollitia animi, alius alium exspectantes cunctamini, videlicet dis immortalibus confisi, qui hanc rem publicam saepe in maximis periculis servavere! Non votis, neque suppliciis muliebribus auxilia deorum parantur. Vigilando, agendo, bene consulendo, prospera omnia cedunt. Ubi socordiae te atque ignaviae tradideris, nequiquam deos implores. Irati infestique sunt. Apud maiores nostros, A. Manlius Torquatus bello Gallico filium suum, quod is contra imperium in hostem pugnaverat, necari iussit; atque ille egregius adulescens immoderatae fortitudinis morte poenas dedit -- vos de crudelissimis parricidis quid statuatis cunctamini? Videlicet cetera vita eorum huic sceleri obstat. Verum parcite dignitati Lentuli, si ipse pudicitiae, si famae suae, si dis aut hominibus umquam ullis pepercit. Ignoscite Cethegi adulescentiae, nisi iterum patriae bellum fecit. Nam quid ego de Gabinio, Statilio, Caepario loquar? Quibus si quicquam umquam pensi fuisset, non ea consilia de re publica habuissent. Postremo, patres conscripti, si, mehercule, peccato locus esset, facile paterer vos ipsa re corrigi, quoniam verba contemnitis. Sed undique circumventi sumus! Catilina cum exercitu faucibus urget. Alii intra moenia atque in sinu urbis sunt hostes, neque parari, neque consuli quicquam potest occulte. Quo magis properandum est.\n\nQua re ego ita censeo: cum, nefario consilio sceleratorum civium, res publica in maxima pericula venerit, eique indicio T. Volturci et legatorum Allobrogum convicti confessique sint caedem, incendia, aliaque se foeda atque crudelia facinora in civis patriamque paravisse, de confessis, sicuti de manifestis rerum capitalium, more maiorum supplicium sumendum.\"\n\nP.S. -- Cato won.",
      "explanation": "This second half is rich in conditional and causal clauses, the very patterns the course closes on. A causal clause gives the reason and is introduced by quod, quia, quoniam, cum (since), or nam; it takes the indicative for a plain fact (quoniam verba contemnitis, since you despise words) but the subjunctive when the reason is reported as another's, as in quod is contra imperium pugnaverat (because, as alleged, he had fought against orders). A conditional clause is introduced by si (if), nisi (unless), or sin (but if). Note the contrary-to-fact condition: Si ita res esset, multo pulcherrimam eam nos haberemus (if the matter were so, we would hold it the finest), with imperfect subjunctive in both the if clause and the result. Compare the future-more-vivid Si paulum modo vos languere viderint, iam feroces aderunt (if they see you grow weak even a little, they will at once be here fierce). Cato also uses the past contrary-to-fact: Quibus si quicquam umquam pensi fuisset, non ea consilia habuissent (if anything had ever mattered to them, they would not have formed those plans), with pluperfect subjunctive throughout. As you read, mark each si, nisi, sin, quia, quod, quoniam, and cum, and decide whether it is causal or conditional and why its verb is indicative or subjunctive.",
+     "divisio": {
+      "overview": "Cato rebuts Caesar's specific motion, contrasts ancestral virtue with present decay, presses the immediate danger, and ends in a formal verdict, capped by an editorial note.",
+      "parts": [
+       {
+        "label": "Refuting the imprisonment plan",
+        "detail": "Cato mocks Caesar's proposal to confiscate property and jail the men in the towns, since wicked men are everywhere and a deferred danger only grows."
+       },
+       {
+        "label": "Virtue, not arms, made Rome great",
+        "detail": "He argues the ancestors rose by industry, just rule, and free judgment, qualities now replaced by luxury, greed, and ambition that has seized virtue's rewards."
+       },
+       {
+        "label": "Denouncing present sluggishness",
+        "detail": "With noble citizens conspiring, Gauls summoned, and the enemy general overhead, Cato attacks the senate's hesitation and its empty trust in the gods."
+       },
+       {
+        "label": "Sweeping aside the pleas",
+        "detail": "He cites Torquatus executing his own son and dismisses any mercy owed to Lentulus, Cethegus, and the rest, since the city is surrounded and haste is required."
+       },
+       {
+        "label": "The formal motion",
+        "detail": "Cato moves that the confessed conspirators, convicted by testimony of plotting slaughter and arson, suffer capital punishment after the custom of the ancestors."
+       },
+       {
+        "label": "Editorial postscript",
+        "detail": "A closing note records that Cato's view prevailed."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "composite",

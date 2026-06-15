@@ -22,6 +22,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Every time you speak or write, you are using a hidden system of rules. **Grammar** is simply the study of that system: how words are built and how they fit together to express a complete thought. Grammar has two great halves. The first is **accidence**, which studies the individual word and the changes its form undergoes. The same idea of 'a dog' can appear as *dog*, *dogs*, or *dog's*; accidence asks what each of those forms means and how it is made. The second half is **syntax**, which studies how words are arranged and combined into sentences. Accidence looks at the brick; syntax looks at the wall. Words are not random noises. They are **signs of notions**, labels for the ideas in our minds. When we put words together in the right order and the right forms, we build a **sentence** that expresses a thought, an opinion, or a wish. Learning grammar means learning, on purpose, the rules you already half-know by instinct. Why bother? Because once you can name what your own language does, you can compare it to any other language you study. Grammar is the map that makes a foreign language readable instead of mysterious.",
      "lead": "Arnold opens Part I (Accidence) with the alphabet itself, then sorts the letters into vowels, diphthongs, and consonants, gives the rules for Y and W, and traces how sounds build into syllables, words, and sentences. Watch for his inline Latin etymologies (vocalis for vowel, consonare for consonant) and the old term 'notions,' which simply means ideas or conceptions in the mind.",
      "original": "§ 1. THE LETTERS.\n\nThe English language has twenty-six letters:\n\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z.\n\na b c d e f g h i j k l m n o p q r s t u v w x y z.\n\nThose letters which can be sounded by themselves, are called vowels. (a) There are five vowels, a, e, i, o, u.\n\nTwo vowels coming together form a diphthong, when the two sounds are blended into one, so that neither of them is quite lost. The only proper diphthongs in our language are eu, oi, ou; but two vowels are often used to mark a simple vowel sound.\n\nThose letters which cannot be sounded by themselves, are called consonants.\n\nY is a consonant when it stands at the beginning of a word or syllable, but a vowel in other positions.\n\nW after a vowel in the same syllable, is also a mere vowel.\n\n(In Latin, vocalis, vocal, sounding. From consonare, to sound with (something else).)\n\n(a) The different parts of the mouth, principally the palate, the tongue, and the lips, are called the organs (that is, the instruments) of speech.\n\n(b) The vowel sounds are formed rather by the voice passing through the cavity of the mouth more or less enlarged in different directions, than by the action of the palate, tongue, or lips. But in sounding a consonant there is always some pressing of the organs. No consonant can be spoken or heard without some helping sound. If it has not the distinct sound of a vowel, it must have something of a hiss, hum, or breathing.\n\nVowels pronounced by themselves, or with consonants, form syllables: syllables, by themselves or with other syllables, form words: words are used as signs of notions (or conceptions): and words are put together so as to form sentences, expressing thoughts, opinions, and the like.",
+     "divisio": {
+      "overview": "The section moves from the raw alphabet, through a sorting of the letters by how they are sounded, to a chain showing how sounds build up into sentences.",
+      "parts": [
+       {
+        "label": "The alphabet listed",
+        "detail": "names the twenty-six letters in capitals and small letters before any sorting begins"
+       },
+       {
+        "label": "Letters sorted by sound",
+        "detail": "defines vowels, then diphthongs, then consonants according to whether they can be sounded alone"
+       },
+       {
+        "label": "The Y and W rules",
+        "detail": "settles the doubtful letters, Y as consonant or vowel by position and W after a vowel as a vowel"
+       },
+       {
+        "label": "Notes on the organs of speech",
+        "detail": "explains in the lettered remarks how the mouth forms vowels and presses out consonants"
+       },
+       {
+        "label": "The build-up chain",
+        "detail": "closes by tracing vowels into syllables, syllables into words, and words into sentences expressing thoughts"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Grammar",
@@ -173,6 +198,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "There are thousands of words, but only a handful of **jobs** a word can do. We sort every word into a class called a **part of speech**, named for the work it does, not for what it is made of, but for how it is used. The main classes are these. A **noun** (or *substantive*) names a thing that has, or is imagined to have, an independent existence: *rose, man, London, modesty*. An **adjective** stands beside a noun to mark a quality we perceive in it: *sweet, heavy, light*. The little adjective-words *a*, *an*, and *the* are called **articles**. A **verb** expresses that persons or things do something, are something, or have something done to them: *run, hurt, bless, is*. An **adverb** adds to a verb or adjective some circumstance of time, place, or manner: *swiftly, very, violently*. The rest help the sentence hold together. A **pronoun** stands in for a noun so we need not repeat it: *I, he, we, it*. A **preposition** marks the relation of one thing to another: *in, on, over, from*. A **conjunction** joins notions or assertions together: *and, but, that*. And an **interjection** is a cry of feeling thrown into the sentence: *oh!, alas!, ah!*. The key idea is **use, not origin**. The very same word can be different parts of speech in different sentences. In *a fast runner*, *fast* is an adjective; in *he runs fast*, it is an adverb. Always ask what a word is *doing*, not just what it looks like.",
      "lead": "Beginning at the very top of the section, Arnold defines each part of speech in turn, from the substantive (his word for the noun) through to the interjection, with his inline Latin etymologies (adjectus, verbum, pro for the pronoun, praepositus, conjungere, interjectus). Watch for two older terms: 'substantive' means noun, and 'adjective-word' means anything (adjective, pronoun, article, or participle) used like an adjective before a noun.",
      "original": "§ 2. THE PARTS OF SPEECH.\n\nThe name of every object that has, or is conceived by the mind to have, an independent existence, is called a noun substantive, or merely a substantive. (Rose, flower, man, London, modesty.)\n\nSuch words as can stand immediately before a substantive, to denote some property that we perceive in objects, is called a noun adjective, or merely an adjective. (Sweet, sour, sharp, heavy, light.) (a) It will be seen below, that a particular class of adjective-words are called participles. See 11 (d) (e). (From the Latin adjectus, thrown to, added to. Noun, from nomen (Lat.), a name.)\n\nThe peculiar adjective-words 'a' or 'an' and 'the' are called articles. (a) A or an is called the indefinite article, and marks that we are speaking of some one of the objects named. (b) The is called the definite article, and marks that we are speaking of a particular object.\n\nEvery word by which we express that persons or things do any thing, or are any thing, or have any thing done to them, is called a verb. (To run, to walk, to hurt, to bless.) (a) To be (to which belong the forms is, are) is a peculiar verb, by means of which we join the name of a property to the name of a thing. 'The rose is red.' 'The colours are bright.' (b) Since the properties that we perceive in things are subject to change, the words 'is,' 'are,' are altered to denote whether the property existed at a former time, or exists now, or will exist at a future time: The rose is red. The rose was red, The rose will be red. The roses are red. The roses were red. The roses will be red. (c) To become is a similar verb, by which we mark the acquisition of a new property. 'The road becomes impracticable.' (d) The notion of a verb may be added to a substantive without being formally asserted of it. The forms which are used for this purpose are called participles. 'A sleeping boy.' 'A broken stick.' (e) Hence a participle is an adjective-word that, besides the notion of a property, conveys that of time; or of a completed or incompleted state. (From the Latin verbum, a word, as being the principal word in a sentence. Such words are called participles, because they participate in the nature of both adjectives and verbs.)\n\nSuch words as add to the notion of a property or action some circumstance of time, place, or manner, are called adverbs. (a) Though called ad-verbs, or words joined to verbs, they are also added to adjectives. A very nasty medicine. The storm rages violently. A terribly passionate man. He runs swiftly. (b) \"The adjective and adverb are essentially the same, both being names of property.\" We shall find that sometimes the same word is both adjective and adverb.\n\nA pronoun is a word that stands for a noun. (a) Pronouns save us from the necessity of repeating the noun; so that they are a convenient, but not a necessary part of speech. When the persons spoken of are known, they sometimes make it unnecessary to name them at all. Suppose Henry speaking: he may say, 'I think so and so,' instead of, 'Henry thinks so and so.' If he is speaking of himself and Charles, he may say, 'We think so and so,' instead of, Henry and Charles think so and so.' (Latin, pro, for: a pronoun is therefore a for-noun; a word used for a noun.)\n\nA word that marks the relation of one thing to another, is called a preposition. (a) Hence on, in, over, under, through, above, below, from, &c. are prepositions. They stand immediately before a substantive, or some adjective-words prefixed to a substantive. (b) The primary relations marked by prepositions are relations in space; relations of local position. The prepositions used to denote these relations in space, were then transferred to analogous relations of time. Thus, 'He stood before me' (in space). He lived before Cæsar' (in time). (Praepositus, placed before (the noun it governs). By adjective-word is here meant any adjective, pronoun, article, or participle that is used adjectively with a substantive.)\n\nA word that joins notions or assertions together, is called a conjunction. 'The rose is red and sweet.' 'I wish that I could see him.' (Conjungere, to join together.)\n\nA word, generally a simple sound, used to express some inward feeling (such as sorrow, surprise, anger, pain) is called an interjection. (From interjectus, thrown in between or amongst; it being thrown into the sentence, as it were, without belonging to its grammatical structure.)",
+     "divisio": {
+      "overview": "The section is a run of definitions, one part of speech defined after another in a fixed order, from the substantive and adjective through the verb and adverb to the pronoun, preposition, conjunction, and finally the interjection.",
+      "parts": [
+       {
+        "label": "Substantive and adjective",
+        "detail": "defines the noun that names a thing, then the adjective that marks a property of it, with the articles as special adjective-words"
+       },
+       {
+        "label": "The verb",
+        "detail": "defines the verb of doing or being, then dwells on to be, to become, and participles in its lettered remarks"
+       },
+       {
+        "label": "The adverb",
+        "detail": "defines the word adding a circumstance of time, place, or manner, and notes its overlap with the adjective"
+       },
+       {
+        "label": "Pronoun, preposition, conjunction",
+        "detail": "defines these three in turn: the pronoun that stands for a noun, the preposition that marks a relation, and the conjunction that joins notions together"
+       },
+       {
+        "label": "The interjection",
+        "detail": "closes with the cry of feeling thrown into the sentence without belonging to its structure"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Part of speech",
@@ -431,6 +481,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **noun** names something, but not all things are named the same way, so nouns fall into kinds. Learning these kinds trains you to look closely at *what* a word names. The first split is common versus proper. A **common noun** names any individual belonging to a whole class of like things: *tree, flower, soldier, city*. Because it fits every member of the class, it begins with a small letter. A **proper noun** is the special name of one particular person or place: *John, London, the Thames*. Because it is 'proper' (peculiar) to one individual, it begins with a capital letter. The second split is concrete versus abstract. A **concrete noun** names a thing that really exists and can be met with in the world: *iron, soldier, rose*. An **abstract noun** names a quality or idea that the mind has 'drawn off' from real things and treats as if it had its own existence: *strength, virtue, redness, prudence*. You cannot point at *courage*, yet we speak of it as a thing; that is what makes it abstract. Finally, a **collective noun** (or noun of multitude) is a *singular* word naming a whole group of individuals as one: *flock, swarm, nation, army*. One army is made of many soldiers, but 'army' is grammatically one thing. A single noun can belong to more than one kind at once: *London* is both proper and concrete; *kindness* is both common and abstract.",
      "lead": "Arnold opens by showing how a child forms the notion of a class of things, then sorts substantives into common (appellative), proper, abstract, concrete, and collective. Watch for the Latin roots he explains: 'appellative' from appellare to call, 'abstract' from abstrahere to draw away, and 'concrete' from concretus, condensed or compacted.",
      "original": "§ 3. DIVISION OF SUBSTANTIVES.\n\nWhen a child has learnt to know that a rose is a flower, a daisy a flower, and so on, if you show it a buttercup, it will probably know that that is a flower too. If so, it will have got the notion of a class of things, which are alike in some considerable points, though unlike in others.\n\nSuch names as denote any of the individuals that are contained in a class of things, are called common nouns or appellatives. (Tree, flower, soldier, house.) (a) Common, because they are common to every individual comprised in the class. Appellative from appellare to call, because they are the names by which external objects are called.\n\nIn the names of materials no individual is distinguished. (Water, milk, sand, iron, money, grass.)\n\nThe names of persons and places are called proper names. (a) Proper from being proper, that is peculiar, to the individual bearing the name. (John, the Thames, London.)\n\nAnother class of substantives represent qualities or modes of action which are conceived by the mind as having an independent existence. When I have seen, or read of, a number of virtuous actions, I get the general notion of virtue. When I have seen a number of red things, I form the notion of redness, and so on. The names of such notions are called abstract substantives, from abstrahere to draw away, because the notions themselves are drawn off, as it were, from the mass of appearances presented to our view. Hence:\n\nAn abstract substantive is the name of a quality or property conceived by the mind as having an independent existence.\n\nAs distinguished from abstract substantives, the names of things that really exist are called concrete. (a) Concrete from concretus, condensed or compacted; the abstract notion being compressed, as it were, and fixed in an actually existing individual.\n\nA collective substantive, or noun of multitude, is a singular substantive that expresses a collection of many individuals. (Flock, swarm, nation, people.) (a) The whole body forms one notion in the mind, which is quite distinct from our notion of each of the individuals composing it.",
+     "divisio": {
+      "overview": "The section begins with a child forming the notion of a class, then divides substantives into successive kinds, each defined against the one before.",
+      "parts": [
+       {
+        "label": "The child and the class",
+        "detail": "opens with a child recognizing roses, daisies, and a buttercup all as flowers, to show how the notion of a class arises"
+       },
+       {
+        "label": "Common nouns and materials",
+        "detail": "names the appellatives that fit any individual in a class, adding the names of materials in which no individual is marked"
+       },
+       {
+        "label": "Proper names",
+        "detail": "sets off the names of persons and places, peculiar to the one individual that bears them"
+       },
+       {
+        "label": "Abstract and concrete",
+        "detail": "derives abstract substantives as qualities drawn off by the mind, then contrasts the concrete names of things that really exist"
+       },
+       {
+        "label": "Collective substantives",
+        "detail": "closes with the noun of multitude, a singular word that holds a whole body as one notion"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Common noun",
@@ -630,6 +705,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "We often need to show whether we mean **one** thing or **more than one**. The form of a noun that we change to show this is its **number**. English has just two numbers: the **singular**, meaning one (*dog*), and the **plural**, meaning more than one (*dogs*). The basic rule is simple: form the plural by **adding -s** to the singular: *book/books*, *tree/trees*, *king/kings*. But English keeps a handful of older patterns, so learn these exceptions. Nouns ending in **ch, sh, s, x, or o** (after a consonant) add **-es**: *church/churches*, *box/boxes*, *hero/heroes*. Many ending in **f or fe** change it to **-ves**: *leaf/leaves*, *knife/knives*, *wolf/wolves*. Nouns ending in **y after a consonant** change the y to **-ies**: *lady/ladies*, *city/cities*; but a y after a vowel just adds -s (*day/days*). A few old words do not play by any of these rules; you simply have to know them. Some change a vowel inside (*man/men*, *foot/feet*, *goose/geese*, *mouse/mice*). A few add **-en** (*ox/oxen*, *child/children*). And some never change at all (*sheep/sheep*, *deer/deer*). These survivors are leftovers from an older English where plurals were far more varied.",
      "lead": "Arnold opens by explaining why a language marks number at all, notes the dual of Hebrew and Greek, then lays out the rule for plurals with its exceptions and counter-exceptions, the old vowel-changing and -en plurals, the behaviour of abstract nouns and defective nouns, and finally a long note on the plural of proper names and adopted foreign words. He calls the noun's two number-forms the singular and the plural, and lists peculiar forms such as geese, mice, oxen, and brethren.",
      "original": "§ 4. NUMBER. FORMATION OF THE PLURAL.\n\nIt would soon be found convenient, though not necessary, to indicate by an alteration in the form of a substantive, whether one was spoken of, or more than one.\n\nIt would be possible to invent forms to indicate many particulars with respect to number: but such forms would probably be very clumsy and unmanageable, and the end is more simply and conveniently attained by the addition of a numeral adjective to those forms of a noun which indicate that more than one are spoken of.\n\nIn some languages, as in Hebrew and Greek, there is a form called the dual (from duo, two), which is used to indicate that two are spoken of. In English, as in Latin and many other languages, we have only two numbers, as they are called; the singular, which indicates that we are speaking of one; the plural, which indicates that we are speaking of more than one.\n\nThe plural number of a substantive is the substantive so altered as to express that we are speaking of more than one.\n\nThe plural of a substantive is generally formed by adding s to the singular, that is to the substantive itself.\n\nBut to this rule there are some exceptions. (a) Substantives that end in ch, sh, s, x, or o after a consonant, add es to the singular. (b) Many that end in f, and fe, form their plural in ves. (c) Those that end in y after a consonant, form their plural in ies.\n\nCOUNTER-EXCEPTIONS. (a) Of those in o after a consonant, canto, tyro, quarto, and occasionally some others, are generally written cantos, &c. in the plural. (b) When ch is pronounced hard, like k, s only is added. (c) Words that end in oof, ief (except thief, thieves) ff (except staff, staves; leaf, leaves), rf, together with strife, fife, do not change f into v. (d) Several nouns have peculiar forms in the plural. In some of these the vowels of the word are changed: in goose, foot, and tooth, oo is changed into ee (geese, feet, teeth); in mouse and louse, ou is changed into i, and s into c (mice, lice); others form the plural in en, which stands as an added syllable in ox, oxen, and child, children; and takes the place of the singular termination in man, woman (men, women). Die, sow, and penny, have in the plural, dice, swine, pence. Brother (brother-en), brethren.\n\nDie takes dies, when it means a stamp for coining. Brother makes brothers, except when it is used to denote persons of the same society or profession: 'The United Brethren;' 'My Christian brethren;' 'His medical brethren look shy upon him.' Penny makes pennies, when the particular coin is meant, and not the sum or value. (For childer-en; apparently a double plural, the termination er being a plural termination in German.)\n\nAbstract substantives, when used as such, have no plural. (a) But abstract substantives are often used in the plural to express particular acts agreeing with the general notion. Thus we have in the Liturgy, negligences and ignorances, for sins of negligence and ignorance: and Hume uses insolences for acts of insolence. So kindnesses for acts of kindness, and sometimes providences for acts of providential interference. (b) The plural of abstract substantives in y is used to compare the different degree in which the abstract quality exists in different substances. 'The respective affinities of lead and iron for manganese.' 'The specific gravities of oil and water.'\n\nAshes, bellows, bowels, lungs, scissors, have no singular. (a) Deer, sheep, are both singular and plural. \"Fish is used collectively for the race of fishes.\"—JOHNSON. (b) Names of materials have no plural, except when different kinds or varieties are spoken of. 'Sugar is dear.' 'There is a heavy duty upon wine.' But we may say, 'Fine sugars are dearer.' 'There is a heavy duty upon French wines.' (c) The names of sciences ending in ics, are sometimes used as singular nouns. (d) Folk is properly a noun of multitude; but the plural is used to express individuals of a particular character.—'Merry folks,' 'plain folks.' (e) Means is both singular and plural: mean is now used only to express the middle between two extremes; the point of neither too much or too little. (f) News is generally singular, but is now and then found in the plural. (g) Pains is generally plural, but is often found in the singular. Crombie observes that we can say, much pains, though much cannot be used with a plural noun. (h) Riches and alms are now considered plural. The translators of the Bible used them as either singular or plural. They often use 'much riches.' Tobit iv. 10: \"Alms do deliver,\" &c.; and in the next verse, \"Alms is a good gift unto all that give it in the sight of the Most High.\" (i) Wages appears to be used as a singular noun in the Bible: \"The wages of sin is death.\" Rom. vi. 23. \"Appoint me thy wages, and I will give it.\" Gen. xxx. 28. Also Tobit iv. 14. (j) Amends is used as a singular noun.\n\nON THE PLURAL OF PROPER NAMES, AND FOREIGN WORDS ADOPTED INTO THE LANGUAGE.\n\nWith respect to the plural of proper names, usage is still unsettled. Some persons would say the Miss Thompsons, others the Misses Thompson: the former mode is clearly more in keeping with the general practice of the language, and one's leaning at first would be toward it: but those who plume themselves on their accuracy adopt the latter; and at all events they can allege the authority of Swift, who writes, \"I went to the Ladies Butler.\"\n\nMiddleton writes, \"Among the Scipio's, Paullus's, Marius's, Pompey's,\" &c.; and he forms the plural of foreign words in a by adding s, with the mark of apostrophe. \"He denounced anathema's against all who did so.\" \"Three periods distinguished by as many remarkable epocha's.\" In one of Cowper's letters (Southey's edition) I find, \"you and all your et ceteras with you.\"\n\nWith respect to the Miss Thompsons, or the Misses Thompson, I am decidedly for the Miss Thompsons: no one would think of speaking as we are told we ought to write. I should form the plural regularly, except where the termination of the proper name would be altered by doing so. 'The Pompeys,' 'the Scipios,' 'the Mariuses.'—\"The Miss Brady's.\" I should also give a plural termination to the names of the vowels in this way. In the genitive of the fifth (Latin) declension, e is long when it stands between two i's.",
+     "divisio": {
+      "overview": "The section reasons from why number is marked at all, states the plural rule, then qualifies it through layers of exceptions before two long notes on stubborn cases.",
+      "parts": [
+       {
+        "label": "Why number is marked",
+        "detail": "argues that marking one against more than one is convenient, and sets English at two numbers, having no dual like Hebrew or Greek"
+       },
+       {
+        "label": "The general rule",
+        "detail": "states that the plural is formed by adding s to the singular"
+       },
+       {
+        "label": "Exceptions and counter-exceptions",
+        "detail": "lists the -es, -ves, and -ies endings, then the counter-exceptions and the peculiar vowel-change and -en plurals"
+       },
+       {
+        "label": "Defective and one-number nouns",
+        "detail": "treats abstract substantives without plurals and words like ashes, deer, means, and news that lack one number"
+       },
+       {
+        "label": "Proper names and foreign words",
+        "detail": "closes with the unsettled usage for plurals of proper names and adopted foreign words"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Number",
@@ -752,6 +852,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Nouns rarely stand alone. A noun is usually connected to other words: a crown can be *the king's* crown, or a crown *of gold*. A **case** is the form or position a noun takes to show its **relation** to the rest of the sentence, that is, what role it plays. English barely changes its noun-forms, so we mostly show case by *word order* and by little words like *of* and *to*. But it helps to name three cases. The **nominative** is the plain, unaltered form of the noun, used when it is the subject, the doer of the action: *The **king** rules.* The name comes from Latin *nominare*, 'to name'; it is simply the noun as it is named. The **possessive** (also called the **genitive**) shows belonging or 'of'-ness. English forms it by adding **'s** to the noun: *the **king's** crown* means the crown *of* the king. This is the one true case-ending English still has. The **objective** (in Latin the *accusative*) marks the noun that suffers the action, the immediate object, answering *whom?* or *what?* after the verb: *He struck **Richard**.* In English, nouns look identical in the nominative and objective (*John struck Peter*), but in pronouns the difference shows: **I** struck him; he struck **me**. This is the doorway to Latin. English mostly relies on order to tell subject from object, but Latin changes the ending of the noun itself for every case, and a noun has *six* of them.",
      "lead": "Opening the section, Arnold explains why nouns take different cases and defines the nominative, genitive, and accusative in turn, with a long historical note on the apostrophe and the genitive 's. Note his older labels: the 'genitive' is what we also call the possessive ('s), and the 'accusative' is the objective case, the 'suffering object' that receives the action. Expect the archaic spelling 'dropt' and the word 'inflexion' for inflection.",
      "original": "§ 5. CASES.\n\nIt is obvious that we think and speak of things that are closely connected with other things. We do not conceive every thing as standing alone and independent. We may think not only of a crown, but of the king's crown, a crown of gold, and so on.\n\nWhen we think of a king's crown, we add to the notion of a crown the notion of its belonging to the king. When we think of a crown of gold, we add to the notion of a crown the notion of its being made of gold.\n\nWe can also think of an action that is done for the benefit of a person. We can think of such an action as being done by such a person, or with such an instrument, or from such a cause.\n\nIf by a case we understand one of the altered forms by which the various relations of a noun to other notions may be expressed, the English language has only one case for substantives, and two for some of the pronouns.\n\nBut if by the case of a noun we understood the expression of any of these relations, whether indicated by its termination or in any other way, we have as many cases as any other nation.\n\nNOMINATIVE CASE. GENITIVE. ACCUSATIVE.\n\nThe simple form of the noun, which is of course used when we consider it independently, is called the nominative case. (From nominare, to name.) (a) The nominative was placed at the head of the cases, though properly it is no case, but merely the word in its unaltered form. The word case means 'fall:' the old Greek grammarians wrote the nominative in an upright line, and the other cases in lines inclined to it at certain angles, so that the forms of the genitive, accusative, &c. seem to be falling, as it were, from the original word. Hence these forms were called the oblique cases.\n\nEnglish substantives have only one case (the genitive) formed by inflexion. (a) Inflectere is to bend in; to bend. The noun was bent, as it were, into a fitness to denote the relation to be expressed.\n\nGENITIVE.\n\nThe genitive is now formed by adding s with an apostrophe (thus, 's) to the nominative.\n\nIn plural words ending in s, the genitive is like the nominative, but it is now customary to mark an apostrophe after the s. \"On eagles' wings.\" (a) So in the phrase, 'for righteousness' sake: but we also say, 'for conscience sake.' (b) The apostrophe after the genitive plural is absurd, for an apostrophe marks that a vowel has been dropt, whereas no vowel ever followed the s of the plural to form a genitive. \"The present practice is scarcely of a hundred years standing.\" (c) The Anglo-Saxon genitive of the second declension ended in es (leaf, leafes: word, wordes). Hence this is the only case we have kept, the apostrophe marking the omission of the e. Probably therefore the apostrophe should never be marked, but where an e has been dropt. A notion came into fashion, \"probably in the latter half of the sixteenth century,\" that the s of the genitive stood for his: under this notion the his was often written at length, especially where the substantive ended in s. Even good writers, such as Clarendon, Barrow, Dryden, Pope, followed the fashion; though its absurdity is immediately perceived, when we consider that s follows feminine nouns and plurals, where his can have no place. (d) Many persons merely mark the apostrophe after the final s, to form the genitive of singular nouns ending in that letter. Thus \"Eneas' young son.\" In the Bible we have \"Mars hill\" (now printed Mars' hill): and Spenser and Milton write, Venus Sonne, Phoebus lamp, Morpheus train, &c. This practice accords with that of the Germans, who regard names ending in s as indeclinable; Tantalus Sohn, Æschylos Agamemnon. In Anglo-Saxon, proper names in s sometimes did, and sometimes did not, receive an additional es in the genitive. 'Mattheus gerecednys,' Matthew's narrative; 'Urias wif,' Uriah's wife. But also 'Philippuses,' 'Remuses.' Middleton writes the second s wherever we should pronounce it: \"Judas's:\" it would be far better to write Judases, Remuses, &c. if one durst.\n\nWhen two or more words are so closely joined together as almost to form one complex notion, the sign of the genitive is added to the last word, so as to put the whole phrase in the genitive. \"Beaumont and Fletcher's plays.\" \"Howell and James's shop.\" \"The king of England's palace.\"\n\nACCUSATIVE.\n\nThe suffering object, that is, the object immediately affected by the action expressed by the verb, stands in the accusative case.\n\nThe verbs that take an accusative case, or in other words express an action done to an object, are called transitive verbs.\n\nThe accusative case, therefore, assigns the immediate object affected by the action, in answer to the question whom? or what? \"He struck Richard.\"—Whom did he strike? Richard.\n\nIn English substantives the nominative and accusative are alike; but in the personal pronouns the accusative is formed by inflexion. (John (nom.) struck Peter. Peter struck John (accus.). I (nom.) struck John. John struck me (accus.).)",
+     "divisio": {
+      "overview": "The section first argues why nouns need cases at all, settles how many English has, then defines the three named cases one after another.",
+      "parts": [
+       {
+        "label": "Things connected to things",
+        "detail": "opens by observing that we conceive a crown as the king's or as of gold, never standing alone, so relations must be expressed"
+       },
+       {
+        "label": "How many cases",
+        "detail": "weighs two senses of case and concludes English has one formed by inflexion, or as many relations as any nation"
+       },
+       {
+        "label": "The nominative",
+        "detail": "defines the simple unaltered form, with the note on case as 'fall' and the oblique cases of the Greek grammarians"
+       },
+       {
+        "label": "The genitive",
+        "detail": "gives the 's ending, then a long history of the apostrophe, the false his theory, and the joint genitive on the last word"
+       },
+       {
+        "label": "The accusative",
+        "detail": "closes with the suffering object affected by the verb, identified by whom or what, shown clearly only in the pronouns"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Case",
@@ -888,6 +1013,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "Every noun in English belongs to a **gender**. There are three of them: **masculine** (words for males, like *boy*, *king*, *uncle*), **feminine** (words for females, like *girl*, *queen*, *aunt*), and **neuter** (words for things with no sex, like *rock*, *table*, *idea*). The word *neuter* simply means \"neither\": neither masculine nor feminine. In modern English, gender mostly shows up in which pronoun we use to point back at a noun: we say **he** for a man, **she** for a woman, and **it** for a thing. So *gender* is really about whether a noun counts as a he, a she, or an it. Many English words come in male/female pairs: *king* and *queen*, *actor* and *actress*, *uncle* and *aunt*. Often the feminine word is made by adding the ending **-ess** to a masculine word (*lion* → *lioness*, *host* → *hostess*). Sometimes we even give a gender to things that have no real sex. A poet might call a ship *she*, or call the Sun *he*. This is a choice for poetic effect, not a grammar rule, and you do not have to do it.",
      "lead": "Arnold sorts every noun into masculine, feminine, or neuter, then notes how English poets and speakers sometimes hand a sex to sexless things (the Sun, a ship) and to animals in general. As you read, the term \"neuter\" just means \"neither of the two.\"",
      "original": "All animals are either male or female. In other objects there is no distinction of sex. So that all things are either masculine, feminine, or neuter,—that is, neither of the two.\n\n(a) We speak, however, of some inanimate things, as if they had a sex. In other words, we may (not must) speak of some things as if they were persons, and give them a sex. We consider the Sun as masculine, the Moon as feminine. Time and Death are masculine; Religion, Virtue, and all particular Virtues, feminine; the Earth, feminine; Spring, feminine; Winter, Summer, Autumn, Love, &c. masculine: a Ship, a State, a City, our Country, Law, the Mind, Health, &c. feminine.\n\n(b) When we are speaking of any animal in a general way, we often use a particular sex, making the more fierce, robust, and vigorous, masculine; the more timid, quiet, and demure, feminine. Thus elephant, horse, ass, dog, fox, masculine; hare, cat, feminine.",
+     "divisio": {
+      "overview": "A general rule of three genders is stated first, then two named exceptions show how speakers grant a sex to sexless or generic things.",
+      "parts": [
+       {
+        "label": "The threefold rule",
+        "detail": "states that all things are masculine, feminine, or neuter, neuter meaning neither of the two"
+       },
+       {
+        "label": "Sexed inanimates",
+        "detail": "lists things treated as persons with a chosen sex, the Sun masculine, the Moon and Virtue feminine"
+       },
+       {
+        "label": "Sexed animals in general",
+        "detail": "assigns the fierce and vigorous animal masculine, the timid and demure feminine"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Gender",
@@ -1031,6 +1173,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "Sometimes we put one noun right next to another noun to say more about it. The second noun **renames** or **defines** the first. This is called **apposition**, and the renaming noun is called an **appositive**. For example, in *Maria, the daughter of Atlas*, the phrase *the daughter of Atlas* renames *Maria*; it tells us who she is. Both noun phrases point to the very same person. We could drop either one and still have a sentence that makes sense: *Maria smiled* or *The daughter of Atlas smiled*. When the appositive is extra information, we usually set it off with **commas**: *My uncle, a doctor, lives in Rome.* Here *a doctor* renames *my uncle*. When the appositive is tightly needed to identify the noun, we leave the commas out: *my friend Maria*. The key idea is that the two nouns are equals, sitting side by side and naming the same thing. A pronoun can have an appositive too: *I, Themistocles, command you*, where *Themistocles* renames *I*.",
      "lead": "Arnold defines apposition as one substantive set beside another in the same case to define it more exactly, and adds a quirk: rivers take their name straight (the river Thames), but towns and islands join their name with \"of\" (the city of Rome). Note that \"substantive\" is the old word for noun.",
      "original": "When one substantive is put in the same case with another for the purpose of defining it more exactly, it is said to be in apposition to that substantive.\n\nSubstantives in apposition are, by the definition, in the same case. 'Maia, the daughter of Atlas.' A personal-pronoun may have a substantive in apposition: 'I Themistocles,' &c.\n\nThough the name of a river stands in apposition to the generic term river ('the river Thames'), the names of towns and islands follow their generic terms under the government of the preposition 'of.' 'The city of Rome;' 'the island of Malta.'\n\nA substantive often stands in apposition to a sentence. \"The weather forbids walking; a prohibition hurtful to us both.\" (Cowper.)",
+     "divisio": {
+      "overview": "A definition opens the passage, then three widening applications run from a basic example to a place-name quirk to apposition with a whole sentence.",
+      "parts": [
+       {
+        "label": "Definition",
+        "detail": "names apposition as one substantive set in the same case to define another more exactly"
+       },
+       {
+        "label": "Same-case examples",
+        "detail": "illustrates with Maia and shows that a pronoun too can take an appositive, as I Themistocles"
+       },
+       {
+        "label": "The place-name quirk",
+        "detail": "contrasts the river Thames in plain apposition with the city of Rome joined by of"
+       },
+       {
+        "label": "Apposition to a sentence",
+        "detail": "extends the rule to a substantive renaming a whole clause, citing Cowper"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Apposition",
@@ -1189,6 +1352,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "Three tiny words, **a**, **an**, and **the**, are called **articles**. They come before a noun and tell us how specific we mean it to be. **A** and **an** are the **indefinite article**. They mark that we mean *some one* of the objects named, not any particular one. *I saw a dog* means *some* dog, no special one. We use **a** before a consonant sound (*a book*, *a house*) and **an** before a vowel sound (*an apple*, *an hour*). The indefinite article is used only with singular countable nouns. **The** is the **definite article**. It marks that we mean a *particular*, known object. *I saw the dog* means a specific dog, one we already know about. *The* works with singular and plural nouns alike: *the dog*, *the dogs*. So the choice of article changes the meaning. *Hand me a pen* lets the listener pick any pen; *hand me the pen* points to one pen you both have in mind.",
      "lead": "Arnold first defines an adjective as a word set before a substantive to mark a property (noting that participles are a special class of adjective-word), then singles out the three special adjective-words a, an, and the as articles, splitting them into indefinite (some one of a kind) and definite (a particular object). Watch for the older term \"substantive,\" his word for noun.",
      "original": "Such words as can stand immediately before a substantive, to denote some property that we perceive in objects, is called a noun adjective, or merely an adjective. (Sweet, sour, sharp, heavy, light.)\n\n(a) It will be seen below, that a particular class of adjective-words are called participles. See 11 (d) (e).\n\nThe peculiar adjective-words 'a' or 'an' and 'the' are called articles.\n\n(a) A or an is called the indefinite article, and marks that we are speaking of some one of the objects named.\n\n(b) The is called the definite article, and marks that we are speaking of a particular object.",
+     "divisio": {
+      "overview": "The passage defines the adjective broadly, then narrows to the articles and splits them into their two kinds.",
+      "parts": [
+       {
+        "label": "Adjective defined",
+        "detail": "calls any word set before a substantive to mark a property a noun adjective, with a note that participles are one class of these"
+       },
+       {
+        "label": "Articles singled out",
+        "detail": "names a, an, and the as the peculiar adjective-words called articles"
+       },
+       {
+        "label": "Indefinite article",
+        "detail": "marks a or an as pointing to some one of the objects named"
+       },
+       {
+        "label": "Definite article",
+        "detail": "marks the as pointing to a particular object"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Article",
@@ -1333,6 +1517,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "An **adjective** is a word that describes a noun; it names a quality we notice in a thing, like *sweet*, *heavy*, *red*, or *brave*. Adjectives answer questions such as *what kind?* or *which one?* Adjectives appear in two main positions. When an adjective stands right before the noun it describes, it is **attributive**: *a red rose*, *a brave soldier*. The word is attached directly to the noun, almost like a label. When an adjective comes after a **linking verb** (especially the verb *to be*) and describes the subject, it is a **predicate** adjective: *The rose is red.* *The soldier was brave.* Here the verb joins the quality to the subject instead of the adjective sitting against the noun. The word *predicate* just means \"what is said about the subject.\" Notice that the same adjective can play either role. *Red* is attributive in *a red rose* but predicate in *the rose is red*. Spotting which position an adjective is in will matter a great deal when you learn Latin.",
      "lead": "Arnold's section on the Attributive Combination: a notion added to a substantive to describe it more exactly, but not asserted of it in a full sentence, is joined to it attributively, and anything that can be used predicatively with the verb \"to be\" may instead be used attributively. Watch for the older term \"substantive,\" his word for noun, and Becker's contrast that a predicative combination expresses one thought while an attributive combination expresses one notion only.",
      "original": "§ ii. ATTRIBUTIVE COMBINATION.\n\nAny notion added to a substantive for the purpose of describing it more exactly, but not asserted of it in the form of a sentence, is said to be joined to it attributively.\n\nAny word or phrase that is capable of being used predicatively with the verb to be, may be used attributively.\n\n(a) Thus an attributive may be an adjective, a participle, a pronoun, a substantive in apposition, a substantive in the genitive case, a substantive governed by a preposition, and even sometimes an adverb. ('A red house.' 'Running water.' 'This book.' 'William the Conqueror.' 'The boy's father.' 'A leg of mutton.' 'The under side.')\n\nA predicative combination (or sentence) expresses one thought: an attributive combination, on the other hand, expresses one notion only. (Becker.)\n\nFrom our having so few terminations, the position of words in a sentence admits of hardly any variation. Thus a word or phrase standing immediately before a substantive, is felt to be equivalent to an adjective modifying it; and hence we are able to use another noun or almost any short phrase adjectively. 'A gold ring.' 'A barn door.' 'The marriage act.' 'An off-hand manner.' 'Last Tuesday night.'\n\n(a) This is a valuable idiom. How much more compact is 'the marriage act,' than 'the act for regulating marriages.'\n\n(b) 'A Savings Bank' is a Bank for the Savings of the Poor. It is quite unnecessary to write \"Savings' Bank,\" as some people do.\n\nThere is very little difference in use between the genitive case and an adjective, when the genitive case is used to modify the notion of a noun; i. e. used attributively. 'Cæsar's party' = the Cæsarian party.\n\nOne attributive word or phrase may often be expressed by another. 'The royal authority' = the king's authority. 'A wooden box' = a box of wood.\n\n(a) As no two languages exactly agree, it will often be necessary, in translating from one language into another, to translate an adjective by the genitive of a noun, or a noun governed by a preposition; and conversely.\n\nWhen one notion is thus joined attributively to another, an assertion is assumed which may be more formally expressed by a relative sentence, whenever it is convenient or necessary to do so. 'Honesty, the best policy' = which is the best policy.\n\nThe attributive adjective, participle, or pronoun agrees with its substantive in case, gender, and number.\n\n(a) This is a law of universal grammar, though in English it is only perceptible in the case of demonstrative pronouns. This man: these men. That boy: those boys.\n\n(b) Kind, sort, &c. are singular, and must have singular pronouns; though as nouns of multitude they may have plural verbs. 'This kind of potatoes.'\n\n(c) Such expressions as 'a rogue of a lawyer,' 'a rascal of an attorney,' &c. are equivalent to 'a roguish lawyer,' 'a rascally attorney.'\n\n(d) The singular word 'every' stands with a plural word of time in such phrases as 'every three years' = 'at the end of each third year;' or 'once in each third year.' 'In every three words he named and threatened me.'",
+     "divisio": {
+      "overview": "The section builds from a definition of the attributive combination through the range of attributives and word-order idiom to the rule that the attributive agrees with its noun.",
+      "parts": [
+       {
+        "label": "Definition of attributive",
+        "detail": "a notion added to describe a substantive but not asserted of it in a sentence"
+       },
+       {
+        "label": "What can be attributive",
+        "detail": "lists the forms an attributive may take and cites Becker that it expresses one notion, not a thought"
+       },
+       {
+        "label": "The word-order idiom",
+        "detail": "explains that a word before a substantive acts adjectivally, allowing the marriage act and a gold ring"
+       },
+       {
+        "label": "Recasting one attributive as another",
+        "detail": "shows genitive and adjective interchange, as Caesar's party for Caesarian, and notes the assumed relative clause"
+       },
+       {
+        "label": "Rule of agreement",
+        "detail": "states the attributive agrees in case, gender, and number, with subnotes on kind, rogue-of-a-lawyer, and every"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Adjective",
@@ -1496,6 +1705,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Adjectives can change form to **compare** things. These forms are called the three **degrees** of comparison. The **positive** degree is the plain form, with no comparison made at all: *tall*, *happy*, *cold*. The **comparative** degree compares **two** things and usually ends in **-er**: *taller*, *happier*, *colder*, as in *Summer is hotter than winter.* The **superlative** degree compares **three or more** and picks out the highest one; it usually ends in **-est**: *tallest*, *happiest*, *coldest*, as in *the tallest tree in the forest.* There are spelling tweaks: an adjective ending in *-y* changes *y* to *i* (*lofty → loftier → loftiest*). Longer adjectives (two or more syllables) usually do not add *-er/-est*; instead we put **more** and **most** in front: *more careful*, *most careful*. A few common adjectives are **irregular** and must be memorized: *good → better → best*, *bad → worse → worst*, *little → less → least*, *much/many → more → most*. These do not follow the -er/-est pattern at all.",
      "lead": "Arnold's full section on the comparison of adjectives: he opens by noting English adjectives are not declined, then lays out the comparative (a property in a greater degree than in others) and the superlative (the highest degree of all compared), names the plain form the positive, and gives the -er/-est endings with their spelling rules, the more/most rule for longer words, the irregular forms like good, better, best, and a closing run of archaic forms (extremest, chiefest) and the \"superlative of eminence.\"",
      "original": "Adjectives are not declined in the English language.\n\nAn adjective undergoes a change of form to express a comparison between different objects.\n\nWhen the form of an adjective is so altered, as to express that a property exists in the subject we are speaking of, in a greater degree than in some other or others, the adjective is said to be in the comparative degree.\n\n(a) 'Summer is hotter than winter:' i. e. Summer possesses the property signified by the adjective hot in a higher degree than winter does. 'The Andes are higher than the Alps.'\n\nWhen the form of an adjective is so altered, as to express that, of all the individuals compared together, the property belongs in the highest degree to that of which we are speaking, the adjective is said to be in the superlative.\n\n(a) Hence the comparative and superlative are called 'degrees of comparison.'\n\nThe comparative ends in er, the superlative in est.\n\n(a) These endings are added to the adjective; but if it ends in e already, only r is added, which, however, increases the word by a syllable. (Safe, safer.) Those that end in y change y into i before er and est. (Lofty, loftier.)\n\n(b) The adjective, in its simple form, is said to be in the positive degree. [Positivus, placed, put; because the property is simply put down without any comparison made with other objects.]\n\nAdjectives of more than one syllable, with the exception of those of two syllables ending in a vowel, do not admit of this change.\n\n(a) This is the modern practice. In Milton, virtuousest, famousest, &c.\n\n(b) We use the adverbs more and most, when we wish to compare the properties that are expressed by such adjectives.\n\nThe following adjectives have peculiar forms for their comparatives and superlatives:\n\nGood, better, best. Much, more, most. Bad, worse, worst. Many, more, most. Little, less, least.\n\nLate and near have last and next for their superlatives, as well as latest and nearest.\n\nThere are also some superlatives in most: nethermost, lowermost, undermost; hindmost and hindermost; upmost and uppermost; inmost and innermost; topmost, foremost.\n\n(a) Observe, that in some of these most is added to the positive, in some to the comparative, and in others to adverbs, or prepositions (used adverbially).\n\n(b) Further, furthest, have nothing to do with far, but come from an old adjective forth: consequently, we should not write farther, farthest.\n\n(c) The comparative and superlative are more nearly defined by such words of quantity as much, far, considerably,—little, somewhat, &c., and the existence of any excess is denied by no, not at all, &c., with the comparative. 'She is no better.'\n\n(d) In many languages the superlative is used without a direct comparison of the object with others, to express that it possesses the quality in a very high degree. The superlative thus used, is called the superlative of eminence. In English, we commonly use the adverb very for this purpose. 'A very good house.'\n\n(e) Sometimes, however, our superlative is used as a superlative of eminence, especially when it is modified by such an adjective as possible, imaginable, conceivable, &c. It will generally, however, be found, that there is an implied reference to other objects: 'He received me in the kindest possible manner.' 'The greatest imaginable folly.' Here the reference is to all the possible degrees of kindness; to every imaginable species of folly.\n\n(f) In most languages we find a few comparatives and superlatives from words which already denote the highest degree of a quality. One would not wish to get rid of such forms, when they have once obtained a firm footing, and may be considered as naturalized in the language.\n\n(g) There seems to be authority for the following forms:—\n\nExtremest. \"The extremest of evils.\" Bacon. \"The extremest verge.\" Shakespeare. \"His extremest state.\" Spenser. Also Dryden and Addison. [So the Greek.]\n\nChiefest. \"Chiefest of the herdmen.\" Bib. \"Chiefest courtier.\" Shak. \"First and chiefest.\" Milt.\n\nPerfect. \"Usage has given to it (more perfect) a sanction which we dare hardly controvert.\" Crombie. \"Having more perfect knowledge of that way.\" Acts xxiv. 22.",
+     "divisio": {
+      "overview": "Arnold opens with the premise that adjectives change form to compare, defines the two compared degrees, then sets out the regular endings and their limits, the irregular and most forms, and closes with refinements and archaic survivals.",
+      "parts": [
+       {
+        "label": "Premise and the two degrees defined",
+        "detail": "notes adjectives are not declined but change form to compare, then defines the comparative as a greater degree than others and the superlative as the highest of all compared"
+       },
+       {
+        "label": "Endings, spelling, and the positive",
+        "detail": "gives -er and -est with the e and y spelling rules and names the plain form the positive"
+       },
+       {
+        "label": "Limit and the more/most rule",
+        "detail": "notes longer adjectives reject the endings and take more and most instead"
+       },
+       {
+        "label": "Irregular and -most forms",
+        "detail": "lists good, better, best and the run of nethermost, hindmost, and the like"
+       },
+       {
+        "label": "Refinements and survivals",
+        "detail": "covers defining words, the superlative of eminence with very, and archaic forms like extremest and chiefest"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Degree",
@@ -1657,6 +1891,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **pronoun** is a small word that takes the place of a noun. Instead of saying \"Maria put on Maria's coat because Maria was cold,\" we say \"Maria put on **her** coat because **she** was cold.\" The pronouns *her* and *she* let us avoid repeating the name. The word *pronoun* literally means \"for a noun\": it is a stand-in word. The noun a pronoun replaces is called its **antecedent**. *Ante-* means \"before,\" because the antecedent usually comes earlier in the sentence. In \"The dog wagged **its** tail,\" the antecedent of *its* is *dog*. A pronoun and its antecedent should **agree**; they must match in number (singular or plural) and, when it matters, in gender. We would never say \"The boys lost **his** ball\" if all the boys lost one ball together; we would say \"The boys lost **their** ball.\" Pronouns are useful because they keep our sentences short and smooth. Without them, language would be clumsy and full of repetition. They are not strictly necessary (you could always repeat the noun), but they make speaking and writing far more natural. There are several **kinds** of pronouns, and this unit will meet them one at a time: personal, possessive, demonstrative, relative, interrogative, and indefinite. For now, the key idea is simple: a pronoun stands for a noun, and that noun is its antecedent.",
      "lead": "Arnold's plain definition of a pronoun, followed by the note that pronouns are convenient but not strictly necessary. Watch his old example of Henry speaking, where the pronoun 'I' (or, for himself and Charles, 'We') saves him from naming himself, and the closing footnote on the Latin root 'pro' (\"for\").",
      "original": "A pronoun is a word that stands for a noun.\n\n(a) Pronouns save us from the necessity of repeating the noun; so that they are a convenient, but not a necessary part of speech. When the persons spoken of are known, they sometimes make it unnecessary to name them at all. Suppose Henry speaking: he may say, 'I think so and so,' instead of, 'Henry thinks so and so.' If he is speaking of himself and Charles, he may say, 'We think so and so,' instead of, 'Henry and Charles think so and so.'\n\nLatin, pro, for: a pronoun is therefore a for-noun; a word used for a noun.",
+     "divisio": {
+      "overview": "A bare definition, then a note that justifies and illustrates it, then an etymology, moving from what a pronoun is to why we use it to where its name comes from.",
+      "parts": [
+       {
+        "label": "The definition",
+        "detail": "states in one line that a pronoun is a word standing for a noun."
+       },
+       {
+        "label": "The use, with the Henry example",
+        "detail": "explains that pronouns spare us repeating the noun and shows Henry saying 'I' or 'We' for his own name."
+       },
+       {
+        "label": "The Latin root",
+        "detail": "closes by deriving the name from pro, 'for', so a pronoun is a for-noun."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Pronoun",
@@ -1772,6 +2023,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "**Personal pronouns** point to people by their role in the conversation. The **first person** is the speaker: *I, we*. The **second person** is the one spoken to: *you*. The **third person** is the one spoken about: *he, she, it, they*. Unlike most English words, personal pronouns change their form depending on the job they do in the sentence; this is called **case**. When the pronoun is the **subject** (the doer), we use the subject case: *I, he, she, we, they*. When it is the **object** (the receiver of an action or the word after a preposition), we use the object case: *me, him, her, us, them*. So we say \"**She** saw **him**,\" never \"Her saw he.\" A quick test: the doer comes before the verb (*I run*), the receiver comes after (*they chased me*). The third form is the **possessive**, which shows that something belongs to the person: *my, your, his, her, its, our, their*. There are two flavours. One sits in front of a noun (*my hat, our house*); the other stands alone (*That hat is **mine**; the house is **ours***). Notice *its* (possessive) has no apostrophe; *it's* with an apostrophe means \"it is.\" Keeping these straight matters. \"Between you and **me**\" is correct because *me* follows the preposition *between*; \"between you and I\" is a common mistake.",
      "lead": "This is the complete opening of Arnold's pronoun chapter. It begins with Buttmann's caution that pronouns shade into adjectives, then classes pronouns by person (first, second, third) and lists his five classes, and gives the full Declension of Pronouns table along with the reflexive forms (myself, thyself, himself). Note his archaic terms 'thou'/'ye', 'substantive pronoun', and 'genitive' for what we now call the possessive.",
      "original": "PRONOUNS, AND WORDS ALLIED TO THE PRONOUN.\n\nButtmann well observes, that \"pronouns cannot be so precisely defined in theory, as not to admit many words which may also be considered as adjectives.\"\n\n(a) All words may be considered pronouns, or at least to have a pronominal character, which are capable of being used as nouns, but carry with them a simply relational notion; or, in other words, which, instead of naming or describing an object, enable us to recognize it by some relation, of definiteness or indefiniteness, of place, of kind, &c.\n\n(b) Thus a pronoun denotes whether the thing spoken of is or belongs to the speaker himself; whether it is or belongs to the person he is addressing; whether it is or belongs to some third person or thing, of which he is speaking; whether it is some object near him, or near another, and so on. In classing pronouns, the speaker is called the first person (I, we); the person spoken to, the second person (thou, you); the person or thing spoken of, the third person (he, she, it: they). There are five principal classes of pronouns: Personal, Demonstrative, Relative, Indefinite, and Interrogative pronouns.\n\n(A.) Personal Pronouns (which are all Substantive Pronouns).\n\n(a) I, plural we, is called the pronoun of the first person.\n(b) Thou, plural you, is called the pronoun of the second person.\n(c) He, she, it, plural they, are the pronouns of the third person.\n\nDECLENSION OF PRONOUNS.\n\n  Nom.        Genitive            Accus.\nPers. 1 Sing.  I      my or mine          me\nPers. 1 Plur.  we     our or ours         us\nPers. 2 Sing.  thou   thy or thine        thee\nPers. 2 Plur.  ye, you  your or yours     you\nPers. 3 Sing. mas.  he   his              him\nPers. 3 Sing. fem.  she  her or hers      her\nPers. 3 Sing. neut. it   its              it\nPers. 3 Plur.  they   their or theirs     them\nRelative and Interrogative:  who  whose  whom;  which  of which or whose  which\nDemonstrative:  this, that;  plural these, those.\n\n(a) Of the two forms of the genitive, the first is used when it is to stand before its substantive; the second, when it stands alone. 'This hat is mine.' 'This is my hat.'\n\n(b) But formerly mine was used before a substantive beginning with a vowel or silent h.\n\n(c) The forms set down for the genitive case are sometimes called possessive pronouns, and considered as adjectives. As the genitive denotes possession, there is no determining whether they are genitives, or possessive (adjective) pronouns. In Anglo-Saxon, the possessive pronouns were formed from the genitives of the two first persons, by declining them as indefinite adjectives: the third person had no exclusive possessive pronoun; the genitive of the personal pronoun being used for it unchanged. (Rask, p. 55.) As then the possessive pronouns were the genitives of the personal pronouns with adjective terminations, when we lost our terminations, we lost all that made a difference between the possessive pronouns, and the genitives of the personal ones.\n\n(d) [Since other languages express possession by adjective pronouns, as well as by genitive cases, in translating from English into another language, we must consider whether the word to be used is, or is not, an adjective, equivalent in all its forms to our genitive case. When it is, it must of course agree with its substantive. \"Suus liber,\" his (own) book; because suus is an adjective meaning his own: but \"ejus liber,\" his book, because his is not an adjective meaning his throughout.]\n\nPersonal pronouns are reflexive, when the thing or person denoted by the pronoun is the same with the subject; that is, with the thing or person spoken of. Our reflexive forms for the nominative and accusative are obtained from the personal pronouns by the addition of self, plural selves.\n\n  Sing.        Plur.\n1. myself      ourselves\n2. thyself     yourselves\n3. himself, herself, itself    themselves\n\nObs. The terminations are added to the genitives of the two first persons, to the accusatives of the third person.\n\nTo make the genitive cases (or possessive pronouns) reflexive, we use the pronominal adjective own. 'He killed himself with his own sword.'\n\n(a) Sylf (self, seolf) is declined like an adjective, both definitely and indefinitely, in Anglo-Saxon. Rask, 54. Own is the Anglo-Saxon agen.",
+     "divisio": {
+      "overview": "A chapter opening that moves from a general theory of pronouns down to one class, displaying it in a full declension table, then adding the genitive and reflexive forms that grow out of it.",
+      "parts": [
+       {
+        "label": "Buttmann's caution and the pronominal character",
+        "detail": "warns that pronouns blur into adjectives and describes the relational notion they all share."
+       },
+       {
+        "label": "Classing by person and the five classes",
+        "detail": "names the first, second, and third persons and lists the five principal classes of pronoun."
+       },
+       {
+        "label": "Personal pronouns and the declension table",
+        "detail": "isolates the personal class and lays out the nominative, genitive, and accusative forms in a grid."
+       },
+       {
+        "label": "Notes on the two genitive forms",
+        "detail": "explains my versus mine, the possessive-or-genitive question, and the rule for translating into Latin."
+       },
+       {
+        "label": "The reflexive forms",
+        "detail": "builds myself, himself, and 'his own' from the personal pronouns to close the section."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Personal pronoun",
@@ -1906,6 +2182,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **demonstrative pronoun** points at something; the name comes from a Latin word meaning \"to point out.\" English has four: **this** and its plural **these**, and **that** and its plural **those**. The choice depends on **distance**. *This* and *these* point to what is **near** the speaker (\"**This** is my desk; **these** are my books\"). *That* and *those* point to what is **farther away** (\"**That** is the moon; **those** are the mountains\"). The same idea works for time and ideas, not just physical space: *this* tends to point to something coming up or just said, while *that* points back to something already past. The same words can act in two ways. When a demonstrative stands **alone** in place of a noun, it is a true pronoun: \"**This** is heavy.\" When it sits **in front of** a noun and modifies it, grammarians often call it a demonstrative **adjective**: \"**This** box is heavy.\" The word is the same; its job in the sentence tells you which it is. When *this* and *that* both refer to two things already mentioned, *this* means the **nearer** (the one mentioned last) and *that* the **former** (mentioned first). Mastering these pointing words prepares you well, because pointing pronouns are everywhere in Latin.",
      "lead": "The complete demonstrative section. Arnold defines the pointing-out pronouns (this/these near, that/those far), explains that 'that' means the former and 'this' the latter when two things are in view, and then treats 'such' (pointing out the kind) and 'the same' (pointing out by identity) as further demonstratives. Expect older terms like 'attributive' and 'errour', a footnote on the Latin root de-monstrare, and a long defence of 'such' against Lindley Murray.",
      "original": "(B.) Demonstrative Pronouns.\n\nThe Demonstrative (or pointing-out) pronouns are: 'this,' pl. these; that, pl. those. 'This' points out what is near the speaker; 'that' what is further from him. 'Such' and 'same' may also be considered demonstrative pronouns.\n\nWhen 'this' and 'that' relate to two things before mentioned, this means the nearest, which is of course the one last mentioned.\n\n(a) Consequently, 'that' is in such cases equivalent to the former; 'this' to the latter.\n\n(b) 'This' is used of a coming statement, or one that has just been made; 'that' generally refers to a past one.\n\n(c) Crombie says, it is abundantly evident that 'this' and 'that' are not pronouns, for they never represent a noun. But surely, to go no further, 'that' does stand for a noun in the example quoted by himself: 'the only good on earth Was pleasure; not to follow that was sin.' Here 'that' stands simply for 'pleasure': there is no ellipse, for we cannot put in the word 'pleasure,' without striking out that. 'That' stands for 'pleasure,' and not for 'that pleasure.' So in such sentences as, \"the first opportunity was that of the Prince of Denmark's death,\" 'that' stands for 'the opportunity.'\n\nFrom de-monstrare, to point out.\n\n'Such' may be considered a demonstrative pronoun, indicating or pointing out the kind.\n\n(a) If the substantive requires the article (which must be the indefinite article), it stands after such. 'Such a man.'\n\n(b) 'Such' may stand before another attributive adjective: the article, if necessary, must stand between them. \"How long shall all the wicked doers speak so disdainfully, and make such proud boasting?\" Ps. xciv. 4.\n\n(c) Lindley Murray unfortunately took it into his head to order 'such' to be turned into 'so,' whenever and wherever it might be found in company with another attributive. Accordingly in Parker's Progressive Exercises, part ii. p. 12, we have a set of exercises on this errour. The notion has no foundation in truth or reason; but it is necessary to combat it at some length. (1.) The German solcher stands before another attributive exactly as our such. Solch schönes Wetter, such fine weather. Solch grosse Güte, &c. (2.) The practice is found in almost every page of our best writers. \"Such moderate showers.\" Prayer for Rain. \"Such worthy attempts;\" \"such an awful repulse;\" \"such a low esteem.\" Milton. \"Such great and strange passages.\" South. \"Such wretched passions and prejudices.\" Middleton. \"Such palpable sophistry;\" \"such exquisite delicacy:\" \"such an exact accord.\" Cowper. (3.) It is exactly like another idiom: 'What pernicious influence.' Middleton. 'What a brutal fellow!' is just like 'such a brutal fellow;' but no Lindley Murray, I believe, has ever ordered me to correct this into, 'How brutal a fellow.' (4.) To say nothing of the close resemblance between adjectives and adverbs, it is obvious that the such modifies the substantive; 'Such palpable sophistry,' i. e. palpable sophistry of this kind.\n\n(d) 'Such' is sometimes used to denote a particular thing, which it is not necessary to mention. 'I told him that he must pay me on such a day.' In this meaning we often find 'such and such:' (\"I would have given thee such and such things,\" or, such or such. 'A law forbidding such or such an action.')\n\nTo this class belongs also 'the same,' which points out an object by means of the relation of identity. \"He that abideth in me, and I in him, the same bringeth forth much fruit.\" John xv. 5.\n\n(a) By 'the same,' we express not only absolute but virtual identity; that is, extreme similarity, sufficient to constitute one object as good as the same with another. The degree of similarity that is sufficient to constitute two objects virtually the same, must be determined by the purposes for which they are to be employed.",
+     "divisio": {
+      "overview": "A definition of the core pointing words, refined by notes and a defence against a critic, then extended to two further demonstratives, 'such' and 'the same'.",
+      "parts": [
+       {
+        "label": "The four pointing words",
+        "detail": "names this/these for the near and that/those for the far, and adds such and same."
+       },
+       {
+        "label": "Notes on this and that",
+        "detail": "covers the former-and-latter rule, the coming-versus-past statement, and the reply to Crombie that 'that' can stand for a noun."
+       },
+       {
+        "label": "'Such' as pointing out the kind",
+        "detail": "gives its placement with the article and the long defence of 'such' before an attributive against Lindley Murray."
+       },
+       {
+        "label": "'The same' as pointing out by identity",
+        "detail": "closes with the demonstrative of identity and the note on absolute versus virtual sameness."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Demonstrative pronoun",
@@ -2060,6 +2357,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **relative pronoun** does a clever double job: it stands for a noun AND links a whole describing clause to that noun. The three main ones are **who** (for people), **which** (for things), and **that** (for either). In \"The painter **who** lives next door,\" *who* both replaces *painter* and ties on the clause *lives next door*. The group of words a relative pronoun introduces is called a **relative clause**. It tells us more about a noun, just as an adjective would, so it is sometimes called an adjective clause. The noun it describes (the one the relative pronoun stands for) is its antecedent. In \"the book **that** I read,\" the antecedent of *that* is *book*. Use *who* (and its object form *whom*, its possessive *whose*) for persons; use *which* for things; *that* works for both in defining clauses. The very same words also ask questions. As **interrogative pronouns**, *who?*, *which?*, and *what?* stand at the front of a question. The difference is purpose, not spelling: a relative pronoun links and refers back; an interrogative pronoun asks. \"**Who** broke the window?\" is a question (interrogative). \"The girl **who** broke the window\" describes (relative). A handy test: if you can turn the clause into a direct question and the rest answers it, the word is interrogative: \"I asked **who** was there\" answers \"Who was there?\" *Which* tends to ask about a choice from a known set (\"**Which** of these do you want?\"), while *who* asks openly about a person.",
      "lead": "The complete relative, interrogative, and reciprocal sections. Arnold lays out who/which/that and why they are called relative, treats 'what' as 'that which,' then turns to the question-asking pronouns and gives his test for telling a hidden interrogative from a relative, and finally adds the reciprocal forms 'each other' and 'one another.' Note his terms 'substantive pronoun' (stands alone) and 'adjective pronoun' (takes a noun after it), the archaic 'whether' for which-of-two, and the footnote on the Latin interrogare.",
      "original": "(C.) Relative Pronouns.\n\nThe relative pronouns are: 'who' for persons, 'which' for things, and that for either persons, or things.\n\n(a) They are called relative, because they refer to an object already mentioned. 'The house, which you have bought:—the house, which house you have bought.'\n\n'What' is also a relative pronoun, which is equivalent to 'that which.'\n\n'Who,' 'what,' and 'that' are substantive pronouns, and cannot stand before the substantive they refer to. 'Which' is an adjective pronoun, and can be immediately followed by its substantive.\n\n(a) Our use of 'that' as a relative comes to us from the Anglo-Saxon. \"The demonstrative pronoun that, se, seó, is also used relatively, like the English that, and is, in general, repeated in the sentence, so that in the first clause it stands as a demonstrative, and in the next as a relative.\" Rask, p. 58.\n\n(b) Whose, as the genitive of 'which,' has been objected to by many writers. Johnson says: \"it is rather the poetical than the regular genitive of which.\" It occurs in the Bible (as well as in Shakspeare, Milton, &c.): \"Nebuchadnezzar the king made an image of gold, whose height was threescore cubits,\" &c. Dan. iii. 1.\n\n(c) 'Which' formerly took the definite article, the. \"In the which ye also walked sometime.\" Col. iii. 7.\n\n(d) From 'who, which,' and 'what,' are formed compounds by the addition of 'ever,' 'soever.' Whoever, whichever, whatever; whosoever, whichsoever, whatsoever. Whoever is equivalent to any man who: and so of the rest. Lindley Murray says of these compound pronouns, that \"they are seldom used in modern style.\" This is by no means true of whoever, whatever, and whichever.\n\n(e) Whoso is another compound of who, which is now out of use.\n\n(D.) Interrogative (or question-asking) Pronouns.\n\n'Who,' 'which,' and 'what,' are also interrogative pronouns.\n\n(a) 'Which' is used to ask which individual of a known class or number is the object we are enquiring about. 'Who did this?' carries with it no notion of our having any knowledge on the subject. 'Which of you did it?' implies that I know it was done by one of you.\n\nFrom interrogare, to ask.\n\n(b) 'Whether' was formerly used instead of which, when the enquiry related to two objects. As a pronoun, it has gone out of use. \"Whether of them twain did the will of his father?\" Matt. xxi. 31.\n\nWhen an interrogative pronoun stands at the head of a dependent clause, there is danger of mistaking it for a relative.\n\n(a) To determine whether 'who, which,' or 'what' is an interrogative, turn the sentence on which it depends into a question. If the dependent clause gives the answer to such a question, the pronoun is an interrogative. 'I asked who was there.' What did you ask? Ans. 'Who was there.' 'I asked what he was going to do.' What did you ask? Ans. 'What he was going to do.' In these sentences who and what are interrogative pronouns.\n\n(E.) Reciprocal Pronouns.\n\nA reciprocal pronoun is one that denotes the mutual action of different agents upon each other.\n\n(a) 'Each other,' and 'one another,' are our reciprocal forms, which are treated exactly as if they were compound pronouns, taking for their genitives, 'each-other's;' 'one-another's.' 'Each other' is used of two or more; 'one another' can only be used of more than two.",
+     "divisio": {
+      "overview": "Three lettered sections in sequence, on relative, interrogative, and reciprocal pronouns, but the interrogative section breaks into two movements, the question-asking words themselves and then the test for telling a hidden interrogative from a relative.",
+      "parts": [
+       {
+        "label": "Relative pronouns",
+        "detail": "names who, which, and that, explains why they are called relative, and adds 'what' for 'that which' plus the substantive-versus-adjective distinction and compounds."
+       },
+       {
+        "label": "Interrogative pronouns",
+        "detail": "shows the same words asking questions, contrasts 'who' with 'which of you', and notes the old 'whether' for two."
+       },
+       {
+        "label": "The test for a hidden interrogative",
+        "detail": "turns the governing sentence into a question; if the dependent clause answers it, the word is interrogative."
+       },
+       {
+        "label": "Reciprocal pronouns",
+        "detail": "closes with 'each other' and 'one another' for mutual action and the rule of two versus more than two."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Relative pronoun",
@@ -2207,6 +2525,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "An **indefinite pronoun** stands for a person or thing without saying exactly which one. Words like **some, any, none, each, every, all, few, many, another, other** leave the identity or the amount open. \"**Some** went home, but **none** stayed\": we do not know precisely who. A few patterns are worth learning. **Some** is for statements and offers (\"I have **some** bread\"); **any** is the partner used in negatives and questions (\"I don't have **any**\"; \"Do you have **any**?\"). **None** means \"not one\" or \"not any\"; it is the stand-alone form, just as *mine* is to *my*: \"As for paper, I have **none**.\" **Each** and **every** look at a group one member at a time; *every* applies to more than two, while *each* can apply to any number, even two. Closely related are **numerals**, the words of counting. A **definite numeral** names an exact number: *one, two, three, ten*. An **indefinite numeral** gives a vague amount: *many, few, several, much*. (Notice *many* and *few* count separate things, while *much* measures an uncountable mass: *many coins* but *much money*.) The cardinal numbers (one, two, three) tell how many; the ordinal numbers (first, second, third) tell the order. These open-ended words round out the family of pronouns. Together with the personal, possessive, demonstrative, relative, and interrogative pronouns from earlier lessons, they give you the full toolkit for standing in for nouns.",
      "lead": "The complete numerals section that closes the pronoun chapter. Arnold first divides numerals into definite (one, two, three) and indefinite, then works through the indefinite numerals one by one: each versus every, either/neither, many and few for number versus much for quantity, all/no/none, some, any, enough, other, another, one, only, alone. He closes with the definite numerals (cardinals, ordinals, multiplicatives, numeral adverbs) and the rules for compound and distributive numbers. Note his broad use of 'numeral' for any word of number or quantity, the archaic 'enow' and the old 'three first' for 'first three.'",
      "original": "Numerals.\n\nNumerals express the relations of number and quantity.\n\nNumerals are definite, if they denote a particular number, as one, two, three.\n\nNumerals are indefinite, if they denote no particular number or quantity; as many, some, much.\n\n(F.) Indefinite Numerals.\n\nThe indefinite numerals are each, every; either, neither; many, much; few, several; all, no, more, some, any, enough; other, another; one (used indefinitely), only, alone, &c.\n\n(a) 'Each,' 'every,' are used to separate, as it were, a number into the individuals of which it is made up.\n\n(b) 'Every' can only be applied to each of more than two individuals. 'Each' can be applied to each of two or any greater number. Johnson says that each, in the sense of every one of more than two, is rare except in poetry. It is not rare in the Bible. \"Cloven tongues sat upon each of them;\" \"the four beasts had each of them six wings.\" It comes from the Anglo-Saxon alc, which is applicable to each of any number.\n\n(c) 'Either' and 'neither' relate to two objects. (d) 'Either' means the one or the other; and also which of the two you please. (e) 'Either' has also the meaning of each, both. \"On either side of the river.\" \"Sev'n times the sun hath either tropic viewed.\"\n\nMany, few, several, denote number: much denotes quantity. Many shillings: much money.\n\n(a) 'Many' is used with a singular substantive, with the indefinite article a between it and the substantive. \"You, I know, have many a time sacrificed your own feelings to those of others.\" We also find \"a great many.\"\n\n(b) Is it possible that this idiom came from a substantive, the German Menge (Anglo-Saxon, menegu)? \"Eine Menge Hasen,\" is exactly \"a many hares,\" as country people often speak, and indeed as Shakespeare often spoke: \"told of a many thousand warlike French.\"\n\n(c) 'Few' is joined with a plural substantive, but may take the indefinite article a before it, although that article cannot be used with a plural word. 'Can you lend me a few shillings?'\n\n(d) 'Few' is equivalent to but few, if any. 'A few' some, though not many. When we use 'few,' we are approaching to a denial of there being any; we use 'a few,' when we wish to assert that there are some. 'There are few men who would have acted as he did.' 'I know a few men who would have acted precisely as he did.'\n\n(e) Just so, 'little' is equivalent to 'but little, if any;' 'a little,' to 'some, though not much.'\n\nAll, no, none, some, any, enough, denote either number or quantity.\n\n(a) All men (number); all the cloth (quantity). When all denotes quantity, the noun will commonly have the, or the genitive case of a personal pronoun with it.\n\n(b) No and none differ as my and mine, &c. 'I have no paper.' 'As to paper, I have none.'—None, like mine, was formerly used before a vowel. \"This is none other but the house of God.\" Gen. xxviii. 17.\n\n(c) 'None,' though compounded of no one, is used as either singular or plural. \"All King Solomon's vessels were of gold. there were none of silver.\" 1 Kings x. 21.\n\nSome.\n\n(a) Some men (number); some beef (quantity). (b) 'Some' is used with numerals to signify about. \"Some fifty years ago.\" Mr. Crombie considers \"this phraseology highly objectionable;\" but it is a good old Saxon idiom. \"Sum is often found combined with the genitive plural of the cardinal numbers, and signifies 'about,' 'some;' as .... sume ten gear, some ten years.\" (Rask, p. 61.) So Lat. aliqui viginti dies, and Germ. einige zwanzig Tage.\n\n'Any' has several meanings which must be carefully distinguished, because in other languages these meanings are not all expressed by the same words.\n\n(a) After negative words, and such words and phrases as have a negative force, 'any' marks the exclusion of all: 'He did it without any hesitation.' 'We cannot make any difference between you.' So after 'scarcely,' 'without,' and comparatives, and in 'questions of appeal' where the expected answer is nobody, none. 'Scarcely any one.' 'Without any difficulty.' 'He is taller than any of his schoolfellows.' 'Can any man believe this?'\n\n(b) It is sometimes equivalent to 'any you please,' 'every body.' 'Any body can do that.'\n\n(c) Again it is sometimes indefinite, being equivalent to some one. 'Shall we tell any body of our misfortunes?' the particular person being left undecided.\n\nEnough (enow).\n\nJohnson says: \"It is not easy to determine whether this word be an adjective or adverb; perhaps, when it is joined to a substantive, it is an adjective, of which enow was the plural. In other situations it seems an adverb; except that after the verb to have, or to be, either expressed or understood, it may be accounted a substantive.\" It comes from the Anglo-Saxon genoh, enough, \"which follows the indefinite declension of adjectives.\" (Rask, p. 61.) So in German, genug is an adjective, and, as in English, commonly stands after its substantive: 'Geld genug,' money enough.\n\n'Other' takes a plural others, when it is used without a substantive. 'The other day' means a day or two ago; a few days ago. Johnson confines it to \"the third day past.\"\n\n'Another' means one more, some one other.\n\n'One,' when not a numeral, has two principal uses:\n\n(1.) It is used (like the German 'man,' and the French 'on') in a general and indefinite way for a man, any man. \"One would imagine these to be the expressions of a man blessed with ease, affluence, and power.\" \"One's leaning at first would be towards it.\"—From this one is formed a reflexive pronoun, oneself. [There is no more reason for writing one's self than there is for saying his self instead of himself.]\n\n(2.) 'One' often stands as a substitute for a substantive already mentioned. Johnson says: \"this relative mode of speech, whether singular or plural, is in my ears not very elegant, yet is used by good authors.\" It will be seen from the examples, that Middleton's ears were less fastidious on this point than Dr. Johnson's. \"There are many whose waking thoughts are wholly employed on their sleeping ones.\" Addison. \"But I have already undergone, he says, the worst sort of banishment a liberal mind can suffer; a total one from the hearts and affections of all good men.\" Middleton. \"You say withal, that you did not intend to attack all my quotations, but only the original ones.\" Middleton.\n\n(a) One has also a plural when it stands for persons indefinitely, as 'the great ones of the world.'\n\n(b) 'One' often stands in company with every, any, no.\n\n'Only' commonly stands after its substantive, as 'Man only:' except when the substantive has an article or possessive pronoun (genitive of a personal pronoun) with it. 'The only way;' 'an or his only son.'\n\n'Alone' stands after its substantive.\n\n(a) To complete the indefinite numerals, we may add, aught, naught; something, nothing; somewhat, a little. Naught is used in the sense of worthless, of no value.\n\n(b) These are generally used as substantives, but sometimes as adverbs.\n\nOf the indefinite numerals or pronouns, those that relate to quantity, whether exclusively or not, are used adverbially, with comparative adjectives to express the degree.\n\n(a) 'Are you any better?' 'I am all the better for'—'I am no better for'—'I am none the better for'—'I am something, somewhat, a little better for.'—She \"had spent much money, and was nothing bettered.\"—'I am much better,' &c.\n\n(b) 'Enough' naturally goes with the positive. 'Good enough.'\n\n(c) 'Much' sometimes has the force of nearly, pretty nearly. \"Clemens and Eusebius say much the same thing.\"\n\nThe indefinite pronouns are, not without reason, called also indefinite numerals. Rask, p. 60.\n\n(G.) Definite Numerals.\n\nNumerals denote the number of things. A few numerals are substantives: a unit, a pair, a couple, a dozen, a score, a hundred, a thousand, a million, &c.\n\n(a) After numerals, the words pair, couple, &c. do not take the plural form, 'six pair of shoes,' &c.\n\n(b) So in German: 'zwei Paar Schuhe,' two pair of shoes; 'drei Dutzend Aepfel,' three dozen of apples; 'sechs Fuss lang,' which Becker translates, 'six foot long.'\n\n(c) In such examples as 'a hundred altars,' &c. Johnson considers hundred an adjective; but the omission of the preposition of does not make it necessary to suppose this. He himself does not call dozen an adjective, merely because we can say 'a dozen miles' (one of his own examples).\n\nSuch numerals as answer to how many? are cardinals: one, two, three, four, &c.\n\nSuch as express what place in a series the thing we are speaking of occupies, are called ordinals: first, second, third, &c.\n\nSuch as express how many times one thing exceeds another, or what multiple it is of itself, are called multiplicatives: double, twofold, triple, treble, threefold, fourfold, &c. Single may stand at the head of this class, to begin the series.\n\nNumeral adverbs answer to the question, how often? Once, twice, thrice, &c.\n\nHalf and quarter are also substantives. After half, of is omitted: half an acre.\n\nIn compound numerals of the ordinal series, it is only the last number that takes the ordinal termination. The twenty-fifth year. The five hundred and eighty-fourth year.\n\n(a) Thus five hundred and sixty seven is turned into the ordinal form, by merely giving the ordinal termination (th) to the last number, 'seven.' 'The five hundred and sixty seventh year.' We may compare this with our mode of adding a genitive termination to such a phrase as 'the King of England;' 'the King of England's crown.' As we consider King-of-England a sort of compound substantive, and add the mark of the genitive to the end of it, so we consider five-hundred-and-sixty-seven a compound adjective, and are satisfied with having the mark of its class put on to the end.\n\nWhen the units are combined with tens, they are placed either first with 'and,' or last without 'and' (twenty-four, or four and twenty): but after a hundred the smaller number is always last—hundred and twenty-four.\n\nTo express number distributively (to express, that is, parties of so many together), the cardinal number is repeated: 'two and two;' 'three and three.' \"And he called the twelve, and began to send them two and two.\" Mark vi. 7. Tyndale's translation.\n\n(a) Sometimes by is used before the repeated numeral (\"by two and two\" in the same passage of the English Bible); sometimes by with the numeral not repeated (\"I hid them by fifty in a cave\"), the numeral being generally in the plural: \"We are not to stay all together, but to come by him, where he stands, by ones, by twos, and by threes.\" Shakespeare. 'The sun has long been set, The stars are out by twos and threes,' &c. Wordsworth. One by one—one at a time; or, in single file.\n\n(b) It has been fashionable of late to write the first three, and so on, instead of the three first. Thus where Thiersch writes, \"Declination der vier ersten Zahlwörter,\" his translator has, \"Declension of the first four Numerals.\" People write in this way to avoid the seeming absurdity of implying that more than one thing can be the first; but it is at least equally absurd, to talk about the first four, when (as often happens) there is no second four. It may perhaps remove the scruples of those who ask how there can be more than one first, to consider that as soon as the first is removed, another first succeeds, and so on. \"The fathers of the five first centuries.\" Middleton. \"I have not numbered the lines, except of the four first books.\" Cowper.",
+     "divisio": {
+      "overview": "A division of all numerals into indefinite and definite, then a long run through the indefinite numerals one word at a time, then the definite numerals with their kinds and combining rules.",
+      "parts": [
+       {
+        "label": "Numerals defined and divided",
+        "detail": "states that numerals express number and quantity and splits them into definite and indefinite."
+       },
+       {
+        "label": "The indefinite numerals, word by word",
+        "detail": "treats each and every, either and neither, many/few/much, all/no/none, some, any, enough, other, another, one, only, and alone in turn."
+       },
+       {
+        "label": "Quantity words used adverbially",
+        "detail": "notes that the quantity terms join comparatives to mark degree, as in 'none the better' and 'much better'."
+       },
+       {
+        "label": "The definite numerals and their kinds",
+        "detail": "lists numeral substantives, then cardinals, ordinals, multiplicatives, and numeral adverbs."
+       },
+       {
+        "label": "Combining and distributive rules",
+        "detail": "closes with the ordinal termination on compounds, the placing of units with tens, and distributive forms like 'two and two'."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Indefinite pronoun",
@@ -2352,6 +2695,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **verb** is the word that tells you what someone or something *does*, or simply *is*. In the sentence *The dog runs*, the verb is **runs**, which names the action. In *The sky is blue*, the verb is **is**; here it does not name an action, but joins the subject to a description. Either way, the verb is the heart of the sentence: without it, the words are just a list and nothing is actually being said. Most verbs carry three ideas at once. First, they name some **property**, such as running, sleeping, or building. Second, they assert that this property really *belongs* to the subject right now (or did, or will). Third, they usually carry a sense of **time**, whether the action is happening now, happened before, or will happen later. So *John runs* really means \"John is, at this moment, in the state we call running.\" A small but very important verb is **to be** (*am, is, are, was, were*). It is special because it does not name an action at all. Its only job is to **link** a subject to a word that describes it: *The rose **is** red.* We call this a **linking verb**, and *to be* is the most common one. When you can pick out the verb, you can find the backbone of any sentence. Everything else (the subject, the objects, the describing words) hangs off the verb.",
      "lead": "This is the opening of Arnold's section on the division of verbs. It begins with what every verb (except 'to be') combines (a property, the notion of being, and a sense of time), gives the worked examples 'John runs' and 'Caesar will conquer', and ends by naming the first class of verbs, which he calls 'neuter or (better) intransitive'. Expect the older word 'neuter' for what we now call intransitive.",
      "original": "§ 9. DIVISION OF VERBS.\n\nEvery verb, except to be, combines the notion of some property, the notion of being, and generally the notion of time.\n\n(a) John runs = John is now in that state which we call running. Cæsar will conquer = will be in that state which we call victorious.\n\n(b) Some properties may be considered as being confined, as it were, to the person or thing spoken of, without affecting any thing else. 'He breathes;' 'the tree blossoms;' 'the stone falls.' The verbs that denote such properties, convey a complete notion, without requiring the mention of any object conceived to be affected by it. They are called neuter or (better) intransitive verbs.\n\n[So in Latin. Thus the Decem-primi were magistrates in municipal towns.]",
+     "divisio": {
+      "overview": "The passage moves from a general definition of the verb to illustrative examples, and then narrows to define the first class of verbs.",
+      "parts": [
+       {
+        "label": "General definition",
+        "detail": "states that every verb except 'to be' combines the notion of property, being, and time."
+       },
+       {
+        "label": "Worked examples",
+        "detail": "unfolds 'John runs' and 'Cæsar will conquer' to show the three notions folded into one word."
+       },
+       {
+        "label": "The intransitive class",
+        "detail": "marks off verbs whose notion is complete without an object, naming them neuter or intransitive."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Verb",
@@ -2516,6 +2876,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Some verbs reach out and act *on* something. When you say *Faith overcomes the world*, the overcoming passes over from the subject *faith* to the object *the world*. A verb whose action passes across to an object like this is called **transitive**, from the Latin *transīre*, \"to pass over.\" The thing the action lands on is the **object**. Other verbs are complete all by themselves. *The stone falls.* *The tree blossoms.* *He breathes.* Nothing receives the action; the meaning is whole without an object. A verb like this is called **intransitive**. The simple test: after the verb, ask *\"whom?\"* or *\"what?\"* If there is a natural answer that receives the action, the verb is transitive (*She kicked... what? the ball*). If the question has no answer, the verb is intransitive (*The baby slept... slept what? nothing*). Here is the subtle part: this is really a division of **uses**, not a fixed label on each word. Many verbs are transitive in one sentence and intransitive in another. *Glass breaks easily* (intransitive, since nothing is broken *by* glass here), but *He broke the glass* (transitive, since the breaking passes over to *the glass*). So you must look at how a verb is used in its own sentence before you decide. Why bother? Because the object of a transitive verb behaves differently from a subject, and recognizing it now will make Latin's case endings far easier later.",
      "lead": "This is the remainder of Arnold's section on the division of verbs, completing it with the second class. It defines transitive verbs (from the Latin transire, to pass over), gives his formal definitions of transitive and intransitive, and closes with the warning that the same verb can be used both ways, plus a footnote on how different languages assign the object. Expect older spelling like 'inflexion' and 'thefavour' in the original text.",
      "original": "(c) There are properties, however, which go forth, as it were, from the subject, and produce an effect upon some external object. \"Samuel reproved Saul.\" \"Faith overcomes the world.\" The verbs that denote such properties, are called transitive verbs: transitive from the Latin word transire (to pass over), the action being considered to pass over, as it were, to some external object: 'Rain fertilizes the soil.' Here the fertilizing is considered as something imparted to the soil; as something passing over to it.\n\nVerbs are called transitive, if their notion is incomplete without the supplementary notion of an object conceived to be affected by the action which the verb expresses.\n\nVerbs are called intransitive, if their notion is complete without the addition of any supplementary notion.\n\n(a) Strictly speaking this is not a division of verbs, but a division of their uses, for many verbs are sometimes transitive, sometimes intransitive; and this is especially the case with the oldest and simplest verbs of the language: 'The fire burns bright' (intrans.); 'The fire has burnt my finger' (trans.); 'He has broken the glass' (trans.); 'Glass breaks easily' (intrans.); 'The earth moves round the sun;' 'You must move the table.'\n\n(b) It is not easy, if possible, to frame a definition that will take in all the verbs that are usually considered transitive. Take, for instance, to require care; there is no passing over of the notion of the verb to the object denoted by the noun; nor is there any thing of the kind, when we speak of begging a favour. The best mark of a transitive verb is the incompleteness of the notion; but then there is room for a good deal of arbitrary choice in fixing upon the notion that shall be considered to complete the notion of the verb. For instance, after such a notion as begging or requesting, one nation considers the person of whom the favour is asked to be the object immediately affected; whilst another chooses to express that relation by a preposition or a genitive case, and makes the favour asked the immediate object of the verb.\n\n[\"Individual instances, where the object is in the accusative in one language, as proximate to the verb, and in another as more remote in the genitive or dative, or construed with a preposition, can be learnt only by practice and from dictionaries; as, for instance, to imitate a person requires the dative in German, while in Greek, Latin, French, and English, it governs the accusative.\"—Buttmann, Larger Greek Grammar, p. 333.]",
+     "divisio": {
+      "overview": "The passage defines the transitive class, sets the two formal definitions side by side, then qualifies the whole scheme with two cautions and a cross-language footnote.",
+      "parts": [
+       {
+        "label": "Transitive introduced",
+        "detail": "presents verbs whose action passes over to an object, with 'reproved Saul', 'overcomes the world', and 'fertilizes the soil'."
+       },
+       {
+        "label": "Paired definitions",
+        "detail": "gives the formal test for transitive (notion incomplete without an object) against intransitive (notion complete)."
+       },
+       {
+        "label": "Caution on uses",
+        "detail": "warns that this divides uses, not verbs, with burn, break, and move shown both ways."
+       },
+       {
+        "label": "Caution on definition",
+        "detail": "admits the test breaks down for cases like 'require care' and 'beg a favour', where nations differ on what counts as the object."
+       },
+       {
+        "label": "Buttmann footnote",
+        "detail": "cites the grammarian on how the same object falls in different cases across languages."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Transitive verb",
@@ -2688,6 +3073,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "We naturally divide time into three parts: what *is* happening, what *has* happened, and what *will* happen. A verb shows which part of time it belongs to by changing its form. That changed form is called its **tense** (from a Latin word for \"time\"). This gives us three basic tenses: the **present** (*I love*), the **past**, also called the **preterite** (*I loved*), and the **future** (*I shall love*). The **present tense** is usually just the bare verb: *walk, see, run*. The **past tense** is formed in two main ways. Most verbs simply add **-d** or **-ed**: *love* becomes *loved*, *try* becomes *tried*. These are called **regular** verbs. Others change their inner vowel instead, or change in odd ways: *strive* becomes *strove*, *catch* becomes *caught*, *bring* becomes *brought*, or even *put* stays *put* (no change at all). These are **irregular** verbs, and you learn them one by one. The **future tense** is not made by changing the verb; instead we add a helper word, **shall** or **will**: *I shall love, he will know.* Beyond \"when,\" English also marks whether an action is **completed**. The **perfect** tenses do this, using a form of **have** plus the verb's past participle: *I have written* (present perfect, finished, with effect on now), *I had written* (past perfect, finished before some past moment), *I will have written* (future perfect). The word \"perfect\" here means \"completed,\" not \"flawless.\" For now, the big idea is simply this: a verb's *form* tells you *when*, and the perfect forms add the idea of *finished*.",
      "lead": "This is Arnold's complete section on the tenses, from its opening on how we divide time to its closing rule on the future. It opens by deriving the three tenses from past, present, and future time, then gives the rules and worked examples for forming the present, the preterite, and the future, and ends with a footnote on the word 'preterite'. Note his older spelling 'inflexion' and his term 'preterite' for the past tense.",
      "original": "§ 10. THE TENSES.\n\nWe naturally divide time into that which is past, that which now is, and that which is to come. And as we can think and speak of past actions and states, of present actions and states, and future actions and states; it is convenient to mark whether we are speaking of what has been, what is, or what will be, by appropriating a particular form of the verb to each division of time.\n\nHence arise three principal forms of the verb, one for present time, one for past time, and one for future time. Each of these forms is called a tense; and hence we get a present tense; a past tense, or preterite*; and a future tense.\n\nThe present tense is the verb itself.\n\nThe preterite tense is generally formed by inflexion, and that in two ways: Either (1) d or ed is added to the verb; or (2) the vowels of the verb, and sometimes its final consonants, are changed; but (3) sometimes the preterite is of the same form as the present.\n\nEXAMPLES. (a) (1) Love, loved; move, moved; try, tried. (2) Strive, strove; catch, caught; bring, brought. (3) Put, put; cast, cast.\n\nWhen the verb ends in a single consonant following a short vowel, and has the accent on the last syllable, the final consonant is doubled before ed: refer, referred.—Y impure is changed into i before ed: try, tried.\n\nThe future tense is not formed by inflexion, but by the auxiliary (or helping) verbs, shall and will. I shall love. I will come.—He will know better next time.\n\n[* From præteritum, past. It is called also the perfect.]",
+     "divisio": {
+      "overview": "The passage derives the three tenses from the divisions of time, then treats how each tense is formed in turn, closing with a note on the term 'preterite'.",
+      "parts": [
+       {
+        "label": "Time divided",
+        "detail": "argues that past, present, and future time call for a separate verb form, each named a tense."
+       },
+       {
+        "label": "Present formed",
+        "detail": "states that the present tense is simply the verb itself."
+       },
+       {
+        "label": "Preterite formed",
+        "detail": "gives the preterite formed three ways (add d/ed, change the vowel, or no change), with the love/strive/put examples and the doubling and y-to-i spelling rules."
+       },
+       {
+        "label": "Future formed",
+        "detail": "states that the future is not inflected but made with the auxiliaries 'shall' and 'will'."
+       },
+       {
+        "label": "Footnote on the term",
+        "detail": "traces 'preterite' to praeteritum and notes it is also called the perfect."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Tense",
@@ -2869,6 +3279,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Every verb is connected to a subject, and that subject can be described by two things: **person** and **number**. **Person** tells *who* is acting. The **first person** is the speaker (*I*, or *we*). The **second person** is the one being spoken to (*you*). The **third person** is anyone or anything else being spoken about (*he, she, it, they*, or any noun like *the dog*). **Number** tells *how many*: **singular** is one (*I, she, the cat*), and **plural** is more than one (*we, they, the cats*). Now the key rule: **the verb must agree with its subject in number and person.** In modern English this mostly shows up in the present tense, third person singular, where we add **-s**: *I walk, you walk, we walk, they walk*, but *he walk**s***, *she walk**s***, *the dog walk**s***. Likewise *to be* changes shape: *I **am**, you **are**, he **is**, they **are**.* Picking the form that matches the subject is called **subject-verb agreement**. A few traps catch beginners. Words between the subject and verb don't change the agreement: in *The box of apples **is** heavy*, the subject is *box* (singular), not *apples*. Two subjects joined by *and* take a plural verb: *Tom and Jerry **are** here*. Find the true subject, count it, and match the verb to it.",
      "lead": "This is Arnold's complete section on the persons of the verb. It opens by defining the three persons in both numbers (first 'I'/'we', second 'thou'/'ye or you', third), then explains how few distinct forms English actually has and gives the rules for forming the second-person singular ('st'/'est'), the polite use of 'you' for 'thou', and the third-person singular in 's', closing with a full table of personal forms for present and preterite. Expect the older second-person singular forms 'thou', 'thou sayest', and 'ye'.",
      "original": "§ 11. ON THE PERSONS.\n\nA person may represent himself as doing so and so; or the person or persons he is speaking to; or any other person or persons.\n\n(a) In most languages each tense has a particular form to denote so far the subject or subjects of which the verb is predicated. Each of these forms is called a person of that tense.\n\n(b) The first person refers to the speaker himself (I); the second to the person spoken to (thou); the third to any other person or thing spoken of. So, in the plural, the first person refers to the speaker himself and some others (we); the second to the persons spoken to, or the person spoken to and some others (ye or you); the third to any other persons or things spoken of.\n\n(c) The persons might be more numerous: for instance, there might be separate forms for every possible number of persons; for every possible combination of so many men and so many women, and so on.\n\n(d) Some languages have three persons for the dual number, and others separate forms to be used when the subject is a female.\n\n[\"An Englishman or a Frenchman has only one word for we, but a native of Hawaii or Tahiti has perfectly distinct terms for I and thou, I and he, I and you, I and they, I and my company.\"—Quarterly Review, cxiii. 109.]\n\nThe English language has distinct forms for only two of the persons, the second and third singular.\n\nAll the persons of the plural, and in the preterite the third person singular also, are like the first person singular.\n\nThe second person singular is formed by adding st, or est, to the first person.\n\n(a) The st is added when the first person ends in e: the addition forms a new syllable.\n\n(b) When the verb ends in a single consonant after a short vowel, and has the accent on the last syllable, the final consonant is doubled before est (defer, deferrest; put, puttest).\n\n(c) Preterites ending in ed form the second person singular in edst.\n\nIn English the second person plural is generally used instead of the second person singular. 'You say' instead of 'thou sayest.'\n\n(a) We find a similar peculiarity in other languages. It is felt, we must suppose, a point of courtesy not to make our approaches to one another so directly, as we do when we use the second person singular.\n\n(b) The Quakers, oddly enough, think it a deviation from truth, to say you to a single person; they keep therefore to thou and thee.\n\n(c) In English the use of 'thou' is confined to poetry, and to addresses to the Deity, to whom it would be natural to appropriate the form, when once it had become a peculiar one.\n\nThe third person singular of the present tense is formed by adding s to the first person.\n\n(a) When the verb ends in y impure [that is, y following a consonant], the y is changed into ie (fly, flies; but delay, delays).\n\n(b) When the verb ends in a consonant or consonants after which s could not be pronounced, es is added, exactly as in forming the plural of nouns (brush, brushes; hoax, hoaxes; fish, fishes; hiss, hisses).\n\n(c) Formerly, the third person singular ended in th, as it now stands in the English Bible, and occasionally in poetry.\n\nExamples of the personal forms.\n\nPresent. Singular: (1) I write, delay, catch, take, refer; (2) thou writest, delayest, catchest, takest, referrest; (3) he, she, or it writes, delays, catches, takes, refers. Plural (1, 2, 3): we; ye or you; they—write, delay, catch, take, refer.\n\nPerfect. Singular: (1) I wrote, delayed, caught, took, referred; (2) thou wrotest, delayedst, caughtest, tookest, referredst; (3) he, she, or it wrote, delayed, caught, took, referred. Plural (1, 2, 3): we; ye or you; they—wrote, delayed, caught, took, referred.",
+     "divisio": {
+      "overview": "The passage defines the three persons in both numbers, observes how few distinct forms English keeps, then gives the formation rules and ends with a full table of forms.",
+      "parts": [
+       {
+        "label": "The persons defined",
+        "detail": "names first, second, and third persons for speaker, addressee, and other, in singular and plural."
+       },
+       {
+        "label": "Wider possibilities",
+        "detail": "notes that languages could mark more persons, citing dual forms, female forms, and the Hawaiian and Tahitian 'we'."
+       },
+       {
+        "label": "English forms few",
+        "detail": "states English has distinct forms only for the second and third singular, the rest matching the first person."
+       },
+       {
+        "label": "Formation rules",
+        "detail": "gives the rules for the second singular in st/est, the polite 'you' for 'thou', and the third singular in s."
+       },
+       {
+        "label": "Table of forms",
+        "detail": "lays out the personal forms of write, delay, catch, take, and refer through present and preterite."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Person",
@@ -2998,6 +3433,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "English builds many of its verb forms not by changing one word, but by adding a small **helping verb** in front of the main verb. These helpers are called **auxiliary verbs** (from Latin *auxilium*, \"help\"). The three great auxiliaries are **be**, **have**, and **do**, and each has its own job. **Be** (*am, is, are, was, were*) teams up with the *-ing* form to show an action in progress: *I **am** writing*, *they **were** running*. **Have** (*have, has, had*) teams up with the past participle to build the perfect tenses, showing a completed action: *I **have** written*, *she **had** finished*. **Do** (*do, does, did*) is used to ask questions, to make denials, and to add emphasis: *Do you write? I do **not** write. I **do** write!* Notice that *I do write* says the same thing as *I write*, but with extra force. To use these helpers, and to build the past tense and the perfect at all, you need the verb's **principal parts**: the few basic forms from which every other form is built. For an English verb these are the **present** (*write*), the **past/preterite** (*wrote*), and the **past participle** (*written*); for example *go, went, gone* or *sing, sang, sung*. Memorize these three and you can build any tense the verb needs. Master the helpers and the principal parts, and the whole verb system opens up: you can express *when*, *whether finished*, *in progress*, *a question*, or *an emphatic claim*, all from a handful of forms.",
      "lead": "This passage is Arnold on the auxiliary (helping) verbs and the conjugation they form, distinct from his section on the participles. It opens with the full table of the auxiliary verbs 'to be', 'to have', and 'to do' (their infinitives, participles, present, and preterite), then works through the forms for present time (including the rule that 'I do write' replaces 'I write' after negatives, in questions, and in strong affirmations), and on through the forms for past time and the future forms with 'shall' and 'will'. Expect older spelling and grammar terms like 'imperfect' and 'aorist'.",
      "original": "§ 13.\n\nTable of the Auxiliary Verbs am, have, do.\n\nInfinitive. To be, To have, To do. Participles. Present: being, having, doing. Past: been, had, done.\n\nPresent. Singular: (1) I am, have, do; (2) thou art, hast, dost; (3) he, she, or it is, has, does. Plural (we; ye or you; they): are, have, do.\n\nPreterite. Singular: (1) I was, had, did; (2) thou wast, hadst, didst; (3) he, she, or it was, had, did. Plural (we; ye or you; they): were, had, did.\n\n(a) To be has a conditional form for the present (If I be, if thou beest, if he be, &c.); and for the imperfect (If I were, if thou wert, if he were, &c.).\n\n(b) To do sometimes makes doest in the second pers. sing. when it is not used as an auxiliary. Its old forms of the third person are doeth, doth: from have, the old third person is hath.\n\n(c) Be, as well as am, is the present in old writers. The Anglo-Saxon had two verbs: eom, eart, is, or ys—plur. synd: and beó, byst, byth—plur. beóth.\n\n§ 14. FORMS FOR PRESENT TIME.\n\nBesides the leading tenses which express time absolutely, there are several that express it relatively; that is, as compared with some other time.\n\nAn action may be conceived as doing, done, or about to be done; and that at any time: so a state may be conceived as existing, or having existed, or about to exist; and that at any time.\n\nHence for each time we have three forms that denote the state of the action. For present time these forms are, I am writing (now); I have written (now); I am (now) going, or about, to write.\n\nWe have also a form that represents the action, whether finished or unfinished, as having been in progress for some time. I have been writing.\n\nThe forms for present time are five: I write; I do write; I am writing; I have been writing; I have written; I am going (or about) to write.\n\nThe present, I do write, is used instead of I write, after negative words, and in questions and strong affirmations.\n\n(a) Negative words are such as express a denial, from negare, to deny. Not, neither, nor.\n\n(b) This rule does not apply to poetry, where the simple present is often used after negatives and interrogatives.\n\nThe forms I write, and I do write, mark present time in the least definite way, and are, therefore, the natural forms for such assertions as are true at all times. Charles writes a good hand. Henry dances well. Virtue is its own reward. These are general assertions, the truth of which may be proved at any time.\n\n(a) The present tense is used of assertions found in the extant works of authors, no matter when they lived. \"Cicero tells us, in his book of a commonwealth, that a legislator should take especial care not to lodge the greatest power in the hands of the greatest number.\"\n\n(b) Sometimes the present is used for the future, when the action is to be described as nearly certain to happen. 'I go to London next week.'\n\n(c) When two actions are spoken of, one of which must precede the other, the futurity of the preceding action is carefully marked in many languages; and also its completion, if it is to be completed before the commencement of the other. But in English we often use \"the present tense to point out the relative time of a future action: 'When he arrives, he will hear the news.' 'He will not hear the news till he arrives.'\"—Pickbourn.\n\n(d) Thus in Rom. xv.—\"Whensoever I take my journey into Spain, I will come to you.\" \"When I have performed this, I will come by you into Spain.\" \"When I come, I shall,\" &c. [In Latin we must say: when he shall have arrived; till he shall have arrived.]\n\nI have written is called the 'perfect definite'.\n\n(a) It is called definite, because it defines the action as having happened in a portion of time which is not yet expired: it brings a past action into connexion with present time, and is therefore a present-perfect tense.\n\n(b) The portion of time may be of any length: \"Great men have been among us.\" The poet here begins with the beginning of our history; but he uses have been, because the time for producing great men is, we trust, not yet over with us.\n\n(c) The forms I am writing, and I have been writing, present no difficulty: the former represents the action as now going on: the latter as having been carried on for some time, and continued up to, or nearly up to, the present time. It does not however decide, whether it be now finished, or not.\n\n(d) From some intransitive verbs that denote motion, &c. the perfect definite is formed with am: 'I am come.'\n\n§ 15. FORMS FOR PAST TIME.\n\nThe forms that represent an action as doing, done, or about to be done; or a state as existing, having existed, or about to exist, at some past time, are: I was writing (when, &c.); I had written (when, &c.); I was going, or about, to write (when, &c.). The form that represents the action, whether finished or unfinished, as having been in progress for some time, is, I had been writing. Hence,\n\nThe forms for past time are: I wrote; I did write; I was writing; I had written; I had been writing; I was going to write; I had been going to write.\n\nThe forms I wrote and I did write are indefinites with respect to time.\n\n(a) The only intimation of time, that I wrote or did write carries with it, is that the action was done at some past time. They are therefore indefinite past tenses; for the exact description of time, they must be defined by the addition of a date.\n\n(b) From this indefinite character, they are naturally used to express habits and repeated actions, when the habits existed, or the actions used to take place, in past time. 'My eldest son wrote a beautiful hand.'\n\nI was writing is the imperfect (or preter-imperfect) tense: it describes an action begun and still going on at a past time.\n\n§ 16. FORMS FOR FUTURE TIME.\n\nThe forms for future time that represent an action as doing, being done, or going to be done; or a state as existing, having existed, or going to exist, are: I shall be writing; I shall have written; and, I shall be going, or about, to write. I shall have been writing, represents that the action, whether finished or unfinished, will have been in progress for some time. Hence:\n\nThe forms for future time are: I shall or will write; I shall or will be writing; I shall or will have written; I shall or will be going (or about) to write.\n\n(a) Shall, in the first person, simply foretells; in the other persons it commands. Will in the first person declares the speaker's intention in a positive manner; in the other persons it simply foretells.\n\n(b) Brightland's rule is: In the first person, simply shall foretells; In will a threat or else a promise dwells: Shall in the second and the third does threat; Will simply then foretells the coming feat.\n\n(c) Will is still an independent verb, expressing volition, an act or resolution of a man's will. Hence, in the first person it denotes the intention to act in a particular way; this declaration of an intention is all that the word denotes, though such a declaration will obviously amount in many cases to a promise or threat. For the other persons, 'will' simply foretells: it can only be understood as a declaration of what we think will take place in the mind of other persons. It is now however used as the simple future, whether we are speaking of events or persons.—Shall denotes moral necessity enforced by the will of the speaker; it naturally, therefore, implies command, and the intention to compel. But, for the first person, it simply foretells:—its notion of compulsion, since it is only exercised by the speaker on himself, does not affect the thought; and our acknowledging that we ought to do this or that, should come to the same thing as a declaration of our intention to do it.",
+     "divisio": {
+      "overview": "The passage first tables the three auxiliary verbs, then walks the compound forms through present, past, and future time in successive sections.",
+      "parts": [
+       {
+        "label": "Table of auxiliaries",
+        "detail": "lays out be, have, and do in their infinitives, participles, present, and preterite, with notes on conditional and old forms."
+       },
+       {
+        "label": "Forms for present time",
+        "detail": "lists the five present forms and the rule that 'I do write' replaces 'I write' after negatives, in questions, and in strong affirmations, then explains the perfect definite."
+       },
+       {
+        "label": "Forms for past time",
+        "detail": "lists the past forms, marks 'I wrote' and 'I did write' as indefinite, and names 'I was writing' the imperfect."
+       },
+       {
+        "label": "Forms for future time",
+        "detail": "lists the future forms and distinguishes the force of 'shall' and 'will' across the persons, quoting Brightland's rule."
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Auxiliary verb",
@@ -3152,6 +3608,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Every verb carries an attitude, a way of presenting its action. We call this the **mood** of the verb. Think of mood as the *tone of voice* a verb uses: is it reporting a fact, barking an order, or imagining a possibility? English has three main moods, and this lesson covers the two you use most. The **indicative mood** simply states that something is real. It *points at* reality (the word comes from Latin *indicare*, \"to point out\"). Almost every ordinary sentence you speak is in the indicative: \"The dog barks,\" \"Rome fell,\" \"You are reading.\" Questions count too: \"Did the dog bark?\" still treats the action as a real possibility being checked. Whenever a verb reports or asks about an actual fact, it is indicative. The **imperative mood** gives a command, a request, or a piece of advice. \"Shut the door.\" \"Please pass the salt.\" \"Be careful.\" Notice something special: the imperative usually has **no visible subject**. The subject is an understood \"you\"; when you say \"Run!\" everyone knows you mean \"*You* run!\" Because the listener is already standing in front of you, English drops the word. So the quick test is this: if the verb tells you what *is*, it is indicative; if it tells you what to *do*, it is imperative. Keep that contrast in mind. In the next lesson we add a third mood for things that are merely wished for or imagined.",
      "original": "§ 17. OF THE MOODS OF A VERB.\n\n144 The being or doing of a thing may be conceived and spoken of in different ways, or modes. The altered forms which the verb assumes to express the different modes of our conceptions, are classed together in what are called the moods of a verb.\n\n145 The indicative mood expresses actual existence.\n\n147 The imperative mood commands.\n\n(a) Indicative, from indicare to express or indicate (simply and absolutely). Subjunctive, from subjungere to subjoin, because the tenses of the subjunctive, as implying dependent notions, are generally subjoined to other verbs and propositions. Imperative, from imperare to command. Infinitive, from infinitus unlimited, from its not being limited or restricted to a particular subject.\n\n§ 18. THE IMPERATIVE MOOD.\n\n149 The imperative mood is used, not only to command, but also to request, to exhort or encourage, to permit, and with negatives to forbid.\n\n(a) A command not to do a thing is of course a prohibition; and the other uses of the imperative flow naturally from the principal use, that of commanding. A command, of course involves a wish: when then I command a man for whom I am known to entertain a kindly feeling, to do any thing, I virtually encourage him to do it, and wish him success. Again, if I have the power to prevent, my command implies permission; and when we use the language of command, without having any power to enforce it, our commanding comes to no more than a request.\n\n(b) Since our commands are commonly addressed to a person or persons in company with us, the second person is the principal person of the imperative. As a command laid by the speaker upon himself, is little more than an expression of his will, the first person singular is generally wanting.\n\n150 The imperative in English has no distinct form: the verb itself is used for the second person singular and plural, the nominative case being generally omitted. If expressed, it follows the verb.\n\nCome (thou): come (ye). Do thou come. Do ye or you come.",
      "lead": "This pair of sections opens Arnold's treatment of mood. Section 17 begins by defining what a mood is, names the indicative and imperative, and gives the Latin etymologies of all four mood-names; section 18 then unfolds the full range of the imperative, whose subject is an understood 'thou' or 'ye'. Expect older labels like 'to subjoin' for 'to attach below'.",
+     "divisio": {
+      "overview": "Two numbered sections move from a general definition of mood down to a close study of the imperative.",
+      "parts": [
+       {
+        "label": "Mood defined",
+        "detail": "states that a verb's altered forms express different modes of conceiving an action"
+       },
+       {
+        "label": "Indicative and imperative named",
+        "detail": "gives the bare definition of each, the first expressing actual existence and the second commanding"
+       },
+       {
+        "label": "The four etymologies",
+        "detail": "traces indicative, subjunctive, imperative, and infinitive back to their Latin source verbs"
+       },
+       {
+        "label": "Range of the imperative",
+        "detail": "extends the imperative beyond command to request, exhortation, permission, and prohibition"
+       },
+       {
+        "label": "Its subject and English form",
+        "detail": "explains the understood second person and that English uses the bare verb with the nominative omitted"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Mood",
@@ -3330,6 +3811,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "The first two moods handle reality (indicative) and orders (imperative). The third mood, the **subjunctive**, steps away from facts entirely. It expresses what *might* be, what is *wished for*, what is *imagined*, or what depends on a condition. Where the indicative says \"this is,\" the subjunctive says \"this may be\" or \"if only this were.\" In modern English the subjunctive is quiet; it rarely changes the verb's form, so it is easy to miss. But it surfaces clearly in a few places. The most famous is the verb **to be**: in a wish or an unreal condition we say \"were\" instead of \"was.\" Compare \"He **was** tired\" (a fact, indicative) with \"If he **were** king...\" (an imagined situation, subjunctive). We also say \"I wish I **were** taller,\" not \"was.\" A second place is the *that*-clause after verbs of asking, demanding, or insisting. There the verb appears in its bare form, with no -s on the third person: \"The judge demands that he **be** present\" (not \"is present\"); \"I insist that she **stay**\" (not \"stays\"). The missing -s is your clue that the mood has shifted. English also leans on helper verbs like **may, might, would,** and **should** to do the subjunctive's work: \"that it **may** happen,\" \"I **would** go if I could.\" Whenever a verb describes something contingent or unreal rather than something that simply *is*, you are looking at the subjunctive mood.",
      "original": "146 The subjunctive mood expresses what may be; such as purposes, conditions, &c.\n\n(b) The subjunctive, in Greek, was appropriated to what was contemplated as actually possible under certain conditions; the optative was a mood used to express that, the possibility of which was conceivable. It took its name from optare, to wish, from one of its uses.\n\n(c) The conditional is sometimes considered a separate mood, and sometimes included in the subjunctive. The conditional forms express that 'possibility which is not conceived as really existing.' (Becker.)\n\n§ 24. ON THE VERBS OF MOOD AND SUBJUNCTIVE FORMS.\n\n166 The English verb (with a partial exception in the case of to be) has no inflected forms for the subjunctive mood; but supplies the place of such a mood by the auxiliary verbs, may, can, &c.\n\n167 It must be particularly remembered, that may, can, &c. are not always verbs of mood; but are often used as indicative verbs, to express permission, power, duty, &c. as actually existing states or conditions.\n\n(a) \"The mere expression of will, possibility, liberty, obligation, &c. belong to the indicative mood: it is their conditionality, their being subsequent, and depending upon something preceding, that determines them to the subjunctive mood.\"—Lowth.\n\n(b) After if, though, although, and sometimes that and whether, the present tense of the verb often stands without its personal endings (est and s).—'Though he slay me,' &c. Lowth, Johnson, &c., consider this a present tense of the subjunctive mood, and at all events it is virtually a subjunctive form.",
      "lead": "This lesson gathers Arnold's subjunctive material: the brief definition in section 17, its notes comparing the Greek subjunctive, the optative (from 'optare', to wish), and the conditional, then the heart of section 24, where he explains that English has almost no inflected subjunctive forms and leans on helper verbs like 'may' and 'can'. He warns (167) that those same helpers are often plain indicatives, so the test is conditionality, not the word itself.",
+     "divisio": {
+      "overview": "A short definition is followed by Greek comparisons, then a fuller treatment of how English actually expresses the mood.",
+      "parts": [
+       {
+        "label": "Definition",
+        "detail": "states that the subjunctive expresses what may be, such as purposes and conditions"
+       },
+       {
+        "label": "Greek and the optative",
+        "detail": "contrasts the Greek subjunctive with the optative, named from optare, to wish"
+       },
+       {
+        "label": "The conditional",
+        "detail": "notes the conditional as a possibility not conceived as really existing, sometimes counted separate"
+       },
+       {
+        "label": "English lacks the forms",
+        "detail": "explains that English supplies the mood through auxiliaries like may and can rather than by inflection"
+       },
+       {
+        "label": "Caution and the bare form",
+        "detail": "warns those helpers are often plain indicatives, and points to the endingless present after if and though"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Subjunctive",
@@ -3470,6 +3976,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Some forms of the verb are not really commands, facts, or wishes at all; they are the raw verb itself, lifted out of any sentence. The most basic of these is the **infinitive**. In English it is simply the word **to** placed before the bare verb: *to run, to think, to be, to write.* It names the action without saying who does it or when. The name is a clue. *Infinitive* comes from Latin *infinitus*, \"unlimited,\" because the form is not limited to any particular subject. \"He runs\" pins the action to *he* and to the present; but \"to run\" floats free, belonging to no one in particular. That is why the infinitive is the form you find in a dictionary. Because it names an action, the infinitive can do jobs that a noun usually does. It can be a subject (\"**To forgive** is difficult\") or an object (\"She wants **to leave**\"). It can also explain purpose: \"He came **to help**.\" In all these the *to*-phrase behaves like a thing or a goal rather than a finished statement. One warning: the *to* of the infinitive disappears after certain verbs. After **can, may, must, see, hear, feel, make,** and **let**, we drop it: \"I can **swim**,\" \"Let her **go**,\" \"I saw him **fall**.\" The verb is still an infinitive; it has just shed its *to*. Spotting these \"bare infinitives\" keeps you from mistaking them for ordinary present-tense verbs.",
      "original": "148 The infinitive mood is the notion of the verb, standing in its simplest form, without reference to any particular subject.\n\n(d) The infinitive is not properly a mood, for it represents no modification of the notion of the verb, but the simple notion itself. It is reckoned, however, amongst the moods, just as the nominative is amongst the cases.\n\n§ 19. THE INFINITIVE.\n\n151 The simple infinitive, or infinitive of the present tense, is the verb itself with the preposition to before it.\n\n(a) But to is omitted after the verbs of mood (i. e. auxiliary verbs), and see, hear, feel, bid, dare, make.\n\n152 The following are the compound infinitives for the active voice: to be writing; to have been writing; to have written; to be going, or about, to write.\n\n(a) \"To write, to be writing, always denote something contemporary with, or subsequent to, the time of the governing verb: to have been writing, and to have written, always denote something antecedent to the time of the governing verb.\"—Pickbourn.\n\n§ 20. THE COMPOUND PARTICIPLES.\n\n153 The compound participles for the active voice are: having written, having been writing, going (or about) to write.\n\n154 The form of the infinitive passive is often employed as a (virtually) participle implying possibility, duty, or necessity. It answers to the Latin gerundive (participle indus).\n\n'A consummation devoutly to be wished.' 'The thing to be aimed at is this.'\n\n(a) In Anglo-Saxon \"eom with the gerund expresses duty or obligation: as, he is tó lufigenne, he is to love; i. e. is to be, or ought to be loved.\"—Rask. So in German, the future participle (passive) is formed from the supine; der zu fragende Schüler, 'the scholar to be examined.' In the same way the form of the infinitive active is used participially in a future sense. 'There are many things to do.' 'For the time to come.' 'Art thou he that is to come?' Wiclif translates this: \"Thou that art to comynge?\" for which the Anglo-Saxon is \"the to cumenne eart.\" Horne Tooke speaks of such expressions as to comynge, as shifts to which the translators were driven; but his last editor, Mr. Taylor, justly remarks that they were \"ancient forms in common use, evidently having their origin from the ancient derivative or future infinitive\" (the gerund). He remarks that Grimm considers the infinitive as declinable, and makes the gerund a dative case. Vol. i. p. 33.",
      "lead": "Arnold defines the infinitive as the bare notion of the verb and remarks it is not really a mood at all, only reckoned among them. Section 19 gives the simple and compound infinitives (watch the list see, hear, feel, bid, dare, make after which the sign 'to' is dropped), and section 20 adds the compound participles and the infinitive-as-gerundive. Expect archaic spellings and the old terms 'supine' and 'gerundive', plus Wiclif's 'to comynge'.",
+     "divisio": {
+      "overview": "The passage defines the infinitive, then catalogs its simple, compound, and participial forms before treating the passive infinitive of duty.",
+      "parts": [
+       {
+        "label": "Definition and disclaimer",
+        "detail": "names the infinitive as the verb's simplest notion and admits it is not properly a mood"
+       },
+       {
+        "label": "The simple infinitive",
+        "detail": "gives it as the verb with to before it, and lists the verbs after which to is dropped"
+       },
+       {
+        "label": "The compound infinitives",
+        "detail": "sets out the active compound forms with Pickbourn's note on their relative timing"
+       },
+       {
+        "label": "The compound participles",
+        "detail": "lists the active compound participles such as having written and going to write"
+       },
+       {
+        "label": "Passive infinitive as gerundive",
+        "detail": "shows the passive infinitive used participially for duty or necessity, with a long historical note"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Infinitive",
@@ -3595,6 +4126,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "A verb can also dress up as an adjective. When it does, we call it a **participle**, a *verbal adjective* that describes a noun while still carrying the action and timing of a verb. \"A **running** stream,\" \"a **broken** cup\": *running* and *broken* tell us *which* stream and *which* cup, just as adjectives do, but they come straight from the verbs *run* and *break*. English has two participles formed by changing the verb. The **present participle** always ends in **-ing** and has an *active* meaning, since the noun is doing the action: \"the **barking** dog,\" \"a **smiling** child,\" \"**falling** leaves.\" Picture the action as still going on. The **past participle** usually ends in **-ed, -en, -t,** or **-n**, and with a transitive verb it has a *passive* meaning, since the action was done *to* the noun: \"a **painted** fence,\" \"a **written** letter,\" \"the **fallen** tree.\" The fence didn't paint; it *was painted*. This is also the form English pairs with **have** to build perfect tenses (\"I have **eaten**\") and with **be** to build the passive voice (\"it was **eaten**\"), which is the subject of the next lesson. The danger to watch for: don't confuse a participle (adjective job) with a finite verb (the sentence's main action). In \"The **whispering** crowd grew quiet,\" *whispering* describes the crowd (it is a participle), while *grew* is the real verb. Ask \"is this word describing a noun, or is it the main statement of the sentence?\" That question keeps participles in their place.",
      "original": "§ 12. THE PARTICIPLES.\n\n119 A participle is a verbal adjective, differing from other adjectives by carrying with it a notion of time.\n\n120 We have in English only two participles formed by inflexion, the present and the past participle.\n\n121 The present participle ends in ing, and has an active meaning.\n\nSo called from participare, to partake, because they partake of the nature both of verb and adjective.\n\n122 The past participle mostly ends in d, t, or n, and has a passive meaning when the verb is transitive; it is then no further expressive of a past time, than as an action suffered is generally a completed action.\n\n123 The past participle of an intransitive verb has an active meaning, and expresses past time.\n\n124 The past participles of both transitive and intransitive verbs are used with have, to form some of the compound tenses of the active voice (I have loved; I have run; I have written).\n\n125 The present participle is formed by adding the termination ing to the verb.\n\n(a) When the verb ends in e after a consonant, the e must be thrown away before the termination is added (move, moving; see, seeing).\n\n(b) When the verb ends in ie, the ie is changed into y (die, dying).\n\n(c) The final consonant of the verb must be doubled when the accent is on that syllable, if the verb ends in a single consonant following a short vowel (refér, referring).\n\n126 It is better not to double the final consonant when a termination is added to a word that is not accented on the last syllable.\n\n(a) There are, however, many words in which the doubling of the consonant before a syllabic termination is the usual mode of spelling (worshipper, travelling, &c.).\n\n127 When the preterite is formed by the addition of d, or ed, the same form serves also for the past participle.\n\n128 When the preterite is formed by changing the vowel sound of the present, the past participle regularly ends in en, but is often of the same form with the preterite. See 226.",
      "lead": "This is the whole of section 12, Arnold's complete account of the participle. It opens by defining the participle as a verbal adjective that 'partakes' (from 'participare') of both verb and adjective, distinguishes present from past, and ends with the spelling rules for adding -ing and for forming the past participle. Note his point (123) that the past participle of an intransitive verb keeps an active meaning and points to past time, and watch for the older term 'preterite'.",
+     "divisio": {
+      "overview": "The section defines the participle, distinguishes its two kinds, notes their compound use, then gives the spelling rules for forming them.",
+      "parts": [
+       {
+        "label": "Definition",
+        "detail": "calls the participle a verbal adjective that adds a notion of time, and names only two formed by inflexion"
+       },
+       {
+        "label": "Present participle",
+        "detail": "ends in ing and carries an active meaning, partaking of both verb and adjective"
+       },
+       {
+        "label": "Past participle",
+        "detail": "ends in d, t, or n, passive when the verb is transitive but active when it is intransitive"
+       },
+       {
+        "label": "Use with have",
+        "detail": "notes both kinds combine with have to build compound tenses of the active voice"
+       },
+       {
+        "label": "Spelling rules",
+        "detail": "gives the rules for adding ing and for forming the past participle from regular and vowel-change verbs"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Participle",
@@ -3736,6 +4292,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "**Voice** answers one question: is the subject *doing* the action or *receiving* it? In the **active voice** the subject acts: \"The dog **chased** the cat.\" In the **passive voice** the subject is acted upon: \"The cat **was chased** by the dog.\" The very same event, but the spotlight moves from the doer to the receiver. To build the passive you need two ingredients: a form of **to be** plus the **past participle** of the main verb: *was chased, is written, will be eaten*. The original doer, if mentioned at all, moves into a *by*-phrase. To **transform** active into passive, follow three steps: (1) make the object the new subject, (2) turn the verb into *be* + past participle, (3) put the old subject after *by* (or drop it). \"Caesar built the wall\" becomes \"The wall was built by Caesar.\" Reverse the steps to go back. Remember that only **transitive** verbs (ones that take an object) can be made passive. The lesson's second idea revives the -ing form one more time. When an -ing word acts not as a verb and not as an adjective but as a **noun**, we call it a **gerund** (also called a *verbal noun* or *participial noun*). \"**Swimming** is fun\": here *swimming* is the subject, a thing, exactly where you could put \"Soccer.\" Gerunds can be subjects (\"**Reading** helps\"), objects (\"I enjoy **cooking**\"), or follow prepositions (\"good at **drawing**\"). How do you tell a gerund from a present participle, since both end in -ing? Ask its job. If the -ing word *names a thing* (you could swap in a noun), it is a gerund: \"**Running** is healthy.\" If it *describes a noun*, it is a participle: \"the **running** water.\" Same form, different work, and learning to feel that difference is one of the most useful grammar skills you can carry into Latin.",
      "original": "§ 21. THE VOICES.\n\n155 When a verb is put in the form which expresses that the subject spoken of is acted upon, it is said to be in the passive voice.\n\n(a) Passus is a Latin word, meaning 'having suffered.' The passive voice is so called, because it expresses that an object suffers an action; the active voice expresses that the subject does an action, or is in a state which is not represented as produced by some external power.\n\n(b) Transitive verbs have a passive voice; but intransitive ones have not.\n\n(c) No object can suffer without being acted upon; hence its suffering cannot be expressed by those verbs which express only such notions as do not affect, or act upon, any object.\n\n(d) It may, however, happen, that an intransitive verb comes to the same thing as a passive verb; 'I burn with rage' = 'I am inflamed with rage.'\n\n156 The passive forms are in English made up of the verb to be and the past participle.\n\n§ 22. PASSIVE VOICE.\n\nPresent Time.\n\n157 The past participle with the verb I am, is sometimes the present of the passive voice, sometimes the preterite of the passive voice, and sometimes the preterite (perfect definite) of the active voice.\n\n'I am defended by all the best citizens' (pres. pass. defendor); 'The house is built' (preter. pass. ædificata est); 'Henry is come' (preter. act. venit).\n\n158 When the passive participle marks a completed action, and a permanent state consequent upon it, the passive participle with the present tense of the verb to be, is equivalent to a preterite.\n\nThe verbs that have their passive preterites of this form, denote definite actions, such as are likely to advance to their completion, be completed, and remain permanently in their effects. To build, to make, to prepare: preter. pass. 'the house is built,' 'the box is made,' 'the room is prepared.'\n\n159 The same form may be in one sense the present passive, in another the preterite: 'I am dressed every morning by a servant.' 'I am dressed, and ready for my breakfast.'\n\n160 When the participle, though passive in form, is the past participle of a neuter verb, this participle, with the present tense of the verb to be, forms a preterite of the active voice: 'My servant is come' (venit).—See 137, d.\n\n161 When the passive participle with the present tense of to be forms the preterite, the present and imperfect are formed with what is, in form, the participle of the present active; but it is probably the participial substantive (162), which used to be governed by the preposition on or in, shortened into a.\n\n(a) The house is building, the house was building, &c.; or the house is a building. In the Bible we have a and in: \"While the ark was a preparing\" (1 Pet. iii. 20); and so Tyndale: \"While the arcke was a preparynge.\" So also Cranmer's Bible. The Rhemish version is: \"when the arke was a building.\" \"Forty and six years was this temple in building.\" \"Was this temple abuyldinge\" (Tyndale), \"a byldynge\" (Cranmer). (John ii. 20; and so 1 Kings vi. 7. 38.)\n\n(b) \"The propriety of these imperfect passive tenses,\" says Mr. Pickbourn, \"has been doubted by almost all our grammarians; though, I believe, but few of them have written many pages without condescending to make use of them.\" It would be an absurdity, indeed, to give up the only way we have of denoting the incomplete state of action by a passive form. The form can be used only where it occasions no ambiguity; that is, in other words, where the subject spoken of cannot be mistaken for the agent, or doer of the action.\n\n§ 23. THE PARTICIPIAL SUBSTANTIVES.\n\n162 Connected with the verb are the participial substantives, which are the same in form with the participles, but differ from them in being substantives in use, though retaining the power of taking an object (163).\n\n(a) Though identical in form with the participles, they are more nearly allied to the infinitive in use, expressing the notion of a verb substantively.\n\n163 The participial substantives belonging to transitive verbs, may take an object in the accusative; but the object is often joined to them, as it is to other substantives by 'of.'\n\n(a) The use of these forms is of great extent in the English language, and the learner must be taught at once to distinguish them, by their use, from participles.\n\n(b) When they are of the present active form, they nearly answer to the Latin gerunds; but they occur in the nominative case, which the gerunds do not.\n\n(c) The past participle has no corresponding participial substantive.",
      "lead": "This lesson runs through three consecutive sections. Section 21 defines the passive voice (the subject 'suffers' the action, from Latin 'passus') and notes only transitive verbs have a passive; section 22 works through how the past participle with 'to be' can be present, preterite, or even active, with Bible-era forms like 'a preparing'; and section 23 introduces the gerund under Arnold's own name, the 'participial substantive', an -ing word used as a noun. Watch for the older terms 'preterite', 'neuter verb', and 'gerund'.",
+     "divisio": {
+      "overview": "Three consecutive sections define the passive voice, work through its ambiguous forms, then introduce the gerund.",
+      "parts": [
+       {
+        "label": "Passive voice defined",
+        "detail": "explains the subject suffering an action, from passus, and limits the passive to transitive verbs"
+       },
+       {
+        "label": "How it is built",
+        "detail": "states the passive is made of the verb to be plus the past participle"
+       },
+       {
+        "label": "Ambiguities of be plus participle",
+        "detail": "shows the same form serving as present, preterite, or active, with progressive forms like a building"
+       },
+       {
+        "label": "Pickbourn's defense",
+        "detail": "answers grammarians who doubted the imperfect passive, since it alone marks incomplete action passively"
+       },
+       {
+        "label": "The participial substantive",
+        "detail": "introduces the gerund, an ing noun that can still take an object and nearly answers the Latin gerund"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Active voice",
@@ -3889,6 +4470,35 @@ window.COURSE_DATA.courses.push({
      "summary": "An adverb adds a circumstance to a verb, telling how, when, or where an action happens.",
      "explanation": "So far you have met words that name things (nouns) and words that describe things (adjectives). Now meet the **adverb**. An adverb adds a circumstance to an action: it tells us *how*, *when*, or *where* something happens. The name itself is a clue. *Ad-verb* means \"added to the verb.\" In *She sang sweetly*, the verb is *sang* and the adverb *sweetly* tells us **how** she sang. In *He arrived yesterday*, *yesterday* tells **when** he arrived. In *Sit here*, *here* tells **where** to sit. Many adverbs are built from adjectives by adding **-ly**: *quick* becomes *quickly*, *sad* becomes *sadly*, *brave* becomes *bravely*. But beware: not every adverb ends in *-ly*. Words like *here*, *there*, *now*, *soon*, *often*, and *well* are adverbs too, with no special ending. A quick test: if a word answers *how?*, *when?*, or *where?* about a verb, and you can move it around the sentence without changing what it modifies, it is almost certainly an adverb.",
      "lead": "This is the opening of Arnold's section \"§ 26. The Particles.\" He begins not with the adverb but with the difference between a preposition and an adverb, then turns to adverbs of place and gives a table of correlative adverbs (here/there, hither/thither, hence/thence). Expect older spellings such as \"&c.\" and forms like \"henceforth\" and \"thenceforward.\"",
+     "divisio": {
+      "overview": "Arnold opens §26 by defining the preposition against the adverb, then distinguishes prepositions from conjunctions, gives the rule that the same word can be either, then narrows to adverbs of place, charts their correlative forms, and ends with derived and compound adverbs.",
+      "parts": [
+       {
+        "label": "Preposition defined against the adverb",
+        "detail": "opens by saying a preposition denotes not a property of a thing but the manner in which it depends on some other thing"
+       },
+       {
+        "label": "Preposition versus conjunction",
+        "detail": "contrasts prepositions, whose connexions belong to the notions themselves, with conjunctions, whose connexions are formed in the mind that joins the notions"
+       },
+       {
+        "label": "The rule on use, not form",
+        "detail": "cites Hermann that an adverb joined to a noun becomes a preposition, and a preposition without a noun an adverb, the difference lying in use, not form"
+       },
+       {
+        "label": "The simplest adverbs of place",
+        "detail": "lists here, there, hither, thither, hence, thence with their senses of rest, motion to, and motion from"
+       },
+       {
+        "label": "Table of correlative adverbs",
+        "detail": "pairs the demonstrative h-forms and th-forms with the relative and interrogative wh-forms, then adds lettered observations"
+       },
+       {
+        "label": "Derived and compound adverbs",
+        "detail": "treats elsewhere, anywhere, somewhere and the directional ward and wards endings before declining to list the rest"
+       }
+      ]
+     },
      "original": "§ 26. THE PARTICLES.\n\nThe difference between a preposition and an adverb is, that the preposition does not denote any property that belongs to a thing or notion considered by itself, but merely the manner in which it depends on some other thing or notion.\n\nPrepositions denote such connexions or mutual relations as we consider to belong to notions themselves, not merely to the mind that joins them together.\n\nConjunctions, on the other hand, denote such connexions as are formed between notions and the mind that perceives them and puts them together, contemplating them as true, or probable, or necessary.\n\nWhen a word that is usually an adverb is joined to a noun, it should be considered a preposition; and so a preposition, when it stands without a noun, should be reckoned an adverb. For the difference between a preposition and an adverb, is a difference in the use and meaning of words, not a difference in their form; so that the same word should be considered sometimes as an adverb, and sometimes as a preposition. Hermann, De emendanda, &c. c. 13.\n\n(a) Adverbs.\n\nThe simplest adverbs of place are here, there (= in this place, in that place, respectively); hither and thither (= to this place, to that place); hence and thence (= from this place, from that place).\n\n(a) These adverbs, which are demonstrative, have corresponding relative and interrogative forms, as given in the following table.\n\nCorrelative Adverbs of Place.\n\nDemonstrative: Here, There; Hither, Thither; Hence, Thence.\nRelative and Interrogative: Where; Whither; Whence.\n\nObs. The forms beginning with h belong to this place, those with th to that place; and those that begin with wh are relative, interrogative, and sometimes indefinite.\n\n(a) The forms for in a place, have almost superseded the proper forms for to a place. Thus we say: 'Where are you going?' 'He is coming here to-morrow,' &c.\n\n(b) The forms for from a place, though they express by themselves the relation of motion from, are often preceded by the preposition: 'from whence,' &c.\n\n(c) These adverbs, with 'then' and 'when' for time, have been called pronominal adverbs; and when compounded with of, in, by, with, for (written fore) after, forth, &c. are equivalent to pronouns governed by prepositions. Hereof, thereof; herein, therein, &c.\n\n(d) 'Hence' and 'thence' with 'forth' and 'forward,' form adverbs, not of place, but of time (henceforth, thenceforth; henceforward, thenceforward). So 'here' compounded with 'after,' is an adverb of future time; but 'thereafter' an adverb of manner.\n\n(e) Instead of 'hence,' 'thence,' 'whence,' we sometimes find from here, there, where. When 'where' is used with 'from' the preposition generally stands last: 'Where do you come from?'\n\nThe adverb where is compounded with else, and the indefinite numerals, any, no, some, with which it loses its relative and interrogative character. (Elsewhere, anywhere, nowhere, somewhere.)\n\n(a) The two words are often written separately, just as if where were a substantive. Perhaps it would be better to do so; at all events in the compound adverbial form, 'some where or other.' So with the adverb of manner, 'some how or other.' Middleton writes many compounds of every, any, no, as separate words: any body, every body, no body, every where.\n\nAdverbs of place ending in ward or wards, signify the direction of motion towards an object, or in a particular direction. Forward, forwards; backward, backwards; westward; southward; upwards, downwards.\n\nIt is not necessary to enumerate the other adverbs of time and place, of quality, of limitation and degree, of affirmation and denial, &c.",
      "keyTerms": [
       {
@@ -4093,6 +4703,23 @@ window.COURSE_DATA.courses.push({
      "summary": "Adverbs do not only modify verbs; they also modify adjectives and other adverbs, often telling to what degree.",
      "explanation": "An adverb is not limited to verbs. The very same kind of word can also modify an **adjective** or even another **adverb**. When it does this, it usually tells us *to what degree*, that is, how much. Look at *a very nasty medicine*. Here *nasty* is an adjective describing the medicine, and *very* is an adverb telling us how nasty. The adverb *very* modifies the adjective *nasty*. Other such **adverbs of degree** include *quite*, *too*, *rather*, *almost*, and *extremely*. Adverbs can also pile onto other adverbs. In *just now* or *very lightly*, one adverb sharpens another. In *He ran extremely quickly*, *quickly* modifies *ran*, and *extremely* modifies *quickly*. So think of the adverb as a flexible helper. It attaches to three kinds of word, a verb, an adjective, or an adverb, and answers questions like *how?*, *when?*, *where?*, and *how much?* This flexibility is exactly why grammarians group adverbs, prepositions, conjunctions, and interjections together as **particles**: small joining and shading words that color the larger parts of speech.",
      "lead": "This continues Arnold's adverb subsection in \"§ 26. The Particles.\" Here he shows that adverbs reach beyond the verb: they modify other adverbs and stand in for whole adverbial phrases. Watch for his note on the word 'rather,' which can mean either a small degree or a preference, and his examples of adverbial phrases such as 'of a sudden' and 'at random.'",
+     "divisio": {
+      "overview": "A short three-point continuation that widens the adverb from modifying adverbs, to standing in for adverbial phrases, to a closing note on two tricky words.",
+      "parts": [
+       {
+        "label": "Adverbs modifying adverbs",
+        "detail": "gives just now and very lightly to show one adverb sharpening another"
+       },
+       {
+        "label": "Phrases that act as adverbs",
+        "detail": "lists prepositional phrases such as of a sudden, at random, at present, of late, in general as adverbial in force"
+       },
+       {
+        "label": "Notes on rather and comparison",
+        "detail": "distinguishes the two senses of rather and observes that a few adverbs have degrees of comparison, as soon, sooner, soonest"
+       }
+      ]
+     },
      "original": "Many adverbs modify other adverbs: just now, very lightly, &c.\n\nMany phrases (for instance, substantives governed by prepositions) are quite adverbial in meaning, denoting simply some circumstance of time, place, or manner: on this side, on that side; to the right, to the left, &c.; of a sudden, at random, at present, of late, in general, &c.\n\n(a) The adverb 'rather' has two very different meanings: it sometimes limits a property to a very small degree, and sometimes expresses preference. 'She is rather pretty.' 'Will you take that rather than this?' A few adverbs have degrees of comparison: as soon, sooner, soonest.",
      "keyTerms": [
       {
@@ -4213,6 +4840,23 @@ window.COURSE_DATA.courses.push({
      "summary": "A preposition shows the relation between a noun and the rest of the sentence, and it always governs an object.",
      "explanation": "A **preposition** is a small word that marks the *relation* of one thing to another, especially in space or time. Think of *on*, *in*, *under*, *over*, *through*, *from*, *to*, *before*, *after*, *with*, and *by*. Each one places a noun in relation to the rest of the sentence: *the cat **on** the mat*, *we left **after** lunch*. A preposition never travels alone. It always leads to a noun (or pronoun) called its **object**. The preposition plus its object form a **prepositional phrase**: *on the mat*, *after lunch*, *with her*. The object is said to be **governed** by the preposition. Many prepositions began as words for position in space, then stretched to cover time. *Before* first meant *in front of* (\"He stood before me\") and later meant *earlier than* (\"He lived before Caesar\"). This same word can also signal cause: prepositions handle relations of place, time, and cause alike. Notice the family resemblance to adverbs. *He went **in**.* uses *in* as an adverb (no noun follows). *He went **in** the house.* uses *in* as a preposition (the noun *house* is its object). The form is the same; the job is different.",
      "lead": "This is the \"(b) Prepositions\" subsection of \"§ 26. The Particles.\" Arnold states that prepositions express primarily the relation of place, then of time and causality, and gives a long printed list of the English prepositions. He closes by noting prepositional phrases such as 'on account of' and the compound 'out of.'",
+     "divisio": {
+      "overview": "The preposition subsection moves from a one-line definition, to a long alphabetical inventory, to a closing note on phrases and compounds that act as prepositions.",
+      "parts": [
+       {
+        "label": "Definition by relation",
+        "detail": "states that prepositions express primarily place, and also time and causality"
+       },
+       {
+        "label": "The printed list",
+        "detail": "runs an alphabetical inventory from above and about through with, within, and without"
+       },
+       {
+        "label": "Phrases and compounds",
+        "detail": "adds prepositional phrases such as on account of and for the sake of, and names out of a compound preposition"
+       }
+      ]
+     },
      "original": "(b) Prepositions.\n\nPrepositions express primarily the relation of place, and also the relations of time and causality.\n\n(List of Prepositions.) Above, about, across, after, against, along, among, amongst, amid, amidst, around, round, at, athwart; before, behind, below, beneath, beside, between, betwixt, beyond, by, down, during, except, for, from; in, into, near, next, nigh, of, off, over, over-against, on, upon, save, since, through, throughout, till, until, to, unto, toward, towards, under, underneath, up, with, within, without.\n\nAs several phrases have an adverbial meaning, so there are several that have a prepositional meaning; e. g. on account of, for the sake of, on this side, on that side, &c. 'Out of' is a compound preposition.",
      "keyTerms": [
       {
@@ -4416,6 +5060,31 @@ window.COURSE_DATA.courses.push({
      "summary": "A conjunction joins words or whole statements; coordinating ones link equals, subordinating ones attach a dependent clause.",
      "explanation": "A **conjunction** is a word that joins notions or assertions together. The simplest job is to glue equal things side by side: *bread **and** butter*, *small **but** strong*, *tea **or** coffee*. These linking words, **and**, **but**, and **or**, are called **coordinating conjunctions** because they join elements of equal rank. A second kind does something deeper. A **subordinating conjunction** ties one statement to another as *dependent* on it, showing cause, time, or condition: *because*, *when*, *if*, *although*, *since*, *unless*. In *I stayed home **because** it rained*, the word *because* makes the rain the reason for staying, and the *because*-clause cannot stand on its own. Here is the key difference from a preposition. A preposition relates a noun to the sentence; a conjunction relates whole *ideas* and binds them in the mind of the speaker, presenting them as true, likely, or necessary. That is why *and* in \"The rose is red **and** sweet\" joins two qualities, while *that* in \"I wish **that** I could see him\" joins two clauses. Watch for **correlative** pairs that work as a team: *either...or*, *neither...nor*, *both...and*, *not only...but also*. Both halves are needed for the join to work.",
      "lead": "This is the \"(c) Conjunctions\" subsection that closes \"§ 26. The Particles.\" Arnold opens by quoting the grammarians Hermann and Buttmann on what makes a conjunction, then lists the particles counted as conjunctions, including pairs that work in tandem. Note his points that relatives and certain time words (before, after, since, when) carry a conjunctive force, and his closing remark on the two kinds of 'but.' The bracketed names (Rask, Horne Tooke) are the authorities he cites.",
+     "divisio": {
+      "overview": "The conjunction subsection opens with cited definitions, gives the list, then extends the class to borrowed words and pairs before two scholarly remarks on origin and on the two buts.",
+      "parts": [
+       {
+        "label": "Definitions from Hermann and Buttmann",
+        "detail": "explains that a conjunction cannot stand alone and may influence the verb as a preposition does the noun"
+       },
+       {
+        "label": "The list of conjunctions",
+        "detail": "enumerates and, also, either-or, though, but, because, if, unless and the rest"
+       },
+       {
+        "label": "Words used conjunctionally",
+        "detail": "adds relatives and time words like before, after, since, when, plus phrases and correlative pairs such as not only but also"
+       },
+       {
+        "label": "Overlap with other particles",
+        "detail": "notes that words like then and for serve as conjunction and also as adverb or preposition"
+       },
+       {
+        "label": "Tooke on origin and the two buts",
+        "detail": "reports that particles arose from verbs or nouns and that Anglo-Saxon butan splits into subjunctive unless and indicative but"
+       }
+      ]
+     },
      "original": "(c) Conjunctions.\n\nHermann says, that, since adverbs denote some condition inherent in things, it follows that they can both be understood by themselves, and can actually stand alone, whenever there is some notion to which they may be referred; but such is the nature of conjunctions, that they cannot be understood by themselves, but necessarily require to be associated with some thoughts before their force can be understood. Buttmann says, \"Any connecting particle should properly be called a conjunction; especially when it has on the verb an influence similar to that of the preposition on the noun, and requires one of the dependent moods.\"\n\n(a) The following particles are generally considered as conjunctions: and, also; either-or, neither-nor; though, although, albeit, yet, still, nevertheless, but, however, for, that, because, since, as, so, lest, than; therefore, wherefore, then, else; if, unless, except.\n\nAll relative adverbs, and indeed all relatives, have a conjunctive force. So have many adverbs and prepositions, that mark the relation of time; such as, before, after, since, till, until, when.\n\n(a) They may be called conjunctional adverbs and prepositions, or adverbs and prepositions used conjunctionally.\n\nThere are many conjunctional forms that \"consist of two or more separate, but mutually dependent words.\" (Rask.) Such are, as well-as; not only but (or but also), &c.\n\nThere are also many phrases, expressive of time, purpose, &c. which have the force of conjunctions: the moment, the instant;—in order that, seeing that, &c.\n\nB. Some of the conjunctions are also adverbs or prepositions: e. g. then, conjunct. and adv.; for, conjunct. and prepos. &c.\n\n(2) Horne Tooke is probably right in supposing that all particles were originally verbs or nouns; but it does not follow from this, that they are not distinct parts of speech. The principle of division for the parts of speech is not origin or derivation, but use.\n\n(b) The same author supposes two buts, of different use and origin. In Anglo-Saxon there is a preposition butan (without, except), and a conjunction butan, which takes the subjunctive in the sense of unless, the indicative in the sense of but. (Rask, p. 131.)",
      "keyTerms": [
       {
@@ -4571,6 +5240,27 @@ window.COURSE_DATA.courses.push({
      "summary": "An interjection is a word or sound expressing sudden feeling, standing apart from the grammar; it completes the family of particles.",
      "explanation": "The last and smallest part of speech is the **interjection**. It is a word, often a simple sound, used to express some inward feeling such as surprise, joy, sorrow, or pain: *Oh!*, *Ah!*, *Alas!*, *Hurrah!*, *Ouch!*, *Wow!* In English an interjection is usually followed by an **exclamation mark** (!), which stands after exclamations, invocations, and direct addresses. What makes interjections special is that they stand *outside* the grammar of the sentence. \"Alas, the ship is lost\" still makes complete sense without *Alas*; the interjection simply adds a burst of emotion. It governs nothing and joins nothing; it merely colors the moment. With the interjection you have now met all four **particles**, the small but vital words that surround the main parts of speech: - An **adverb** modifies a verb, adjective, or adverb (telling how, when, where, how much).\n- A **preposition** relates a noun to the sentence and governs an object.\n- A **conjunction** joins words or whole ideas.\n- An **interjection** expresses feeling and stands apart. Knowing these well is your bridge into Latin, where the same four roles appear, dressed in new endings.",
      "lead": "Arnold's particles section (§ 26) treats only the adverb, preposition, and conjunction; the interjection is defined back in \"§ 2. The Parts of Speech,\" so this reading gathers the interjection's complete treatment from across the book. It opens with Arnold's definition and its Latin footnote, adds his punctuation rule for the note of exclamation, and closes with the example showing that even 'Ah!' can be used as a substantive. The old phrase 'note of exclamation' simply means the exclamation mark.",
+     "divisio": {
+      "overview": "This reading is assembled from four scattered places in Arnold: a definition, its etymological footnote, a punctuation rule, and a syntax example, each lifting the interjection from a different angle.",
+      "parts": [
+       {
+        "label": "Definition",
+        "detail": "calls the interjection a word, generally a simple sound, expressing inward feeling such as sorrow or surprise"
+       },
+       {
+        "label": "Etymological footnote",
+        "detail": "derives the name from interjectus, thrown into the sentence without belonging to its grammatical structure"
+       },
+       {
+        "label": "Punctuation rule",
+        "detail": "places the note of exclamation after exclamations, invocations, and direct addresses"
+       },
+       {
+        "label": "Words used substantively",
+        "detail": "shows any part of speech, even Ah!, can serve as a substantive, as in Ah! is an exclamation"
+       }
+      ]
+     },
      "original": "A word, generally a simple sound, used to express some inward feeling (such as sorrow, surprise, anger, pain) is called an interjection.\n\n[Footnote.] From interjectus, thrown in between or amongst; it being thrown into the sentence, as it were, without belonging to its grammatical structure.\n\n[From the rules on punctuation:] The note of exclamation (!) stands after exclamations, invocations, and direct addresses.\n\n[From the syntax, on words used substantively:] Any part of speech may be used to express the notion it conveys, as a substantive; in other words, may be used substantively. 'Once is too often.' 'Red and green are different colours.' 'Over is not under.' 'Ah! is an exclamation.'",
      "keyTerms": [
       {
@@ -4768,6 +5458,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "Big words are not random. They are **built** out of smaller building blocks, like a wall built out of bricks. If you learn the bricks, you can understand thousands of words you have never seen before. The most important brick is the **root**. The root carries the core meaning. In *port-able*, *im-port*, and *trans-port*, the root **port** means \"carry,\" and it never changes its basic idea. In front of the root you can add a **prefix** (\"fix\" means \"fasten,\" and *pre-* means \"before,\" so a prefix is \"fastened before\"). The prefix *un-* in *unhappy* flips the meaning to \"not.\" At the end of the root you can add a **suffix** (\"fastened after\"). The suffix *-able* in *readable* means \"able to be.\" **Etymology** is the study of where words come from and how they are built. Most of the words we will study come from **Latin** and **Greek**. That is why learning how English words are built gives you a head start on Latin: you already half-know the vocabulary.",
      "original": "Principal Terminations of Words derived from Latin and Greek.\n\n261 \"While the primary words in our language are almost all Saxon ; the secondary, as they may be called, are mostly of French, the tertiary of Latin origin.\" Phil. Mag. i. 654.\n\nN.B. OE, ae, ph, rh, ch (hard, as in chemist), and y as a vowel in any syllable but the last, mark many words that are formed from the Greek.",
      "lead": "This passage opens Arnold's list of the Latin and Greek terminations, prefacing it by sorting English words into three layers: the oldest and simplest are Saxon, the next are French, and the most learned are Latin. He then notes the spelling clues (like ph, rh, and ch) that betray a Greek origin. The word 'tertiary' just means 'of the third rank.'",
+     "divisio": {
+      "overview": "A title announcing the subject, then a single thesis presented in two moves: a quoted three-layer ranking of English words, capped by a note on spelling clues.",
+      "parts": [
+       {
+        "label": "Heading",
+        "detail": "names the topic, the principal terminations of words derived from Latin and Greek"
+       },
+       {
+        "label": "Quoted ranking",
+        "detail": "the cited authority sorts English words into primary (Saxon), secondary (French), and tertiary (Latin)"
+       },
+       {
+        "label": "N.B. on Greek spellings",
+        "detail": "lists the letter clues (oe, ae, ph, rh, hard ch, vowel y) that betray a Greek-formed word"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Root",
@@ -4894,6 +5601,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "Some prefixes don't just shade a meaning; they **flip** it. The most common one is **un-**, which means \"not.\" *Happy* becomes *unhappy*; *fair* becomes *unfair*. With a verb, *un-* can also mean \"undo the action\": *tie* becomes *untie*, and *lock* becomes *unlock*. From Latin comes the prefix **in-**, which also means \"not\": *visible* becomes *invisible*, and *active* becomes *inactive*. Watch its shape: before certain letters it **assimilates** (changes to match the next letter) to make the word easier to say. So *in-* becomes *im-* before *p*, *b*, *m* (*im-possible*, *im-mature*), *il-* before *l* (*il-legal*), and *ir-* before *r* (*ir-regular*). Two more reversers: **dis-** means \"apart, not, or opposite\" (*agree* becomes *disagree*, *appear* becomes *disappear*), and **mis-** means \"wrongly or badly\" (*spell* becomes *misspell*, *understand* becomes *misunderstand*). The key idea is that a single prefix can change a word into its opposite. Once you know the prefix, you can read the new word without anyone teaching it to you.",
      "original": "(a) Prefixes.\n\n244 Some syllables impart the idea of negation, deterioration, opposition, &c. to the words to which they are prefixed. Among these are un, mis, for, with.\n\n(a) Un signifies not ; mis \"insinuates some errour\" ( = ill, wrongly) ; for (the German ver, distinct from vor, fore) seems to mark opposition ; with marks opposition. For occurs in forbid, forsake, &c.\n\n(b) When un is prefixed to a present participle, it turns it into an adjective (unpitying). Before verbs it denotes the undoing of what was done : to unbind, &c.\n\n245 Be usually gives a transitive signification to verbs. To bestride, bemoan, &c.\n\n(a) Out, over, and up, retain their obvious meanings. Over implies superiority in overcome.\n\n* The German ver marks loss, deterioration, or mistake ; but sometimes appears to have no effect on the verb, as in verschönern, to embellish.",
      "lead": "This is the opening of Arnold's section on prefixes, listing the native English prefixes that give a word a negative or hostile twist (un, mis, for, with) and then the prefixes be, out, over, and up. Watch the archaic word 'errour' (an old spelling of 'error'), the old prefix 'for-', which survives only in a few words such as forbid and forsake, and the German examples ver and verschönern.",
+     "divisio": {
+      "overview": "Two numbered sections: first the negating and opposing prefixes, treated as a group then drilled into un-, then a second batch of prefixes that alter the verb's force, closing with a footnote on the German cognate.",
+      "parts": [
+       {
+        "label": "Negating set (244)",
+        "detail": "names un, mis, for, with together, then glosses each one's negative or hostile sense"
+       },
+       {
+        "label": "un- with verbs and participles",
+        "detail": "shows un- turning a participle into an adjective and marking the undoing of a verb"
+       },
+       {
+        "label": "be-, out, over, up (245)",
+        "detail": "adds be- making verbs transitive and the prefixes that keep their plain spatial sense"
+       },
+       {
+        "label": "Footnote on ver",
+        "detail": "notes the German ver marks loss or mistake yet sometimes leaves the verb's sense unchanged"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "un-",
@@ -5036,6 +5764,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "A second family of prefixes does not flip a word's meaning; instead it tells you a **direction** or a **time**. These come almost entirely from Latin prepositions, so this lesson is your most direct bridge into Latin. **re-** means \"back\" or \"again.\" *Return* = turn back; *replay* = play again; *rebuild* = build again. **pre-** means \"before\" (in time or place). *Preview* = a look before; *predict* = to say beforehand; *prepare* = to make ready before. **sub-** means \"under\" or \"below.\" *Submarine* = under the sea; *subway* = a way that goes under; *subzero* = below zero. **trans-** means \"across, over, through.\" *Transport* = carry across; *translate* = carry words across into another language; *transatlantic* = across the Atlantic. **ex-** means \"out of.\" *Exit* = the way out; *export* = carry out (of a country); *extract* = pull out. Notice how often these stack onto the root **port** (carry): *re-port*, *im-port*, *ex-port*, *trans-port*. Same root, four different directions.",
      "original": "273 So many words are borrowed from Greek and Latin, that it is necessary to know the meaning of the prepositions of those languages.\n\n274 (a) Latin prepositions (or prepositional prefixes), as used in compound words :\n\nPrefixes. ab, away, from. ad, to. amb, ambi-, round; about; on both sides. ante, before. circum, around. con, with; in some words completely. contra, against. de, down; away: in some words it adds the notion of disagreeableness or deterioration. dis, di, asunder; in different directions; away from; un-. ex, out of, thoroughly. in, into, on, against: with adjectives, not. inter, between, amongst. intro, within. ob, against: sometimes about. per, through, thoroughly; (with adj.) very. It sometimes adds a bad meaning to the word. post, after. prae, before; (with adj.) very. praeter, by. pro, forth, forwards. re, back, again, away, un-; (sometimes very, or forth from within.) retro, backwards. se, aside, apart from. sub, under, away from beneath, from below upwards, somewhat. subter, underneath, away from underneath. super, above. trans, across, through, over to the other side.\n\n275 The final consonant of ad, in, ob, sub, is often changed, by assimilation, into the initial consonant of the word to which it is prefixed. Annex, affect, &c.\n\n(a) E or ex becomes ef before f: con and in become com, im, before b, m, p. Before noble it becomes ig. Imbibe, imminent, imprudent, ignoble.\n\n(b) Trans appears sometimes as tra: traduce.\n\nBut this g really belongs to the root of the word, which was gno, not no.",
      "lead": "This is Arnold's complete section on the Latin prepositions that English uses as prefixes, opening with why borrowed words make them worth knowing, then giving the full list with the meaning each one carries inside a compound word, and finally explaining how some prefixes change their last letter (by assimilation) to match the word they join. Note 'prae' is the older Latin spelling of our 'pre-'.",
+     "divisio": {
+      "overview": "A rationale, then the alphabetical glossary of Latin prepositional prefixes, then the assimilation rules, refined by smaller notes on particular changes.",
+      "parts": [
+       {
+        "label": "Rationale (273)",
+        "detail": "argues that so many borrowed words make the prepositions worth knowing"
+       },
+       {
+        "label": "Glossary of prefixes (274)",
+        "detail": "lists each Latin prepositional prefix from ab to trans with its meaning in compounds"
+       },
+       {
+        "label": "Assimilation rule (275)",
+        "detail": "states that the final consonant of ad, in, ob, sub changes to match the following word"
+       },
+       {
+        "label": "Refining notes",
+        "detail": "specifies e/ex becoming ef, con and in becoming com or im, the form ig, and trans appearing as tra"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "re-",
@@ -5196,6 +5945,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **suffix** is an ending fastened onto a root. Unlike prefixes, suffixes usually change the **part of speech**; they change a word's *job* in a sentence. The suffix **-tion** (also spelled **-sion**) turns a verb into a noun naming the action: *act* becomes *action*, *create* becomes *creation*, *decide* becomes *decision*. It means \"the act or result of doing\" the verb. The suffix **-able** (sometimes **-ible**) turns a verb into an adjective meaning \"able to be\": *read* becomes *readable* (able to be read), *break* becomes *breakable*, and *vis-* becomes *visible* (able to be seen). The suffix **-ous** turns a noun into an adjective meaning \"full of\" or \"having the quality of\": *danger* becomes *dangerous* (full of danger), *fame* becomes *famous*, *poison* becomes *poisonous*. So a single root can change jobs again and again. Take *create*: *create* (verb), *creation* (noun), *creative* (adjective). The suffix decides which one you get. Reading the suffix tells you instantly whether a word is naming a thing, describing a thing, or doing an action.",
      "original": "262 Tion, sion, ure (tio, sio, ra), denote the doing of the action expressed by the root.\n\n(a) But they sometimes express the result of such an action : the thing done. Affliction, a creature, a fixture.\n\n(b) \"Relative has indeed, within my memory, by a ridiculous affectation of false and unfounded accuracy, crept forward into improper use, to the exclusion of relation .... but these petty fopperies will pass away of themselves, and when the whim is over, we shall all find our relations again, as safe and sound as ever.\"-Tooke, ii. 496.\n\n263 Ity, ty, ice, cy, nce, tude, mostly denote quality or habit ; the being what the root (an adjective) expresses. Atrocity, cruelty, avarice, constancy, elegance.\n\n(a) [These terminations answer to itas, ia, tia, tudo, all fem.]\n\n264 Tor, sor, is, as we have seen, the doer of an action ; and tor has a corresponding feminine trix.\n\n(a) Many in or (or our) after some other consonant (that is not t or s) express qualities.\n\n(b) The Latin nouns in or, end in eur in French ; and since they come to us from that language, \"it will be well to leave such affectations as honor and favor to the great vulgar for their cards of invitation. In honorable and favorable, on the other hand, the u would be an intruder, having no more business in them than in the second syllables of clamorous or laborious ; for they are not home-made derivatives, but were imported ready-formed from France. A like rule, as has been observed by others, would be the best guide for our choice, with regard to the use of in or en in compound words ; that is to say, to write in where a word has come to us immediately from the Latin, en where it has past through the French. The same principle may be applied to a great variety of cases ; and among other advantages of such a practice would be its supplying us at a glance with a mass of evidence concerning the history of our language.\"-Phil. Mag. i. 648.\n\n265 Ant and ent (adj.) imply doing, and also habit ; the being what the root requires. Tolerant, patient.\n\n266 Tive and sive (Lat.), and ic (Greek), denote a tendency or aptness to do what the root expresses. Detersive, purgative, cathartic.\n\n(a) Ic is also a termination of national names (Gallic).\n\n(b) Wilkins proposed unwalkative for one who cannot walk. Tooke, ii. 493. Tooke calls these, Potential Active Adjectives.\n\n267 Able, ible, denote fitness to be done.\n\n(a) Tooke calls these Potential Passive Adjectives. (b) But many English adjectives end in ble, that have simply the meaning of a habit. These come, not from the Latin bilis, but from the Italian vole (our ful), which the French turned into ble (as in diable from diavolo). So Tooke, ii. 485.\n\n268 A few less common terminatives are ose, abounding in (verbose) ; ean (Greek), belonging to persons (Epicurean, Pythagorean) ; ne belonging to animals (canine, feline), &c.\n\n269 From adjectives are formed many abstract substantives.\n\n270 From ant, ent, come substantives in ancy, ency ; or ance, ence.\n\n271 From adjectives in able, ible, are formed abstract substantives in ability, ibility ; besides which, we have many abstracts from the Latin that end in ty, from the termination tas in that language. Placability, sensibility.\n\n272 Ize is the termination of verbs signifying to make or produce the property expressed by the root ; and also to be or have that property.\n\n(a) This is properly a Greek termination (as in catechize), but is appended to many adjectives that come to us from the Latin : humanize, &c. with which it signifies to make.",
      "lead": "This passage gives Arnold's full run of the chief Latin and Greek endings (terminations), from -tion down through -ize, telling you the meaning each one signals: the action done, a quality, the doer of an action, or a fitness to be done. Note that '-tor' has a matching feminine form '-trix', that 'fitness to be done' just means 'able to be done', and the long quoted asides from Tooke and the Philological Magazine on older spellings such as 'honor' and 'favor'.",
+     "divisio": {
+      "overview": "A numbered catalogue of terminations, ordered by the kind of word each makes: action nouns, quality nouns, agent nouns, doing or aptness adjectives, fitness adjectives, then derived abstracts and verbs.",
+      "parts": [
+       {
+        "label": "Action endings (262)",
+        "detail": "tion, sion, ure for the doing or result of the root's action"
+       },
+       {
+        "label": "Quality and agent endings (263, 264)",
+        "detail": "ity, ty, cy and the like for quality, then tor, sor with feminine trix for the doer"
+       },
+       {
+        "label": "Doing and aptness adjectives (265, 266)",
+        "detail": "ant, ent for doing or habit, then tive, sive, ic for a tendency or aptness to act"
+       },
+       {
+        "label": "Fitness and rarer endings (267, 268)",
+        "detail": "able, ible for what is fit to be done, with Tooke's caveat about the Italian-derived ble, then the rarer ose, ean, ne"
+       },
+       {
+        "label": "Derived abstracts and verbs (269 to 272)",
+        "detail": "abstract substantives in ancy, ency, ability, ty, and verbs in ize meaning to make"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "-tion / -sion",
@@ -5334,6 +6108,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "Now we reach the payoff. Once you know a handful of **roots**, you can unlock whole families of English words, and the very same roots are the Latin and Greek words you will study next. Four heavy-hitting **Latin roots**:\n- **port** = carry (*portable*, *transport*, *export*, *porter*)\n- **scrib / script** = write (*describe*, *inscribe*, *manuscript*, *scribble*)\n- **dict** = say, speak (*dictate*, *predict*, *contradict*, *dictionary*)\n- **spect** = look, watch (*spectator*, *inspect*, *respect*, *spectacle*) Watch what happens when you combine roots with the prefixes you already learned. *In-* (in/on) plus *spect* (look) gives *inspect*, \"look into.\" *Contra-* (against) plus *dict* (say) gives *contradict*, \"speak against.\" The pieces really do add up. English also borrows **Greek roots**, often marked by spellings like *ph*, *ch*, or *y*: **tele** = far (*telephone*, *television*), **graph** = write (*photograph*, *autograph*), **phon** = sound (*telephone*, *symphony*), **bio** = life (*biology*, *biography*). When you spot one of these roots inside a long word, you can usually guess the meaning. That habit of breaking words apart is exactly the skill that makes Latin vocabulary feel familiar.",
      "original": "276 The following are Greek prepositions :\n\nAmphi .. around, on both sides. Amphitheatre. Anti ... against. Anti-christ, anti-jacobin. Hyper .. over, beyond, too. Hypercritical, too critical. Hypo ... under. Hypothesis (thesis, a placing, that which is placed) that which is placed under, to support a theory ; a supposition. Meta .. denotes transposition, change. To metamorphose, to change the shape. Para .. by, beyond, against. A paralogism, an argument against, or contrary to sound reasoning. Peri .. round. Periphrasis, a circumlocution. Syn ... (by assimilation syl, sym) with, together.\n\n(a) Syn is sym before b and p. Sympathy, a suffering with, fellow-feeling; symbol. (b) A,-not, without.",
      "lead": "This complete section, just as he did with Latin, has Arnold list the Greek prepositions that English borrows as prefixes, giving a familiar word to illustrate each one (amphitheatre, anti-christ, hypothesis). Several of his examples are technical: a 'paralogism' is a faulty argument, and a 'periphrasis' is a roundabout way of saying something.",
+     "divisio": {
+      "overview": "A glossary of Greek prepositional prefixes, each paired with a sample word, followed by two notes on assimilation and on the negating a-.",
+      "parts": [
+       {
+        "label": "Glossary of Greek prefixes (276)",
+        "detail": "lists amphi through syn, each glossed and shown in a familiar word like amphitheatre or hypothesis"
+       },
+       {
+        "label": "Assimilation note",
+        "detail": "observes that syn becomes sym before b and p, as in sympathy and symbol"
+       },
+       {
+        "label": "Note on a-",
+        "detail": "adds the prefix a- meaning not or without"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "port",
@@ -5491,6 +6282,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "A **comma** ( , ) is the smallest stopping mark in writing. It tells the reader to pause for just a moment, the way your voice dips a little when you speak. Its main job is to keep apart things that should not be read in one breath. The first big use is the **list** (or **series**): three or more items written one after another. You put a comma after each item except the last, and a conjunction such as *and* or *or* before the final item: *We packed bread, cheese, apples, and water.* The comma you may place before that final *and* is called the **serial comma** (or Oxford comma); some writers use it, some leave it out, but it never causes confusion to include it. The second use is to separate two short statements that have been joined into one sentence. When you link two complete thoughts with a conjunction like *and*, *but*, or *so*, a comma goes before the conjunction: *The rain stopped, and the sun came out.* This keeps the reader from accidentally connecting words across the join. A comma is **weak**: it never ends a sentence, and it cannot by itself glue two full sentences together without a conjunction. Joining two sentences with only a comma is the famous mistake called a **comma splice**.",
      "lead": "Arnold opens the whole Punctuation appendix here: the list of stops (comma, semi-colon, colon, full stop, notes of interrogation and exclamation, parenthesis), the Greek names of the marks, and his governing principle that punctuation should follow a correct speaker's pauses. He then begins the Comma proper with its three reader-serving purposes and the rules for lists and joined words. Note older spellings 'stopt' (for 'stopped'), 'vigour', and 'connexion', and that the term 'stopt off' (explained in his footnote) means set off by commas.",
      "original": "APPENDIX.\n\nON PUNCTUATION.\n\nThe stops used in English books are the comma (,), the semi-colon (;), the colon (:), the full stop (.), the note of interrogation (?), the note of admiration, better called the note of exclamation (!), and the double mark parenthesis [( )].\n\n(a) Comma means a portion cut off; colon a member (of a sentence); semi-colon, a half-member; parenthesis a putting in by the by. These names are from the Greek.\n\nIt is of great importance to settle beforehand the principle of punctuation, which should be this: It is the business of punctuation to divide written language into such portions as a correct speaker would divide it into.\n\n(a) \"From such traces of the practice of this doctrine as we find in old manuscripts and old scholia, we discover, that its fundamental principle was laid in the natural divisions of animated delivery, and not in the strict logical succession of the thoughts.\"-Buttmann, i. 69.\n\n(b) The principle just laid down will save us from that perverse mode of punctuation, which attends only to the grammatical structure of a sentence, and forbids us to separate \"the subject from the predicate; the case governed from the verb that governs it,\" &c.-Matthiae's Greek Grammar, i. 107.\n\n(a) The Comma.\n\nThe purposes for which commas are required for the convenience of the reader, are principally three: (1) To keep together what should be kept together; (2) To prevent the reader from connecting words that might be, but are not to be, connected; (3) To give due prominence to words or phrases, the force of which would be injured, if they were passed over too rapidly.\n\n(a) Buttmann remarks, that writers often deprive themselves of strong expressions which a speaker would not hesitate to use, by fearing to employ commas for the second of these purposes.\n\nI shall now give Lindley Murray's rules, and try them by the fundamental principles just given. [When inverted commas are not used, the rules are his in substance, but not in words.]\n\n\"A simple sentence, when it is a long one, and the nominative case is accompanied with inseparable adjuncts, may admit of a pause immediately before the verb.\"\n\n(a) This rule agrees with the principle; that is to say, with our practice in speaking; when the mind has fairly taken in the notion of a complex subject of this kind, it can wait for what is to be predicated of it. In such cases, to keep the subject and the predicate each by itself, consults the convenience of the speaker, without making the sentence less intelligible for the hearer. So Middleton: \"The injustice and barbarity of this censure on all former editors of the New Testament, will appear ....\" &c.\n\n\"When the connexion of the different parts of a simple sentence is interrupted by an imperfect phrase, a comma is usually introduced before the beginning, and at the end of this phrase.\"\n\n(a) This seems unnecessary except when we wish to give prominence to such an insertion, or to guard against its being improperly connected with some word near it.\n\nWhen a conjunction is omitted, the words that it would have connected are separated by a comma; and when the last of more than two such words has the conjunction expressed, a comma is used before that conjunction, as well as between the other words. \"The husband, wife, and children.\" \"Virtue supports in adversity, moderates in prosperity.\"\n\n(a) When two words or phrases are joined by a conjunction, a comma is unnecessary; but it may be inserted when \"the parts connected are not short.\" \"Wisdom and folly.\" \"She is modest and retired.\" \"Whether we eat or drink.\" \"Intemperance destroys the strength of our bodies, and the vigour of our minds.\"\n\n(b) The comma seems unnecessary in the last example: it may be used when the phrases connected are long, and where there is danger of mis-connecting.\n\nThe last adjective is not stopt off from its noun, but the last noun is stopt off from its verb.\n\n(a) Middleton observes the first rule but not the second. \"The absolute, immediate, and as it were personal direction of their affairs.\" But: \"what an odd accident, what a fortuitous concourse of atoms gave birth to this mighty work!\" So, the translators of Niebuhr: \"Their lamentations, his mother's threatened curse bent his mind.\" (ii. 240.) I am inclined to agree with Murray, except where there is not meant to be much distinction between the nouns in point of meaning; e. g. when the last is a strengthened expression of the preceding ones.\n\n[By stopt off is to be understood, separated by a comma or commas.]",
+     "divisio": {
+      "overview": "Arnold prefaces the whole appendix, states his speaker-pause principle, then opens the comma with its purposes and the list and joined-word rules.",
+      "parts": [
+       {
+        "label": "Catalogue of stops",
+        "detail": "names the marks and gives their Greek meanings (comma a portion cut off, colon a member, and so on)"
+       },
+       {
+        "label": "Governing principle",
+        "detail": "fixes that punctuation divides writing as a correct speaker would pause, backed by the Buttmann and Matthiae notes"
+       },
+       {
+        "label": "Three purposes of the comma",
+        "detail": "lists keeping together, preventing wrong connection, and giving prominence"
+       },
+       {
+        "label": "Murray's rules tested",
+        "detail": "runs through the long-subject pause and the interrupting imperfect phrase, weighing each against the principle"
+       },
+       {
+        "label": "Omitted-conjunction and series rules",
+        "detail": "treats commas for a dropped conjunction, the serial comma before an expressed 'and', and joined short versus long phrases, closing with stopping the last noun off from its verb"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Comma",
@@ -5614,6 +6430,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "Besides separating list items, the comma can **fence off** an extra group of words that has been dropped into the middle of a sentence. When such a group interrupts the main idea, you place a comma before it and a comma after it, like a pair of gates: *My uncle, who lives in Rome, sent a letter.* If you lifted out the part between the commas, the sentence would still stand on its own. The most important case is the **appositive**: a noun phrase placed right beside another noun to rename or explain it. In *Paul, the Apostle of the Gentiles, preached,* the phrase **the Apostle of the Gentiles** simply renames *Paul*. Because it adds extra (non-essential) information, it is set off with two commas. Commas also fence off a **participial phrase** (a phrase built on an *-ing* or *-ed* word) that describes the subject, as in *The king, approving the plan, put it into execution.* The same two-comma rule applies to a name you call out directly, the **vocative**: *My son, give me your heart.* The key test is whether the words are **essential** or **extra**. If the sentence needs them to identify which person or thing you mean, leave the commas out. If they are bonus information you could remove, wrap them in commas.",
      "lead": "This is the continuation of Arnold's Comma treatment, running through all his remaining rules for when a phrase is 'stopt off' (his term for being set off by commas): appositives with adjuncts, intervening phrases, participial phrases, vocatives, the case absolute and infinitive absolute, comparatives, words in opposition, quotation-like remarks, relative and dependent clauses, and transition words such as 'nay, so, hence, again.' Watch for his old phrasing 'stopt off', 'thy' for 'your', and 'connexion'.",
      "original": "A noun in apposition to another, \"when accompanied with adjuncts,\" and participles or adjectives with dependent words are generally stopt off. \"The king, approving the plan, put it into execution.\" \"Paul, the Apostle of the Gentiles, preached,\" &c. \"But he, anxious to refer the cause to arbitration, refused,\" &c.\n\n\"When a conjunction is divided by a phrase or sentence from the verb to which it belongs, such intervening phrase\" is usually stopt off.\n\n(a) This will often be unnecessary. \"The people, in the mean time, grew impatient and clamorous for the death of the pirates, whom all other praetors used to execute as soon as taken; and knowing the number of them to be great, could not be satisfied with the few old and decrepit, whom Verres willingly sacrificed to their vengeance.\"-Middleton.\n\nVocative cases, &c. are generally stopt off. \"My son, give me thy heart.\"\n\n\"The case absolute and the infinitive mood absolute\" are stopt off. \"His father dying, he\" &c. \"To confess the truth, I was much in fault.\"\n\n(a) Middleton often uses a semi-colon or colon after what Murray here calls the infinitive absolute. \"But to pursue the objection of our Catholic; he declares,\" &c. \"But to pursue his argument a little farther: while the Mosaic worship,\" &c.\n\n(b) I would here add that an infinitive clause expressing the purpose; and a clause containing a participial substantive governed by a preposition, and with some dependent words attached to it, are often stopt off. \"Catiline was ready with his Tuscan army, to take the benefit of the public confusion.\" \"Thus far however he must be allowed to act like a generous adversary, in referring the merit of his argument to the trial of the press.\"\n\nSimple members of sentences connected by comparatives (as, than), are generally stopt off, unless the comparative sentences are short. \"As the hart panteth after the water-brooks, so,\" &c. \"Better is a dinner of herbs with love, than a stalled ox and hatred with it.\" But, \"It is better to get wisdom than gold.\" \"I think as you do.\"\n\nWords placed in opposition to each other, or with some marked variety, are stopt off; but the comma is better omitted after the last of two prepositions, when it stands before a single word. \"Though deep, yet clear; though gentle, yet not dull.\" \"Not only in union with, but in opposition to, the views and conduct of others.\" \"In alliance with, and under the protection of Rome.\"\n\n(a) Middleton does not put a comma after the second of two words that have a phrase dependent upon both. \"This tends rather to confirm than to confute the inference, which I have drawn from them.\"\n\n(b) The use of the second comma will depend on whether the suspension of the voice at that place will, or will not, assist the hearer, in perceiving that the following words are dependent upon both the preceding ones.\n\n\"A remarkable expression, or a short observation, somewhat in the manner of a quotation, may be properly\" stopt off. \"It hurts a man's pride to say, I do not know.\" \"Plutarch calls lying, the vice of slaves.\"\n\n(a) Here the comma is useful in giving prominence to the words.\n\nRelative sentences are generally stopt off, except when they are closely connected with the other sentence, \"restraining the general notion of the antecedent to a particular sense.\"\n\n(a) Middleton generally stops off a relative sentence however short, whether restrictive or not. But I agree with Murray, in thinking that a comma has no business before the relative, when it is restrictive; e. g. when the predicate is only true of the antecedent, as limited by the relative clause. \"A man who is of a detracting spirit, will misconstrue the most innocent words.\"\n\nA dependent sentence is generally stopt off; e. g. sentences introduced by how, that, when, &c.\n\n(a) This should depend on the length of the sentence: Murray adds, \"if the members succeeding each other are very closely connected, the comma is unnecessary.\" \"Revelation tells us how we may obtain happiness.\"\n\nWhen an infinitive mood or a sentence is the subject, but is placed after the verb, it has generally a comma before it. \"It ill becomes good and wise men, to oppose and degrade one another.\" \"The most obvious remedy is, to withdraw from the company of bad men.\" So Middleton: \"It is certain however, that they could have had,\" &c. But not always: \"The effectual way of ruining a fabric, is to charge it with a greater load than it was made to bear.\"\n\n(a) Here again the comma may, or may not be convenient.\n\n\"Where a verb is understood, a comma may often be properly introduced.\" \"From law arises security; from security, curiosity.\"\n\n(a) A comma may be useful in such a case; that is to say, a suspension of the voice may make a spoken sentence of this kind more intelligible.\n\nThe words nay, so, hence, again, first, secondly, formerly, now, lastly, once more, above all, on the contrary, in the next place, in short, and other words and phrases of the same kind, must generally be separated from the context by a comma. [This will often be unnecessary.]",
+     "divisio": {
+      "overview": "Arnold marches through his remaining comma rules, each a distinct construction that is 'stopt off', moving from inserted phrases to clauses and connective words.",
+      "parts": [
+       {
+        "label": "Appositives and participial phrases",
+        "detail": "sets off a noun in apposition with adjuncts and participles or adjectives carrying dependent words"
+       },
+       {
+        "label": "Interruptions and direct address",
+        "detail": "covers phrases dividing a conjunction from its verb, vocatives, the case absolute, and the infinitive absolute"
+       },
+       {
+        "label": "Comparatives and opposed words",
+        "detail": "stops off members joined by 'as' or 'than' and phrases set in marked opposition, with the caution about a second comma before a shared dependency"
+       },
+       {
+        "label": "Quotation-like remarks and clauses",
+        "detail": "sets off short quoted observations, then weighs relative and dependent clauses, restrictive versus not"
+       },
+       {
+        "label": "Postponed subjects, dropped verbs, transition words",
+        "detail": "ends with a comma before a delayed infinitive subject, where a verb is understood, and before connectives like nay, so, hence, again"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Appositive",
@@ -5733,6 +6574,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "When two complete statements are closely related, you do not always need a conjunction to join them. The **semicolon** ( ; ) links them with a pause stronger than a comma but lighter than a full stop: *The rain stopped; the sun came out.* Each side of a semicolon must be able to stand alone as a sentence. The semicolon is also handy in a long list whose items already contain commas, where it keeps the big groups apart. The **colon** ( : ) does a different job: it announces that something is coming. After a complete statement, a colon points forward to a list, an explanation, or a quotation: *We packed three things: bread, cheese, and water.* Think of it as a small drumroll that says, *here it is.* Arnold notes that a colon is commonly used \"when an example, a quotation, or a speech, is introduced.\" The difference is direction. A semicolon **balances** two equal sentences side by side. A colon **leans forward** from a full statement into what explains or completes it. The words before a colon should normally form a complete sentence; the words after it need not. A simple memory aid: semicolon = \"and here is a closely related thought\"; colon = \"and here is what I mean.\"",
      "lead": "Arnold opens his subsection on the colon and semi-colon, whose chief job is to separate the members of a compound sentence by a pause longer than a comma. He cites Murray on when a colon introduces an example, quotation, or speech. Note 'semi-colon' is his hyphenated spelling and 'connexion' his older form of 'connection'.",
      "original": "(b) Colon and Semi-colon.\n\nThe chief use of these stops is, to separate the members of a compound sentence.\n\nWhen a sentence is of such a kind as to require an answering sentence, it is often enough to separate them by a comma; but it is generally better to use a semi-colon, when the sentences are somewhat long, especially when several commas are employed in them. 'When you come, I will tell you.' 'When you come to me bringing a testimonial of good character, from the clergyman, or some other respectable inhabitant of your town; then I will,' &c.\n\n(a) We should remember as a general rule; that a semi-colon may be used instead of a comma, whenever and wherever a longer pause is required; i. e. would make the spoken sentence more intelligible.\n\n(b) So too a colon may be used on all such occasions, when a still longer pause appears desirable. It will be generally well to employ it, when the subsequent member of a compound sentence is not required by the construction of the preceding one; but contains some \"supplemental remark, or further illustration.\" But a good deal will depend on the degree of connexion.\n\n(c) Murray says: \"the colon is commonly used when an example, a quotation, or a speech, is introduced.\" Middleton more frequently uses the semi-colon, and often only a comma.",
+     "divisio": {
+      "overview": "Arnold states the shared job of the two heavier stops, then ranks them by length of pause from semicolon up to colon.",
+      "parts": [
+       {
+        "label": "Shared chief use",
+        "detail": "declares that both stops separate the members of a compound sentence"
+       },
+       {
+        "label": "When the semicolon serves",
+        "detail": "prefers it over a comma for answering sentences that are long or already full of commas"
+       },
+       {
+        "label": "When the colon serves",
+        "detail": "raises to the colon for a still longer pause, especially before a supplemental remark or further illustration"
+       },
+       {
+        "label": "Murray's introducing rule",
+        "detail": "notes the colon before an example, a quotation, or a speech, with Middleton's lighter practice"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Semicolon",
@@ -5845,6 +6707,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "Every sentence ends with one of three **end marks**. The **period** (also called the full stop. ) ends a plain statement or a command. The **question mark** ( ? ) ends a direct question. The **exclamation mark** (also called the note of exclamation! ) ends a strong outburst, a cry, or a direct address full of feeling. A key rule: the question mark belongs only after a **direct** question, one actually asked in the speaker's own words: *Where are you going?* It does NOT go after an **indirect** question, which merely reports that a question was asked: *She asked where I was going.* That sentence is a statement and takes a period. The period also appears after most **abbreviations**, such as *Mr.*, *etc.*, and *a.m.* Arnold reminds us that \"a full stop is marked after every abbreviated word.\" Finally, **quotation marks** (Arnold calls them **inverted commas**, \" \") fence off the exact words a person speaks or writes. Open them where the quoted words begin and close them where they end: *She said, \"The gate is locked.\"* Inside the quotation, you still use ordinary end marks. Anything outside the marks is your own narration, not the speaker's words.",
      "lead": "Arnold sets down the rules for the note of interrogation (the question mark) and the note of exclamation, then closes the whole Punctuation appendix with his subsection on the parenthesis and his final notes on the full stop after abbreviations and the inverted commas (his term for quotation marks). Note 'note of admiration' and 'note of exclamation' both name the '!' mark, and 'nem. con.' is Latin for 'no one contradicting' (unanimously).",
      "original": "(c) Notes of Interrogation and Admiration.\n\nThe note of interrogation (?) is to be used at the end of all questions that are asked directly; but not after indirect or dependent questions.\n\n(a) The translators of Niebuhr use it after independent questions: \"If we ask, who was the gainer by the death of his great ancestor? the answer is, the patricians.\"\n\nThe note of exclamation (!) stands after exclamations, invocations, and direct addresses.\n\n(d) Parenthesis.\n\nMurray says a sentence included within a parenthesis, \"ought to terminate with the same kind of stop which the member has that precedes it; and to contain that stop within the parenthetical mark.\" He excepts cases of interrogation and exclamation.\n\n(a) This stopping within the parenthetical marks is quite useless. The following examples are from Middleton: \"I have followed Origen, Didymus, and Apollinaris, (who all certainly hold opinions contrary to each other) in such a manner, that,\" &c. \"The learned Huetius (in his, &c. ... prefixed to Origen's Commentaries) has collected,\" &c.\n\n(b) Perhaps the best rule would be to consider the parenthetical marks sufficient without any other stop, unless where it is necessary to intimate, whether the parenthetical clause belongs to the words that go before or to those that follow; which may be done by putting a stop before, or after, the parenthetical remarks. \"The night (it was the middle of summer) was fair and calm.\"-Thirlwall's Greece. \"He has by a number of citations (proving what everybody knew before), shown,\" &c. \"So says Cicero (as your grace knows), or so he might have said.\"\n\n(a) It should be remembered that a full stop is marked after every abbreviated word. \"It was carried nem. con.\" \"He is an M.P.\"\n\n(b) Inverted commas are used to mark quotations.",
+     "divisio": {
+      "overview": "Arnold closes the appendix by taking the remaining marks one by one, from interrogation and exclamation through the parenthesis to the final notes on the full stop and inverted commas.",
+      "parts": [
+       {
+        "label": "Interrogation and exclamation",
+        "detail": "puts the question mark after direct but not indirect questions, and the exclamation after exclamations, invocations, and direct addresses"
+       },
+       {
+        "label": "The parenthesis",
+        "detail": "reports Murray's rule on enclosing the prior stop, rejects it as useless, and proposes letting the marks stand alone unless a stop clarifies which clause the aside belongs to"
+       },
+       {
+        "label": "Closing notes",
+        "detail": "ends with the full stop after every abbreviated word and inverted commas as the marks of quotation"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Period",
@@ -5958,6 +6837,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "The **apostrophe** ( ' ) has two distinct jobs, and beginners often mix them up. First, it forms the **possessive**, showing that something belongs to someone. Add **'s** to a singular noun: *the dog's bone*, *Maria's book*. For a plural noun that already ends in *s*, add only the apostrophe after the *s*: *the dogs' kennel*, *the students' desks*. Arnold gives the example \"On eagles' wings.\" Second, the apostrophe marks a **contraction**, where letters have been dropped and two words squeezed into one. The apostrophe stands exactly where the missing letters were: *do not* becomes *don't*, *it is* becomes *it's*, *cannot* becomes *can't*. The most famous trap is **its** versus **it's**. *It's* (with the apostrophe) always means *it is* or *it has*. *Its* (no apostrophe) is the possessive, like *his* or *hers*: *The cat licked its paw.* When in doubt, try reading it as *it is*; if that makes no sense, drop the apostrophe. Finally, **capital letters** begin every sentence and every **proper noun** (the particular name of a person, place, day, month, or nation): *Rome*, *Julia*, *Tuesday*, *April*, *Latin*. The pronoun *I* is always capitalized too. Ordinary common nouns like *city* or *boy* stay lowercase unless they begin a sentence.",
      "lead": "This is Arnold's complete section on the GENITIVE case (what modern grammar calls the possessive), the one English case still formed by inflexion. He opens with how the apostrophe forms it ('s for singulars, a bare apostrophe after the s of plurals), then traces its Anglo-Saxon origin in the ending 'es' and debunks the old notion that the 's stood for 'his', before giving the rule for closely joined phrases. Note that Arnold uses 'genitive' where modern grammar says 'possessive', and older spellings such as 'dropt' and 'inflexion'.",
      "original": "GENITIVE.\n\nThe genitive is now formed by adding s with an apostrophe (thus, 's) to the nominative.\n\nIn plural words ending in s, the genitive is like the nominative, but it is now customary to mark an apostrophe after the s. \"On eagles' wings.\"\n\n(a) So in the phrase, 'for righteousness' sake': but we also say, 'for conscience sake.'\n\n(b) The apostrophe after the genitive plural is absurd, for an apostrophe marks that a vowel has been dropt, whereas no vowel ever followed the s of the plural to form a genitive. \"The present practice is scarcely of a hundred years standing.\" (Phil. Mag. i. 675.)\n\n(c) The Anglo-Saxon genitive of the second declension ended in es (leaf, leafes: word, wordes). Hence this is the only case we have kept, the apostrophe marking the omission of the e.\n\nProbably therefore the apostrophe should never be marked, but where an e has been dropt. A notion came into fashion, \"probably in the latter half of the sixteenth century,\" that the s of the genitive stood for his: under this notion the his was often written at length, especially where the substantive ended in s. Even good writers, such as Clarendon, Barrow, Dryden, Pope, followed the fashion; though its absurdity is immediately perceived, when we consider that s follows feminine nouns and plurals, where his can have no place. [His occurs in a letter of Cranmer's (1536): \"the Bishop of Rome his authority.\" Vol. i. p. 173. Ed. Jenkyns.]\n\n(d) Many persons merely mark the apostrophe after the final s, to form the genitive of singular nouns ending in that letter. Thus \"Eneas' young son.\" In the Bible we have \"Mars hill\" (now printed Mars' hill): and Spenser and Milton write, Venus Sonne, Phoebus lamp, Morpheus train, &c. This practice accords with that of the Germans, who regard names ending in s as indeclinable; Tantalus Sohn, Aeschylos Agamemnon. In Anglo-Saxon, proper names in s sometimes did, and sometimes did not, receive an additional es in the genitive. 'Mattheus gerecednys,' Matthew's narrative; 'Urias wif,' Uriah's wife. But also 'Philippuses,' 'Remuses.' Middleton writes the second s wherever we should pronounce it: \"Judas's\": it would be far better to write Judases, Remuses, &c. if one durst.\n\nWhen two or more words are so closely joined together as almost to form one complex notion, the sign of the genitive is added to the last word, so as to put the whole phrase in the genitive. \"Beaumont and Fletcher's plays.\" \"Howell and James's shop.\" \"The king of England's palace.\"",
+     "divisio": {
+      "overview": "Arnold treats the English genitive as a single surviving case, moving from how it is formed to its history and the false 'his' theory, then to a closing rule for joined phrases.",
+      "parts": [
+       {
+        "label": "Formation rule",
+        "detail": "adds 's to the nominative, and a bare apostrophe after the s of plurals, as 'On eagles' wings'"
+       },
+       {
+        "label": "Anglo-Saxon origin",
+        "detail": "traces the case to the second-declension ending 'es', the apostrophe marking the dropped e"
+       },
+       {
+        "label": "The 'his' fallacy",
+        "detail": "recounts and refutes the sixteenth-century notion that the s stood for 'his', since s also follows feminines and plurals"
+       },
+       {
+        "label": "Singular nouns ending in s",
+        "detail": "surveys varied practice, from 'Eneas' young son' to Middleton's 'Judas's'"
+       },
+       {
+        "label": "Closely joined phrases",
+        "detail": "puts the genitive sign on the last word of a unified phrase, as 'Howell and James's shop'"
+       }
+      ]
+     },
      "keyTerms": [
       {
        "term": "Apostrophe",
@@ -6093,6 +6997,27 @@ window.COURSE_DATA.courses.push({
      "summary": "Every sentence has a subject (who or what) and a verb (what it does); transitive verbs also take an object (the thing affected).",
      "explanation": "Before you can study how words agree or govern one another, you need to spot the three main jobs in a sentence. The **subject** is the person or thing the sentence is about, the one doing or being something. To find it, ask **who?** or **what?** before the verb. In *The dog barked*, the subject is *the dog*. The **verb** is the word that tells what the subject does or is: *barked*, *runs*, *is*. What we say about the subject is called the **predicate**, and the verb is its heart. To find the verb, ask **what is the subject doing?** or **what is being said about it?** Many verbs pass their action on to a receiver. That receiver is the **object**, the noun immediately affected by the action. To find it, name the verb and ask **whom?** or **what?** In *The dog chased the cat*, the dog (subject) chased (verb) the cat (object). A verb that takes an object this way is called **transitive**; one that does not (like *barked* or *slept*) is **intransitive**. Learning to break a sentence into subject + verb + object is called **analysis**. It is the single most useful habit for understanding any sentence, in English or in Latin.",
      "lead": "This is the opening of Arnold's Syntax, the section he heads PREDICATIVE COMBINATION. He defines subject and predicate, then the copula (the verb 'to be' used as a link) and the kinds of words that can serve as predicate, including infinitive forms. Expect older terms such as substantive (noun) and copula.",
+     "divisio": {
+      "overview": "A definitional exposition that builds outward from a single core, first fixing subject and predicate, then cataloguing what can fill each of those two slots.",
+      "parts": [
+       {
+        "label": "Three sentence kinds and the subject",
+        "detail": "opens by sorting sentences into assertion, question, and command or wish, and from each draws out what counts as the subject"
+       },
+       {
+        "label": "Predicate and copula defined",
+        "detail": "names the predicate as what is said of the subject and the verb 'to be' as the copula that links it"
+       },
+       {
+        "label": "What may serve as predicate",
+        "detail": "catalogues adjectives, substantives, adverbs, governed prepositional phrases, the word 'so,' and the passive and active infinitive forms"
+       },
+       {
+        "label": "What may serve as subject",
+        "detail": "closes by listing the fillers of the subject slot: substantive, pronoun, infinitive, a 'that' or interrogative clause, and a substantivized adjective"
+       }
+      ]
+     },
      "original": "§ i. PREDICATIVE COMBINATION.\n\nEvery sentence either asserts something; or asks a question; or expresses a command or wish.\n\nThe person or thing about which something is asserted or asked, is called the subject.\n\nWhen a command is expressed, the person commanded is the subject; when a wish, the person or thing about which the wish is uttered, is the subject.\n\nWhat is said about the subject, is called the predicate, from prædicare (to publish, to say).\n\nEvery predicate must be joined to the subject by the verb to be; or be itself a verb, with or without some other words.\n\nWhere the verb to be is used to join the predicate to the subject, it is called the 'copula,' or link.\n\nThe most usual predicates with the verb to be, are adjectives and substantives; but adverbs, and prepositions used adverbially, are frequently employed as predicates.\n\n'The rose is red.' 'He is a barrister.' 'The play is over.'\n\nSubstantives governed by prepositions often stand as predicates.\n\n'He is on his guard.' 'She is in good spirits.'\n\n(a) The adverb 'so' is often used as a predicate, instead of some other predicate already mentioned. 'I am in good spirits, but my brother is not so' (= in good spirits).\n\nThe form of the infinitive passive (which is then equivalent to the Latin gerundive, or 'participle in dus') often stands as the predicate, and expresses (1) what may or can be done, (2) what ought to be done, or (3) what it is intended to have done.\n\n'The passage is to be found (= may be found) at the seventh page.' 'Conscientious scruples are to be treated (= ought to be treated) with delicacy.' 'The man is to be hanged to-morrow;' i. e. it is settled or intended that the man should be hanged to-morrow.\n\nThe form of the infinitive active (which is then equivalent to a future participle of the active voice) often stands as a predicate with the verb to be, and expresses what is proposed or settled to do.\n\n'He is to come to-morrow.' 'I am to look at the horse for him.'\n\nThe subject is generally a substantive, or substantive-pronoun. But sometimes an infinitive mood, with or without some dependent words, and sometimes a sentence introduced by the conjunction 'that,' or by some interrogative pronoun or adverb, stands as the subject.\n\n(a) \"To err is human; to forgive, divine.\" 'That Cato should have said this, is incredible.' 'Whether this problem is a possible one, remains to be seen.' 'Whether he will come, is still uncertain.'\n\n(b) An adjective (or even adverb) with the is substantivized (330), and may be the subject. \"The rich too often despise the poor.\"",
      "keyTerms": [
       {
@@ -6340,6 +7265,31 @@ window.COURSE_DATA.courses.push({
      "summary": "A verb must agree with its subject in number (singular/plural) and person; this matching is called concord.",
      "explanation": "When two words must match in form, grammarians say they are in **agreement**, or **concord**. The most important agreement in English is between the **subject** and its **verb**: the verb changes to match the subject's **number** (one or many) and **person** (I / you / he). We say *the bird sings* but *the birds sing*; *I am* but *you are* but *she is*. A singular subject takes a singular verb; a plural subject takes a plural verb. Getting this match wrong (*the birds sings*) is one of the most common errors in English. A few cases need care. When two subjects are joined by *and*, they form a plural idea and take a plural verb: *Tom and Maria are here*. A **collective noun** like *team* or *council* may take a plural verb when you mean the individuals (*the council were divided*) but a singular verb when you mean the body as one (*Parliament has decided*). Don't be fooled by words that sit between the subject and verb. In *the box of apples is heavy*, the subject is *box* (singular), not *apples*, so the verb is *is*. Always find the true subject first, then make the verb agree with it.",
      "lead": "This continues Arnold's PREDICATIVE COMBINATION, picking up where the last lesson left off, and states his central rule of concord (the verb agrees with its nominative in number and person). It then handles the tricky cases: collective nouns (a 'noun of multitude'), two subjects joined together, the counting words couple, dozen, score, and pair, and the uses of 'there' and 'it' as standing subjects. Note that 'nominative case' here just means the subject.",
+     "divisio": {
+      "overview": "A general rule of concord is stated once, then the remainder is a long series of special cases and exceptions to that rule, ending with a note on word order.",
+      "parts": [
+       {
+        "label": "The rule of concord",
+        "detail": "states the core principle that the verb agrees with its nominative in number and person, and glosses what 'agreeing' means"
+       },
+       {
+        "label": "Tricky number agreements",
+        "detail": "treats collective nouns, two or more joined subjects, and the counting words couple, dozen, score, and pair"
+       },
+       {
+        "label": "Placeholder subjects 'there' and 'it'",
+        "detail": "shows 'there' standing before 'to be' and 'it' representing a deferred infinitive or clause, with uses for emphasis, weather, and time"
+       },
+       {
+        "label": "Copulative and predicate-taking verbs",
+        "detail": "lists verbs of becoming, seeming, and passive making or calling that take a second nominative, and verbs taking a predicate adjective"
+       },
+       {
+        "label": "When the subject follows its verb",
+        "detail": "closes with inversions in questions, exclamations, after 'nor' or 'neither,' and in conditionals, plus omitted verbs and substantivized words"
+       }
+      ]
+     },
      "original": "(c) The subject, which always stands in the nominative case, is often called by English Grammarians the nominative case to the verb.\n\nThe verb agrees with its nominative case in number and person.\n\n[By agreeing with is meant being of the same number and person.]\n\nA collective noun, or noun of multitude, is sometimes joined to a plural verb, when what is asserted is true of the individuals represented by the noun.\n\n('The council were divided in their opinions.') (a) If the statement is true only of the whole body, the verb must be in the singular. ('Parliament has determined otherwise.')\n\nWhen the same predicate refers to two or more subjects, the verb is in the plural.\n\n(a) The verb is sometimes found in the singular, when the two subjects may be considered as forming one complex notion. 'The assumption and dogmatism of this sect was little likely to satisfy such an inquirer.'\n\nAfter couple, dozen, score, &c. the verb must be in the plural; but after pair in the singular.\n\nWhen the verb to be is itself the predicate, it takes the adverb 'there,' and stands before its subject.\n\n(a) In this case it expresses existence, and is not merely a copula to join the predicate to the subject. \"There is no such thing as a unicorn\" (= no such thing as a unicorn exists).\n\n(b) The adverb 'there' may be used with other verbs: it is convenient to use it in this way, when we wish the nominative case to stand after its verb, that it may be better connected with a clause that modifies it. \"There followed him great multitudes.\"\n\nWhen an infinitive mood, or a sentence, is the nominative case to a verb, it generally follows it, the pronoun 'it' standing as its representative before the verb.\n\n'It is easy to deceive a child' (= to deceive a child is easy).\n\nWhen the infinitive has a subject of its own it is preceded by 'for.'\n\n'It is hard for a poor man to have the necessaries of life highly taxed' (= that a poor man should have the necessaries of life highly taxed, is hard).\n\nAn important use of the construction explained in 319, is to give emphasis to whatever word or phrase we wish to be emphatic.\n\n'The freedom of the city was not, however, bestowed only on individuals.' If we wish the emphasis to be on 'individuals,' it must be: 'It was not, however, only on individuals, that the freedom of the city was bestowed.'\n\n[Hence, when the emphasis in Latin or Greek is upon an oblique case, this idiom must be employed.]\n\n'It' stands as the nominative to the verb in phrases descriptive of the weather.\n\nInstead of 'the night is dark,' we generally say: 'it is a dark night.'\n\nThe personal form 'it is,' may also be used to give emphasis, where it is desired, when the nominative case is a noun or pronoun; and it may be followed by a plural verb.\n\n'They have done all the mischief.' 'It is they who have done all the mischief.'\n\nSo a noun of time is used in the plural after it is.\n\n'It is now six weeks since he left me.'\n\n(a) \"It is odds, that Ibycus is not a patriot.\" The colloquial phrase, 'it is odds,' is equivalent to, 'is a case in which one would bet odds.'\n\nVerbs of becoming, turning out, &c.: passive verbs of calling, appointing, making, considering, thinking, take a substantive or adjective (in the nom. case) to form the predicate with them. (Compare 375.)\n\n'He will turn out a villain.' 'He becomes more and more troublesome every day.' 'He is called Peter.' 'He was appointed commander in chief.' 'He was chosen king.'\n\n(a) The verbs that take a predicate in the nominative, are contained in the following lines:\n\nVerbs of becoming, being, seeming, And passive verbs of making, calling, deeming.\n\nUnder making are included electing, appointing, &c.\n\n(b) A verb of designation, choice, &c. in the passive voice, is a strengthened copula, being used to join the predicate to the verb, but with the addition of some notion which forms part of the predicate. 'He is chosen general' = 'He is (by election) general.' 'He is thought weak' = 'He is (in the opinion of many) weak.'\n\n(c) These verbs may therefore be called copulative verbs, from the resemblance of their use to that of the copula.\n\n(d) They are sometimes called apposition verbs; the second nominative standing in a sort of apposition (see 338) to the first. [Compare 375.]\n\nMany English verbs take an adjective with them to form the predicate, where an adverb would be used in other languages. 'He fell ill;' 'he looks pale;' 'he feels cold;' 'he grew warm.'\n\n(a) In such phrases as 'to go unfurnished;' 'to stand open;' 'here lies the difficulty;' 'to grow wiser,' &c. the verbs are equivalent to a strengthened copula.\n\n(b) In 'to be sent ambassador,' &c. as may be understood.\n\nThe subject follows the verb in questions and exclamatory sentences; after 'nor,' 'neither,' &c., and whenever the predicative adjective stands first.\n\n'What think you?'—'Neither will he come.' 'Nor did he say so.' \"Great is Diana of the Ephesians.\"\n\n(a) If the verb is of a compound tense, the nominative case comes between the auxiliary and the verb. \"Is he dressed?\" \"Nor will he do it?\"\n\n(b) The verb stands before the subject when 'if' is omitted, and also not unfrequently in the consequent clause of a conditional proposition.\n\n'Had you told me this before, it would have made a great difference.' 'If that had happened, then had all been lost.'\n\nThe participial substantive (of the present active form) with no is found as the subject to 'there is' (which it always follows), and signifies what cannot be done.\n\n'There is no bearing your impertinence' = no bearing your impertinence exists (as a possible thing).\n\n(a) The verb is sometimes omitted, especially in some interrogatory and exclamatory forms.\n\n'What, if he should refuse?' i. e. what would happen if, &c.? \"Hard indeed, not to allow me capable of translating even Latin.\" \"But no matter for that, if they hit men's tempers, and suit their apprehensions, 'tis just the same we see to this pious observator.\"\n\n(b) The subject is omitted after imperative verbs 'speak' (= speak thou, or you): and in some other cases e. g. before as follows (= as it follows); as concerns myself, &c.\n\nAny part of speech may be used to express the notion it conveys, as a substantive; in other words, may be used substantively.\n\n'Once is too often.' 'Red and green are different colours.' 'Over is not under.' 'Ah! is an exclamation.'\n\n(a) An adjective is always used substantively when it stands alone with the definite article.\n\n'The good' = good men. 'The sublime' = sublimity, in the abstract.\n\n(b) Even a compound phrase may be used substantively. \"From infancy to manhood is rather a tedious period.\"",
      "keyTerms": [
       {
@@ -6523,6 +7473,27 @@ window.COURSE_DATA.courses.push({
      "summary": "A pronoun must agree with its antecedent (the noun it replaces) in number, gender, and person.",
      "explanation": "A **pronoun** stands in for a noun so we don't have to repeat it. The noun it replaces is called the **antecedent**, from Latin *antecedere*, 'to go before,' because it usually comes first. In *Maria lost her key*, the pronoun *her* points back to its antecedent *Maria*. A pronoun must **agree** with its antecedent. If the antecedent is singular, the pronoun is singular (*the boy* takes *he*); if plural, the pronoun is plural (*the boys* takes *they*). The pronoun also matches the antecedent's **gender** (*the queen* takes *she*; *the king* takes *he*; *the book* takes *it*) and its **person**. The same rule governs the **relative pronoun** *who, which, that*, which links a clause back to a noun. The relative agrees with its antecedent in number and person: *I, who say this* (first person) versus *he, who says this* (third person). Notice the relative does **not** have to share the antecedent's case; its own job inside its clause decides that. Matching pronouns to antecedents keeps writing clear. A mismatch like *each student brought their book* (singular *each* with plural *their*) is the pronoun version of the agreement errors you met with verbs.",
      "lead": "This is Arnold's complete subsection ADJECTIVE SENTENCES, his name for relative clauses. It opens by defining the antecedent and the rule that the relative agrees with it in number and person but not in case, then surveys the uses of who, which, that, but, and as. His older terms to expect are 'accessory sentence' (subordinate clause) and 'substantive' (noun).",
+     "divisio": {
+      "overview": "A definition and governing rule come first, then a word-by-word survey of the relative connectives, closing with two notes on omission and placement.",
+      "parts": [
+       {
+        "label": "Definition of the adjective sentence",
+        "detail": "introduces the relative clause as standing for an adjective and names the antecedent it refers back to"
+       },
+       {
+        "label": "The agreement rule",
+        "detail": "states that the relative agrees with its antecedent in number and person but not in case, the case coming from its own clause"
+       },
+       {
+        "label": "Survey of relative words",
+        "detail": "works in order through whoever, what, 'that' after superlatives and with 'same,' 'but' as a negative relative, 'that' after expressions of time, and 'as' after 'such'"
+       },
+       {
+        "label": "Omission and end placement",
+        "detail": "closes with the relative dropped in English but never in Latin, the preposition left at the end, and the infinitive of purpose"
+       }
+      ]
+     },
      "original": "ADJECTIVE SENTENCES (or, Accessory Sentences that are equivalent to an Attributive Adjective).\n\nAdjective accessory sentences are introduced by a relative pronoun, referring to a demonstrative adjective pronoun, expressed or understood in the principal sentence.\n\n(a) The substantive to which the relative refers is called the antecedent (from antecedere, to go before).\n\nThe relative agrees with its antecedent in number and person; but not in case.\n\n'He, who says this, cannot be mistaken.' 'I, who say this, am sure that it is so.' 'Thou, who dwellest,' &c.\n\nThe case of the relative depends on its position in its own clause.\n\nThe pronoun to which whoever, whosoever, refers, is generally omitted, even when it would be under the government of a preposition.\n\n'Elizabeth publicly threatened that she would have the head of whoever had advised it.'\n\n(a) What (= that which) may also follow a preposition in the preceding clause.\n\nIt is generally convenient to use 'that' after superlatives, after the interrogative who, and when both persons and things are referred to.\n\n'That' is generally used as the relative to the same, when the relative is not under the government of a preposition.\n\n(a) Middleton does not observe this rule.\n\n'But' is sometimes equivalent to a relative with not after negative sentences.\n\n\"There is nothing born but has to die.\" (a) The personal pronoun is sometimes expressed (\"There is scarce any matter of duty, but it concerns them both alike\"): and sometimes but = that-not, introducing a consequence, after a negative sentence.\n\n\"No cliff so bare, but on its steep Thy favours may be found.\"—Wordsworth.\n\n'That' is used after expressions of time instead of a relative governed by a preposition.\n\n\"In the day that thou eatest thereof, thou shalt surely die.\"\n\n(a) The that is sometimes omitted. \"From the day the king departed till,\" &c.\n\n'As' is the proper relative word after such.\n\n\"There are in these writings such inconsistencies and contradictions, as are sufficient to blast their authority.\"\n\n(a) We may suppose this use of 'as' to have arisen from an ellipse of the object of comparison.\n\n'Such inconsistencies as (those inconsistencies which) are sufficient,' &c.\n\nThe relative pronoun is often omitted in English; never in Latin.\n\n'Æneas left Troy the very night it was taken.'\n\nThe relative pronoun is often under the government of a preposition at the end of a sentence.\n\n(a) When a relative under the government of a pronoun is omitted, the preposition which would govern the relative is still used.\n\n'The proposition you object to is not mine.'\n\n(b) An absurd rule has been given, that the preposition should not stand last in a proposition. In the relative clause this is very frequently the best place for it; so that it cannot be prefixed to the relative without spoiling the flow of the sentence.\n\n\"What is it, therefore, that I must now exhort you to?\"—Middleton.\n\nThe Infinitive often stands as the sole verb in a relative sentence, to express the purpose. \"Nothing else is given us, by which to ascertain or enter into it\" (= by which we may ascertain it, &c.). Here the Infin. = an abridged accessory sentence (367).\n\n(a) The relative is often omitted: and here too (see 421, a) if the relative would have been governed by a preposition, it is retained. Its place is at the end of the sentence.\n\n\"He sought a place to lie in\" (= in which he might lie). 'For old men life has no new story to make them smile' (= which might make them smile). 'He gave me a knife to cut with.'\n\nRelative adverbs are often used for relative pronouns under the government of prepositions.\n\n\"We met a servant at the door with a small basket of fruit, which he was carrying into a grove, where he said his master was with the two strangers.\"",
      "keyTerms": [
       {
@@ -6713,6 +7684,27 @@ window.COURSE_DATA.courses.push({
      "summary": "A transitive verb or a preposition 'governs' the word after it, putting it in the objective (accusative) case.",
      "explanation": "Besides agreement, words relate to each other by **government**: one word controls (or **governs**) the form of another. A **transitive verb** governs its **object**, and a **preposition** governs the noun that follows it. The governed word stands in the **objective case** (in Latin, the **accusative**). In English the objective case is only visible on pronouns. We say *he* as a subject but *him* as an object: *She sees him* (verb governs *him*) and *to him* (preposition governs *him*). We never say *to he* or *She sees he*; the verb and preposition force the objective form. A **preposition** always governs an object. In *with the heart*, the preposition *with* governs *heart*; in *for me*, *for* governs *me*. Old grammar books describe this by saying the noun is 'under the government of' the preposition. Government is the partner of agreement. **Agreement** is two words matching each other (subject and verb); **government** is one word ruling another (verb or preposition over its object). Together they are the two great forces that bind a sentence into a whole.",
      "lead": "This is the opening of Arnold's section OBJECTIVE COMBINATION. He defines the object as the accusative after a transitive verb, shows how accusative and nominative swap places when active becomes passive (joined by 'by'), and explains how a preposition can take a noun 'under its government.' His phrase 'objective factor' means anything attached as an object.",
+     "divisio": {
+      "overview": "The object is defined, then widened, then the section turns on the active-passive exchange and works through its exceptions before ending on prepositions.",
+      "parts": [
+       {
+        "label": "Definition of the object",
+        "detail": "fixes the object as the accusative after a transitive verb, then widens it to Becker's 'objective factor' for anything referred to a verb"
+       },
+       {
+        "label": "Active to passive exchange",
+        "detail": "states that the active accusative becomes the passive nominative and the old nominative is rejoined by the preposition 'by'"
+       },
+       {
+        "label": "When a passive keeps an accusative",
+        "detail": "lists the exceptions where a passive still takes an object: verb-plus-accusative units, verbs like ask or allow, and a following infinitive"
+       },
+       {
+        "label": "Prepositions used objectively",
+        "detail": "closes with prepositions turning intransitive verbs transitive, noting where the following noun is or is not truly governed"
+       }
+      ]
+     },
      "original": "§ iii. OBJECTIVE COMBINATION.\n\nThe object in grammar is the noun that represents that which is immediately affected by the action denoted by the transitive verb; i.e. 'the accusative case after the verb.'\n\nBut every notion referred to a verb or adjective, in whatever form it be expressed, is to be considered as an objective factor. (Becker.)\n\n'He will come to-morrow.' 'He will stay at home.' 'He works hard.' 'Inflamed with anger.' 'Grievously mistaken.'\n\nThe accusative after the active verb becomes the nominative before the passive verb.\n\nThe nominative before the active verb is joined to the passive verb by the preposition by.\n\n'Cæsar conquered Pompey at Pharsalia.' 'Pompey was conquered by Cæsar at Pharsalia.'\n\nA verb with its accusative case is often equivalent to a single verb. Thus, to end = to put an end (to). To assist = to afford assistance (to).\n\nThe passive verb does not take an accusative case after it; but in English there are two important exceptions to this rule:\n\n(1) When a verb with its accusative case is equivalent to a single verb (355), it may take this accusative after it in the passive voice. 'This has been put an end to.'\n\n(2) \"Verbs signifying to ask, teach, offer, promise, pay, tell, allow, deny, and some others of like signification, are sometimes, especially in colloquial language, followed in the passive by an objective case.\" (Crombie.) 'They are allowed sixpence a day.' 'I was offered a lucrative situation.'\n\n(3) Many passive verbs are followed by an Infinitive, which must be considered as an objective case. 'I am permitted to go;' 'allowed to do it;' 'exhorted to do it,' &c. See 362.\n\nPrepositions are often used objectively with intransitive verbs, which then become transitive in meaning, and may be used in the passive voice.\n\n(a) In most languages the preposition is prefixed to the verb, so as to form a part of it, as it is in some English compounds, to uphold, to overthrow, &c.\n\n(b) \"To cast is to throw; but to cast up, or compute, an account is quite a different thing: thus to fall on, to bear out, to give over.\" Lowth.\n\n(c) We may observe that in some of these verbs the following noun appears to be strictly under the government of the preposition; in others not. Him may be considered as governed by at, in to laugh at him; but account cannot well be supposed under the government of up, in to cast up an account.",
      "keyTerms": [
       {
@@ -6917,6 +7909,27 @@ window.COURSE_DATA.courses.push({
      "summary": "A clause has its own subject and verb; a phrase does not. Sentences are simple, compound, or complex depending on how clauses combine.",
      "explanation": "Words travel in groups. A **phrase** is a group of words that work together but has **no subject-and-verb pair** of its own, like *in the morning* or *with a heavy heart*. A **clause** is a group of words that **does** have its own subject and verb, like *the sun rose* or *because she was tired*. Clauses come in two kinds. A **main clause** (also called *principal* or *independent*) makes complete sense by itself: *the sun rose*. A **subordinate clause** (also called *dependent* or *accessory*) cannot stand alone; it leans on a main clause: *because the sun rose*. A subordinate clause stands in place of a noun, an adjective, or an adverb within the larger sentence. How clauses combine gives us three sentence types. A **simple sentence** has one main clause and nothing else: *Birds sing*. A **compound sentence** joins two main clauses as equal partners (this is called **co-ordination**), usually with *and*, *but*, or *or*: *Birds sing and bees hum*. A **complex sentence** has one main clause plus at least one subordinate clause (this is **subordination**): *Birds sing because spring has come*. Learning to tell phrase from clause, and to count the clauses in a sentence, lets you map any sentence's structure; this is the final skill that ties this whole unit together.",
      "lead": "This is the opening of Arnold's section On Compound Sentences (which he takes from Becker). He explains how two sentences join, by subordination (one stands in place of a noun, adjective, or adverb in the other) or by co-ordination (neither depends on the other), then turns to substantive accessory sentences introduced by 'that.' His term 'accessory sentence' is the older name for what we now call a subordinate clause.",
+     "divisio": {
+      "overview": "A two-way split between subordination and co-ordination is set up first, then the section narrows to one branch, the substantive 'that' clause, and details its varieties.",
+      "parts": [
+       {
+        "label": "Two ways sentences connect",
+        "detail": "divides all joining into subordination and co-ordination, defining subordination as a clause standing for a substantive, adjective, or adverb"
+       },
+       {
+        "label": "The three kinds of subordinate clause",
+        "detail": "illustrates with three numbered examples a substantive, an adjective, and an adverbial accessory sentence"
+       },
+       {
+        "label": "The connecting words",
+        "detail": "notes that subordinating words are relatives pointing to a demonstrative, or prepositions that have gained conjunctional power"
+       },
+       {
+        "label": "Substantive clauses with 'that'",
+        "detail": "narrows to the 'that' clause, its three uses of apposition, purpose, and consequence, verbs of mind that take it, and 'that' with 'should'"
+       }
+      ]
+     },
      "original": "§ iv. On Compound Sentences (from Becker).\n\nTwo sentences are connected either by way of subordination, or by way of co-ordination.\n\nA sentence is subordinate to another, when it can be considered as standing in place of a substantive, adjective, or adverb, belonging to that sentence.\n\n(1) He reported that the king was dead. = He reported the death of the king. (2) The trees, which were planted by me, are growing. = The trees planted by me, are growing. (3) He was at work before the sun rose. = He was at work early.\n\nIn (1) the first sentence, 'that the king was dead,' stands as a substantive, and may be called a substantive accessory sentence; in (2) 'which were planted by me,' stands as an adjective to trees, and is an adjective accessory sentence; in (3), 'before the sun rose,' stands as an adverb marking the time of his being at work, and is an adverbial accessory sentence.\n\nTwo sentences are connected by way of co-ordination, when they are not dependent one upon another in this manner.\n\n(a) The conjunctions or conjunctional words that join a sentence subordinately, are generally relative words referring to a demonstrative in the other sentence, which, however, is often omitted.\n\n(1) I know what you mean = I know that, what you mean. (2) I found it where I left it = I found it there, where I left it.\n\n(b) Such subordinate conjunctional words as are not relatives referring to a demonstrative pronoun or adjective expressed or understood, are either demonstratives referring to a relative understood, or mere prepositions, the demonstrative and the relative being both understood.\n\nThus 'before you came' = before the time when you came. 'Since you came' = since the time when you came. Here before and since are prepositions that have acquired a conjunctional power.\n\nSubstantive Accessory Sentences.\n\nSubstantive accessory sentences are either sentences introduced by 'that,' or sentences introduced by interrogatives.\n\n(a) (Accessory sentences introduced by interrogatives are treated of in 464, sqq.)\n\n'That' connects three kinds of subordinate sentences:\n\n(1) Sentences that stand in apposition to a nominative or accusative expressed or understood in the principal sentence.\n\n(2) Sentences that express a purpose.\n\n(3) Sentences that express an effect or consequence.\n\nOBS. When 'that' introduces a purpose, it is followed by may or might: when it introduces an effect or consequence, it refers to a so or such in the principal sentence.\n\nExamples.\n\n(1) 'It is strange that you think so.' Here the clause 'that you think so' is in apposition to it; i. e. this thing. 'I am glad that you are come' = I am glad of this; namely, that you are come.\n\n(2) 'I am come, that I may see it with my own eyes' (purpose).\n\n(3) 'The noise was such, that I could not hear a word' (consequence).\n\nMany verbs that express operations and feelings of the mind, are followed by sentences introduced by 'that.'\n\n(a) Such verbs are to think, to say, to know, to believe, to remember, to wish, to rejoice, to be glad, to be sorry, to wonder, &c.\n\n(b) After these verbs the clause with 'that' may be considered as the accusative, in apposition to a demonstrative understood. 'I wonder that you say so' = I wonder at this; namely, that you say so.\n\nWhen 'that' is followed by should, the verb with should is either the future in the form it takes after a past tense; or the conditional used for the indicative, to avoid positiveness of expression (see 175).\n\n'He said that he should come' (future). 'It is strange that you should say so' (= that you say so, is strange; or, your saying so is strange).",
      "keyTerms": [
       {

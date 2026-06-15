@@ -298,7 +298,7 @@
   function showSummary(s) {
     W.app.show("summary");
     const card = $("summaryCard"); card.innerHTML = "";
-    card.appendChild(h("h1", null, s.outOfHearts ? "Out of hearts" : "Lesson complete"));
+    card.appendChild(h("h1", null, s.outOfHearts ? "Out of hearts" : "Demonstratio · Lesson complete"));
     if (s.outOfHearts) card.appendChild(h("p", { class: "q-sub" }, "You ran out of hearts in Challenge mode. Turn hearts off in Settings to practice without stakes, or try again."));
     card.appendChild(h("div", { class: "summary-stats" }, stat("+" + s.xp, "XP"), stat(s.acc + "%", "Accuracy"), stat("×" + L.maxCombo, "Best combo"), stat(s.dur + "s", "Time")));
     if (!s.outOfHearts) {

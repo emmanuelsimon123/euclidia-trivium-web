@@ -99,50 +99,122 @@
     });
   }
 
-  // ---------- lesson teaching page ----------
+  // ---------- lesson: the Studium method (gated teaching steps -> practice -> mastery) ----------
+  // Each lesson is walked as: Praelectio (announce) -> [Oratio] -> Lectio (read) -> Divisio (structure)
+  // -> Interpretatio (proposed meaning) -> Comprehensio (the practice player) -> Demonstratio (summary).
+  let STUDIUM = null; // { courseId, lessonId, info, steps, i }
+
   function openLesson(courseId, lessonId) {
     activeCourse = courseId;
     const info = C().lessonInfo(lessonId); if (!info) { toast("Lesson not found."); return; }
-    const l = info.lesson;
-    const head = $("lessonHead"); head.innerHTML = "";
-    head.appendChild(h("div", { class: "section-label" }, `Unit ${info.unit.n} · ${info.unit.title}` + (info.unit.ref ? " · " + info.unit.ref : "")));
-    head.appendChild(h("h1", { class: "lesson-title" }, l.title));
-    if (l.summary) head.appendChild(h("p", { class: "lesson-summary" }, l.summary));
-    // mastery meter (Khan-style) once the skill has been attempted
-    const tier = W.store.masteryTier(lessonId), best = W.store.bestOf(lessonId);
-    const lrec = W.store.lessons()[lessonId];
-    if (tier >= 1 || (lrec && lrec.seen)) {
-      const tname = tier >= 3 ? "Mastered ★" : tier >= 2 ? "Proficient" : tier >= 1 ? "Passed" : "In progress";
-      head.appendChild(h("div", { class: "skill-meter tier" + tier },
-        h("div", { class: "sm-bar" }, h("div", { class: "sm-fill", style: "width:" + best + "%" })),
-        h("div", { class: "sm-label" }, tier >= 1 ? "Your best: " + best + "% · " + tname : tname)));
+    STUDIUM = { courseId, lessonId, info, steps: buildStudiumSteps(info), i: 0 };
+    renderStudiumStep(); show("studium"); refreshTopbar();
+  }
+
+  function oratioCard() {
+    return h("div", { class: "card prayer-card" },
+      h("h2", null, "Oratio · Prayer before Study"),
+      h("div", { class: "prose" },
+        h("p", null, "Ineffable Creator, true source of light and wisdom: pour forth a ray of your brightness upon the darkness of my understanding. Grant me a keen mind to grasp, a sound memory to retain, method and ease in learning, clarity in interpreting, and a rich grace in speaking. Amen."),
+        h("p", { class: "ex-note" }, "Adapted from St. Thomas Aquinas, Prayer before Study (Ante Studium). Optional, turn off in Settings.")));
+  }
+
+  function renderDivisio(d) {
+    d = d || {};
+    const box = h("div", null);
+    if (d.overview) box.appendChild(h("p", { class: "divisio-overview" }, d.overview));
+    if (d.parts && d.parts.length) {
+      const ol = h("ol", { class: "divisio-parts" });
+      d.parts.forEach(p => ol.appendChild(h("li", null, p.label ? h("b", null, p.label) : "", (p.label && p.detail) ? " — " : "", p.detail || "")));
+      box.appendChild(ol);
     }
-    const body = $("lessonBody"); body.innerHTML = "";
-    // PRIMER: a short lead-in, then the modern introduction, key terms, and examples
-    if (l.lead) body.appendChild(h("div", { class: "lesson-lead" }, l.lead));
-    if (l.explanation) body.appendChild(card("Introduction", h("div", { class: "prose" }, l.explanation.split(/\n\n+/).map(p => h("p", { html: inlineMd(p) })))));
-    if (l.keyTerms && l.keyTerms.length) {
-      const box = h("div", null, l.keyTerms.map(t => h("div", { class: "term" }, h("b", null, t.term), h("span", null, " — " + t.def))));
-      body.appendChild(card("Key terms", box));
-    }
-    if (l.examples && l.examples.length) {
-      const box = h("div", null, l.examples.map(ex => h("div", { class: "example" }, h("div", { class: "ex-text" }, ex.text), ex.note ? h("div", { class: "ex-note" }, ex.note) : "")));
-      body.appendChild(card("Examples", box));
-    }
-    // THE READING: full verbatim source passage, promoted to an always-visible centerpiece
-    if (l.original) {
-      const src = info.course && info.course.source ? info.course.source : "";
-      body.appendChild(h("div", { class: "card reading" },
+    if (!d.overview && !(d.parts && d.parts.length)) box.appendChild(h("p", { class: "step-note" }, "Read the passage again and notice how it is organized — its main parts and their order."));
+    return card("How this passage is built", box);
+  }
+
+  function buildStudiumSteps(info) {
+    const l = info.lesson, src = (info.course && info.course.source) || "";
+    const steps = [];
+    steps.push({ name: "Praelectio", render: (head, body) => {
+      head.appendChild(h("div", { class: "section-label" }, `Unit ${info.unit.n} · ${info.unit.title}` + (info.unit.ref ? " · " + info.unit.ref : "")));
+      head.appendChild(h("h1", { class: "lesson-title" }, l.title));
+      const tier = W.store.masteryTier(l.id), best = W.store.bestOf(l.id), lrec = W.store.lessons()[l.id];
+      if (tier >= 1 || (lrec && lrec.seen)) {
+        const tname = tier >= 3 ? "Mastered ★" : tier >= 2 ? "Proficient" : tier >= 1 ? "Passed" : "In progress";
+        head.appendChild(h("div", { class: "skill-meter tier" + tier }, h("div", { class: "sm-bar" }, h("div", { class: "sm-fill", style: "width:" + best + "%" })), h("div", { class: "sm-label" }, tier >= 1 ? "Your best: " + best + "% · " + tname : tname)));
+      }
+      head.appendChild(h("p", { class: "step-note" }, "What we are about to study, and where it comes from. The text itself comes next."));
+      const c = h("div", null);
+      if (src) c.appendChild(h("p", { class: "praelectio-src" }, src));
+      if (l.summary) c.appendChild(h("p", { class: "lesson-summary" }, l.summary));
+      if (l.lead) c.appendChild(h("div", { class: "lesson-lead" }, l.lead));
+      body.appendChild(card("Praelectio", c));
+    }});
+    if (W.store.settings().oratio) steps.push({ name: "Oratio", render: (head, body) => {
+      head.appendChild(h("h1", { class: "lesson-title" }, "Oratio"));
+      head.appendChild(h("p", { class: "step-note" }, "A short prayer for guidance before study."));
+      body.appendChild(oratioCard());
+    }});
+    steps.push({ name: "Lectio", render: (head, body) => {
+      head.appendChild(h("h1", { class: "lesson-title" }, "Lectio · The Reading"));
+      head.appendChild(h("p", { class: "step-note" }, "Read the text carefully — let it speak first. Tap a highlighted word for its meaning, or press 🔊 to hear it read aloud."));
+      if (l.original) body.appendChild(h("div", { class: "card reading" },
         h("div", { class: "reading-head" }, h("span", { class: "rd-head-left" }, h("span", { class: "reading-kicker" }, "The Reading"), audioBtn(() => l.original)), src ? h("span", { class: "src-cite" }, src) : ""),
         renderReading(l.original)));
+      if (l.keyTerms && l.keyTerms.length) body.appendChild(card("Words to know", h("div", null, l.keyTerms.map(t => h("div", { class: "term" }, h("b", null, t.term), h("span", null, " — " + t.def))))));
+    }});
+    steps.push({ name: "Divisio", render: (head, body) => {
+      head.appendChild(h("h1", { class: "lesson-title" }, "Divisio · The Structure"));
+      head.appendChild(h("p", { class: "step-note" }, "How the passage is built — its main parts and their order. This is the framework for the author's intention."));
+      body.appendChild(renderDivisio(l.divisio));
+    }});
+    steps.push({ name: "Interpretatio", render: (head, body) => {
+      head.appendChild(h("h1", { class: "lesson-title" }, "Interpretatio · The Proposal"));
+      head.appendChild(h("p", { class: "step-note" }, "A proposed reading, argued from the text. Treat it as a claim to test, not a verdict: does the text support it? Where might it be challenged?"));
+      if (l.explanation) body.appendChild(card("The proposed meaning", h("div", { class: "prose" }, l.explanation.split(/\n\n+/).map(p => h("p", { html: inlineMd(p) })))));
+      if (l.examples && l.examples.length) body.appendChild(card("Examples", h("div", null, l.examples.map(ex => h("div", { class: "example" }, h("div", { class: "ex-text" }, ex.text), ex.note ? h("div", { class: "ex-note" }, ex.note) : "")))));
+    }});
+    return steps;
+  }
+
+  function renderStudiumProgress() {
+    const S = STUDIUM, box = $("studiumProgress"); if (!S || !box) return; box.innerHTML = "";
+    S.steps.map(s => s.name).concat(["Comprehensio", "Demonstratio"]).forEach((name, idx) => {
+      const cls = idx < S.i ? "done" : idx === S.i ? "current" : "upcoming";
+      box.appendChild(h("div", { class: "studium-step " + cls, role: "listitem" }, h("span", { class: "ss-n" }, String(idx + 1)), h("span", { class: "ss-name" }, name)));
+    });
+  }
+
+  function renderStudiumStep() {
+    const S = STUDIUM; if (!S) return;
+    const step = S.steps[S.i];
+    const head = $("studiumHead"); head.innerHTML = "";
+    const body = $("studiumBody"); body.innerHTML = "";
+    head.appendChild(h("div", { class: "studium-kicker" }, (S.i + 1) + " · " + step.name));
+    step.render(head, body);
+    if (S.i === 0) {                                          // returning-learner shortcut: jump past the teaching steps
+      const dueN = W.srs.dueForLesson(S.lessonId), done = isDone(S.lessonId);
+      if (done || dueN) {
+        const acts = h("div", { class: "skill-actions", style: "margin-top:16px" },
+          h("button", { class: "btn-secondary", onclick: () => startLesson(S.courseId, S.lessonId) }, (done ? "Skip to practice" : "Start practice") + " ▸"));
+        if (dueN) acts.appendChild(h("button", { class: "btn-secondary", onclick: () => startLesson(S.courseId, S.lessonId, { mode: "skill" }) }, "🔁 Review this skill (" + dueN + ")"));
+        body.appendChild(acts);
+      }
     }
-    // practice CTA comes AFTER the reading: read first, then practice
-    const due = W.srs.dueForLesson(lessonId);
-    const acts = h("div", { class: "skill-actions", style: "margin-top:18px" },
-      h("button", { class: "btn-primary big", onclick: () => startLesson(courseId, lessonId) }, (isDone(lessonId) ? "Practice again" : "Start practice") + " ▸"));
-    if (due > 0) acts.appendChild(h("button", { class: "btn-secondary", onclick: () => startLesson(courseId, lessonId, { mode: "skill" }) }, "🔁 Review this skill (" + due + ")"));
-    body.appendChild(acts);
-    show("lessonHome"); refreshTopbar();
+    renderStudiumProgress();
+    $("studiumBack").style.visibility = S.i === 0 ? "hidden" : "";
+    $("studiumNext").textContent = (S.i >= S.steps.length - 1) ? "Begin practice ▸" : "Next ▸";
+  }
+
+  function studiumFocusHead() { const ft = $("studiumHead").querySelector("h1, .lesson-title"); if (ft) { ft.setAttribute("tabindex", "-1"); setTimeout(() => { try { ft.focus({ preventScroll: true }); } catch (e) {} }, 0); } }
+  function studiumNext() {
+    const S = STUDIUM; if (!S) return;
+    if (S.i >= S.steps.length - 1) { startLesson(S.courseId, S.lessonId); return; } // Interpretatio -> Comprehensio (practice)
+    S.i++; renderStudiumStep(); window.scrollTo(0, 0); studiumFocusHead();
+  }
+  function studiumBack() {
+    const S = STUDIUM; if (!S || S.i === 0) return;
+    S.i--; renderStudiumStep(); window.scrollTo(0, 0); studiumFocusHead();
   }
   function startLesson(courseId, lessonId, opts) { W.lesson.start(courseId, lessonId, opts || {}); }
   function nextLesson(courseId, lessonId) {
@@ -311,6 +383,7 @@
   function renderSettings() {
     const s = W.store.settings(), st = W.store.stats(), body = $("settingsBody"); body.innerHTML = "";
     body.appendChild(toggle("Challenge mode (hearts)", "Off by default, so a wrong answer just becomes practice and never ends a lesson. Turn on for 3 hearts and real stakes: run out and the round ends.", s.hearts, v => { s.hearts = v; W.store.save(); }));
+    body.appendChild(toggle("Prayer before study (Oratio)", "Adds St. Thomas Aquinas's short Prayer before Study as a step at the start of each lesson. Off by default.", s.oratio, v => { s.oratio = v; W.store.save(); }));
     body.appendChild(numRow("Daily goal (XP)", "Your target XP per day.", s.dailyGoal, v => { s.dailyGoal = Math.max(10, v | 0); W.store.save(); refreshTopbar(); }));
     body.appendChild(h("div", { class: "set-row" }, h("div", null, h("div", { class: "label" }, "Streak freezes"), h("div", { class: "desc" }, "Banked automatically every 5-day streak (max 3). A freeze saves your streak if you miss a single day.")), h("div", { class: "freeze-count" }, "❄ " + (st.freezes || 0))));
     if (TTS) {
@@ -386,6 +459,16 @@
     $("reviewLink").addEventListener("click", () => { if (!W.srs.dueCount()) { toast("Nothing due yet — keep learning!"); return; } W.lesson.start(activeCourse, currentLesson(activeCourse), { mode: "review" }); });
     $("creditsLink").addEventListener("click", () => { renderCredits(); show("credits"); });
     { const sl = $("summaryLink"); if (sl) sl.addEventListener("click", printSummary); }
+    $("studiumNext").addEventListener("click", studiumNext);
+    $("studiumBack").addEventListener("click", studiumBack);
+    $("studiumExit").addEventListener("click", () => { renderHome(); show("home"); refreshTopbar(); });
+    document.addEventListener("keydown", e => {                       // arrow-key navigation through the Studium steps
+      if (!$("screen-studium").classList.contains("active")) return;
+      const ae = document.activeElement;
+      if (ae && (ae.tagName === "INPUT" || ae.tagName === "TEXTAREA")) return;
+      if (e.key === "ArrowRight") { e.preventDefault(); studiumNext(); }
+      else if (e.key === "ArrowLeft") { e.preventDefault(); studiumBack(); }
+    });
     document.querySelectorAll("[data-nav]").forEach(b => b.addEventListener("click", () => { const t = b.dataset.nav; if (t === "home") { renderHome(); show("home"); } else show(t); refreshTopbar(); }));
     document.addEventListener("keydown", e => {
       if (!document.body.classList.contains("in-lesson")) return;

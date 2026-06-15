@@ -376,3 +376,24 @@ select.num-input option{background:var(--navy-card);color:var(--text-bright)}
   #printArea .ps-stats{font-weight:600;margin:6px 0 18px;color:#091525}
   #printArea .ps-foot{border-top:2px solid #b9791a;padding-top:8px;color:#091525;font-size:13px}
 }
+
+/* Studium method — gated teaching steps */
+.studium-steps{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 22px;padding:0}
+.studium-step{display:flex;align-items:center;gap:6px;padding:5px 11px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:.03em;border:1px solid var(--border);color:var(--text-dim);background:rgba(255,255,255,.02)}
+.studium-step .ss-n{display:inline-flex;align-items:center;justify-content:center;width:17px;height:17px;border-radius:50%;font-size:10px;background:rgba(255,255,255,.08);color:var(--text-dim)}
+.studium-step.done{color:var(--gold-light);border-color:var(--gold-border)}
+.studium-step.done .ss-n{background:var(--gold-pale);color:var(--gold-light)}
+.studium-step.current{color:var(--navy);background:var(--gold);border-color:var(--gold)}
+.studium-step.current .ss-n{background:var(--navy);color:var(--gold)}
+.studium-kicker{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--gold);margin-bottom:8px}
+.step-note{color:var(--text-dim);font-size:14px;margin:4px 0 16px;max-width:62ch}
+.praelectio-src{color:var(--gold-light);font-weight:600;margin-bottom:8px}
+.divisio-overview{color:var(--text-bright);margin-bottom:12px}
+.divisio-parts{margin:0;padding-left:22px}
+.divisio-parts li{margin-bottom:10px;line-height:1.55}
+.divisio-parts li b{color:var(--gold-light)}
+.prayer-card{border-color:var(--gold-border);background:linear-gradient(135deg,rgba(27,58,107,.3),var(--card-bg))}
+.prayer-card .prose p:first-child{font-style:italic;color:var(--text-bright)}
+.studium-nav{display:flex;justify-content:space-between;gap:12px;margin-top:26px;position:sticky;bottom:0;background:linear-gradient(transparent,var(--navy) 42%);padding:14px 0 6px}
+.studium-nav .btn-primary{min-width:170px}
+@media(max-width:600px){.studium-step .ss-name{display:none}.studium-step{padding:6px 9px}.studium-nav .btn-primary{min-width:130px}}

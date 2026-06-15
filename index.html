@@ -52,11 +52,23 @@
     <div id="pathList" class="path-list"></div>
   </section>
 
-  <!-- LESSON HOME: teaching page -->
+  <!-- LESSON HOME: teaching page (legacy single-page; kept as a fallback) -->
   <section id="screen-lessonHome" class="screen">
     <button class="back-link" data-nav="home">‹ All lessons</button>
     <div id="lessonHead" class="lesson-head"></div>
     <div id="lessonBody"></div>
+  </section>
+
+  <!-- STUDIUM: the gated teaching steps (Praelectio -> Lectio -> Divisio -> Interpretatio) -->
+  <section id="screen-studium" class="screen">
+    <button class="back-link" id="studiumExit">‹ All lessons</button>
+    <div id="studiumProgress" class="studium-steps" role="list" aria-label="Lesson steps"></div>
+    <div id="studiumHead" class="lesson-head"></div>
+    <div id="studiumBody"></div>
+    <div class="studium-nav">
+      <button id="studiumBack" class="btn-secondary">‹ Back</button>
+      <button id="studiumNext" class="btn-primary">Next ▸</button>
+    </div>
   </section>
 
   <!-- LESSON PLAYER -->
