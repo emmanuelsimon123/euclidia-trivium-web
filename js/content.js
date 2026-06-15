@@ -47,9 +47,15 @@
     // 2) normalized (article/punctuation-insensitive, typo-tolerant) match for prose answers.
     const got = normEng(input);
     if (!got) return false;
+    const gw = got.split(" ");
     return (accept || []).some(a => {
       const x = normEng(a); if (!x) return false;
       if (x === got) return true;
+      // 3) "fuller answer" leniency: accept a longer reply that CONTAINS the expected answer as
+      //    whole words, e.g. answering "Quis habuit agnum?" with "Maria habuit parvum agnum" when
+      //    the key answer is just "Maria". Only fires when the reply has MORE words than the answer,
+      //    so it never loosens single-word grading; >=4-char guard skips function words.
+      if (x.length >= 4) { const xw = x.split(" "); for (let i = 0; gw.length > xw.length && i + xw.length <= gw.length; i++) { let ok = true; for (let k = 0; k < xw.length; k++) if (xw[k] !== gw[i + k]) { ok = false; break; } if (ok) return true; } }
       if (x.length < 6) return false;                 // short answers must match exactly (is->in, to->do no longer pass)
       return lev(x, got) <= (x.length >= 20 ? 2 : 1); // 1 typo for normal words, 2 for long answers
     });
