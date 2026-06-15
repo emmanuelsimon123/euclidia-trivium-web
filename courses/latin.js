@@ -118,19 +118,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-1-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: agnus, albus, parvus, vidit, venit, habuit.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "albus -> album (a blank white tablet), albino; vidit (videre, to see) -> video, vision, evident; venit (venire, to come) -> advent, convene; habuit (habere, to have) -> habit, habitual; parvus is harder, but it appears in scientific names like Parvovirus (the tiny virus).",
-       "why": "Cognate hunting fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-1-1-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'albus' (white)?",
        "choices": [
@@ -142,7 +129,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Album comes from albus, white (originally a blank white tablet).",
        "src": "Most",
-       "id": "lat-1-1-e6"
+       "id": "lat-1-1-e5"
       }
      ],
      "id": "lat-1-1",
@@ -273,19 +260,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-2-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: mundus, nauta, navis, regina, pecunia, rotundus.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "mundus -> mundane, mundial (worldwide); nauta -> nautical, astronaut; navis -> navy, naval, navigate; regina -> regal, regnant; pecunia -> pecuniary, impecunious; rotundus -> rotund, rotunda.",
-       "why": "Cognate hunting fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-1-2-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'navis' (ship)?",
        "choices": [
@@ -297,7 +271,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Naval (and navy, navigate) come from navis, ship.",
        "src": "Most",
-       "id": "lat-1-2-e6"
+       "id": "lat-1-2-e5"
       }
      ],
      "id": "lat-1-2",
@@ -378,19 +352,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-3-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: planus, rotundus, mundus, regina, navis, pecunia.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "planus -> plain, plane, plan; rotundus -> rotund, rotunda; mundus -> mundane; regina -> regal; navis -> navy, naval; pecunia -> pecuniary.",
-       "why": "Cognate hunting fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-1-3-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'rotundus' (round)?",
        "choices": [
@@ -402,7 +363,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Rotunda (a round building) comes from rotundus, round.",
        "src": "Most",
-       "id": "lat-1-3-e6"
+       "id": "lat-1-3-e5"
       }
      ],
      "id": "lat-1-3",
@@ -499,19 +460,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-4-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: forum, porcus, carnes, remansit, exclamavit, parvus.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "forum -> forensic; porcus -> pork/porcine; carnes -> carnivore/carnal/carnage; remansit -> remain/remnant; exclamavit -> exclaim/exclamation; parvus -> (small, compare 'parvovirus').",
-       "why": "Spotting cognates makes the vocabulary stick.",
-       "src": "Most",
-       "id": "lat-1-4-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'exclamavit' (shouted)?",
        "choices": [
@@ -523,7 +471,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Exclamavit gives English 'exclaim'.",
        "src": "Most",
-       "id": "lat-1-4-e6"
+       "id": "lat-1-4-e5"
       }
      ],
      "id": "lat-1-4",
@@ -648,19 +596,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: urbs, magnus, veritas, vir, terra, annus, fundaverunt, amavit.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "urbs -> urban/suburb; magnus -> magnify/magnitude/magnate; veritas -> verity/verify/veracious; vir -> virile/triumvir; terra -> terrain/territory/terrace; annus -> annual/anniversary/annuity; fundaverunt -> found/foundation; amavit -> amorous/amateur/amiable.",
-       "why": "Spotting cognates makes the vocabulary stick.",
-       "src": "Most",
-       "id": "lat-1-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'urbs' (city)?",
        "choices": [
@@ -672,7 +607,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Urbs gives English 'urban'.",
        "src": "Most",
-       "id": "lat-1-5-e7"
+       "id": "lat-1-5-e6"
       }
      ],
      "id": "lat-1-5",
@@ -749,19 +684,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-6-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: regina, pecuniam, navem, rotundi, puellam, invenit.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "regina -> regal/regnal; pecuniam -> pecuniary/impecunious; navem -> navy/naval/navigate; rotundi -> rotund/rotunda; puellam -> (girl, compare French 'pucelle'); invenit -> invent/invention/inventory.",
-       "why": "Spotting cognates makes the vocabulary stick.",
-       "src": "Most",
-       "id": "lat-1-6-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'regina' (queen)?",
        "choices": [
@@ -773,7 +695,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Regina gives English 'regal'.",
        "src": "Most",
-       "id": "lat-1-6-e6"
+       "id": "lat-1-6-e5"
       }
      ],
      "id": "lat-1-6",
@@ -895,19 +817,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-7-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: rex, malus, primus, ultimus, bonus, regnavit, terra, urbe.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "rex -> regal, regent, royal; malus -> malice, malign, malevolent; primus -> primary, prime, primitive; ultimus -> ultimate, ultimatum; bonus -> bona fide (in good faith), bonanza, bounty; regnavit -> reign, regnal; terra -> terrain, territory, terrace; urbe (urbs) -> urban, suburb.",
-       "why": "Spotting real cognates anchors the new vocabulary in English.",
-       "src": "Most",
-       "id": "lat-1-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'rex' (king)?",
        "choices": [
@@ -919,7 +828,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Regal derives from rex, regis (king); the others are unrelated.",
        "src": "Most",
-       "id": "lat-1-7-e7"
+       "id": "lat-1-7-e6"
       },
       {
        "type": "type",
@@ -940,7 +849,7 @@ window.COURSE_DATA.courses.push({
        "answer": "primary",
        "why": "Primary, prime, and primitive all descend from primus 'first.'",
        "src": "Most",
-       "id": "lat-1-7-e8"
+       "id": "lat-1-7-e7"
       }
      ],
      "id": "lat-1-7",
@@ -1089,19 +998,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-8-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: bellum, pugna, ignis, exercitus, aqua, pons, paravit, expulit.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "bellum -> belligerent, bellicose; pugna -> pugnacious, pugilist; ignis -> ignite, igneous; exercitus -> exercise (the army was the drilled, exercised body); aqua -> aquatic, aquarium; pons -> pontoon, pontiff (the bridge-building priest); paravit -> prepare, apparatus; expulit -> expel, expulsion.",
-       "why": "Spotting real cognates fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-1-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ignis' (fire)?",
        "choices": [
@@ -1113,7 +1009,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ignis (fire) gives English ignite and igneous.",
        "src": "Most",
-       "id": "lat-1-8-e7"
+       "id": "lat-1-8-e6"
       },
       {
        "type": "mc",
@@ -1127,7 +1023,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Aqua (water) gives English aquatic, aquarium, and aqueduct.",
        "src": "Most",
-       "id": "lat-1-8-e8"
+       "id": "lat-1-8-e7"
       }
      ],
      "id": "lat-1-8",
@@ -1263,19 +1159,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-9-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: consul, potestas, civis, novus, patricius, officium, plebs, urbs.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "consul -> consular, consulate; potestas -> potent, potency; civis -> civic, civil, citizen; novus -> novel, novelty, novice; patricius -> patrician; officium -> office, official; plebs -> plebeian, plebiscite; urbs -> urban, urbane.",
-       "why": "Recognizing real cognates makes the vocabulary easier to remember.",
-       "src": "Most",
-       "id": "lat-1-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'novus'?",
        "choices": [
@@ -1287,7 +1170,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Novus means 'new'; 'novice' derives from it.",
        "src": "Most",
-       "id": "lat-1-9-e7"
+       "id": "lat-1-9-e6"
       },
       {
        "type": "mc",
@@ -1301,7 +1184,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Civis means 'citizen'; 'civic' derives from it.",
        "src": "Most",
-       "id": "lat-1-9-e8"
+       "id": "lat-1-9-e7"
       }
      ],
      "id": "lat-1-9",
@@ -1426,19 +1309,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-1-10-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: senatus, periculum, dictator, consilium, vir, fortis, ager, legatus.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "senatus -> senate, senator; periculum -> peril, perilous; dictator -> dictate, diction; consilium -> counsel, consult, consultation; vir -> virile, virtue; fortis -> fortitude, fort; ager -> agriculture, agrarian; legatus -> legate, delegate.",
-       "why": "Spotting cognates anchors the Latin vocabulary in English you already know.",
-       "src": "Most",
-       "id": "lat-1-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'periculum'?",
        "choices": [
@@ -1450,7 +1320,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "periculum means 'danger', the source of English 'peril' and 'perilous'.",
        "src": "Most",
-       "id": "lat-1-10-e7"
+       "id": "lat-1-10-e6"
       },
       {
        "type": "mc",
@@ -1464,7 +1334,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "ager (field) gives the 'agri-' of agriculture and agrarian.",
        "src": "Most",
-       "id": "lat-1-10-e8"
+       "id": "lat-1-10-e7"
       }
      ],
      "id": "lat-1-10",
@@ -1601,19 +1471,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: periculum, exercitus, barbari, multus, totus, dies, audivit.",
-       "rubric": [
-        "Gives at least three genuine English derivatives or look-alikes",
-        "Pairs each English word with the correct Latin source word",
-        "No invented or false cognates"
-       ],
-       "model": "periculum -> peril, perilous; exercitus -> exercise; barbari -> barbarian, barbaric; multus -> multitude, multiple; totus -> total, totality; dies -> diary, dial; audivit (audio root) -> audible, audience, audio.",
-       "why": "These Latin words survive directly in common English vocabulary.",
-       "src": "Most",
-       "id": "lat-2-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'periculum' (danger)?",
        "choices": [
@@ -1625,7 +1482,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Peril descends from Latin periculum, danger.",
        "src": "Most",
-       "id": "lat-2-1-e7"
+       "id": "lat-2-1-e6"
       },
       {
        "type": "mc",
@@ -1639,7 +1496,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Exercise derives from the Latin root of exercitus (exercere, to train an army).",
        "src": "Most",
-       "id": "lat-2-1-e8"
+       "id": "lat-2-1-e7"
       }
      ],
      "id": "lat-2-1",
@@ -1755,19 +1612,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: fabula, lex, senatus, narravit, periculum.",
-       "rubric": [
-        "Links fabula to fable",
-        "Links lex to legal or legislate",
-        "Links senatus to senate, and ideally narravit to narrate or periculum to peril"
-       ],
-       "model": "fabula gives English fable; lex (stem leg-) gives legal and legislate; senatus gives senate; narravit gives narrate and narrative; periculum gives peril and perilous.",
-       "why": "Each derivation is a genuine cognate from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-2-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'senatus'?",
        "choices": [
@@ -1779,7 +1623,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "senatus is the direct ancestor of English senate.",
        "src": "Most",
-       "id": "lat-2-2-e7"
+       "id": "lat-2-2-e6"
       },
       {
        "type": "mc",
@@ -1793,7 +1637,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "fabula (legend, story) gives English fable.",
        "src": "Most",
-       "id": "lat-2-2-e8"
+       "id": "lat-2-2-e7"
       }
      ],
      "id": "lat-2-2",
@@ -1934,19 +1778,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: defendere, capere, videre, natio, potestatem, periculo.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "defendere -> defend, defense, defendant; capere -> capture, captive, capable; videre -> video, vision, evident; natio -> nation, national, native; potestatem (potestas) -> potent, potency, potentate; periculo (periculum) -> peril, perilous.",
-       "why": "Spotting real cognates anchors the new vocabulary in English.",
-       "src": "Most",
-       "id": "lat-2-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'capere' (to seize)?",
        "choices": [
@@ -1958,7 +1789,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Capere (to seize, take) gives English 'capture' and 'captive'.",
        "src": "Most",
-       "id": "lat-2-3-e7"
+       "id": "lat-2-3-e6"
       },
       {
        "type": "order",
@@ -1977,7 +1808,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Maria agnum invenire voluit, using the infinitive invenire (to find).",
        "src": "Most",
-       "id": "lat-2-3-e8"
+       "id": "lat-2-3-e7"
       },
       {
        "type": "order",
@@ -1994,7 +1825,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Maria agnum amavit.",
        "src": "Most",
-       "id": "lat-2-3-e9"
+       "id": "lat-2-3-e8"
       }
      ],
      "id": "lat-2-3",
@@ -2160,19 +1991,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: mercator, mercatura, nomen, videre, vincere, mare, saeculum.",
-       "rubric": [
-        "Gives at least three genuine derivations with the English word named",
-        "Each English word truly traces to its Latin source, no false matches",
-        "No em dashes or en dashes, commas only"
-       ],
-       "model": "mercator, mercatura give us mercantile and merchant and market; nomen gives nominate, nominal, and nomenclature; videre gives video, vision, and evident; vincere gives invincible and victor; mare gives marine and maritime; saeculum gives secular.",
-       "why": "Pulling real English derivatives from today's vocabulary fixes the meanings in memory.",
-       "src": "Most",
-       "id": "lat-2-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'mare' (sea)?",
        "choices": [
@@ -2184,7 +2002,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Marine descends from Latin mare (sea); the English noun 'mare' for a horse is unrelated Germanic.",
        "src": "Most",
-       "id": "lat-2-4-e7"
+       "id": "lat-2-4-e6"
       },
       {
        "type": "mc",
@@ -2198,7 +2016,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Video derives from videre, 'to see' (literally 'I see').",
        "src": "Most",
-       "id": "lat-2-4-e8"
+       "id": "lat-2-4-e7"
       },
       {
        "type": "order",
@@ -2217,7 +2035,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Romani in periculo erant'; periculo is the ablative of neuter periculum.",
        "src": "Most",
-       "id": "lat-2-4-e9"
+       "id": "lat-2-4-e8"
       },
       {
        "type": "order",
@@ -2240,7 +2058,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Marcus dixit quod Columbus fuit bonus', using quod plus a finite verb to report speech.",
        "src": "Most",
-       "id": "lat-2-4-e10"
+       "id": "lat-2-4-e9"
       }
      ],
      "id": "lat-2-4",
@@ -2360,19 +2178,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: victoria, auxilium, egregius, mercatura, medius, bellum, periculum.",
-       "rubric": [
-        "Gives at least three genuine derivations",
-        "Each English word truly traces to its Latin source",
-        "No invented or false cognates"
-       ],
-       "model": "victoria gives victory and Victor; auxilium gives auxiliary and auxiliaries; egregius gives egregious (literally standing out from the flock); mercatura gives merchant, merchandise, and commerce; medius gives medium and median; bellum gives belligerent and bellicose; periculum gives peril and perilous.",
-       "why": "Connecting Most's vocabulary to English roots makes the words stick and shows Latin living on in English.",
-       "src": "Most",
-       "id": "lat-2-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'victoria'?",
        "choices": [
@@ -2384,7 +2189,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Victoria (victory) is the direct root of English victory; the others come from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-2-5-e7"
+       "id": "lat-2-5-e6"
       },
       {
        "type": "mc",
@@ -2398,7 +2203,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Periculum (danger) gives English peril; the Mamertini in periculo fuerunt, were in danger.",
        "src": "Most",
-       "id": "lat-2-5-e8"
+       "id": "lat-2-5-e7"
       },
       {
        "type": "order",
@@ -2417,7 +2222,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Columbus magnam veritatem scivit; note magnam agrees with veritatem in gender, number, and case.",
        "src": "Most",
-       "id": "lat-2-5-e9"
+       "id": "lat-2-5-e8"
       },
       {
        "type": "order",
@@ -2436,7 +2241,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Roma cives magnos habuit; the adjective magnos agrees with the masculine plural object cives.",
        "src": "Most",
-       "id": "lat-2-5-e10"
+       "id": "lat-2-5-e9"
       }
      ],
      "id": "lat-2-5",
@@ -2582,19 +2387,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-2-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: pax, aurum, pater, odium, imperator, manus, accepit, contra.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "pax -> pacify, pacific, pact; aurum -> aureate (gold-colored), aureole (a golden halo), the chemical symbol Au; pater -> paternal, patron, patriarch; odium -> odious, annoy (via Latin in odio, into hatred); imperator -> imperial, emperor, imperative; manus -> manual, manuscript, manage; accepit (accipere) -> accept, acceptance; contra -> contrary, contradict, counter.",
-       "why": "Spotting real cognates fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-2-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'manus' (hand)?",
        "choices": [
@@ -2606,7 +2398,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "manus (hand) gives English manual, manuscript, and manufacture.",
        "src": "Most",
-       "id": "lat-2-6-e7"
+       "id": "lat-2-6-e6"
       },
       {
        "type": "mc",
@@ -2620,7 +2412,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "pater (father) gives English paternal, patron, and patriarch.",
        "src": "Most",
-       "id": "lat-2-6-e8"
+       "id": "lat-2-6-e7"
       },
       {
        "type": "order",
@@ -2637,7 +2429,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Quando venit Hannibal?' for 'When did Hannibal come?'",
        "src": "Most",
-       "id": "lat-2-6-e9"
+       "id": "lat-2-6-e8"
       },
       {
        "type": "order",
@@ -2660,7 +2452,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Hamilcar dixit quod Roma mala fuit' for 'Hamilcar said that Rome was bad.'",
        "src": "Most",
-       "id": "lat-2-6-e10"
+       "id": "lat-2-6-e9"
       },
       {
        "type": "order",
@@ -2679,7 +2471,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Sed Roma pacem voluit' for 'But Rome wanted peace.'",
        "src": "Most",
-       "id": "lat-2-6-e11"
+       "id": "lat-2-6-e10"
       }
      ],
      "id": "lat-2-6",
@@ -2848,19 +2640,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: miles, ferox, mons, via, ignis, fortis, descendere.",
-       "rubric": [
-        "Gives at least four real derivations, one per Latin word",
-        "Pairs each English word with the correct Latin source",
-        "Avoids invented or false cognates"
-       ],
-       "model": "miles gives military and militia; ferox gives ferocious and ferocity; mons gives mountain, mount, and montane; via gives viaduct and deviate; ignis gives ignite and ignition; fortis gives fort, fortify, and fortitude; descendere gives descend and descent.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-3-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ferox' (fierce)?",
        "choices": [
@@ -2872,7 +2651,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ferocious derives from ferox, ferocis; the others are unrelated.",
        "src": "Most",
-       "id": "lat-3-1-e7"
+       "id": "lat-3-1-e6"
       },
       {
        "type": "mc",
@@ -2886,7 +2665,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Ignite derives from ignis, fire; the others are unrelated.",
        "src": "Most",
-       "id": "lat-3-1-e8"
+       "id": "lat-3-1-e7"
       },
       {
        "type": "order",
@@ -2905,7 +2684,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Marcus vidit milites feroces' for this English sentence.",
        "src": "Most",
-       "id": "lat-3-1-e9"
+       "id": "lat-3-1-e8"
       },
       {
        "type": "order",
@@ -2924,7 +2703,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Venit cum viris fortibus' for this English sentence.",
        "src": "Most",
-       "id": "lat-3-1-e10"
+       "id": "lat-3-1-e9"
       }
      ],
      "id": "lat-3-1",
@@ -3032,19 +2811,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: cibus, frigidus, insidiae, eques, flumen, impatiens, victoria.",
-       "rubric": [
-        "Gives at least four real English derivations or look-alikes",
-        "Pairs each English word with the correct Latin source",
-        "No invented cognates, only genuine ones"
-       ],
-       "model": "frigidus gives frigid and refrigerate; insidiae gives insidious; eques (equit-) gives equestrian and equine (via equus); flumen gives flume and fluvial; impatiens gives impatient and impatience; victoria gives victory, victor, and victorious; cibus has no common English derivative, so leave it out rather than force one.",
-       "why": "Building real cognate links anchors the new vocabulary in familiar English.",
-       "src": "Most",
-       "id": "lat-3-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'frigidus'?",
        "choices": [
@@ -3056,7 +2822,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "frigidus (cold) gives English frigid and refrigerate.",
        "src": "Most",
-       "id": "lat-3-2-e7"
+       "id": "lat-3-2-e6"
       },
       {
        "type": "mc",
@@ -3070,7 +2836,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "eques, the horseman, gives equestrian, related to equus, horse.",
        "src": "Most",
-       "id": "lat-3-2-e8"
+       "id": "lat-3-2-e7"
       },
       {
        "type": "order",
@@ -3093,7 +2859,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Exercitus Punicus in Galliam missus est, a perfect passive (missus est, was sent).",
        "src": "Most",
-       "id": "lat-3-2-e9"
+       "id": "lat-3-2-e8"
       },
       {
        "type": "order",
@@ -3110,7 +2876,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Equites auditi sunt, the perfect passive plural (auditi sunt, were heard).",
        "src": "Most",
-       "id": "lat-3-2-e10"
+       "id": "lat-3-2-e9"
       }
      ],
      "id": "lat-3-2",
@@ -3229,19 +2995,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: victus, miles, flumen, lacus, exercitus, imperator, insidiae.",
-       "rubric": [
-        "Gives at least three real derivations",
-        "Pairs each English word with its Latin source",
-        "Uses no dashes, only commas and arrows in prose"
-       ],
-       "model": "victus gives victor and victory; miles (milites) gives military and militia; flumen gives flume and fluvial; lacus gives lake and lagoon; exercitus gives exercise; imperator gives imperial and emperor; insidiae gives insidious.",
-       "why": "These are real worked derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-3-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'imperator'?",
        "choices": [
@@ -3253,7 +3006,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "imperator (commander) gives English emperor and imperial.",
        "src": "Most",
-       "id": "lat-3-3-e7"
+       "id": "lat-3-3-e6"
       },
       {
        "type": "mc",
@@ -3267,7 +3020,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "flumen (river) gives English flume and fluvial.",
        "src": "Most",
-       "id": "lat-3-3-e8"
+       "id": "lat-3-3-e7"
       },
       {
        "type": "order",
@@ -3286,7 +3039,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Cincinnatus rogatus est venire.",
        "src": "Most",
-       "id": "lat-3-3-e9"
+       "id": "lat-3-3-e8"
       },
       {
        "type": "order",
@@ -3307,7 +3060,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Marcus visus est Mariam amare.",
        "src": "Most",
-       "id": "lat-3-3-e10"
+       "id": "lat-3-3-e9"
       },
       {
        "type": "order",
@@ -3324,7 +3077,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Fabula scripta erat.",
        "src": "Most",
-       "id": "lat-3-3-e11"
+       "id": "lat-3-3-e10"
       }
      ],
      "id": "lat-3-3",
@@ -3442,19 +3195,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: scriptor, vocavit, secundum, statim, elegit, clarus.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "Derivations are genuine, not invented look-alikes",
-        "No em dashes or en dashes are used"
-       ],
-       "model": "scriptor gives scribe, script, scripture, and inscription. vocavit (from vocare) gives vocal, vocation, vocabulary, and invoke. secundum gives second and secondary. statim relates to status, stative, and stationary. elegit (from eligere) gives elect, election, and elite. clarus gives clear, clarity, declare, and clarify.",
-       "why": "These are real derivations from this lesson's vocabulary, reinforcing the Latin roots.",
-       "src": "Most",
-       "id": "lat-3-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'scriptor' (writer)?",
        "choices": [
@@ -3466,7 +3206,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "scriptor and scribere give scripture, script, and scribe; the other choices are unrelated.",
        "src": "Most",
-       "id": "lat-3-4-e7"
+       "id": "lat-3-4-e6"
       },
       {
        "type": "mc",
@@ -3480,7 +3220,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "clarus gives clarity, clear, and clarify; the other choices are not derived from it.",
        "src": "Most",
-       "id": "lat-3-4-e8"
+       "id": "lat-3-4-e7"
       },
       {
        "type": "order",
@@ -3501,7 +3241,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Hannibal a Romanis victus est, a passive perfect with the ablative of agent (a Romanis).",
        "src": "Most",
-       "id": "lat-3-4-e9"
+       "id": "lat-3-4-e8"
       },
       {
        "type": "order",
@@ -3520,7 +3260,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Hannibal fuit imperator fortis, with the predicate noun imperator and adjective fortis.",
        "src": "Most",
-       "id": "lat-3-4-e10"
+       "id": "lat-3-4-e9"
       }
      ],
      "id": "lat-3-4",
@@ -3633,19 +3373,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: navigare, frumentum, maximus, vocare, auxilia, intercludere.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "Derivations are genuine, not invented (for example navigare to navigate)",
-        "No em dashes or en dashes are used, only commas"
-       ],
-       "model": "navigare gives navigate, navigation, and navy; maximus gives maximum and maximize; vocare gives vocation, vocal, and invoke; auxilia gives auxiliary; intercludere relates to include, exclude, and seclude through the root claudere; frumentum is harder, but relates to the rarer word frumentaceous (made of grain).",
-       "why": "These derivations are all real and reinforce today's vocabulary.",
-       "src": "Most",
-       "id": "lat-3-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'maximus'?",
        "choices": [
@@ -3657,7 +3384,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Maximus (greatest) gives English maximum; the others come from different Latin roots.",
        "src": "Most",
-       "id": "lat-3-5-e7"
+       "id": "lat-3-5-e6"
       },
       {
        "type": "mc",
@@ -3671,7 +3398,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Navigare (to sail) gives English navigate; the others have unrelated roots.",
        "src": "Most",
-       "id": "lat-3-5-e8"
+       "id": "lat-3-5-e7"
       },
       {
        "type": "order",
@@ -3692,7 +3419,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key for sentence 1 is: Columbus in mundum novum navigavit.",
        "src": "Most",
-       "id": "lat-3-5-e9"
+       "id": "lat-3-5-e8"
       },
       {
        "type": "order",
@@ -3715,7 +3442,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key for sentence 4 is: Multo auro accepto, milites laeti erant. This is an ablative absolute.",
        "src": "Most",
-       "id": "lat-3-5-e10"
+       "id": "lat-3-5-e9"
       }
      ],
      "id": "lat-3-5",
@@ -3847,19 +3574,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-3-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: senatus, circum, responsum, deliberare, totus, arena, civis.",
-       "rubric": [
-        "Gives at least four real derivations with both the Latin word and its English relative",
-        "Derivations are genuine (no invented or false cognates)",
-        "Answer uses commas, contains no dashes"
-       ],
-       "model": "senatus gives senate and senator; circum gives circle, circumference, and circus; responsum gives response and responsible; deliberare gives deliberate and deliberation; totus gives total and totality; arena gives arenaceous (sandy) and arenicolous (living in sand); civis gives civic, civil, civilian, and city.",
-       "why": "These are real, traceable derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-3-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from the Latin 'iubere, iussit, iussus' (to order)?",
        "choices": [
@@ -3871,7 +3585,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "The grammatical term jussive (a command form) derives from Latin iubere/iussus; the others come from different roots.",
        "src": "Most",
-       "id": "lat-3-6-e7"
+       "id": "lat-3-6-e6"
       },
       {
        "type": "mc",
@@ -3885,7 +3599,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Civic (and civil, civilian) derives from civis, citizen.",
        "src": "Most",
-       "id": "lat-3-6-e8"
+       "id": "lat-3-6-e7"
       },
       {
        "type": "order",
@@ -3904,7 +3618,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Potestas senatus erat magna for sentence 2 of the English-to-Latin block.",
        "src": "Most",
-       "id": "lat-3-6-e9"
+       "id": "lat-3-6-e8"
       },
       {
        "type": "order",
@@ -3923,7 +3637,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Antiochus rex Seleuciae fuit for sentence 7 of the English-to-Latin block.",
        "src": "Most",
-       "id": "lat-3-6-e10"
+       "id": "lat-3-6-e9"
       }
      ],
      "id": "lat-3-6",
@@ -4092,19 +3806,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: delere, oratio, finis, licentia, omnis, arma.",
-       "rubric": [
-        "Gives at least four real English derivatives across these words",
-        "Each English word is correctly paired with its Latin source",
-        "No invented or false cognates"
-       ],
-       "model": "delere gives delete and deletion; oratio gives oration, orator, oratory; finis gives final, finish, finite, finale; licentia gives license and licentious; omnis gives omnipresent, omniscient, omnibus; arma gives army, armor, armament, armistice.",
-       "why": "These derivations are genuine: delere to delete, oratio to oration, finis to final, licentia to license, omnis to omni- words, arma to arms and army.",
-       "src": "Most",
-       "id": "lat-4-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'finis'?",
        "choices": [
@@ -4116,7 +3817,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "finis (end) gives English finish, final, and finale; the other words are unrelated.",
        "src": "Most",
-       "id": "lat-4-1-e7"
+       "id": "lat-4-1-e6"
       },
       {
        "type": "mc",
@@ -4130,7 +3831,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "oratio gives oration, orator, and oratory; the other choices are not derived from it.",
        "src": "Most",
-       "id": "lat-4-1-e8"
+       "id": "lat-4-1-e7"
       },
       {
        "type": "order",
@@ -4149,7 +3850,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Ubi est ille vir for sentence 1 of the English to Latin exercise.",
        "src": "Most",
-       "id": "lat-4-1-e9"
+       "id": "lat-4-1-e8"
       },
       {
        "type": "order",
@@ -4170,7 +3871,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Maria agnum illum invenire voluit for sentence 2 of the English to Latin exercise.",
        "src": "Most",
-       "id": "lat-4-1-e10"
+       "id": "lat-4-1-e9"
       }
      ],
      "id": "lat-4-1",
@@ -4312,19 +4013,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: femina, capillus, catapulta, aedificare, locus.",
-       "rubric": [
-        "Gives at least three real English derivatives or look-alikes",
-        "Pairs each English word with the correct Latin source word",
-        "Uses commas, not dashes, between items"
-       ],
-       "model": "femina gives feminine and female; capillus gives capillary; catapulta gives catapult; aedificare gives edifice and edify; locus gives local, location, and locate.",
-       "why": "Each pairing is a genuine derivation from this lesson's vocabulary, reinforcing the new words through their English descendants.",
-       "src": "Most",
-       "id": "lat-4-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'aedificare' (build)?",
        "choices": [
@@ -4336,7 +4024,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Aedificare (to build) gives English 'edifice', a building, and 'edify', to build up; the others are unrelated.",
        "src": "Most",
-       "id": "lat-4-2-e7"
+       "id": "lat-4-2-e6"
       },
       {
        "type": "mc",
@@ -4350,7 +4038,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Locus (place) gives English 'location', 'local', and 'locate'; the others are not derived from it.",
        "src": "Most",
-       "id": "lat-4-2-e8"
+       "id": "lat-4-2-e7"
       },
       {
        "type": "order",
@@ -4369,7 +4057,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Magna pars militum venit' for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-4-2-e9"
+       "id": "lat-4-2-e8"
       },
       {
        "type": "order",
@@ -4388,7 +4076,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Necesse est feminam invenire' for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-4-2-e10"
+       "id": "lat-4-2-e9"
       }
      ],
      "id": "lat-4-2",
@@ -4543,19 +4231,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: misericordia, servus, labor, senator, interficere, turba.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "Derivations are genuine, not invented look-alikes",
-        "Answer uses commas, with no dashes"
-       ],
-       "model": "From servus come servant, servile, and serve. From labor come laborious, laboratory, and elaborate. From senator come senate and senatorial. From turba come turbulent, disturb, and perturb. Misericordia, built on miser, gives miserable, misery, and commiserate. Interficere has no clean English derivative, but its component facere shows up in fact and effect.",
-       "why": "Practicing real derivations fixes the vocabulary and shows how Latin survives in English.",
-       "src": "Most",
-       "id": "lat-4-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'servus' (slave)?",
        "choices": [
@@ -4567,7 +4242,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Servile derives from servus, slave; the others are unrelated look-alikes.",
        "src": "Most",
-       "id": "lat-4-3-e7"
+       "id": "lat-4-3-e6"
       },
       {
        "type": "mc",
@@ -4581,7 +4256,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Laborious derives from labor, work; the others are unrelated.",
        "src": "Most",
-       "id": "lat-4-3-e8"
+       "id": "lat-4-3-e7"
       },
       {
        "type": "order",
@@ -4596,7 +4271,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Cibum voluit for He wanted food.",
        "src": "Most",
-       "id": "lat-4-3-e9"
+       "id": "lat-4-3-e8"
       },
       {
        "type": "order",
@@ -4613,7 +4288,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Ille (vir) venit for That man has come.",
        "src": "Most",
-       "id": "lat-4-3-e10"
+       "id": "lat-4-3-e9"
       }
      ],
      "id": "lat-4-3",
@@ -4731,19 +4406,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-4-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: monstrare, consuetudo, filius, melior, corruptus, nepos, orientalis.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "No invented or unrelated cognates",
-        "Spelling of the English words is correct"
-       ],
-       "model": "monstrare points to demonstrate and monster; consuetudo to custom and accustomed; filius to filial and affiliate; melior to ameliorate; corruptus to corrupt and corruption; nepos to nephew and nepotism; orientalis to orient and oriental.",
-       "why": "These are genuine derivations from the Latin roots in today's vocabulary.",
-       "src": "Most",
-       "id": "lat-4-4-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'monstrare' (show)?",
        "choices": [
@@ -4755,7 +4417,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Demonstrate descends from monstrare (to show); the others are unrelated.",
        "src": "Most",
-       "id": "lat-4-4-e6"
+       "id": "lat-4-4-e5"
       },
       {
        "type": "mc",
@@ -4769,7 +4431,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Corruption derives directly from corruptus; the others are unrelated.",
        "src": "Most",
-       "id": "lat-4-4-e7"
+       "id": "lat-4-4-e6"
       },
       {
        "type": "order",
@@ -4786,7 +4448,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Scipio milites parat.",
        "src": "Most",
-       "id": "lat-4-4-e8"
+       "id": "lat-4-4-e7"
       },
       {
        "type": "order",
@@ -4803,7 +4465,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Columbus naves monstrat.",
        "src": "Most",
-       "id": "lat-4-4-e9"
+       "id": "lat-4-4-e8"
       }
      ],
      "id": "lat-4-4",
@@ -4928,19 +4590,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: punire, simulare, iniustus, ira, audacia, victoria, sperare.",
-       "rubric": [
-        "Gives at least four real English derivatives",
-        "Each derivative is correctly paired with its Latin source",
-        "No invented or unrelated words are listed"
-       ],
-       "model": "punire -> punish, punitive, impunity; simulare -> simulate, simulation, dissimulate; iniustus -> injustice, unjust; ira -> irate, irascible, ire; audacia -> audacious, audacity; victoria -> victory, victor, victorious; sperare -> hope (no direct), but desperate, despair (de-sperare).",
-       "why": "These are real worked derivations from this lesson's vocabulary, training students to spot Latin roots in English.",
-       "src": "Most",
-       "id": "lat-4-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'punire'?",
        "choices": [
@@ -4952,7 +4601,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Punitive derives from punire (to punish); the others come from different roots.",
        "src": "Most",
-       "id": "lat-4-5-e7"
+       "id": "lat-4-5-e6"
       },
       {
        "type": "mc",
@@ -4966,7 +4615,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Simulate derives from simulare (to feign, pretend).",
        "src": "Most",
-       "id": "lat-4-5-e8"
+       "id": "lat-4-5-e7"
       },
       {
        "type": "order",
@@ -4983,7 +4632,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Multas urbes capiunt.",
        "src": "Most",
-       "id": "lat-4-5-e9"
+       "id": "lat-4-5-e8"
       },
       {
        "type": "order",
@@ -5004,7 +4653,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Marius et Sulla fortiter pugnant.",
        "src": "Most",
-       "id": "lat-4-5-e10"
+       "id": "lat-4-5-e9"
       }
      ],
      "id": "lat-4-5",
@@ -5162,19 +4811,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-4-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: tempus, provincia, ingenium, revocare, calidus, amicus.",
-       "rubric": [
-        "Gives at least three real English derivatives across the listed words.",
-        "Each derivative is matched to the correct Latin source word.",
-        "No invented or unrelated words are offered as cognates."
-       ],
-       "model": "tempus gives temporal, tempo, temporary; provincia gives province, provincial; ingenium gives ingenious, ingenuity, engine; revocare gives revoke, revocation; calidus gives caldron, scald, calorie (heat); amicus gives amicable, amity, amiable.",
-       "why": "These are genuine derivations from the Lectio's vocabulary, reinforcing the family-of-words idea.",
-       "src": "Most",
-       "id": "lat-4-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'revocare' (recall)?",
        "choices": [
@@ -5186,7 +4822,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Revoke descends from revocare, to call back; the others come from different Latin roots.",
        "src": "Most",
-       "id": "lat-4-6-e7"
+       "id": "lat-4-6-e6"
       },
       {
        "type": "mc",
@@ -5200,7 +4836,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Amicable derives from amicus, friend; the others are unrelated in origin.",
        "src": "Most",
-       "id": "lat-4-6-e8"
+       "id": "lat-4-6-e7"
       },
       {
        "type": "order",
@@ -5221,7 +4857,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Tarquinio expulso, Roma bellum habuit. The ablative absolute Tarquinio expulso means 'with Tarquinius expelled.'",
        "src": "Most",
-       "id": "lat-4-6-e9"
+       "id": "lat-4-6-e8"
       },
       {
        "type": "order",
@@ -5240,7 +4876,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Nunc cum Communistis pugnant.",
        "src": "Most",
-       "id": "lat-4-6-e10"
+       "id": "lat-4-6-e9"
       }
      ],
      "id": "lat-4-6",
@@ -5386,19 +5022,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: frangere, rapere, proelium, secundus, vita, inter.",
-       "rubric": [
-        "Gives at least four real English derivatives, one per Latin word",
-        "Each derivative is genuinely related to its Latin source word",
-        "No invented or unrelated cognates listed"
-       ],
-       "model": "frangere (break) gives fracture, fragment, fragile; rapere (seize, snatch) gives rapid, rapacious, rapt, ravish; secundus (successful, second) gives second, secondary; vita (life) gives vital, vitality, vitamin; inter (between, among) gives interval, intercede, interior.",
-       "why": "These are real, well attested derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-5-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vita'?",
        "choices": [
@@ -5410,7 +5033,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vita (life) gives 'vital' and 'vitality'; the others derive from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-5-1-e7"
+       "id": "lat-5-1-e6"
       },
       {
        "type": "mc",
@@ -5424,7 +5047,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Frangere/fractus (break) gives 'fracture' and 'fragment'; the others are unrelated.",
        "src": "Most",
-       "id": "lat-5-1-e8"
+       "id": "lat-5-1-e7"
       },
       {
        "type": "order",
@@ -5441,7 +5064,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Marcus eum vidit' for sentence 2, using the pronoun eum (him).",
        "src": "Most",
-       "id": "lat-5-1-e9"
+       "id": "lat-5-1-e8"
       },
       {
        "type": "order",
@@ -5460,7 +5083,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Inter cives bellum erat' for sentence 3, showing inter (among) with the object case.",
        "src": "Most",
-       "id": "lat-5-1-e10"
+       "id": "lat-5-1-e9"
       }
      ],
      "id": "lat-5-1",
@@ -5575,19 +5198,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: imperium, pirata, titulus, maior, caecus, dictatura.",
-       "rubric": [
-        "Gives a real English derivative for at least four of the words",
-        "Derivations are genuine, not invented look-alikes",
-        "No em dashes or en dashes, commas only"
-       ],
-       "model": "imperium gives empire, imperial, and imperious; pirata gives pirate and piracy; titulus gives title and titular; maior gives major and majority; dictatura gives dictator and dictatorship; caecus gives caecum (the blind pouch of the gut) and the medical caecal.",
-       "why": "These are real Latin-to-English derivations drawn from today's vocabulary.",
-       "src": "Most",
-       "id": "lat-5-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'pirata'?",
        "choices": [
@@ -5599,7 +5209,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Latin pirata gives English pirate (and piracy).",
        "src": "Most",
-       "id": "lat-5-2-e7"
+       "id": "lat-5-2-e6"
       },
       {
        "type": "mc",
@@ -5613,7 +5223,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Latin imperium (command, power) gives English imperial, empire, and imperious.",
        "src": "Most",
-       "id": "lat-5-2-e8"
+       "id": "lat-5-2-e7"
       },
       {
        "type": "order",
@@ -5636,7 +5246,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Vidit imperatorem qui cum Mithradate pugnavit.",
        "src": "Most",
-       "id": "lat-5-2-e9"
+       "id": "lat-5-2-e8"
       },
       {
        "type": "order",
@@ -5657,7 +5267,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Pauci agni ad scholam veniunt.",
        "src": "Most",
-       "id": "lat-5-2-e10"
+       "id": "lat-5-2-e9"
       }
      ],
      "id": "lat-5-2",
@@ -5811,19 +5421,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: audax, magister, exemplum, ars, accidere, iuventus.",
-       "rubric": [
-        "Give at least four real English derivatives or close cognates",
-        "Pair each English word with the Latin word it comes from",
-        "Use only genuine derivations, no invented ones"
-       ],
-       "model": "audax to audacious and audacity; magister to magistrate and master; exemplum to example and exemplary; ars to art and artisan; accidere to accident; iuventus to juvenile and rejuvenate.",
-       "why": "These Latin words left clear traces in English vocabulary.",
-       "src": "Most",
-       "id": "lat-5-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'magister'?",
        "choices": [
@@ -5835,7 +5432,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Magister (teacher, master) gives English magistrate (and master).",
        "src": "Most",
-       "id": "lat-5-3-e7"
+       "id": "lat-5-3-e6"
       },
       {
        "type": "mc",
@@ -5849,7 +5446,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Audax (bold) gives English audacious and audacity.",
        "src": "Most",
-       "id": "lat-5-3-e8"
+       "id": "lat-5-3-e7"
       },
       {
        "type": "order",
@@ -5870,7 +5467,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Necesse erat fugere in montes.",
        "src": "Most",
-       "id": "lat-5-3-e9"
+       "id": "lat-5-3-e8"
       },
       {
        "type": "order",
@@ -5891,7 +5488,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Caesar Corneliam in matrimonium duxit.",
        "src": "Most",
-       "id": "lat-5-3-e10"
+       "id": "lat-5-3-e9"
       }
      ],
      "id": "lat-5-3",
@@ -6025,19 +5622,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: dividere, consulatus, vinculum, difficilis, amor, anser.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each English word is genuinely related to its Latin source",
-        "No invented or false cognates"
-       ],
-       "model": "dividere -> divide, division, divisor; consulatus -> consul, consulate, consultation; difficilis -> difficult, difficulty; amor -> amorous, amiable, enamored; anser -> anserine (goose-like).",
-       "why": "These derivations come straight from the Latin roots in this Lectio's vocabulary.",
-       "src": "Most",
-       "id": "lat-5-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'dividere' (to divide)?",
        "choices": [
@@ -6049,7 +5633,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Division derives from Latin dividere; the others come from different Latin words.",
        "src": "Most",
-       "id": "lat-5-4-e7"
+       "id": "lat-5-4-e6"
       },
       {
        "type": "mc",
@@ -6063,7 +5647,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Amorous derives from Latin amor; the others come from different Latin words.",
        "src": "Most",
-       "id": "lat-5-4-e8"
+       "id": "lat-5-4-e7"
       },
       {
        "type": "order",
@@ -6092,7 +5676,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Estne Caesar vir qui Galliam in tres partes dividit?",
        "src": "Most",
-       "id": "lat-5-4-e9"
+       "id": "lat-5-4-e8"
       },
       {
        "type": "order",
@@ -6119,7 +5703,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Olim erat puella parva quae Maria vocata est.",
        "src": "Most",
-       "id": "lat-5-4-e10"
+       "id": "lat-5-4-e9"
       }
      ],
      "id": "lat-5-4",
@@ -6235,19 +5819,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: invidia, praemium, victoria (victoriis), exspectare, meridionalis.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "Derivations are genuine, not invented look-alikes",
-        "Uses commas, no dashes"
-       ],
-       "model": "invidia gives invidious and envy; praemium gives premium; victoria gives victory, victorious, and victor; exspectare gives expect and expectation; meridionalis gives meridian and meridional.",
-       "why": "These are real derivations from this lesson's vocabulary, matching Most's cognate-hunt aim.",
-       "src": "Most",
-       "id": "lat-5-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'invidia'?",
        "choices": [
@@ -6259,7 +5830,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Invidious derives from invidia (envy, ill will); the others are unrelated.",
        "src": "Most",
-       "id": "lat-5-5-e7"
+       "id": "lat-5-5-e6"
       },
       {
        "type": "mc",
@@ -6273,7 +5844,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Premium comes directly from praemium (reward); the others are unrelated.",
        "src": "Most",
-       "id": "lat-5-5-e8"
+       "id": "lat-5-5-e7"
       },
       {
        "type": "order",
@@ -6290,7 +5861,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Hannibal interfici debet for the first English-to-Latin sentence, using the passive infinitive interfici.",
        "src": "Most",
-       "id": "lat-5-5-e9"
+       "id": "lat-5-5-e8"
       },
       {
        "type": "order",
@@ -6311,7 +5882,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Artes bonae in schola discuntur, with the present passive discuntur (are learned).",
        "src": "Most",
-       "id": "lat-5-5-e10"
+       "id": "lat-5-5-e9"
       }
      ],
      "id": "lat-5-5",
@@ -6437,19 +6008,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-5-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: accusare, petere, iudicium, inimicus, explicare, dimittere.",
-       "rubric": [
-        "Gives at least four real English derivatives, one per Latin word",
-        "Each English word is genuinely related to its Latin source, no invented links",
-        "No em dashes or en dashes; commas only"
-       ],
-       "model": "accusare gives accuse, accusation, accusatory; petere gives petition, petitioner, compete; iudicium gives judicial, judiciary, judgment; inimicus gives inimical, enemy; explicare gives explicate, explicit, exploit; dimittere gives dismiss, dismissal, mission.",
-       "why": "These are real, standard derivations from each Latin word in this Lectio.",
-       "src": "Most",
-       "id": "lat-5-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'iudicium' (judgment, court, trial)?",
        "choices": [
@@ -6461,7 +6019,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Iudicium gives judicial, judiciary, and judgment; the other choices are unrelated.",
        "src": "Most",
-       "id": "lat-5-6-e7"
+       "id": "lat-5-6-e6"
       },
       {
        "type": "mc",
@@ -6475,7 +6033,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Petere (ask, seek) gives petition; the other choices are not derived from it.",
        "src": "Most",
-       "id": "lat-5-6-e8"
+       "id": "lat-5-6-e7"
       },
       {
        "type": "order",
@@ -6494,7 +6052,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Tribuni senatui epistolam explicaverunt' for this English sentence; senatui is the dative indirect object.",
        "src": "Most",
-       "id": "lat-5-6-e9"
+       "id": "lat-5-6-e8"
       },
       {
        "type": "order",
@@ -6515,7 +6073,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Facile est rem Caesari explicare'; Caesari is the dative showing 'to Caesar.'",
        "src": "Most",
-       "id": "lat-5-6-e10"
+       "id": "lat-5-6-e9"
       }
      ],
      "id": "lat-5-6",
@@ -6652,19 +6210,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: porta, oppidum, finis, portus, nullus, sequi, loqui.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each pairing is a genuine derivation, not a coincidental look-alike",
-        "No invented or unexplained cognates"
-       ],
-       "model": "porta gives portal and porter (in the old sense of a doorkeeper or gatekeeper, from portarius); portus gives port and seaport; finis gives finish, final, and finite; nullus gives null, nullify, and annul; sequi gives sequel, sequence, and consecutive; loqui gives eloquent, loquacious, and soliloquy; oppidum is more distant but relates to the idea of a fortified town.",
-       "why": "These are real, traceable derivations from this lesson's vocabulary, useful for fixing the meanings in memory.",
-       "src": "Most",
-       "id": "lat-6-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'loqui' (to speak)?",
        "choices": [
@@ -6676,7 +6221,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Eloquent derives from loqui (to speak), as do loquacious and soliloquy.",
        "src": "Most",
-       "id": "lat-6-1-e7"
+       "id": "lat-6-1-e6"
       },
       {
        "type": "mc",
@@ -6690,7 +6235,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Finish (and final, finite) come from finis, meaning end or border.",
        "src": "Most",
-       "id": "lat-6-1-e8"
+       "id": "lat-6-1-e7"
       },
       {
        "type": "order",
@@ -6707,7 +6252,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Caesar Romam venit, with the town name Romam taking no preposition.",
        "src": "Most",
-       "id": "lat-6-1-e9"
+       "id": "lat-6-1-e8"
       },
       {
        "type": "order",
@@ -6726,7 +6271,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Naves nullae Caesari remanserunt.",
        "src": "Most",
-       "id": "lat-6-1-e10"
+       "id": "lat-6-1-e9"
       }
      ],
      "id": "lat-6-1",
@@ -6877,19 +6422,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: nuntius, mortuus/mors, soror, celeriter, putare, confidentia.",
-       "rubric": [
-        "Gives at least three real derivations with a brief link to the Latin word",
-        "No invented or false cognates",
-        "Connections are dash-free and plausible (mors to mortal, soror to sorority)"
-       ],
-       "model": "nuntius gives announce, pronounce, and nuncio (a papal envoy). mors and mortuus give mortal, mortuary, and mortician. soror gives sorority and sororal. celeriter (from celer) gives celerity and accelerate. putare gives compute, dispute, and reputation. confidentia gives confidence and confident.",
-       "why": "These are genuine derivations from the lesson's vocabulary, useful for fixing the Latin in memory.",
-       "src": "Most",
-       "id": "lat-6-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'mors, mortis' (death)?",
        "choices": [
@@ -6901,7 +6433,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Mortal derives from Latin mors/mortuus (death, dead); the others are unrelated.",
        "src": "Most",
-       "id": "lat-6-2-e7"
+       "id": "lat-6-2-e6"
       },
       {
        "type": "mc",
@@ -6915,7 +6447,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Sorority derives from soror, sister; the others are unrelated.",
        "src": "Most",
-       "id": "lat-6-2-e8"
+       "id": "lat-6-2-e7"
       },
       {
        "type": "order",
@@ -6936,7 +6468,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Caesar in Thessaliam se recepit (recipere se = to retreat).",
        "src": "Most",
-       "id": "lat-6-2-e9"
+       "id": "lat-6-2-e8"
       },
       {
        "type": "order",
@@ -6959,7 +6491,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Necesse est aut venire aut remanere.",
        "src": "Most",
-       "id": "lat-6-2-e10"
+       "id": "lat-6-2-e9"
       }
      ],
      "id": "lat-6-2",
@@ -7103,19 +6635,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: corona, mensis, clementia, victus (vicit), exercitus, festum.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "No invented or false cognates, only words that truly derive from or clearly resemble the Latin",
-        "Briefly notes the meaning link, for example corona to crown or coronation"
-       ],
-       "model": "corona gives coronation and coronary; mensis gives menstrual and semester (from sex plus mensis, six months); clementia gives clement and clemency; victus and vicit give victor, victory, and convict; exercitus gives exercise; festum gives festival, feast, and festive.",
-       "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-6-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'corona'?",
        "choices": [
@@ -7127,7 +6646,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "corona (crown) gives English coronation; the other choices come from unrelated roots.",
        "src": "Most",
-       "id": "lat-6-3-e7"
+       "id": "lat-6-3-e6"
       },
       {
        "type": "mc",
@@ -7141,7 +6660,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "festum (feast) gives English festival; the others are unrelated.",
        "src": "Most",
-       "id": "lat-6-3-e8"
+       "id": "lat-6-3-e7"
       },
       {
        "type": "order",
@@ -7160,7 +6679,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Dixit quod Caesar veniebat, using the imperfect veniebat for the continuous past action.",
        "src": "Most",
-       "id": "lat-6-3-e9"
+       "id": "lat-6-3-e8"
       },
       {
        "type": "order",
@@ -7181,7 +6700,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Marcus Antonius Caesari coronam monstrabat, with the imperfect monstrabat for the ongoing action.",
        "src": "Most",
-       "id": "lat-6-3-e10"
+       "id": "lat-6-3-e9"
       }
      ],
      "id": "lat-6-3",
@@ -7315,19 +6834,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: gladius, scriptor, statua, monitio, vates, pes.",
-       "rubric": [
-        "Gives at least three real derivations with the Latin source named",
-        "Each English word genuinely descends from or resembles the Latin word",
-        "No invented or false cognates"
-       ],
-       "model": "gladius (sword) gives gladiator and gladiolus (the sword-lily, named for its blade-shaped leaves); scriptor (writer) gives script, scripture, scribe, and inscription; statua (statue) gives statuary and statuesque; monitio (warning) gives admonish, monitor, and monition; pes, pede (foot) gives pedal, pedestrian, and pedestal.",
-       "why": "These are all genuine English derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-6-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gladius' (sword)?",
        "choices": [
@@ -7339,7 +6845,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Gladiator derives from gladius, a sword. The others only sound similar.",
        "src": "Most",
-       "id": "lat-6-4-e7"
+       "id": "lat-6-4-e6"
       },
       {
        "type": "mc",
@@ -7353,7 +6859,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Pedestrian (and pedal, pedestal) derive from the Latin pes, pede, foot.",
        "src": "Most",
-       "id": "lat-6-4-e8"
+       "id": "lat-6-4-e7"
       },
       {
        "type": "order",
@@ -7370,7 +6876,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives In Galliam proficiscebatur for sentence 1 of the English to Latin block.",
        "src": "Most",
-       "id": "lat-6-4-e9"
+       "id": "lat-6-4-e8"
       },
       {
        "type": "order",
@@ -7389,7 +6895,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Caesar a vate monebatur for sentence 6, showing the imperfect passive monebatur.",
        "src": "Most",
-       "id": "lat-6-4-e10"
+       "id": "lat-6-4-e9"
       }
      ],
      "id": "lat-6-4",
@@ -7537,19 +7043,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: legere, liber, equus, equestris, notus, clarus, vivere.",
-       "rubric": [
-        "Gives a real English derivative for at least four of the listed words",
-        "Each pairing reflects the Latin word's true meaning (no invented links)",
-        "Spelling of the English derivatives is reasonable"
-       ],
-       "model": "legere (read) gives legible, lecture, legend; liber (book) gives library, librarian; equus and equestris (horse, of horses) give equine and equestrian; notus (known) gives notable, notorious, notice; clarus (famous, brilliant) gives clear, clarity, declare; vivere (live) gives vivid, survive, revive.",
-       "why": "These are genuine derivations from the Lectio's own vocabulary.",
-       "src": "Most",
-       "id": "lat-6-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'liber' (book)?",
        "choices": [
@@ -7561,7 +7054,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "library derives from liber, libri (book); liberty and liberal come from a different liber (free).",
        "src": "Most",
-       "id": "lat-6-5-e7"
+       "id": "lat-6-5-e6"
       },
       {
        "type": "mc",
@@ -7575,7 +7068,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "equestrian derives from equus (horse); the others come from aequus (even, equal).",
        "src": "Most",
-       "id": "lat-6-5-e8"
+       "id": "lat-6-5-e7"
       },
       {
        "type": "order",
@@ -7594,7 +7087,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Marcus agnum venientem vidit, using the present participle venientem (coming).",
        "src": "Most",
-       "id": "lat-6-5-e9"
+       "id": "lat-6-5-e8"
       },
       {
        "type": "order",
@@ -7613,7 +7106,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Imperatorem vidit legentem iussa, with the present participle legentem (reading).",
        "src": "Most",
-       "id": "lat-6-5-e10"
+       "id": "lat-6-5-e9"
       }
      ],
      "id": "lat-6-5",
@@ -7747,19 +7240,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-6-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: virtus, superbia, peccatum, initium, princeps, comparare.",
-       "rubric": [
-        "Gives at least three real English derivatives drawn from these Latin words",
-        "Each derivative is matched to the correct Latin source word",
-        "No invented or false cognates are listed"
-       ],
-       "model": "virtus gives virtue and virtuous; superbia gives superb and superbly; peccatum gives impeccable and peccadillo (a small sin); initium gives initial, initiate, and initiative; princeps gives prince, principal, and principality; comparare gives compare and comparison.",
-       "why": "Most's vocabulary words have clear, real English descendants through Latin roots.",
-       "src": "Most",
-       "id": "lat-6-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word truly comes from Latin 'initium'?",
        "choices": [
@@ -7771,7 +7251,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Initium (beginning) gives English initial and initiate; the others come from different Latin roots.",
        "src": "Most",
-       "id": "lat-6-6-e7"
+       "id": "lat-6-6-e6"
       },
       {
        "type": "mc",
@@ -7785,7 +7265,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Princeps (chief, first) gives English prince and principal.",
        "src": "Most",
-       "id": "lat-6-6-e8"
+       "id": "lat-6-6-e7"
       },
       {
        "type": "order",
@@ -7808,7 +7288,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Catilina Ciceronem sica interficere conatus est.",
        "src": "Most",
-       "id": "lat-6-6-e9"
+       "id": "lat-6-6-e8"
       },
       {
        "type": "order",
@@ -7831,7 +7311,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Vir est cuius fortitudo magna est.",
        "src": "Most",
-       "id": "lat-6-6-e10"
+       "id": "lat-6-6-e9"
       }
      ],
      "id": "lat-6-6",
@@ -7963,19 +7443,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: comprehendere, narrare, probare, vehemens, socius, Gallia.",
-       "rubric": [
-        "Gives at least three real English derivatives drawn from these Latin words",
-        "Each derivative is matched to the correct Latin source word",
-        "No invented or false cognates are listed"
-       ],
-       "model": "comprehendere gives comprehend and comprehension; narrare gives narrate, narration, and narrative; probare gives probe, prove, and probation; vehemens gives vehement and vehemence; socius gives social, society, and associate; Gallia gives Gallic.",
-       "why": "These derivations are real: comprehend, narrate, prove, vehement, social, and Gallic all descend from the Latin words in today's vocabulary.",
-       "src": "Most",
-       "id": "lat-7-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'narrare' (tell)?",
        "choices": [
@@ -7987,7 +7454,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Narrative descends from Latin narrare, to tell; the other choices are unrelated look-alikes.",
        "src": "Most",
-       "id": "lat-7-1-e7"
+       "id": "lat-7-1-e6"
       },
       {
        "type": "mc",
@@ -8001,7 +7468,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vehement descends from Latin vehemens, forceful; the others are unrelated.",
        "src": "Most",
-       "id": "lat-7-1-e8"
+       "id": "lat-7-1-e7"
       },
       {
        "type": "order",
@@ -8016,7 +7483,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Hi invenientur. (the future passive invenientur, they will be found).",
        "src": "Most",
-       "id": "lat-7-1-e9"
+       "id": "lat-7-1-e8"
       },
       {
        "type": "order",
@@ -8037,7 +7504,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Cicero eos in carcerem mittet. (the future active mittet, he will send).",
        "src": "Most",
-       "id": "lat-7-1-e10"
+       "id": "lat-7-1-e9"
       }
      ],
      "id": "lat-7-1",
@@ -8147,19 +7614,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: consulere, liberare, epistola, carcer, coniuratio, milites, proelium, exercitus.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source word",
-        "Derivations are genuine, not invented look-alikes",
-        "Answer is free of em dashes and en dashes, using commas instead"
-       ],
-       "model": "consulere gives consult, consultant, counsel; liberare gives liberate, liberty, liberation; epistola gives epistle, epistolary; carcer gives incarcerate, incarceration; coniuratio gives conjure, conjuration (from coniurare, to swear together); milites gives military, militia, militant; exercitus gives exercise.",
-       "why": "These are real worked derivations from this lesson's words, showing how Latin roots survive in English.",
-       "src": "Most",
-       "id": "lat-7-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'liberare' (to free)?",
        "choices": [
@@ -8171,7 +7625,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "liberare, to free, gives English liberate (and liberty); library comes from liber meaning book, while lever and labor are different roots.",
        "src": "Most",
-       "id": "lat-7-2-e7"
+       "id": "lat-7-2-e6"
       },
       {
        "type": "order",
@@ -8190,7 +7644,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Catilina dicitur multos interfecisse, using the perfect active infinitive interfecisse, to have killed.",
        "src": "Most",
-       "id": "lat-7-2-e8"
+       "id": "lat-7-2-e7"
       },
       {
        "type": "order",
@@ -8211,7 +7665,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives A quo accipient milites pecuniam?, using the interrogative ablative quo with the preposition a.",
        "src": "Most",
-       "id": "lat-7-2-e9"
+       "id": "lat-7-2-e8"
       }
      ],
      "id": "lat-7-2",
@@ -8355,19 +7809,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: profanare, mysterium, honor, adoptare, familia, causa, iudicium.",
-       "rubric": [
-        "Gives at least three real English derivations",
-        "Each English word is genuinely related to its Latin source",
-        "No invented or unrelated words"
-       ],
-       "model": "profanare gives profane and profanity; mysterium gives mystery and mysterious; honor gives honorable and honorary; adoptare gives adopt and adoption; familia gives family and familiar; causa gives cause and causal; iudicium gives judicial, judiciary, and judgment.",
-       "why": "These are real, traceable derivations from the lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-7-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'plebeius'?",
        "choices": [
@@ -8379,7 +7820,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Plebeian descends directly from Latin plebeius; the others are unrelated.",
        "src": "Most",
-       "id": "lat-7-3-e7"
+       "id": "lat-7-3-e6"
       },
       {
        "type": "order",
@@ -8400,7 +7841,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Cicero dicit se Catilinam monere for this English-to-Latin sentence (an objective-with-infinitive).",
        "src": "Most",
-       "id": "lat-7-3-e8"
+       "id": "lat-7-3-e7"
       },
       {
        "type": "order",
@@ -8421,7 +7862,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Catilina dicit se vidisse Curium, using the perfect infinitive vidisse in indirect statement.",
        "src": "Most",
-       "id": "lat-7-3-e9"
+       "id": "lat-7-3-e8"
       }
      ],
      "id": "lat-7-3",
@@ -8544,19 +7985,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: exsilium, gubernator, dolor, aggredior, certus.",
-       "rubric": [
-        "Links exsilium to exile (and shows the meaning go into exile)",
-        "Links gubernator to governor or gubernatorial",
-        "Gives at least one more real derivation, for example dolor to dolorous, aggredior to aggression or aggressive, certus to certain or certitude"
-       ],
-       "model": "exsilium gives English exile; gubernator gives governor and gubernatorial; dolor gives dolorous and the name Dolores; aggredior (aggressus) gives aggression and aggressive; certus gives certain and certitude.",
-       "why": "These are real derivations from this lesson's vocabulary, reinforcing the Latin roots through familiar English words.",
-       "src": "Most",
-       "id": "lat-7-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gubernator'?",
        "choices": [
@@ -8568,7 +7996,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gubernator (governor) gives English gubernatorial; governor itself descends from it through French.",
        "src": "Most",
-       "id": "lat-7-4-e7"
+       "id": "lat-7-4-e6"
       },
       {
        "type": "order",
@@ -8585,7 +8013,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives In carcerem ibunt for the first English-to-Latin sentence, using the future ibunt of ire.",
        "src": "Most",
-       "id": "lat-7-4-e8"
+       "id": "lat-7-4-e7"
       },
       {
        "type": "order",
@@ -8606,7 +8034,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives Difficile est in exsilium ire for the third English-to-Latin sentence, with the infinitive ire.",
        "src": "Most",
-       "id": "lat-7-4-e9"
+       "id": "lat-7-4-e8"
       }
      ],
      "id": "lat-7-4",
@@ -8731,19 +8159,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: licentia, avunculus, vates, civilis (bellum civile), consul, monitio.",
-       "rubric": [
-        "Give at least three real English derivations, one Latin word each",
-        "Each English word genuinely traces to its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "licentia -> license, licentious; civilis -> civil, civilian, civic; consul -> consular, consulate; monitio -> monition, admonition, monitor; vates -> vatic (prophetic, oracular); avunculus -> avuncular (uncle-like).",
-       "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-7-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'licentia'?",
        "choices": [
@@ -8755,7 +8170,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'license' derives from Latin licentia (permission, freedom). The others are unrelated.",
        "src": "Most",
-       "id": "lat-7-5-e7"
+       "id": "lat-7-5-e6"
       },
       {
        "type": "mc",
@@ -8769,7 +8184,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Avuncular' (uncle-like) derives directly from avunculus.",
        "src": "Most",
-       "id": "lat-7-5-e8"
+       "id": "lat-7-5-e7"
       },
       {
        "type": "order",
@@ -8788,7 +8203,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Ut videret Caesarem venit' for sentence 1 of the English-to-Latin block, a purpose clause with ut and the imperfect subjunctive.",
        "src": "Most",
-       "id": "lat-7-5-e9"
+       "id": "lat-7-5-e8"
       },
       {
        "type": "order",
@@ -8813,7 +8228,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Avunculus Caesaris eum misit ut Ciceronem inveniret' for sentence 4 of the English-to-Latin block.",
        "src": "Most",
-       "id": "lat-7-5-e10"
+       "id": "lat-7-5-e9"
       }
      ],
      "id": "lat-7-5",
@@ -8928,19 +8343,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-7-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: similis, permittere, nomen, brevis, milites, classis, mori.",
-       "rubric": [
-        "Gives at least three real English derivatives drawn from these Latin words",
-        "Each pairing is a genuine derivation, not invented",
-        "Answer is written clearly with no dashes used as punctuation"
-       ],
-       "model": "similis gives similar, simile, assimilate; permittere gives permit, permission, permissive; nomen gives nominal, nominate, nomenclature; brevis gives brief, brevity, abbreviate; milites (miles) gives military, militia, militant; classis gives class, classic, classify; mori (mors) gives mortal, mortality, mortuary.",
-       "why": "All are real derivations from this lesson's vocabulary, reinforcing the Latin roots through English cognates.",
-       "src": "Most",
-       "id": "lat-7-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'permittere' (permit)?",
        "choices": [
@@ -8952,7 +8354,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Permittere (permit) gives permission and permissive; the other choices come from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-7-6-e7"
+       "id": "lat-7-6-e6"
       },
       {
        "type": "order",
@@ -8973,7 +8375,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Milites misit ut Ciceroni loquerentur, with the imperfect subjunctive loquerentur in the purpose clause.",
        "src": "Most",
-       "id": "lat-7-6-e8"
+       "id": "lat-7-6-e7"
       },
       {
        "type": "order",
@@ -9002,7 +8404,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Propter odium Antoni, Augustus milites misit ut Ciceronem interficerent, with the purpose clause ut ... interficerent.",
        "src": "Most",
-       "id": "lat-7-6-e9"
+       "id": "lat-7-6-e8"
       }
      ],
      "id": "lat-7-6",
@@ -9127,19 +8529,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: pellere/pepulit, reddere, pulcher, classis, privare, pontifex.",
-       "rubric": [
-        "Gives at least three real derivations, each tied to its Latin word",
-        "Each English word genuinely descends from or clearly resembles the Latin",
-        "No invented or unrelated cognates"
-       ],
-       "model": "pellere/pepulit (drive, rout) -> compel, expel, repel, pulse; reddere (give back) -> render, rendition; pulcher (beautiful) -> pulchritude; classis (fleet) -> class, classic, classify; privare (deprive) -> private, deprive, privation; pontifex (priest) -> pontiff, pontifical.",
-       "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-8-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'pinguis' (fat)?",
        "choices": [
@@ -9151,7 +8540,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Pinguid means fatty or greasy and derives from Latin pinguis, fat.",
        "src": "Most",
-       "id": "lat-8-1-e7"
+       "id": "lat-8-1-e6"
       },
       {
        "type": "mc",
@@ -9165,7 +8554,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Private (and deprive, privation) descend from Latin privare/privatus.",
        "src": "Most",
-       "id": "lat-8-1-e8"
+       "id": "lat-8-1-e7"
       },
       {
        "type": "order",
@@ -9196,7 +8585,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Cum Cicero auxilium Augusto dedisset, Augustus Ciceroni auxilium non dedit.",
        "src": "Most",
-       "id": "lat-8-1-e9"
+       "id": "lat-8-1-e8"
       },
       {
        "type": "order",
@@ -9223,7 +8612,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives: Cum se victum esse vidisset, Antonius seipsum interfecit.",
        "src": "Most",
-       "id": "lat-8-1-e10"
+       "id": "lat-8-1-e9"
       }
      ],
      "id": "lat-8-1",
@@ -9376,20 +8765,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: lux, opus, docere, separavit, spiritus, tenebrae, creatio.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source",
-        "Each pairing is a true derivation, not a guess",
-        "No invented or unrelated cognates",
-        "Answer is dash-free and readable"
-       ],
-       "model": "lux gives lucid, lucent, and translucent (light); opus gives opera and operate (work); docere gives doctor, docile, and document (teach); separavit gives separate and separation; spiritus gives spirit, spiritual, and inspire; tenebrae gives tenebrous and tenebrism (both about darkness); creatio gives creation and creature.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-8-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'lux, luce' (light)?",
        "choices": [
@@ -9401,7 +8776,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Lucid derives from lux/lucere (light); the others are unrelated.",
        "src": "Most",
-       "id": "lat-8-2-e7"
+       "id": "lat-8-2-e6"
       },
       {
        "type": "mc",
@@ -9415,7 +8790,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Doctrine derives from docere/doctus (teach); the others are unrelated.",
        "src": "Most",
-       "id": "lat-8-2-e8"
+       "id": "lat-8-2-e7"
       },
       {
        "type": "order",
@@ -9442,7 +8817,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Vetus Testamentum docet mundum a Deo creatum esse.",
        "src": "Most",
-       "id": "lat-8-2-e9"
+       "id": "lat-8-2-e8"
       },
       {
        "type": "order",
@@ -9467,7 +8842,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Cum omnia fecisset, septimo die Deus requievit.",
        "src": "Most",
-       "id": "lat-8-2-e10"
+       "id": "lat-8-2-e9"
       }
      ],
      "id": "lat-8-2",
@@ -9572,20 +8947,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-3-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: libertas, virtus, miles, bellum, fortis, periculum.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source",
-        "Each pairing is a true derivation, not a guess",
-        "No invented or unrelated cognates",
-        "Answer is dash-free and readable"
-       ],
-       "model": "libertas gives liberty and liberate; virtus gives virtue and virtuous; miles gives military and militia; bellum gives belligerent and bellicose; fortis gives fortitude and fortify; periculum gives peril and perilous.",
-       "why": "These are genuine derivations from words in this story.",
-       "src": "Most",
-       "id": "lat-8-3-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'libertas' (freedom)?",
        "choices": [
@@ -9597,7 +8958,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Liberty derives from libertas (freedom); library/librarian come from liber (book).",
        "src": "Most",
-       "id": "lat-8-3-e6"
+       "id": "lat-8-3-e5"
       },
       {
        "type": "mc",
@@ -9611,7 +8972,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Military and militia derive from miles, militis (soldier); the others are unrelated.",
        "src": "Most",
-       "id": "lat-8-3-e7"
+       "id": "lat-8-3-e6"
       },
       {
        "type": "order",
@@ -9640,7 +9001,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Non erat necesse ut multi Romani et Albani interficerentur.",
        "src": "Most",
-       "id": "lat-8-3-e8"
+       "id": "lat-8-3-e7"
       },
       {
        "type": "order",
@@ -9663,7 +9024,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Cum solus esset, Romanus non timebat.",
        "src": "Most",
-       "id": "lat-8-3-e9"
+       "id": "lat-8-3-e8"
       }
      ],
      "id": "lat-8-3",
@@ -9824,19 +9185,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: luna, sol, signum, lingua, piscis, imago, herba.",
-       "rubric": [
-        "Gives at least three real English derivatives",
-        "Pairs each English word with the correct Latin source",
-        "Avoids invented or false cognates"
-       ],
-       "model": "luna gives lunar and lunatic; sol gives solar and solstice; signum gives sign, signal, and signature; lingua gives language, linguistic, and bilingual; piscis gives Pisces and piscine; imago gives image and imagine; herba gives herb and herbal.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-8-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'lingua'?",
        "choices": [
@@ -9848,7 +9196,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "lingua (tongue, language) gives English language and linguistic.",
        "src": "Most",
-       "id": "lat-8-4-e7"
+       "id": "lat-8-4-e6"
       },
       {
        "type": "mc",
@@ -9862,7 +9210,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "piscis (fish) gives Pisces and piscine.",
        "src": "Most",
-       "id": "lat-8-4-e8"
+       "id": "lat-8-4-e7"
       },
       {
        "type": "order",
@@ -9891,7 +9239,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Catilina tam malus erat ut Cicero eum non amaret, a result clause with tam ... ut.",
        "src": "Most",
-       "id": "lat-8-4-e9"
+       "id": "lat-8-4-e8"
       },
       {
        "type": "order",
@@ -9914,7 +9262,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Deus terrae imperavit ut herbas proferret, a purpose-style command with ut.",
        "src": "Most",
-       "id": "lat-8-4-e10"
+       "id": "lat-8-4-e9"
       }
      ],
      "id": "lat-8-4",
@@ -10034,19 +9382,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: serpens, diabolus, interrogare, credere, sentire, vox.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each derivative truly comes from or clearly resembles its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "serpens gives serpent and serpentine; diabolus gives diabolical and diabolic; interrogare gives interrogate and interrogation; credere gives credible, credit, and creed; sentire gives sentient, sense, and sentiment; vox gives vocal, vociferous, and voice.",
-       "why": "These are genuine derivations from the Lectio's vocabulary; the cognate hunt reinforces the new words.",
-       "src": "Most",
-       "id": "lat-8-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'credere' (to believe)?",
        "choices": [
@@ -10058,7 +9393,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Credible' derives from credere, 'to believe'; the others are unrelated.",
        "src": "Most",
-       "id": "lat-8-5-e7"
+       "id": "lat-8-5-e6"
       },
       {
        "type": "mc",
@@ -10072,7 +9407,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Interrogate' derives directly from interrogare, 'to question.'",
        "src": "Most",
-       "id": "lat-8-5-e8"
+       "id": "lat-8-5-e7"
       },
       {
        "type": "order",
@@ -10091,7 +9426,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Deo obediant ne moriantur' for English-to-Latin sentence 1.",
        "src": "Most",
-       "id": "lat-8-5-e9"
+       "id": "lat-8-5-e8"
       },
       {
        "type": "order",
@@ -10108,7 +9443,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Numquam diabolo credant' for English-to-Latin sentence 5.",
        "src": "Most",
-       "id": "lat-8-5-e10"
+       "id": "lat-8-5-e9"
       }
      ],
      "id": "lat-8-5",
@@ -10251,19 +9586,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: fallere, offerre, mater, pastor, agricola, virgo, omnipotens.",
-       "rubric": [
-        "Gives at least three real English derivatives, one for distinct Latin words",
-        "Each English word genuinely traces to its Latin source, no invented links",
-        "Answer uses commas, no dashes"
-       ],
-       "model": "fallere (deceive) gives fallacy, false, and fail; offerre (offer) gives offertory and oblation (from the participle oblatus); mater (mother) gives maternal, maternity, and matron; pastor (herdsman) gives pastoral and pasture; agricola (farmer) gives agriculture and agricultural; virgo (virgin) gives virgin and virginal; omnipotens (all-powerful) gives omnipotence and potent.",
-       "why": "These are genuine derivations from this lesson's vocabulary, useful for fixing the Latin in memory.",
-       "src": "Most",
-       "id": "lat-8-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'agricola'?",
        "choices": [
@@ -10275,7 +9597,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Agricola (farmer) is the root of agriculture; the other words come from different Latin roots.",
        "src": "Most",
-       "id": "lat-8-6-e7"
+       "id": "lat-8-6-e6"
       },
       {
        "type": "mc",
@@ -10289,7 +9611,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Mater (mother) gives maternal; manual comes from manus, marine from mare, and mineral from minera.",
        "src": "Most",
-       "id": "lat-8-6-e8"
+       "id": "lat-8-6-e7"
       },
       {
        "type": "order",
@@ -10314,7 +9636,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives sentence 3: Diabolus tam bene loquitur ut ei credamus.",
        "src": "Most",
-       "id": "lat-8-6-e9"
+       "id": "lat-8-6-e8"
       },
       {
        "type": "order",
@@ -10337,7 +9659,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives sentence 7: Cum Abel pastor esset, agnos obtulit.",
        "src": "Most",
-       "id": "lat-8-6-e10"
+       "id": "lat-8-6-e9"
       }
      ],
      "id": "lat-8-6",
@@ -10480,19 +9802,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-8-7-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: diluvium, imber, spiritus, corpus, genus, mens.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word",
-        "Connections are genuine, not invented (no made-up cognates)",
-        "Answer is written clearly without dashes used as punctuation"
-       ],
-       "model": "diluvium gives diluvial and antediluvian; spiritus gives spirit, spiritual, and inspire; corpus gives corporal, corpse, corporation, and corps; genus gives generic, gender, and genre; mens gives mental and mention (a calling to mind).",
-       "why": "These are real derivations from this Lectio's vocabulary, showing how Latin roots survive in English.",
-       "src": "Most",
-       "id": "lat-8-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'corpus, corpore' (body)?",
        "choices": [
@@ -10504,7 +9813,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Corporal (and corpse, corps, corporation) derives from corpus, the Latin word for body.",
        "src": "Most",
-       "id": "lat-8-7-e7"
+       "id": "lat-8-7-e6"
       },
       {
        "type": "mc",
@@ -10518,7 +9827,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Spirit (and inspire, respiration) derives from spiritus, the Latin word for breath.",
        "src": "Most",
-       "id": "lat-8-7-e8"
+       "id": "lat-8-7-e7"
       },
       {
        "type": "order",
@@ -10535,7 +9844,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: In arcam veniamus. Veniamus is a hortatory subjunctive, let us come.",
        "src": "Most",
-       "id": "lat-8-7-e9"
+       "id": "lat-8-7-e8"
       },
       {
        "type": "order",
@@ -10558,7 +9867,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Faciamus navem Noe et filiis eius. Faciamus is a hortatory subjunctive, let us make.",
        "src": "Most",
-       "id": "lat-8-7-e10"
+       "id": "lat-8-7-e9"
       }
      ],
      "id": "lat-8-7",
@@ -10738,19 +10047,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: ventus, fenestra, corvus, oliva, territus, altus, ascendit, recordatus.",
-       "rubric": [
-        "Gives at least three real English derivatives or close relatives drawn from these words",
-        "Each English word is genuinely linked to its Latin source, not invented",
-        "Briefly names the Latin word beside each English derivative"
-       ],
-       "model": "ventus relates to ventilate and ventilation (a wind or current of air); fenestra gives fenestration and the architectural term defenestration (a window); oliva gives olive and oil; territus relates to terrify, terror, and terrible; altus gives altitude, altimeter, and exalt; ascendit gives ascend and ascent; recordatus relates to record and recorder (and Spanish recordar, to remember); corvus relates to corvine, meaning crow-like.",
-       "why": "These are real, attested derivations from this lesson's vocabulary; the cognate hunt fixes the words by linking them to English.",
-       "src": "Most",
-       "id": "lat-9-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'altus' (high, deep)?",
        "choices": [
@@ -10762,7 +10058,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Altitude derives from altus, high or deep; the others are unrelated.",
        "src": "Most",
-       "id": "lat-9-1-e7"
+       "id": "lat-9-1-e6"
       },
       {
        "type": "mc",
@@ -10776,7 +10072,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Terror comes from terrere, to terrify; terrace and territory come from terra (land), and terrier likewise from terra.",
        "src": "Most",
-       "id": "lat-9-1-e8"
+       "id": "lat-9-1-e7"
       },
       {
        "type": "order",
@@ -10801,7 +10097,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Noe, Deus tibi imperat ut arcam facias for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-9-1-e9"
+       "id": "lat-9-1-e8"
       },
       {
        "type": "order",
@@ -10822,7 +10118,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Te mittit ut aquam feras for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-9-1-e10"
+       "id": "lat-9-1-e9"
       }
      ],
      "id": "lat-9-1",
@@ -10941,19 +10237,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: civitas, turris, mutare, confidere, dominus, altare.",
-       "rubric": [
-        "Gives at least three real English derivatives",
-        "Each derivative truly traces to its Latin word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "civitas gives city, civic, citizen; turris gives turret, tower; mutare gives mutate, mutation, mutable; confidere gives confide, confidence; dominus gives dominate, dominion, domain; altare gives altar.",
-       "why": "These derivations are genuine and reinforce the vocabulary.",
-       "src": "Most",
-       "id": "lat-9-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'civitas'?",
        "choices": [
@@ -10965,7 +10248,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "civitas (city, citizenship) gives the English 'citizen.'",
        "src": "Most",
-       "id": "lat-9-2-e7"
+       "id": "lat-9-2-e6"
       },
       {
        "type": "mc",
@@ -10979,7 +10262,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "mutare (change) gives the English 'mutate.'",
        "src": "Most",
-       "id": "lat-9-2-e8"
+       "id": "lat-9-2-e7"
       },
       {
        "type": "order",
@@ -10996,7 +10279,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 2 as 'In arcam venimus.'",
        "src": "Most",
-       "id": "lat-9-2-e9"
+       "id": "lat-9-2-e8"
       },
       {
        "type": "order",
@@ -11017,7 +10300,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 1 as 'Quid fecistis cum diluvium veniret.'",
        "src": "Most",
-       "id": "lat-9-2-e10"
+       "id": "lat-9-2-e9"
       }
      ],
      "id": "lat-9-2",
@@ -11148,19 +10431,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: habitare, luna, finire, maiores, polytheista, utilis.",
-       "rubric": [
-        "Gives at least three real derivations, one per Latin word",
-        "Links each English word to the correct Latin source word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "habitare gives habitat, habitation, inhabit; luna gives lunar, lunatic; finire gives finish, final, finite; maiores (maior) gives major, majority; polytheista gives polytheist, polytheism; utilis gives utility, useful, utilize.",
-       "why": "These are genuine derivations from the lesson's vocabulary words.",
-       "src": "Most",
-       "id": "lat-9-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'luna'?",
        "choices": [
@@ -11172,7 +10442,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "luna (moon) gives English 'lunar'.",
        "src": "Most",
-       "id": "lat-9-3-e7"
+       "id": "lat-9-3-e6"
       },
       {
        "type": "mc",
@@ -11186,7 +10456,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "habitare (to dwell, inhabit) gives English 'inhabit'; the others do not derive from it.",
        "src": "Most",
-       "id": "lat-9-3-e8"
+       "id": "lat-9-3-e7"
       },
       {
        "type": "order",
@@ -11207,7 +10477,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Nuntium mitto ut veritatem sciam.'",
        "src": "Most",
-       "id": "lat-9-3-e9"
+       "id": "lat-9-3-e8"
       },
       {
        "type": "order",
@@ -11240,7 +10510,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Maiores nostri multos deos habuerunt, sed nos unum verum Deum habemus.'",
        "src": "Most",
-       "id": "lat-9-3-e10"
+       "id": "lat-9-3-e9"
       }
      ],
      "id": "lat-9-3",
@@ -11382,19 +10652,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: polytheista, stella, dives, benedicere, fames, apparere.",
-       "rubric": [
-        "Gives a real English derivative or look-alike for at least four of the words",
-        "Pairs each English word with the correct Latin source",
-        "Does not invent false cognates"
-       ],
-       "model": "polytheista -> polytheist, polytheism; stella -> stellar, constellation; benedicere -> benediction, benedict (a newly wed man); fames -> famine, famish; apparere -> appear, apparition.",
-       "why": "These Latin words survive in everyday English vocabulary; tracing them makes the new words easier to remember.",
-       "src": "Most",
-       "id": "lat-9-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'stella' (star)?",
        "choices": [
@@ -11406,7 +10663,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Stellar' and 'constellation' come from stella, star; the others only sound similar.",
        "src": "Most",
-       "id": "lat-9-4-e7"
+       "id": "lat-9-4-e6"
       },
       {
        "type": "mc",
@@ -11420,7 +10677,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Benediction' (a blessing) comes from benedicere, to speak well of, to bless.",
        "src": "Most",
-       "id": "lat-9-4-e8"
+       "id": "lat-9-4-e7"
       },
       {
        "type": "order",
@@ -11449,7 +10706,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: 'Ex hac terra discedimus quia fames in ea est.'",
        "src": "Most",
-       "id": "lat-9-4-e9"
+       "id": "lat-9-4-e8"
       },
       {
        "type": "order",
@@ -11478,7 +10735,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: 'Altare in hoc loco aedificavi quia Deus mihi apparuit.'",
        "src": "Most",
-       "id": "lat-9-4-e10"
+       "id": "lat-9-4-e9"
       }
      ],
      "id": "lat-9-4",
@@ -11615,19 +10872,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: sacerdos, gens, perseverare, salvare, vinum.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed Latin words",
-        "Links each English word to the correct Latin source",
-        "Avoids invented or false cognates"
-       ],
-       "model": "sacerdos -> sacerdotal, sacerdotalism; gens -> gentile, genteel; perseverare -> persevere, perseverance; salvare -> salvage, salvation, save; vinum -> vine, vinegar, vintner.",
-       "why": "These derivations are genuine, drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-9-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vinum'?",
        "choices": [
@@ -11639,7 +10883,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "vinum (wine) gives English vintner (and vine, vinegar); the others are unrelated.",
        "src": "Most",
-       "id": "lat-9-5-e7"
+       "id": "lat-9-5-e6"
       },
       {
        "type": "mc",
@@ -11653,7 +10897,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "salvare (save) gives English salvation and salvage; the others derive from different roots.",
        "src": "Most",
-       "id": "lat-9-5-e8"
+       "id": "lat-9-5-e7"
       },
       {
        "type": "order",
@@ -11674,7 +10918,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Abraham, illi urbi non parcam for the first English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-9-5-e9"
+       "id": "lat-9-5-e8"
       },
       {
        "type": "order",
@@ -11695,7 +10939,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Propter Abraham, Deus Hebraeis parcet for the fifth English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-9-5-e10"
+       "id": "lat-9-5-e9"
       }
      ],
      "id": "lat-9-5",
@@ -11852,19 +11096,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-9-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: destruere, conversus, voluntas, iuvenis, ignem, peccata.",
-       "rubric": [
-        "Gives at least three real English derivatives drawn from these Latin words",
-        "Pairs each English word with the correct Latin source word",
-        "Avoids invented or false cognates"
-       ],
-       "model": "destruere gives destroy, destruction, and destructive. conversus gives convert, conversion, and converse. voluntas gives voluntary, volunteer, and volition. iuvenis gives juvenile and rejuvenate. ignem (ignis) gives ignite, ignition, and igneous. peccata (peccatum) gives peccadillo and impeccable.",
-       "why": "These are genuine derivations from this Lectio's vocabulary and story words.",
-       "src": "Most",
-       "id": "lat-9-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ignem' (ignis, fire)?",
        "choices": [
@@ -11876,7 +11107,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ignite and ignition derive from Latin ignis (fire), the ignem God sent on Sodom; the others are unrelated.",
        "src": "Most",
-       "id": "lat-9-6-e7"
+       "id": "lat-9-6-e6"
       },
       {
        "type": "mc",
@@ -11890,7 +11121,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Saline derives from Latin sal (salt), into which Lot's wife was turned; salient is from salire (to leap), salute from salus, and salmon from salmo.",
        "src": "Most",
-       "id": "lat-9-6-e8"
+       "id": "lat-9-6-e7"
       },
       {
        "type": "order",
@@ -11907,7 +11138,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Ciceronem audire nolumus, using the present of nolle (nolumus, we are unwilling) drilled in this Lectio.",
        "src": "Most",
-       "id": "lat-9-6-e9"
+       "id": "lat-9-6-e8"
       },
       {
        "type": "order",
@@ -11930,7 +11161,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Surgamus et eamus celeriter ne pereamus, combining surgere with the subjunctive eamus from ire.",
        "src": "Most",
-       "id": "lat-9-6-e10"
+       "id": "lat-9-6-e9"
       }
      ],
      "id": "lat-9-6",
@@ -12174,19 +11405,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: gens, tangere, benedicere, monstrare, aries.",
-       "rubric": [
-        "Links at least three Latin words to real English derivatives",
-        "Derivations are accurate, not invented",
-        "Answer is dash-free and readable"
-       ],
-       "model": "gens (gentem) gives gentile, gentry; tangere/tactus gives tangent, tangible, contact, tact; benedicere gives benediction, benedictine; monstrare gives demonstrate, monster (a portent or warning sign), remonstrate.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-10-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'monstrare' (show)?",
        "choices": [
@@ -12198,7 +11416,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Demonstrate derives from monstrare (to show); the others only sound similar.",
        "src": "Most",
-       "id": "lat-10-1-e7"
+       "id": "lat-10-1-e6"
       },
       {
        "type": "mc",
@@ -12212,7 +11430,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Tangible derives from tangere (to touch); the others are unrelated.",
        "src": "Most",
-       "id": "lat-10-1-e8"
+       "id": "lat-10-1-e7"
       },
       {
        "type": "order",
@@ -12231,7 +11449,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this as Eamus ut Abraham inveniamus.",
        "src": "Most",
-       "id": "lat-10-1-e9"
+       "id": "lat-10-1-e8"
       },
       {
        "type": "order",
@@ -12252,7 +11470,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this as Misit me ut veritatem discam.",
        "src": "Most",
-       "id": "lat-10-1-e10"
+       "id": "lat-10-1-e9"
       }
      ],
      "id": "lat-10-1",
@@ -12393,19 +11611,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: colere, gens, voluntas, mulier, camelus, parentes, providere.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin source word.",
-        "Derivations are genuine, not invented look-alikes.",
-        "No em dashes or en dashes; uses commas or arrows."
-       ],
-       "model": "colere -> cultivate, culture, cult; gens -> gentile, genteel, gentry; voluntas -> voluntary, volunteer, volition; mulier -> muliebrity (womanliness); parentes -> parent, parental, parentage; providere -> provide, providence, provident.",
-       "why": "Each derivation traces a real path from the Latin headword to a modern English word, reinforcing this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-10-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'voluntas' (will)?",
        "choices": [
@@ -12417,7 +11622,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'voluntary' derives from voluntas (will); the others come from unrelated roots (volvere, volvere, valere).",
        "src": "Most",
-       "id": "lat-10-2-e7"
+       "id": "lat-10-2-e6"
       },
       {
        "type": "mc",
@@ -12431,7 +11636,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'cultivate' (and culture) come from colere, cultus; collar (collum), coral (Greek korallion), and coal (Old English col) are unrelated.",
        "src": "Most",
-       "id": "lat-10-2-e8"
+       "id": "lat-10-2-e7"
       },
       {
        "type": "order",
@@ -12458,7 +11663,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Melius est videre Caesarem quam videre quinque porcos' for the first English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-10-2-e9"
+       "id": "lat-10-2-e8"
       },
       {
        "type": "order",
@@ -12483,7 +11688,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key gives 'Servus sum Abrahae, qui vir bonus est' for the fourth English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-10-2-e10"
+       "id": "lat-10-2-e9"
       }
      ],
      "id": "lat-10-2",
@@ -12614,19 +11819,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: campus, dormire, numerare, frater, scala, renovare.",
-       "rubric": [
-        "Gives a real English derivative for at least four of the words",
-        "Each pairing links the Latin word to a genuinely related English word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "campus gives camp and campaign; dormire gives dormitory and dormant; numerare gives numerate, number, and enumerate; frater gives fraternal, fraternity, and friar; scala gives scale and escalator; renovare gives renovate and renew.",
-       "why": "These are real derivations that help fix the Lectio's vocabulary through familiar English words.",
-       "src": "Most",
-       "id": "lat-10-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'dormire' (to sleep)?",
        "choices": [
@@ -12638,7 +11830,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Dormire (to sleep) gives dormitory, a place for sleeping; the others are unrelated.",
        "src": "Most",
-       "id": "lat-10-3-e7"
+       "id": "lat-10-3-e6"
       },
       {
        "type": "mc",
@@ -12652,7 +11844,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Foedus, foederis (pact, covenant) gives federal and federation, words about a binding pact.",
        "src": "Most",
-       "id": "lat-10-3-e8"
+       "id": "lat-10-3-e7"
       },
       {
        "type": "order",
@@ -12677,7 +11869,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Haec verba locutus sum quia odi eum for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-10-3-e9"
+       "id": "lat-10-3-e8"
       },
       {
        "type": "order",
@@ -12700,7 +11892,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Interrogat num id facere conatus sis, using the perfect deponent conatus sis.",
        "src": "Most",
-       "id": "lat-10-3-e10"
+       "id": "lat-10-3-e9"
       }
      ],
      "id": "lat-10-3",
@@ -12831,19 +12023,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: adorare, somnium, occidere, pecus, prosperus, manipulus.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the words",
-        "Links each English word to the correct Latin source word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "adorare -> adore, adoration; somnium -> somnambulist, insomnia, somnolent; occidere -> homicide, occision (the -cide root, to cut down or kill); pecus -> pecuniary, peculiar (Latin money rooted in cattle wealth); prosperus -> prosper, prosperous, prosperity; manipulus -> manipulate, maniple.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-10-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'adorare'?",
        "choices": [
@@ -12855,7 +12034,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Adoration derives from adorare, to reverence or adore.",
        "src": "Most",
-       "id": "lat-10-4-e7"
+       "id": "lat-10-4-e6"
       },
       {
        "type": "order",
@@ -12876,7 +12055,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Loquamur ne in carcerem ponamur, using the present passive subjunctive ponamur.",
        "src": "Most",
-       "id": "lat-10-4-e8"
+       "id": "lat-10-4-e7"
       },
       {
        "type": "order",
@@ -12903,7 +12082,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Vos tam boni eratis ut ab omnibus amaremini, showing the imperfect passive subjunctive amaremini.",
        "src": "Most",
-       "id": "lat-10-4-e9"
+       "id": "lat-10-4-e8"
       }
      ],
      "id": "lat-10-4",
@@ -13032,19 +12211,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-5-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: sanguis, vendere, fundere, trahere, verbum, fera.",
-       "rubric": [
-        "Give at least three real English derivatives",
-        "Pair each English word with its Latin source",
-        "Use no dashes in your answer, only commas"
-       ],
-       "model": "sanguis gives sanguine and sanguinary, vendere gives vendor and vend, fundere gives fusion and infuse, trahere gives traction and tractor, verbum gives verbal and verb, fera gives feral and fierce.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-10-5-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'trahere, traxit, tractus' (draw, drag)?",
        "choices": [
@@ -13056,7 +12222,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Traction derives from the Latin stem tract- (drawn, dragged); the others are unrelated.",
        "src": "Most",
-       "id": "lat-10-5-e6"
+       "id": "lat-10-5-e5"
       }
      ],
      "id": "lat-10-5",
@@ -13180,19 +12346,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-6-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: flumen, anima, lingua, deorum, terra, imperare.",
-       "rubric": [
-        "Give at least three real English derivatives",
-        "Pair each English word with its Latin source",
-        "Use commas, not dashes"
-       ],
-       "model": "flumen gives flume and fluvial, anima gives animate and animal, lingua gives lingual and language, deorum (deus) gives deity and divine, terra gives terrain and territory, imperare gives imperative and emperor.",
-       "why": "These are genuine derivations from words in this lesson.",
-       "src": "Most",
-       "id": "lat-10-6-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'flumen, flumine' (river)?",
        "choices": [
@@ -13204,7 +12357,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Flume (and fluvial) derive from Latin flumen / fluvius, a river.",
        "src": "Most",
-       "id": "lat-10-6-e6"
+       "id": "lat-10-6-e5"
       }
      ],
      "id": "lat-10-6",
@@ -13311,19 +12464,6 @@ window.COURSE_DATA.courses.push({
        "why": "verbum = word; the parrot spoke verba profana (profane words).",
        "src": "Most",
        "id": "lat-10-7-e3"
-      },
-      {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: navigaverat, profana, causam, domum, vox, breve.",
-       "rubric": [
-        "Give at least three real English derivatives",
-        "Pair each English word with its Latin source",
-        "Use commas, not dashes"
-       ],
-       "model": "navigaverat (navigare) gives navigate and navy, profana gives profane and profanity, causam gives cause and because, domum (domus) gives domestic and domicile, vox gives vocal and voice, breve gives brief and abbreviate.",
-       "why": "These are genuine derivations from words in this story.",
-       "src": "Most",
-       "id": "lat-10-7-e4"
       }
      ],
      "id": "lat-10-7",
@@ -13472,19 +12612,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-10-8-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: administrare, crimen, gratia, conspectus, pistor, uva.",
-       "rubric": [
-        "Give at least four real English derivatives drawn from these words",
-        "Pair each English word with the Latin word it comes from",
-        "Do not invent cognates that are not genuinely related"
-       ],
-       "model": "administrare gives administer and administration; crimen gives crime and criminal; gratia gives grace, gratitude, and gratuity; conspectus gives conspicuous; uva gives uvula (little grape).",
-       "why": "These are genuine derivations that help fix the vocabulary through English.",
-       "src": "Most",
-       "id": "lat-10-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'crimen, crimine'?",
        "choices": [
@@ -13496,7 +12623,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Crimen (charge, crime) is the source of criminal and crime.",
        "src": "Most",
-       "id": "lat-10-8-e7"
+       "id": "lat-10-8-e6"
       },
       {
        "type": "mc",
@@ -13510,7 +12637,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gratia (favor, grace, gratitude) gives gratitude (and grace).",
        "src": "Most",
-       "id": "lat-10-8-e8"
+       "id": "lat-10-8-e7"
       },
       {
        "type": "order",
@@ -13533,7 +12660,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Iosephe, emptus es a viris Aegypti for this English-to-Latin sentence.",
        "src": "Most",
-       "id": "lat-10-8-e9"
+       "id": "lat-10-8-e8"
       },
       {
        "type": "order",
@@ -13558,7 +12685,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives In hunc locum missus sum crimine falso, using the ablative crimine falso without a preposition.",
        "src": "Most",
-       "id": "lat-10-8-e10"
+       "id": "lat-10-8-e9"
       }
      ],
      "id": "lat-10-8",
@@ -13728,19 +12855,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: suspendere, crux, plenus, bos, farina, alienus.",
-       "rubric": [
-        "Gives a real derivative for at least four of the six words",
-        "Pairs each English word with the correct Latin source",
-        "Does not invent a cognate that has no real link"
-       ],
-       "model": "suspendere gives suspend, suspension, suspense; crux/cruce gives crucify, crucifix, crucial; plenus gives plenty, plenary, plenitude; bos/bove gives bovine, bovid; farina gives farinaceous, farinose (mealy); alienus gives alien, alienate.",
-       "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-11-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'plenus' (full)?",
        "choices": [
@@ -13752,7 +12866,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Plenty and plenary descend from plenus (full); the other choices are unrelated.",
        "src": "Most",
-       "id": "lat-11-1-e7"
+       "id": "lat-11-1-e6"
       },
       {
        "type": "mc",
@@ -13766,7 +12880,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Bovine (pertaining to cattle) comes from bos, bovis; the others are unrelated.",
        "src": "Most",
-       "id": "lat-11-1-e8"
+       "id": "lat-11-1-e7"
       },
       {
        "type": "order",
@@ -13785,7 +12899,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives In terram novam ducor; ducor is the new first-person passive (I am being led).",
        "src": "Most",
-       "id": "lat-11-1-e9"
+       "id": "lat-11-1-e8"
       },
       {
        "type": "order",
@@ -13800,7 +12914,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Aegyptiis venderis; venderis is the second-person passive (you are being sold).",
        "src": "Most",
-       "id": "lat-11-1-e10"
+       "id": "lat-11-1-e9"
       }
      ],
      "id": "lat-11-1",
@@ -13993,19 +13107,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-2-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: sapientia, plenus, inopia, perdere, tradere, providere, praeficere.",
-       "rubric": [
-        "Gives at least three real derivations with the Latin source",
-        "Each English word genuinely descends from or resembles the Latin word",
-        "No invented or false cognates"
-       ],
-       "model": "sapientia (wisdom) -> sapient, sapience; plenus (full) -> plenty, plenary, plenitude; perdere (destroy) -> perdition (utter ruin); tradere (hand over) -> tradition, traitor, betray; providere (provide) -> providence, provision, provident; praeficere (put in charge) -> prefect, prefecture.",
-       "why": "These are genuine Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-11-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'sapientia' (wisdom)?",
        "choices": [
@@ -14017,7 +13118,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Sapient (wise) derives from Latin sapiens/sapientia; the others are unrelated.",
        "src": "Most",
-       "id": "lat-11-2-e7"
+       "id": "lat-11-2-e6"
       },
       {
        "type": "mc",
@@ -14031,7 +13132,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Tradition descends from Latin traditio/tradere, a handing over; the others are unrelated.",
        "src": "Most",
-       "id": "lat-11-2-e8"
+       "id": "lat-11-2-e7"
       },
       {
        "type": "order",
@@ -14048,7 +13149,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'A Iosepho servabimur' for sentence 1 of the English-to-Latin block.",
        "src": "Most",
-       "id": "lat-11-2-e9"
+       "id": "lat-11-2-e8"
       },
       {
        "type": "order",
@@ -14069,7 +13170,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Non morabor, sed celeriter proficiscar' for sentence 6 of the English-to-Latin block.",
        "src": "Most",
-       "id": "lat-11-2-e10"
+       "id": "lat-11-2-e9"
       }
      ],
      "id": "lat-11-2",
@@ -14214,19 +13315,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: vertere, salvator, currus, constituere, circumire, os.",
-       "rubric": [
-        "Gives at least three real English derivations, one per Latin word",
-        "Each English word genuinely traces to its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "vertere (turn, change) -> convert, version, reverse; salvator (savior) -> salvation, salvage; currus (chariot) -> curricle (a light chariot), curriculum (a running, course); constituere (set up) -> constitute, constitution; circumire (go around) -> circuit, circumference; os/oris (mouth) -> oral, orifice.",
-       "why": "These are real derivations from the lesson's vocabulary, showing how the Latin roots survive in English.",
-       "src": "Most",
-       "id": "lat-11-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vertere' (turn, change)?",
        "choices": [
@@ -14238,7 +13326,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vertere, versus (turn, change) gives English convert, version, reverse.",
        "src": "Most",
-       "id": "lat-11-3-e7"
+       "id": "lat-11-3-e6"
       },
       {
        "type": "mc",
@@ -14252,7 +13340,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Salvator (savior) is the source of English salvation and salvage.",
        "src": "Most",
-       "id": "lat-11-3-e8"
+       "id": "lat-11-3-e7"
       },
       {
        "type": "order",
@@ -14275,7 +13363,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Frumentum in horrea posuit ut servaremur.",
        "src": "Most",
-       "id": "lat-11-3-e9"
+       "id": "lat-11-3-e8"
       },
       {
        "type": "order",
@@ -14298,7 +13386,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Scimus cur in carcerem positus sis.",
        "src": "Most",
-       "id": "lat-11-3-e10"
+       "id": "lat-11-3-e9"
       }
      ],
      "id": "lat-11-3",
@@ -14441,19 +13529,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: explorator, interpres, peccare, flere, suspicari, frumentum, pacificus, saccus.",
-       "rubric": [
-        "Gives at least three real English derivatives or look-alikes",
-        "Each English word is matched to the correct Latin source word",
-        "No invented cognates; uses commas, no dashes"
-       ],
-       "model": "explorator gives explore, explorer, exploration; interpres gives interpret, interpreter, interpretation; peccare gives peccadillo (a small fault), impeccable; suspicari gives suspect, suspicion, suspicious; pacificus gives pacific, pacify, pacifist; saccus gives sack, sachet, satchel; flere gives feeble (via flebilis, lamentable); frumentum gives frumentaceous (of grain).",
-       "why": "These are genuine derivations students can verify across the lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-11-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'explorator' (spy, scout)?",
        "choices": [
@@ -14465,7 +13540,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Explorator is built on explorare, from which English 'explore' and 'explorer' derive.",
        "src": "Most",
-       "id": "lat-11-4-e7"
+       "id": "lat-11-4-e6"
       },
       {
        "type": "mc",
@@ -14479,7 +13554,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Interpres / interpretem gives English 'interpret' and 'interpreter.'",
        "src": "Most",
-       "id": "lat-11-4-e8"
+       "id": "lat-11-4-e7"
       }
      ],
      "id": "lat-11-4",
@@ -14816,19 +13891,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: salus, metus, donum, manere, dolere, continere, dispensator.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each derivation matches a genuine Latin root, not a made-up link",
-        "No em dashes or en dashes in the answer"
-       ],
-       "model": "salus -> salutary, salutation; metus -> meticulous; donum -> donate, donation, donor; manere -> permanent, remain, mansion; dolere -> dolorous, doleful, condolence; continere -> contain, continent; dispensator -> dispense, dispenser, dispensary.",
-       "why": "These derivations trace to the real Latin roots: salus (health/safety), metus (fear), donum (gift), manere (remain), dolere (grieve), continere (hold together), dispensare (weigh out).",
-       "src": "Most",
-       "id": "lat-11-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'donum' (gift)?",
        "choices": [
@@ -14840,7 +13902,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Donum (gift) gives English 'donate', 'donation', 'donor'; the others have different roots.",
        "src": "Most",
-       "id": "lat-11-6-e7"
+       "id": "lat-11-6-e6"
       },
       {
        "type": "mc",
@@ -14854,7 +13916,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Continere (to hold together, restrain) gives English 'contain' and 'continent'; Joseph 'non potuit se continere', could not restrain himself.",
        "src": "Most",
-       "id": "lat-11-6-e8"
+       "id": "lat-11-6-e7"
       },
       {
        "type": "order",
@@ -14871,7 +13933,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Multa sunt facienda'; facienda is the future passive participle expressing obligation (things to be done).",
        "src": "Most",
-       "id": "lat-11-6-e9"
+       "id": "lat-11-6-e8"
       },
       {
        "type": "order",
@@ -14894,7 +13956,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Aegyptii putabant religionem Aton delendam esse'; delendam esse is the future passive participle (to be destroyed) in indirect statement.",
        "src": "Most",
-       "id": "lat-11-6-e10"
+       "id": "lat-11-6-e9"
       }
      ],
      "id": "lat-11-6",
@@ -15031,19 +14093,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-11-7-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: scyphus, argenteus, auctoritas, consequi, portare, cena.",
-       "rubric": [
-        "Gives at least three real derivations, one per Latin word.",
-        "Each English word genuinely traces to its Latin source, no invented links.",
-        "Answer uses commas, no dashes."
-       ],
-       "model": "argenteus -> argent, Argentina (silver); auctoritas -> authority, authoritative; consequi -> consequence, consecutive, consequent; portare -> portable, transport, porter; cena -> cenacle (dining room); scyphus -> scyphate (cup-shaped), scyphozoan (cup-bodied jellyfish).",
-       "why": "Trains students to spot the Latin roots living in everyday English.",
-       "src": "Most",
-       "id": "lat-11-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'auctoritas' (authority)?",
        "choices": [
@@ -15055,7 +14104,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "auctoritas gives English 'authority'.",
        "src": "Most",
-       "id": "lat-11-7-e7"
+       "id": "lat-11-7-e6"
       },
       {
        "type": "mc",
@@ -15069,7 +14118,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "portare (carry) gives English 'portable', something that can be carried.",
        "src": "Most",
-       "id": "lat-11-7-e8"
+       "id": "lat-11-7-e7"
       },
       {
        "type": "order",
@@ -15096,7 +14145,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders the third English-to-Latin sentence as 'Multos annos, Iosephus multa bona pro Aegypto fecerat.'",
        "src": "Most",
-       "id": "lat-11-7-e9"
+       "id": "lat-11-7-e8"
       },
       {
        "type": "order",
@@ -15121,7 +14170,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders the seventh English-to-Latin sentence as 'Exercitus regis Aegypti in mari deletus est.'",
        "src": "Most",
-       "id": "lat-11-7-e10"
+       "id": "lat-11-7-e9"
       }
      ],
      "id": "lat-11-7",
@@ -15247,19 +14296,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-1-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: regere, oculus, valere, durus, alere, terror.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each English word genuinely traces to its Latin source, no invented links",
-        "No em dashes or en dashes in the answer"
-       ],
-       "model": "regere (rule) gives regent, regime, and rector; oculus (eye) gives ocular, oculist, and binocular; valere (be well) gives valid, value, and convalesce; durus (hard) gives durable, duration, and endure; alere (nourish) gives aliment and alimony; terror gives terrify and terrible.",
-       "why": "Most's vocabulary here yields many transparent English cognates rooted in the Latin stems.",
-       "src": "Most",
-       "id": "lat-12-1-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'oculus' (eye)?",
        "choices": [
@@ -15271,7 +14307,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ocular derives directly from oculus, eye; the others come from other Latin roots.",
        "src": "Most",
-       "id": "lat-12-1-e6"
+       "id": "lat-12-1-e5"
       },
       {
        "type": "mc",
@@ -15285,7 +14321,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Regiment traces to regere, to rule/direct, through its participle rectus; religion comes from religare, legible from legere, and relegate from legare.",
        "src": "Most",
-       "id": "lat-12-1-e7"
+       "id": "lat-12-1-e6"
       }
      ],
      "id": "lat-12-1",
@@ -15599,19 +14635,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: copia, gravis, currere, liberi, optimus, tribuere, dominari.",
-       "rubric": [
-        "Gives at least three real derivations, each tied to its Latin source word",
-        "Derivations are genuine, not invented look-alikes",
-        "Answer uses commas, no dashes"
-       ],
-       "model": "copia gives copious and copy; gravis gives grave, gravity, and aggravate; currere gives current, currency, and concur; liberi gives liberal and liberty; optimus gives optimum and optimist; tribuere gives tribute, attribute, and contribute; dominari gives dominate, dominion, and domain.",
-       "why": "These are all standard, real English derivations of the lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-12-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gravis' (heavy)?",
        "choices": [
@@ -15623,7 +14646,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gravity descends from gravis (heavy); the others are unrelated.",
        "src": "Most",
-       "id": "lat-12-3-e7"
+       "id": "lat-12-3-e6"
       },
       {
        "type": "mc",
@@ -15637,7 +14660,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Current derives from currere (to run), as in a running stream.",
        "src": "Most",
-       "id": "lat-12-3-e8"
+       "id": "lat-12-3-e7"
       },
       {
        "type": "order",
@@ -15662,7 +14685,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Iosephus in Aegyptum missus est saluti fratribus.",
        "src": "Most",
-       "id": "lat-12-3-e9"
+       "id": "lat-12-3-e8"
       },
       {
        "type": "order",
@@ -15681,7 +14704,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Amor regendi multos delevit.",
        "src": "Most",
-       "id": "lat-12-3-e10"
+       "id": "lat-12-3-e9"
       }
      ],
      "id": "lat-12-3",
@@ -15806,19 +14829,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-4-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: somnia, miraculum, sacrificare, interrogare, palatium, gentem.",
-       "rubric": [
-        "Gives at least three real derivations, each tied to its Latin source word",
-        "No invented or false cognates",
-        "Answer uses commas, no dashes"
-       ],
-       "model": "somnia gives somnolent and insomnia; miraculum gives miracle and miraculous; sacrificare gives sacrifice and sacrificial; interrogare gives interrogate and interrogation; palatium gives palace and palatial; gentem gives gentile, genteel, and gentle.",
-       "why": "These are genuine English derivations of words appearing in the story.",
-       "src": "Most",
-       "id": "lat-12-4-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'miraculum' (miracle, wonder)?",
        "choices": [
@@ -15830,7 +14840,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Miraculous descends directly from miraculum.",
        "src": "Most",
-       "id": "lat-12-4-e6"
+       "id": "lat-12-4-e5"
       },
       {
        "type": "mc",
@@ -15844,7 +14854,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Interrogate derives from interrogare, to question.",
        "src": "Most",
-       "id": "lat-12-4-e7"
+       "id": "lat-12-4-e6"
       }
      ],
      "id": "lat-12-4",
@@ -16000,19 +15010,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-5-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: prophetia, Deus, populum, gentes, terram, mortem, facies.",
-       "rubric": [
-        "Gives at least four real English derivatives, one per Latin word",
-        "Pairs each English word with the correct Latin source",
-        "Avoids invented or false cognates"
-       ],
-       "model": "prophetia gives prophecy and prophet; Deus gives deity, deify, and divine; populum gives population, popular, and people; gentes gives gentile and gentle; terram gives terrain, territory, and terrestrial; mortem gives mortal, mortuary, and mortality; facies gives face, facial, and facade.",
-       "why": "These are genuine derivations from this lesson's Latin words, reinforcing vocabulary through English cognates.",
-       "src": "Most",
-       "id": "lat-12-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'facies' (face)?",
        "choices": [
@@ -16024,7 +15021,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Facial derives directly from facies (face); the others come from facere or factio.",
        "src": "Most",
-       "id": "lat-12-5-e7"
+       "id": "lat-12-5-e6"
       },
       {
        "type": "mc",
@@ -16038,7 +15035,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Sepulcher (a burial place) derives from the same root as sepelire, to bury.",
        "src": "Most",
-       "id": "lat-12-5-e8"
+       "id": "lat-12-5-e7"
       },
       {
        "type": "order",
@@ -16055,7 +15052,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this English-to-Latin sentence as Prophetiam audituri sumus, using the future active participle audituri with sumus.",
        "src": "Most",
-       "id": "lat-12-5-e9"
+       "id": "lat-12-5-e8"
       },
       {
        "type": "order",
@@ -16072,7 +15069,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this English-to-Latin sentence as Septuaginta dies fleverunt.",
        "src": "Most",
-       "id": "lat-12-5-e10"
+       "id": "lat-12-5-e9"
       }
      ],
      "id": "lat-12-5",
@@ -16215,19 +15212,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: exercere, supplicium, mos, prope, senex, malitia, visitare.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source",
-        "Derivations are genuine, not invented look-alikes",
-        "No em dashes or en dashes are used"
-       ],
-       "model": "exercere -> exercise; supplicium -> supplicant, supplication; mos (moris) -> moral, morale; prope -> propinquity; senex -> senile, senior, senate; malitia -> malice, malicious; visitare -> visit, visitation.",
-       "why": "These are real, traceable derivations from this Lectio's vocabulary.",
-       "src": "Most",
-       "id": "lat-12-6-e6"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'Iacob said that Christ would come.'",
        "tokens": [
@@ -16246,7 +15230,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key for this Lectio gives 'Iacob dixit Christum venturum esse.'",
        "src": "Most",
-       "id": "lat-12-6-e7"
+       "id": "lat-12-6-e6"
       }
      ],
      "id": "lat-12-6",
@@ -16366,19 +15350,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-7-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: flumen, habitare, irrigare, nomen, antiqua, fabula.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source",
-        "Derivations are genuine, not invented look-alikes",
-        "No em dashes or en dashes are used"
-       ],
-       "model": "flumen -> flume, fluvial; habitare -> habitable, habitation, inhabit; irrigare -> irrigate, irrigation; nomen (nominis) -> nominal, nominate, name; antiqua -> antique, antiquity; fabula -> fable, fabulous.",
-       "why": "These are real, traceable derivations from words in this reading.",
-       "src": "Most",
-       "id": "lat-12-7-e6"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'The love of ruling is a danger to many men.'",
        "tokens": [
@@ -16399,7 +15370,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key for this Lectio gives 'Amor regendi periculo est multis hominibus.'",
        "src": "Most",
-       "id": "lat-12-7-e7"
+       "id": "lat-12-7-e6"
       }
      ],
      "id": "lat-12-7",
@@ -16561,19 +15532,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-8-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: animadvertere, contemnere, opprimere, affligere, spectare, mirari, ripa.",
-       "rubric": [
-        "Give at least three real English derivatives, not invented ones",
-        "Pair each English word with the Latin word it comes from",
-        "Keep each derivation short and dash free"
-       ],
-       "model": "animadvertere gives animadversion; contemnere gives contempt and contemptible; opprimere gives oppress and oppression; affligere gives afflict and affliction; spectare gives spectator, spectacle, and inspect; mirari gives admire, miracle, and marvel; ripa gives riparian.",
-       "why": "These derivations are real: each English word descends from the listed Latin stem, helping anchor the vocabulary.",
-       "src": "Most",
-       "id": "lat-12-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'spectare' (look at)?",
        "choices": [
@@ -16585,7 +15543,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Spectacle (and spectator, inspect) derives from spectare, to look at.",
        "src": "Most",
-       "id": "lat-12-8-e7"
+       "id": "lat-12-8-e6"
       },
       {
        "type": "mc",
@@ -16599,7 +15557,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Oppress and oppression descend from opprimere, to crush.",
        "src": "Most",
-       "id": "lat-12-8-e8"
+       "id": "lat-12-8-e7"
       },
       {
        "type": "order",
@@ -16626,7 +15584,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Iudaei crescebant et facti sunt maiores numero Aegyptiis. Aegyptiis is an ablative of comparison (greater than the Egyptians).",
        "src": "Most",
-       "id": "lat-12-8-e9"
+       "id": "lat-12-8-e8"
       },
       {
        "type": "order",
@@ -16647,7 +15605,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Auctoritas regis non est contemnenda. The passive periphrastic contemnenda means is not to be scorned.",
        "src": "Most",
-       "id": "lat-12-8-e10"
+       "id": "lat-12-8-e9"
       }
      ],
      "id": "lat-12-8",
@@ -16801,19 +15759,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-9-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: monstrum, terribilis, furiosior, mulier, contemnere, durissimus.",
-       "rubric": [
-        "Give at least three real English derivatives, not invented ones",
-        "Pair each English word with the Latin word it comes from",
-        "Keep each derivation short and dash free"
-       ],
-       "model": "monstrum gives monster and monstrous; terribilis gives terrible and terror; furiosior gives furious and fury; mulier gives muliebrity (womanliness); contemnere gives contempt and contemptible; durissimus gives durable, duration, and endure.",
-       "why": "These derivations are real: each English word descends from the listed Latin word, reinforcing the comparative and superlative vocabulary.",
-       "src": "Most",
-       "id": "lat-12-9-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'monstrum' (monster)?",
        "choices": [
@@ -16825,7 +15770,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Monster (and monstrous) descend from Latin monstrum.",
        "src": "Most",
-       "id": "lat-12-9-e6"
+       "id": "lat-12-9-e5"
       },
       {
        "type": "order",
@@ -16844,7 +15789,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Gilgamesh ferocior Humbaba est. Humbaba is an ablative of comparison (fiercer than Humbaba).",
        "src": "Most",
-       "id": "lat-12-9-e7"
+       "id": "lat-12-9-e6"
       },
       {
        "type": "order",
@@ -16869,7 +15814,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Eratne ille rex ferocissimus in hoc mundo? ferocissimus is the superlative, fiercest.",
        "src": "Most",
-       "id": "lat-12-9-e8"
+       "id": "lat-12-9-e7"
       }
      ],
      "id": "lat-12-9",
@@ -17079,19 +16024,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-12-11-e3"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: mortem, immortalitatem, spem (spes), vita, magistrum, salvi (salvus).",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each derivative is plausibly traced to its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "mortem (death) gives mortal, mortality, and mortuary; immortalitatem gives immortality and immortal; spes (hope) gives despair and desperate (from de-sperare, to lose hope); vita (life) gives vital, vitality, and vitamin; magistrum (master) gives magistrate and master; salvus (saved) gives salvation, save, and salvage.",
-       "why": "These are genuine derivations from the lesson's Latin words, reinforcing the vocabulary through English cognates.",
-       "src": "Most",
-       "id": "lat-12-11-e4"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'somnus' (sleep)?",
        "choices": [
@@ -17103,7 +16035,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "A somnambulist is a sleepwalker, from Latin somnus (sleep) plus ambulare (to walk).",
        "src": "Most",
-       "id": "lat-12-11-e5"
+       "id": "lat-12-11-e4"
       },
       {
        "type": "order",
@@ -17122,7 +16054,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 1 of the English-to-Latin block as Erantne multa cornua Humbabae?, using the fourth-declension neuter plural cornua (horns).",
        "src": "Most",
-       "id": "lat-12-11-e6"
+       "id": "lat-12-11-e5"
       },
       {
        "type": "order",
@@ -17147,7 +16079,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 4 as In genibus suis rogavit Utanapistim vitam aeternam, using genibus, the fourth-declension neuter plural of genu (knee).",
        "src": "Most",
-       "id": "lat-12-11-e7"
+       "id": "lat-12-11-e6"
       }
      ],
      "id": "lat-12-11",
@@ -17328,19 +16260,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: pastor, dolor, facies, ardere, fluere, integer, immolare.",
-       "rubric": [
-        "Gives at least four real English derivatives, one per Latin word",
-        "Pairs each English word with the correct Latin source",
-        "Avoids made-up or coincidental look-alikes"
-       ],
-       "model": "pastor gives pastoral and pasture; dolor gives dolorous and doleful; facies gives face and facial; ardere gives ardent and ardor; fluere gives fluent, fluid, and flux; integer gives integral and integrity; immolare gives immolate and immolation.",
-       "why": "These are genuine Latin-to-English derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'integer' (fresh, untouched)?",
        "choices": [
@@ -17352,7 +16271,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Integral derives from Latin integer, untouched or whole; the others have different roots.",
        "src": "Most",
-       "id": "lat-13-1-e7"
+       "id": "lat-13-1-e6"
       },
       {
        "type": "mc",
@@ -17366,7 +16285,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Dolorous comes from Latin dolor, grief or pain.",
        "src": "Most",
-       "id": "lat-13-1-e8"
+       "id": "lat-13-1-e7"
       }
      ],
      "id": "lat-13-1",
@@ -17467,19 +16386,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-2-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: mortem, serpens, magico, donum, revertitur, oculos.",
-       "rubric": [
-        "Gives at least three real English derivatives with their Latin source",
-        "Pairs each English word with the correct Latin word",
-        "Avoids invented or coincidental look-alikes"
-       ],
-       "model": "mortem gives mortal, mortality, and mortuary; serpens gives serpent and serpentine; magico gives magic and magician; donum gives donate and donation; revertitur gives revert and reversion; oculos gives ocular and oculist.",
-       "why": "These are genuine Latin-to-English derivations from this story's words.",
-       "src": "Most",
-       "id": "lat-13-2-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'mortem' (death)?",
        "choices": [
@@ -17491,7 +16397,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Mortal derives from Latin mors, mortem, death.",
        "src": "Most",
-       "id": "lat-13-2-e6"
+       "id": "lat-13-2-e5"
       },
       {
        "type": "order",
@@ -17514,7 +16420,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives In mare iit ad herbam quaerendam, with the gerundive of purpose ad herbam quaerendam, to seek the plant.",
        "src": "Most",
-       "id": "lat-13-2-e7"
+       "id": "lat-13-2-e6"
       },
       {
        "type": "order",
@@ -17539,7 +16445,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Si eam non custodit, serpens eam capiet, a real condition with the indicative.",
        "src": "Most",
-       "id": "lat-13-2-e8"
+       "id": "lat-13-2-e7"
       }
      ],
      "id": "lat-13-2",
@@ -17686,19 +16592,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: intellegere, incolumis, vulnus, congregare, persuadere, cauda.",
-       "rubric": [
-        "Gives at least three real derivations, one per Latin word",
-        "Each English word is genuinely related, not just a lookalike",
-        "No invented or false cognates"
-       ],
-       "model": "intellegere gives intelligent and intellect; vulnus (wound) gives vulnerable; congregare (gather) gives congregate and congregation; persuadere gives persuade and persuasion; cauda (tail) gives caudal; incolumis has no clear English derivative, so it is better skipped.",
-       "why": "These are real worked derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-3-e6"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'Aaron came to meet him in the desert.'",
        "tokens": [
@@ -17719,7 +16612,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Aaron obviam venit ei in deserto for sentence 3 of the English to Latin block.",
        "src": "Most",
-       "id": "lat-13-3-e7"
+       "id": "lat-13-3-e6"
       }
      ],
      "id": "lat-13-3",
@@ -17834,19 +16727,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-4-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: proicere, diluvium, sacrificium, mortis, immortalitatem, deus.",
-       "rubric": [
-        "Gives at least three real derivations, one per Latin word",
-        "Each English word is genuinely related, not just a lookalike",
-        "No invented or false cognates"
-       ],
-       "model": "proicere gives project and projectile; diluvium (flood) gives diluvial and antediluvian; sacrificium gives sacrifice and sacrificial; mortis (death) gives mortal and mortality; immortalitatem gives immortal and immortality; deus (god) gives deity and deify.",
-       "why": "These are real worked derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-4-e6"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'The gods held a council and sent a flood to destroy the human race.'",
        "tokens": [
@@ -17875,7 +16755,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Dii concilium habuerunt et diluvium miserunt ad genus humanum delendum for sentence 1.",
        "src": "Most",
-       "id": "lat-13-4-e7"
+       "id": "lat-13-4-e6"
       },
       {
        "type": "order",
@@ -17900,7 +16780,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Dii sicut muscae descenderunt ad sacrificium capiendum for sentence 6.",
        "src": "Most",
-       "id": "lat-13-4-e8"
+       "id": "lat-13-4-e7"
       }
      ],
      "id": "lat-13-4",
@@ -18142,19 +17022,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-6-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: prohibere, devorare, plaga, cor, magus, sustinere, percussit.",
-       "rubric": [
-        "Gives at least three real English derivatives, not invented ones",
-        "Each English word is paired with the correct Latin source word",
-        "Avoids false matches and keeps answers dash-free"
-       ],
-       "model": "prohibere gives prohibit and prohibition. devorare gives devour and voracious. plaga gives plague. cor gives cordial, courage, and core. magus gives magic and magician. sustinere gives sustain and sustenance. percussit (from percutere) gives percussion and percussive.",
-       "why": "These are genuine derivations from this Lectio's vocabulary, reinforcing the link between Latin roots and English.",
-       "src": "Most",
-       "id": "lat-13-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from the Latin 'cor, cordis' (heart)?",
        "choices": [
@@ -18166,7 +17033,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Cordial derives from cor, cordis (heart); the others are unrelated.",
        "src": "Most",
-       "id": "lat-13-6-e7"
+       "id": "lat-13-6-e6"
       },
       {
        "type": "mc",
@@ -18180,7 +17047,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Magic and magician derive from magus; the others are unrelated.",
        "src": "Most",
-       "id": "lat-13-6-e8"
+       "id": "lat-13-6-e7"
       },
       {
        "type": "order",
@@ -18207,7 +17074,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Si Ea non monuisset eum, Utanapistim mortuus esset. A past ideal condition with pluperfect subjunctive in the si clause.",
        "src": "Most",
-       "id": "lat-13-6-e9"
+       "id": "lat-13-6-e8"
       },
       {
        "type": "order",
@@ -18232,7 +17099,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Pharao cederet si veritatem de Deo sciret. A present ideal condition with imperfect subjunctive.",
        "src": "Most",
-       "id": "lat-13-6-e10"
+       "id": "lat-13-6-e9"
       }
      ],
      "id": "lat-13-6",
@@ -18380,19 +17247,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-7-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: digitus, cor, musca, pulvis, indurare, orare.",
-       "rubric": [
-        "Gives at least three real English derivatives",
-        "Links each English word to the correct Latin source",
-        "Avoids invented or false cognates"
-       ],
-       "model": "digitus gives digit and digital; cor gives cordial and core; musca gives mosquito (a little fly) and musket (via Italian mosca); pulvis gives pulverize and powder; indurare gives endure and durable; orare gives orator and oration.",
-       "why": "Real derivations help fix the vocabulary through familiar English relatives.",
-       "src": "Most",
-       "id": "lat-13-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'digitus' (finger)?",
        "choices": [
@@ -18404,7 +17258,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Digital descends from digitus, finger, which also gives digit.",
        "src": "Most",
-       "id": "lat-13-7-e7"
+       "id": "lat-13-7-e6"
       },
       {
        "type": "mc",
@@ -18418,7 +17272,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Orator (and oration) derive from orare, to plead or pray.",
        "src": "Most",
-       "id": "lat-13-7-e8"
+       "id": "lat-13-7-e7"
       },
       {
        "type": "order",
@@ -18439,7 +17293,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Navibus delendis, Romani Carthaginem vicerunt, using the gerundive of means.",
        "src": "Most",
-       "id": "lat-13-7-e9"
+       "id": "lat-13-7-e8"
       },
       {
        "type": "order",
@@ -18464,7 +17318,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Dii de omnibus hominibus delendis locuti sunt, the gerundive after de.",
        "src": "Most",
-       "id": "lat-13-7-e10"
+       "id": "lat-13-7-e9"
       }
      ],
      "id": "lat-13-7",
@@ -18601,19 +17455,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-8-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: rex, populus, terra, magnus, potestas.",
-       "rubric": [
-        "Gives at least three real English derivatives",
-        "Connects each English word to its Latin source",
-        "Uses no invented cognates"
-       ],
-       "model": "rex (regis) gives regal, regent, and rector; populus gives popular, population, and populace; terra gives terrain, territory, and terrestrial; magnus gives magnify, magnitude, and magnate; potestas gives potent and potential.",
-       "why": "Tracing real derivatives reinforces these high-frequency words.",
-       "src": "Most",
-       "id": "lat-13-8-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'populus' (people)?",
        "choices": [
@@ -18625,7 +17466,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Popular and population descend from populus, people.",
        "src": "Most",
-       "id": "lat-13-8-e6"
+       "id": "lat-13-8-e5"
       }
      ],
      "id": "lat-13-8",
@@ -18761,19 +17602,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-9-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: impedire, retinere, possidere, statuere, cor, ulcera, spargere.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each English word genuinely descends from or resembles its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "impedire gives impede and impediment; retinere gives retain and retention; possidere gives possess and possession; statuere gives statute and constitute; cor (cordis) gives cordial and concord; ulcera gives ulcer and ulcerate; spargere gives sparse and disperse.",
-       "why": "These are real Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'possidere' (possess)?",
        "choices": [
@@ -18785,7 +17613,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Possession derives from Latin possidere/possessus; the others come from different roots.",
        "src": "Most",
-       "id": "lat-13-9-e7"
+       "id": "lat-13-9-e6"
       },
       {
        "type": "mc",
@@ -18799,7 +17627,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Cordial derives from Latin cor, cordis (heart), as in heartfelt; the others are unrelated.",
        "src": "Most",
-       "id": "lat-13-9-e8"
+       "id": "lat-13-9-e7"
       },
       {
        "type": "order",
@@ -18824,7 +17652,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Necesse erat ut Moyses plures plagas mitteret.'",
        "src": "Most",
-       "id": "lat-13-9-e9"
+       "id": "lat-13-9-e8"
       },
       {
        "type": "order",
@@ -18845,7 +17673,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Multis plagis, Hebraei Deum timuerunt,' using the ablative of cause.",
        "src": "Most",
-       "id": "lat-13-9-e10"
+       "id": "lat-13-9-e9"
       }
      ],
      "id": "lat-13-9",
@@ -18966,19 +17794,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-10-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: licet, oportet, statuere, retinere, pertinere.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word",
-        "Each English word genuinely descends from or resembles its Latin source",
-        "No invented or unrelated cognates"
-       ],
-       "model": "licet gives license and licit; statuere gives statute, statue, and constitute; retinere gives retain and retention; pertinere gives pertain and pertinent; possidere (nearby) gives possess and possession.",
-       "why": "These are real Latin-to-English derivations from this lesson's impersonal and other verbs.",
-       "src": "Most",
-       "id": "lat-13-10-e6"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'They were not permitted to go out of Egypt.'",
        "tokens": [
@@ -18999,7 +17814,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Non licebat eis ex Aegypto discedere,' using the impersonal licebat.",
        "src": "Most",
-       "id": "lat-13-10-e7"
+       "id": "lat-13-10-e6"
       },
       {
        "type": "order",
@@ -19030,7 +17845,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Pharaoni placuit eos dimittere, at deinde cor suum induravit iterum,' using the impersonal placuit with the dative.",
        "src": "Most",
-       "id": "lat-13-10-e8"
+       "id": "lat-13-10-e7"
       }
      ],
      "id": "lat-13-10",
@@ -19177,19 +17992,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-11-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: fulgur, augere, tonitruum, grando, cessare, tendere.",
-       "rubric": [
-        "Gives at least three real derivations, each tied to its Latin word",
-        "Uses commas, no dashes",
-        "Does not invent false cognates"
-       ],
-       "model": "fulgur gives fulgurate and fulgent (flashing, like lightning). augere, auxit, auctus gives augment and auction. cessare gives cease, cessation, and incessant. tendere, tetendit, tentus gives tend, extend, tension, and tent. tonitruum (thunder) has no common English derivative, so it is better skipped.",
-       "why": "Each derivation traces to a real Latin root in today's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'cessare' (cease)?",
        "choices": [
@@ -19201,7 +18003,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Incessant derives from cessare (in- + cessare, never ceasing).",
        "src": "Most",
-       "id": "lat-13-11-e7"
+       "id": "lat-13-11-e6"
       },
       {
        "type": "order",
@@ -19226,7 +18028,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Si Pharao non peccavisset, plagae non venissent.",
        "src": "Most",
-       "id": "lat-13-11-e8"
+       "id": "lat-13-11-e7"
       },
       {
        "type": "order",
@@ -19251,7 +18053,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Cum Moyses manum suam tetendisset, tonitruum cessavit.",
        "src": "Most",
-       "id": "lat-13-11-e9"
+       "id": "lat-13-11-e8"
       }
      ],
      "id": "lat-13-11",
@@ -19346,19 +18148,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-13-12-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: consiliarius, persuadere, cogere, crescere, sporta, flumen.",
-       "rubric": [
-        "Gives at least three real derivations, each tied to its Latin word",
-        "Uses commas, no dashes",
-        "Does not invent false cognates"
-       ],
-       "model": "consiliarius gives counsel and counselor. persuadere gives persuade and persuasion. cogere (with part coactus) gives cogent and coact. crescere gives crescent, increase, and crescendo. sporta gives Spanish espuerta (basket), but has no common English derivative (English sport is unrelated). flumen, flumine gives flume and fluvial.",
-       "why": "Each derivation traces to a real Latin root in this story's vocabulary.",
-       "src": "Most",
-       "id": "lat-13-12-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'crescere' (grow up)?",
        "choices": [
@@ -19370,7 +18159,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Crescent derives from crescere, growing (of the moon).",
        "src": "Most",
-       "id": "lat-13-12-e6"
+       "id": "lat-13-12-e5"
       }
      ],
      "id": "lat-13-12",
@@ -19622,19 +18411,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-14-1-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: locusta, tenebrae, ruber, levare, introire, conspectus.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin word",
-        "Uses no em or en dashes, only commas",
-        "Avoids invented or false cognates"
-       ],
-       "model": "locusta gives locust; tenebrae gives tenebrous; ruber gives rubric, ruby, and rubella; levare gives elevate, lever, and relieve; introire gives introit (the entrance chant of the Mass); conspectus gives conspicuous and conspicuity.",
-       "why": "These are genuine derivations from the Latin headwords in this Lectio's vocabulary.",
-       "src": "Most",
-       "id": "lat-14-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ruber, rubra, rubrum' (red)?",
        "choices": [
@@ -19646,7 +18422,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Rubric descends from ruber (red), because headings were once written in red ink; the others are unrelated.",
        "src": "Most",
-       "id": "lat-14-1-e7"
+       "id": "lat-14-1-e6"
       },
       {
        "type": "mc",
@@ -19660,7 +18436,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Elevate comes from levare (to raise); lethal is from letum, ladder is Germanic, and lesson is from legere, none from levare.",
        "src": "Most",
-       "id": "lat-14-1-e8"
+       "id": "lat-14-1-e7"
       }
      ],
      "id": "lat-14-1",
@@ -19984,19 +18760,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-14-3-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: murus, nubes, fluctus, servire, immutare, laudare.",
-       "rubric": [
-        "Gives at least three real English derivatives or look-alikes",
-        "Pairs each English word with the right Latin source word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "murus gives mural and immure; nubes gives nuance (a shade, by way of French nue); fluctus gives fluctuate and fluctuation; servire gives serve, servile, and servitude; immutare gives immutable and mutate; laudare gives laud, laudable, and laudatory.",
-       "why": "These are genuine derivations from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-14-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'laudare' (praise)?",
        "choices": [
@@ -20008,7 +18771,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Laudable and laud descend from Latin laudare, to praise.",
        "src": "Most",
-       "id": "lat-14-3-e7"
+       "id": "lat-14-3-e6"
       },
       {
        "type": "mc",
@@ -20022,7 +18785,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Fluctuate derives from Latin fluctus, a wave.",
        "src": "Most",
-       "id": "lat-14-3-e8"
+       "id": "lat-14-3-e7"
       },
       {
        "type": "order",
@@ -20045,7 +18808,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives \"Quomodo potiti sunt Iudaei terra sancta?\" with potiri governing the ablative terra sancta.",
        "src": "Most",
-       "id": "lat-14-3-e9"
+       "id": "lat-14-3-e8"
       },
       {
        "type": "order",
@@ -20072,7 +18835,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives \"Si Domino bene servissent, in hoc loco remansissent.\"",
        "src": "Most",
-       "id": "lat-14-3-e10"
+       "id": "lat-14-3-e9"
       }
      ],
      "id": "lat-14-3",
@@ -20250,19 +19013,6 @@ window.COURSE_DATA.courses.push({
        "why": "The reading reads \"postem\" here.",
        "src": "Most",
        "id": "lat-14-4-e6"
-      },
-      {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: primogenitus, clamor, mola, macula, iungere, vicinus.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "primogenitus -> primogeniture; clamor -> clamor, clamorous; mola -> molar; macula -> immaculate, maculate; iungere -> junction, conjoin; vicinus -> vicinity, vicinage.",
-       "why": "Spotting cognates fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-14-4-e7"
       }
      ],
      "id": "lat-14-4",
@@ -20404,19 +19154,6 @@ window.COURSE_DATA.courses.push({
        "why": "The reading reads \"altare\" here.",
        "src": "Most",
        "id": "lat-14-5-e6"
-      },
-      {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: eligere, invocare, illudere, excitare, respondere, ritus.",
-       "rubric": [
-        "Gave an English word for several of the Latin terms",
-        "The English words really do derive from or resemble the Latin",
-        "Checked the meaning, not just the spelling"
-       ],
-       "model": "eligere -> elect, eligible, election; invocare -> invoke, invocation; illudere -> illusion, illusory; excitare -> excite, excitement; respondere -> respond, response; ritus -> rite, ritual.",
-       "why": "Spotting cognates fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-14-5-e7"
       }
      ],
      "id": "lat-14-5",
@@ -20505,19 +19242,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-14-6-e4"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: holocaustum, lapides, fundere, vorare.",
-       "rubric": [
-        "Gives at least three real English derivatives or look-alikes",
-        "Pairs each English word with the right Latin source word",
-        "No invented or unrelated cognates"
-       ],
-       "model": "holocaustum gives holocaust; lapides (lapis) gives dilapidate and lapidary; fundere gives fuse, infuse, and foundry; vorare gives voracious, devour, and carnivore.",
-       "why": "These are genuine derivations from this story's vocabulary.",
-       "src": "Most",
-       "id": "lat-14-6-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vorare' (consume, devour)?",
        "choices": [
@@ -20529,7 +19253,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Voracious (and devour, carnivore) descend from Latin vorare, to devour.",
        "src": "Most",
-       "id": "lat-14-6-e6"
+       "id": "lat-14-6-e5"
       },
       {
        "type": "order",
@@ -20548,7 +19272,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives \"Dominus magnopere laudandus est,\" using the gerundive of obligation.",
        "src": "Most",
-       "id": "lat-14-6-e7"
+       "id": "lat-14-6-e6"
       }
      ],
      "id": "lat-14-6",
@@ -20708,19 +19432,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for the Latin words 'auxilium', 'vir', 'liber', 'frater', 'peccatum', and 'turris', give a real English word derived from each and explain the link.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin word.",
-        "No Latin word is paired with its own English homonym as a derivative.",
-        "Each entry gives a short, accurate sense link."
-       ],
-       "model": "auxilium gives 'auxiliary' (a helping force or verb). vir gives 'virile' (manly). liber gives 'library' (a collection of books). frater gives 'fraternal' (brotherly). peccatum gives 'peccadillo' (a small sin). turris gives 'turret' (a small tower).",
-       "why": "These English words descend from the Latin roots seen in this lesson.",
-       "src": "Most",
-       "id": "lat-15-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'frater'?",
        "choices": [
@@ -20732,7 +19443,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Fraternity' derives from frater (brother); 'freight' is Middle Dutch, 'fracture' is from frangere (break), and 'frame' is Germanic.",
        "src": "Most",
-       "id": "lat-15-1-e7"
+       "id": "lat-15-1-e6"
       },
       {
        "type": "mc",
@@ -20746,7 +19457,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Library' derives from liber (book); 'liberty' and 'liberal' come from the different word liber meaning 'free', and 'liver' is Germanic and unrelated.",
        "src": "Most",
-       "id": "lat-15-1-e8"
+       "id": "lat-15-1-e7"
       }
      ],
      "id": "lat-15-1",
@@ -20908,19 +19619,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for the Latin words 'mare', 'manus', 'cor', 'extendere', 'vox', and 'laudare', give a real English word derived from each and explain the link.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin word.",
-        "No Latin word is paired with its own English homonym as a derivative.",
-        "Each entry gives a short, accurate sense link."
-       ],
-       "model": "mare gives 'marine' (of the sea). manus gives 'manual' (done by hand). cor gives 'cordial' (heartfelt). extendere gives 'extension' (a stretching out). vox gives 'vocal' (of the voice). laudare gives 'laudable' (praiseworthy).",
-       "why": "These English words descend from the Latin roots seen in this lesson.",
-       "src": "Most",
-       "id": "lat-15-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'manus' (hand)?",
        "choices": [
@@ -20932,7 +19630,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Manuscript' (written by hand) derives from manus; 'manor' is from manere (to dwell), 'market' is from merx (merchandise), and 'mantle' is from mantellum (cloak).",
        "src": "Most",
-       "id": "lat-15-2-e7"
+       "id": "lat-15-2-e6"
       },
       {
        "type": "mc",
@@ -20946,7 +19644,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Courage' descends from cor (heart) via Old French; 'corner' is from cornu (horn), 'cork' is from cortex (bark), and 'corn' is Germanic and unrelated.",
        "src": "Most",
-       "id": "lat-15-2-e8"
+       "id": "lat-15-2-e7"
       }
      ],
      "id": "lat-15-2",
@@ -21161,19 +19859,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Find a real English derivative for each of these Latin words from the reading: aqua, cibus, mensura, mandatum, populus.",
-       "rubric": [
-        "Each English word genuinely derives from the matching Latin root",
-        "No Latin word is paired with a mere English look-alike",
-        "Derivations are spelled correctly"
-       ],
-       "model": "aqua gives aquatic and aquarium; cibus gives the rare word cibarious; mensura gives measure and commensurate; mandatum gives mandate and command; populus gives popular and populace.",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to English derivatives.",
-       "src": "Most",
-       "id": "lat-15-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'lignum' (wood)?",
        "choices": [
@@ -21185,7 +19870,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ligneous (woody) derives from lignum; lion is from leo, linen from linum, ligament from ligare.",
        "src": "Most",
-       "id": "lat-15-3-e7"
+       "id": "lat-15-3-e6"
       },
       {
        "type": "mc",
@@ -21199,7 +19884,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Punitive derives from punire; pungent and punctual come from pungere/punctum, and puny is from Old French puisne.",
        "src": "Most",
-       "id": "lat-15-3-e8"
+       "id": "lat-15-3-e7"
       }
      ],
      "id": "lat-15-3",
@@ -21401,19 +20086,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Find a real English derivative for each of these Latin words from the reading: gladius, virga, manus, collis, petra.",
-       "rubric": [
-        "Each English word genuinely derives from the matching Latin root",
-        "No distractor or look-alike is offered as a derivative",
-        "Derivations are spelled correctly"
-       ],
-       "model": "gladius gives gladiator and gladiolus; virga gives the botanical term virgate; manus gives manual and manuscript; collis gives the geographic colline; petra gives petrify and petroleum.",
-       "why": "Cognate hunt links these Latin roots to genuine English derivatives.",
-       "src": "Most",
-       "id": "lat-15-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'lapis' (stone)?",
        "choices": [
@@ -21425,7 +20097,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Lapidary (a cutter of stones) derives from lapis; lapse is from labi (to slip), lap is Old English laeppa, and label is from Old French label.",
        "src": "Most",
-       "id": "lat-15-4-e7"
+       "id": "lat-15-4-e6"
       },
       {
        "type": "mc",
@@ -21439,7 +20111,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Fluvial (of a river) derives from fluvius; flute, fluffy, and flue are unrelated.",
        "src": "Most",
-       "id": "lat-15-4-e8"
+       "id": "lat-15-4-e7"
       }
      ],
      "id": "lat-15-4",
@@ -21630,19 +20302,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Lectio words, identify which have real English derivatives and name one each: populus, sacerdotalis, custodire, aquila, sanctificare, terminus, buccina.",
-       "rubric": [
-        "Gives at least three correct English derivatives drawn from the list.",
-        "Each derivative truly descends from the Latin word given, no invented links.",
-        "Answer is written clearly without dashes."
-       ],
-       "model": "populus gives popular and populace; sanctificare gives sanctify; terminus gives terminal and terminate; custodire gives custody and custodian; aquila gives aquiline (eagle-like). (buccina has no common everyday English derivative; sacerdotalis survives only in the formal word sacerdotal.)",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
-       "src": "Most",
-       "id": "lat-15-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'populus' (people)?",
        "choices": [
@@ -21654,7 +20313,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Populus, people, is the source of popular and populace.",
        "src": "Most",
-       "id": "lat-15-5-e7"
+       "id": "lat-15-5-e6"
       },
       {
        "type": "mc",
@@ -21668,7 +20327,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Custodire, to keep or guard, yields custody and custodian.",
        "src": "Most",
-       "id": "lat-15-5-e8"
+       "id": "lat-15-5-e7"
       }
      ],
      "id": "lat-15-5",
@@ -21831,19 +20490,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Lectio words, identify which have real English derivatives and name one each: ignis, fornax, vertex, perire, radix, castra, crescere.",
-       "rubric": [
-        "Gives at least three correct English derivatives drawn from the list.",
-        "Each derivative truly descends from the Latin word given, no invented links.",
-        "Answer is written clearly without dashes."
-       ],
-       "model": "ignis gives ignite and ignition; fornax gives furnace; vertex gives vertical and vortex; radix gives radish and radical; crescere gives crescent and increase. (castra survives mainly in place names like Lancaster.)",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
-       "src": "Most",
-       "id": "lat-15-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ignis' (fire)?",
        "choices": [
@@ -21855,7 +20501,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ignis, fire, is the source of ignite and ignition.",
        "src": "Most",
-       "id": "lat-15-6-e7"
+       "id": "lat-15-6-e6"
       },
       {
        "type": "mc",
@@ -21869,7 +20515,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vertex, top or summit, is itself an English word borrowed directly from Latin vertex.",
        "src": "Most",
-       "id": "lat-15-6-e8"
+       "id": "lat-15-6-e7"
       }
      ],
      "id": "lat-15-6",
@@ -22080,19 +20726,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Lectio words, identify which have real English derivatives and name one each: similitudo, colere, sanctificare, opus, servitus, proximus, occidere.",
-       "rubric": [
-        "Gives at least three correct English derivatives drawn from the list.",
-        "Each derivative truly descends from the Latin word given, no invented links.",
-        "Answer is written clearly without dashes."
-       ],
-       "model": "similitudo gives similitude and similar; sanctificare gives sanctify; opus gives opera and operate; servitus gives servitude; proximus gives proximity and approximate; colere gives cult, culture, and cultivate. (occidere here, to kill, has no common everyday English derivative.)",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
-       "src": "Most",
-       "id": "lat-15-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'opus' (work)?",
        "choices": [
@@ -22104,7 +20737,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Opus, work, is the source of opera and operate.",
        "src": "Most",
-       "id": "lat-15-7-e7"
+       "id": "lat-15-7-e6"
       },
       {
        "type": "mc",
@@ -22118,7 +20751,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Proximus, nearest, gives proximity and approximate.",
        "src": "Most",
-       "id": "lat-15-7-e8"
+       "id": "lat-15-7-e7"
       }
      ],
      "id": "lat-15-7",
@@ -22337,19 +20970,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Lectio words, identify which have real English derivatives and name one each: aedificare, conspectus, species, digitus, aureus, sanguis, tegere.",
-       "rubric": [
-        "Gives at least three correct English derivatives drawn from the list.",
-        "Each derivative truly descends from the Latin word given, no invented links.",
-        "Answer is written clearly without dashes."
-       ],
-       "model": "aedificare gives edifice and edify; conspectus gives conspicuous (in plain sight); species gives special and especially; digitus gives digit and digital; sanguis gives sanguine; tegere gives protect (via protegere) and detect (via detegere); aureus gives aureole (a golden halo).",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to genuine English descendants.",
-       "src": "Most",
-       "id": "lat-15-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'digitus' (finger)?",
        "choices": [
@@ -22361,7 +20981,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Digitus, finger, is the source of digit and digital.",
        "src": "Most",
-       "id": "lat-15-8-e7"
+       "id": "lat-15-8-e6"
       },
       {
        "type": "mc",
@@ -22375,7 +20995,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Species, appearance or kind, gives special and species itself; speech, spike, and spire come from unrelated roots.",
        "src": "Most",
-       "id": "lat-15-8-e8"
+       "id": "lat-15-8-e7"
       }
      ],
      "id": "lat-15-8",
@@ -22667,19 +21287,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these words of the lesson, find real English words derived from the Latin: gladius, populus, altare, ignorare, fortitudo, stella.",
-       "rubric": [
-        "Lists at least three real English derivatives",
-        "Each derivative is matched to the correct Latin source word",
-        "No invented or false cognates are included"
-       ],
-       "model": "gladius gives gladiator; altare gives altar; ignorare gives ignorant and ignore; stella gives stellar and constellation; fortitudo gives fortitude; populus gives popular and populace.",
-       "why": "These Latin words have clear, real English descendants.",
-       "src": "Most",
-       "id": "lat-15-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'altare'?",
        "choices": [
@@ -22691,7 +21298,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'altar' derives directly from Latin 'altare'.",
        "src": "Most",
-       "id": "lat-15-9-e7"
+       "id": "lat-15-9-e6"
       },
       {
        "type": "mc",
@@ -22705,7 +21312,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'stellar' derives from Latin 'stella' (star).",
        "src": "Most",
-       "id": "lat-15-9-e8"
+       "id": "lat-15-9-e7"
       }
      ],
      "id": "lat-15-9",
@@ -22864,19 +21471,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these words of the lesson, find real English words derived from the Latin: punire, lapideus, claritas, invocare, ultio, praecipere.",
-       "rubric": [
-        "Lists at least three real English derivatives",
-        "Each derivative is matched to the correct Latin source word",
-        "No invented or false cognates are included"
-       ],
-       "model": "punire gives punish and punitive; lapideus gives lapidary; claritas gives clarity; invocare gives invoke and invocation; praecipere gives precept. (ultio has no common English derivative, so leave it out.)",
-       "why": "These Latin words have clear, real English descendants.",
-       "src": "Most",
-       "id": "lat-15-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'punire'?",
        "choices": [
@@ -22888,7 +21482,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'punitive' derives from Latin 'punire' (to punish).",
        "src": "Most",
-       "id": "lat-15-10-e7"
+       "id": "lat-15-10-e6"
       },
       {
        "type": "mc",
@@ -22902,7 +21496,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'invoke' derives from Latin 'invocare' (to call on).",
        "src": "Most",
-       "id": "lat-15-10-e8"
+       "id": "lat-15-10-e7"
       }
      ],
      "id": "lat-15-10",
@@ -23265,19 +21859,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-11-e5"
       },
       {
-       "type": "compose",
-       "q": "For these Latin words from the reading (populus, ignis, separare, congregatio, spiritus, substantia, incendium), name a real English word derived from each one you can.",
-       "rubric": [
-        "Gives at least three correct English derivations",
-        "Each derivation traces to the listed Latin word",
-        "No invented or false cognates"
-       ],
-       "model": "populus gives popular and populace; separare gives separate; congregatio gives congregation; spiritus gives spirit and spiritual; substantia gives substance; incendium gives incendiary; ignis gives ignite and igneous.",
-       "why": "Recognizing genuine derivations reinforces the vocabulary through familiar English words.",
-       "src": "Most",
-       "id": "lat-15-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'separare'?",
        "choices": [
@@ -23289,7 +21870,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Separare (to separate) is the direct source of English separate.",
        "src": "Most",
-       "id": "lat-15-11-e7"
+       "id": "lat-15-11-e6"
       },
       {
        "type": "mc",
@@ -23303,7 +21884,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Caro, carnis (flesh) gives English carnal.",
        "src": "Most",
-       "id": "lat-15-11-e8"
+       "id": "lat-15-11-e7"
       }
      ],
      "id": "lat-15-11",
@@ -23467,19 +22048,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-15-12-e5"
       },
       {
-       "type": "compose",
-       "q": "For these Latin words from the reading (thesaurus, dubitare, solitudo, virga, ecclesia, vestis, incredulus), name a real English word derived from each one you can.",
-       "rubric": [
-        "Gives at least three correct English derivations",
-        "Each derivation traces to the listed Latin word",
-        "No invented or false cognates"
-       ],
-       "model": "thesaurus gives treasure (via Old French tresor) and treasury; dubitare gives dubious and doubt; solitudo gives solitude; virga gives verge (a rod or staff); ecclesia gives ecclesiastical; vestis gives vestment and vest; incredulus gives incredulous.",
-       "why": "Linking these words to English derivations fixes their meanings in memory.",
-       "src": "Most",
-       "id": "lat-15-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'solitudo'?",
        "choices": [
@@ -23491,7 +22059,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Solitudo (solitude) is the direct source of English solitude.",
        "src": "Most",
-       "id": "lat-15-12-e7"
+       "id": "lat-15-12-e6"
       },
       {
        "type": "mc",
@@ -23505,7 +22073,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Ecclesia (church, assembly) gives English ecclesiastical.",
        "src": "Most",
-       "id": "lat-15-12-e8"
+       "id": "lat-15-12-e7"
       }
      ],
      "id": "lat-15-12",
@@ -23689,19 +22257,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English words derived from these Latin words: serpens (serpent), aqua (water), credit (he believes), populus (people), vita (life), aeternam (eternal).",
-       "rubric": [
-        "Gives at least three genuine English derivatives.",
-        "Each English word truly descends from the listed Latin word.",
-        "No Latin word is paired with a mere look-alike that is unrelated."
-       ],
-       "model": "serpens gives serpentine; aqua gives aquatic and aquarium; credit gives credible and creed; populus gives popular and populace; vita gives vital and vitamin; aeternam gives eternal and eternity.",
-       "why": "These Latin roots survive in common English words, showing the staying power of the vocabulary.",
-       "src": "Most",
-       "id": "lat-16-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'serpens' (serpent)?",
        "choices": [
@@ -23713,7 +22268,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Serpentine derives from Latin serpens; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-1-e7"
+       "id": "lat-16-1-e6"
       },
       {
        "type": "mc",
@@ -23727,7 +22282,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Crucial derives from Latin crux, crucis (cross); crumble is Old English, cricket is from Old French, and crystal is from Greek, none from crux.",
        "src": "Most",
-       "id": "lat-16-1-e8"
+       "id": "lat-16-1-e7"
       }
      ],
      "id": "lat-16-1",
@@ -23882,19 +22437,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English words derived from these Latin words: oculus (eye), vallis (valley), plenus (full), sapientia (wisdom), vigor (strength), facies (face).",
-       "rubric": [
-        "Gives at least three genuine English derivatives.",
-        "Each English word truly descends from the listed Latin word.",
-        "No Latin word is paired with an unrelated look-alike."
-       ],
-       "model": "oculus gives ocular and oculist; vallis gives valley; plenus gives plenty and plenary; sapientia gives sapient; vigor gives vigorous and invigorate; facies gives facial and facade.",
-       "why": "These Latin roots survive in common English vocabulary about the body, the land, and the mind.",
-       "src": "Most",
-       "id": "lat-16-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'oculus' (eye)?",
        "choices": [
@@ -23906,7 +22448,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ocular derives from Latin oculus; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-2-e7"
+       "id": "lat-16-2-e6"
       },
       {
        "type": "mc",
@@ -23920,7 +22462,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Plenty derives from Latin plenus (full); plank comes from planca, plumber from plumbum (lead), and planet from Greek planetes, none from plenus.",
        "src": "Most",
-       "id": "lat-16-2-e8"
+       "id": "lat-16-2-e7"
       }
      ],
      "id": "lat-16-2",
@@ -24058,19 +22600,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English words derived from these Latin words: salus (salvation), fidelis (faithful), dux (leader), flumen (river), terminus (boundary), transire (cross).",
-       "rubric": [
-        "Gives at least three genuine English derivatives.",
-        "Each English word truly descends from the listed Latin word.",
-        "No Latin word is paired with an unrelated look-alike."
-       ],
-       "model": "salus gives salutary and salute; fidelis gives fidelity and infidel; dux gives duke and conduct; flumen gives flume (a channeled stream); terminus gives terminal and terminate; transire gives transit and transient.",
-       "why": "These Latin roots survive in everyday English words about leadership, faith, and travel.",
-       "src": "Most",
-       "id": "lat-16-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'dux' (leader)?",
        "choices": [
@@ -24082,7 +22611,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Duke derives from Latin dux, ducis (leader); dusk is Old English, dune is from Dutch, and dual is from duo (two), none from dux.",
        "src": "Most",
-       "id": "lat-16-3-e7"
+       "id": "lat-16-3-e6"
       },
       {
        "type": "mc",
@@ -24096,7 +22625,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Terminal derives from Latin terminus (boundary, end); the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-3-e8"
+       "id": "lat-16-3-e7"
       }
      ],
      "id": "lat-16-3",
@@ -24319,19 +22848,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Latin words of the reading, name an English derivative for at least three: explorator, populus, lapis, sacerdos, exaltare, humus.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from that Latin root, not a lookalike",
-        "Spelling of the English words is correct"
-       ],
-       "model": "explorator gives explorer and exploration; populus gives popular, population, and populace; lapis gives lapidary and dilapidate (to let fall into ruin); sacerdos gives sacerdotal; exaltare gives exalt and exaltation; humus gives exhume and inhumation.",
-       "why": "These reading words have clear, real English descendants, reinforcing vocabulary through derivation.",
-       "src": "Most",
-       "id": "lat-16-4-e7"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'castra' (camp)?",
        "choices": [
@@ -24343,7 +22859,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Latin 'castra' (and 'castrum') gives 'castle' through 'castellum'; the others are unrelated.",
        "src": "Most",
-       "id": "lat-16-4-e8"
+       "id": "lat-16-4-e7"
       },
       {
        "type": "mc",
@@ -24357,7 +22873,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Latin 'lapis, lapidis' gives 'lapidary' (relating to stones); 'lapse' is from 'labi', and the others are unrelated.",
        "src": "Most",
-       "id": "lat-16-4-e9"
+       "id": "lat-16-4-e8"
       }
      ],
      "id": "lat-16-4",
@@ -24638,19 +23154,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Latin words of the reading, name an English derivative for at least three: murus, gladius, oculus, spiritus, princeps, armatus.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from that Latin root, not a lookalike",
-        "Spelling of the English words is correct"
-       ],
-       "model": "murus gives mural and immure (to wall in); gladius gives gladiator and gladiolus (a sword-leaved flower); oculus gives ocular and oculist; spiritus gives spiritual and inspire; princeps gives principal, prince, and principle; armatus gives army, armament, and armor.",
-       "why": "These reading words have clear, real English descendants, reinforcing vocabulary through derivation.",
-       "src": "Most",
-       "id": "lat-16-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'oculus' (eye)?",
        "choices": [
@@ -24662,7 +23165,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Latin 'oculus' gives 'ocular'; 'oracle' is from 'orare', 'occult' from 'occulere', and 'octave' from 'octo'.",
        "src": "Most",
-       "id": "lat-16-5-e7"
+       "id": "lat-16-5-e6"
       },
       {
        "type": "mc",
@@ -24676,7 +23179,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Latin 'gladius' gives 'gladiator'; 'glad', 'glade', and 'glide' are native English words unrelated to it.",
        "src": "Most",
-       "id": "lat-16-5-e8"
+       "id": "lat-16-5-e7"
       }
      ],
      "id": "lat-16-5",
@@ -24861,19 +23364,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: proelium, plaga, gens, mons (montibus), vallis, festinare.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the words",
-        "Each derivation is genuine, not a guess based on sound alone",
-        "No Latin word is paired with its own English homonym"
-       ],
-       "model": "plaga gives plague; gens gives gentile and genteel; mons (montibus) gives mount, mountain, and montane; vallis gives valley and vale; festinare gives festinate (to hurry). Proelium has no common English derivative, so it is best left aside.",
-       "why": "Cognate hunt: linking these Latin words to real English descendants reinforces vocabulary.",
-       "src": "Most",
-       "id": "lat-16-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gens' (people, tribe)?",
        "choices": [
@@ -24885,7 +23375,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gens, gentis (a people or clan) gives English gentile. Genius comes from gignere, while agenda and agency come from agere.",
        "src": "Most",
-       "id": "lat-16-6-e7"
+       "id": "lat-16-6-e6"
       },
       {
        "type": "mc",
@@ -24899,7 +23389,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Resistere (to resist) gives resistance. The other choices derive from residere, ex-quassare, and reservare.",
        "src": "Most",
-       "id": "lat-16-6-e8"
+       "id": "lat-16-6-e7"
       },
       {
        "type": "order",
@@ -24918,7 +23408,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "From the Scramble Exercise key: \"Ne ad Gabaon ... moveas sol.\"",
        "src": "Most",
-       "id": "lat-16-6-e9"
+       "id": "lat-16-6-e8"
       }
      ],
      "id": "lat-16-6",
@@ -25185,19 +23675,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: arbor, collum, custodire, dexter, sinister, mille, volumen.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the words",
-        "Each derivation is genuine, not based on sound alone",
-        "No Latin word is paired with its own English homonym"
-       ],
-       "model": "arbor gives arboreal and arboretum; collum gives collar; custodire gives custody and custodian; dexter gives dexterity and dexterous; sinister gives sinistral and sinistrous; mille gives mile, million, and millennium; volumen gives volume.",
-       "why": "Cognate hunt: connecting these Latin words to real English descendants reinforces vocabulary.",
-       "src": "Most",
-       "id": "lat-16-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'custodire' (to guard)?",
        "choices": [
@@ -25209,7 +23686,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Custodire / custos (guardian) gives custody and custodian. The others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-7-e7"
+       "id": "lat-16-7-e6"
       },
       {
        "type": "mc",
@@ -25223,7 +23700,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Sinister (left, and so ill-omened) was taken directly into English. Sinner, cinder, and senate come from other roots.",
        "src": "Most",
-       "id": "lat-16-7-e8"
+       "id": "lat-16-7-e7"
       },
       {
        "type": "order",
@@ -25244,7 +23721,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "From the Scramble Exercise key: \"ut inimicos nostros capere possimus.\"",
        "src": "Most",
-       "id": "lat-16-7-e9"
+       "id": "lat-16-7-e8"
       }
      ],
      "id": "lat-16-7",
@@ -25543,19 +24020,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: find real English derivatives for these Latin words from the lesson -- camelus, locusta, potestas, liberator, conspectus, gubernator.",
-       "rubric": [
-        "Gives at least three genuine English derivatives.",
-        "Each English word truly descends from the Latin word given.",
-        "No invented or false cognates are listed."
-       ],
-       "model": "camelus gives camel; locusta gives locust; potestas has no common direct English descendant (the potens/potentia family, giving potent and potential, is a sibling, not a derivative); liberator gives liberate and liberation; conspectus gives conspicuous; gubernator gives governor and gubernatorial.",
-       "why": "These are standard, real English derivations of the Latin vocabulary in this lesson.",
-       "src": "Most",
-       "id": "lat-16-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'iudex' (judge)?",
        "choices": [
@@ -25567,7 +24031,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Iudex, iudicis gives 'judicial' (and judge); the other choices are unrelated in origin.",
        "src": "Most",
-       "id": "lat-16-8-e7"
+       "id": "lat-16-8-e6"
       },
       {
        "type": "mc",
@@ -25581,7 +24045,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Arbor 'tree' gives 'arboreal'; harbor, ardor, and arbiter come from different roots.",
        "src": "Most",
-       "id": "lat-16-8-e8"
+       "id": "lat-16-8-e7"
       }
      ],
      "id": "lat-16-8",
@@ -25784,19 +24248,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: find real English derivatives for these Latin words from the lesson -- consumere, destruere, auctor, congregare, salvus, virga.",
-       "rubric": [
-        "Gives at least three genuine English derivatives.",
-        "Each English word truly descends from the Latin word given.",
-        "No invented or false cognates are listed."
-       ],
-       "model": "consumere gives consume and consumer; destruere gives destroy and destruction; auctor gives author and authority; congregare gives congregate and congregation; salvus gives salvage and salvation; virga gives verge (a rod, hence a border) and virgate.",
-       "why": "These are standard, real English derivations of the Latin vocabulary in this lesson.",
-       "src": "Most",
-       "id": "lat-16-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'taurus' (bull)?",
        "choices": [
@@ -25808,7 +24259,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Taurus 'bull' gives 'taurine'; the other choices come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-9-e7"
+       "id": "lat-16-9-e6"
       },
       {
        "type": "mc",
@@ -25822,7 +24273,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ignis 'fire' gives 'ignite' and ignition; ignore, signal, and dignity derive from different Latin roots.",
        "src": "Most",
-       "id": "lat-16-9-e8"
+       "id": "lat-16-9-e7"
       },
       {
        "type": "order",
@@ -25851,7 +24302,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Matches the lesson's English-to-Latin key, sentence 4: 'Madianitae venerunt vecti camelis et incursiones in Iudaeos faciebant.'",
        "src": "Most",
-       "id": "lat-16-9-e9"
+       "id": "lat-16-9-e8"
       }
      ],
      "id": "lat-16-9",
@@ -26065,19 +24516,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a genuine English derivative for each and note the link: populus, canis, gladius, vox (vociferantes), aqua (aquas).",
-       "rubric": [
-        "Pairs each Latin word with a real English derivative",
-        "Derivations are accurate, not invented homonyms",
-        "Notes the shared meaning briefly"
-       ],
-       "model": "populus gives 'popular/populace' (a people); canis gives 'canine' (dog); gladius gives 'gladiator' (swordsman); vox in vociferantes gives 'vociferous/vocal' (voice); aqua gives 'aquatic/aquarium' (water).",
-       "why": "These are standard, verifiable Latin-to-English derivations drawn from words in the passage.",
-       "src": "Most",
-       "id": "lat-16-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'canis' (dog)?",
        "choices": [
@@ -26089,7 +24527,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Canine' derives from canis; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-16-10-e7"
+       "id": "lat-16-10-e6"
       },
       {
        "type": "mc",
@@ -26103,7 +24541,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Gladiator' derives from gladius (sword); 'glad' and 'glade' are Germanic, and 'glamour' is an altered form of 'grammar' (Scots), none from gladius.",
        "src": "Most",
-       "id": "lat-16-10-e8"
+       "id": "lat-16-10-e7"
       }
      ],
      "id": "lat-16-10",
@@ -26364,19 +24802,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-11-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. Give a genuine English derivative for each Latin word and note the link: mare, misericordia, fortitudo, mulier, vallis, novacula.",
-       "rubric": [
-        "Pairs each Latin word with a real English derivative",
-        "Derivations are accurate, not invented",
-        "Notes the shared meaning briefly"
-       ],
-       "model": "mare gives 'marine/maritime' (sea); misericordia gives 'misericord' (a choir-stall ledge, from pity); fortitudo gives 'fortitude' (strength); mulier gives 'mulierose' rare, better 'muliebrity' (womanliness); vallis gives 'valley/vale' (valley); novacula gives 'novaculite' (a hone-stone, from razor).",
-       "why": "These are verifiable Latin-to-English derivations from words in the passage.",
-       "src": "Most",
-       "id": "lat-16-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'mare' (sea)?",
        "choices": [
@@ -26388,7 +24813,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Marine' derives from mare (sea); 'mare' the horse is Germanic, and the others are unrelated.",
        "src": "Most",
-       "id": "lat-16-11-e7"
+       "id": "lat-16-11-e6"
       },
       {
        "type": "mc",
@@ -26402,7 +24827,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Fortitude' derives from fortitudo; 'fortnight' is from 'fourteen nights' and the others differ.",
        "src": "Most",
-       "id": "lat-16-11-e8"
+       "id": "lat-16-11-e7"
       },
       {
        "type": "order",
@@ -26429,7 +24854,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The reading says Samson 'apprehendit duas portas civitatis, et impositas humeris suis, portavit ad verticem montis.'",
        "src": "Most",
-       "id": "lat-16-11-e9"
+       "id": "lat-16-11-e8"
       },
       {
        "type": "order",
@@ -26452,7 +24877,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The reading says 'amavit Samson mulierem quae habitabat in valle Sorec, et vocabatur Dalila.'",
        "src": "Most",
-       "id": "lat-16-11-e10"
+       "id": "lat-16-11-e9"
       }
      ],
      "id": "lat-16-11",
@@ -26717,19 +25142,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-12-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give one real English word derived from it: columna, cor, somnus, vincire, ultio, fortissimus.",
-       "rubric": [
-        "Each English word genuinely derives from the matching Latin root",
-        "At least three of the words are matched correctly",
-        "No Latin word is paired with a mere look-alike homonym"
-       ],
-       "model": "columna gives 'column' and 'colonnade'; cor (cordis) gives 'cordial' and 'courage'; somnus gives 'somnolent' and 'insomnia'; vincire (vinctus) gives 'vinculum' (a connecting link); ultio gives the rare legal noun 'ultion' (an act of revenge); fortissimus (fortis) gives 'fortitude' and 'fortify'.",
-       "why": "These Latin roots survive in common English derivatives.",
-       "src": "Most",
-       "id": "lat-16-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'somnus'?",
        "choices": [
@@ -26741,7 +25153,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Insomnia derives from somnus (sleep); the others are unrelated look-alikes.",
        "src": "Most",
-       "id": "lat-16-12-e7"
+       "id": "lat-16-12-e6"
       },
       {
        "type": "mc",
@@ -26755,7 +25167,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Cordial derives from cor, cordis (heart); corner comes from cornu, corral from currale, and corn is a native Germanic word.",
        "src": "Most",
-       "id": "lat-16-12-e8"
+       "id": "lat-16-12-e7"
       }
      ],
      "id": "lat-16-12",
@@ -26985,19 +25397,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-16-13-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give one real English word derived from it: visio, iudicare, contemnere, munus, glorificare, iniquitas.",
-       "rubric": [
-        "Each English word genuinely derives from the matching Latin root",
-        "At least three of the words are matched correctly",
-        "No Latin word is paired with a mere look-alike homonym"
-       ],
-       "model": "visio gives 'vision' and 'visible'; iudicare gives 'judge' and 'judicial'; contemnere gives 'contempt' and 'contemn'; munus gives 'munificent' and 'remunerate'; glorificare gives 'glorify' and 'glorification'; iniquitas gives 'iniquity'.",
-       "why": "These Latin roots survive in common English derivatives.",
-       "src": "Most",
-       "id": "lat-16-13-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'visio'?",
        "choices": [
@@ -27009,7 +25408,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vision derives from visio (a seeing, from videre); viscous comes from viscum, visceral from viscera, and vicious from vitium, none from the videre root.",
        "src": "Most",
-       "id": "lat-16-13-e7"
+       "id": "lat-16-13-e6"
       },
       {
        "type": "mc",
@@ -27023,7 +25422,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Munificent (giving generously) derives from munus; mundane comes from mundus, mural from murus, and mutual from mutuus.",
        "src": "Most",
-       "id": "lat-16-13-e8"
+       "id": "lat-16-13-e7"
       },
       {
        "type": "order",
@@ -27046,7 +25445,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The reading says 'Puer autem Samuel ministrabat Domino coram Heli.'",
        "src": "Most",
-       "id": "lat-16-13-e9"
+       "id": "lat-16-13-e8"
       },
       {
        "type": "order",
@@ -27067,7 +25466,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The reading says Anna 'deditque puerum sacerdoti qui vocabatur Heli.'",
        "src": "Most",
-       "id": "lat-16-13-e10"
+       "id": "lat-16-13-e9"
       }
      ],
      "id": "lat-16-13",
@@ -27345,19 +25744,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words give one genuine English derivative: Dominus, gravis, manus, populus, vates, congregare.",
-       "rubric": [
-        "Gives a real English word for at least three of the listed Latin words",
-        "Each derivative truly descends from the Latin word given, not merely a look-alike",
-        "No invented or circular cognates"
-       ],
-       "model": "Dominus gives dominate and dominion; gravis gives grave and gravity; manus gives manual and manuscript; populus gives popular and populace; vates gives vaticinate; congregare gives congregate and congregation.",
-       "why": "These Latin words survive in common English derivatives, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-17-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gravis'?",
        "choices": [
@@ -27369,7 +25755,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gravity derives from gravis (heavy); the others are unrelated in origin.",
        "src": "Most",
-       "id": "lat-17-1-e7"
+       "id": "lat-17-1-e6"
       },
       {
        "type": "mc",
@@ -27383,7 +25769,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Manacle derives from manus (hand) via manicula; mantis and mania are from Greek, and manor is from manere (to dwell).",
        "src": "Most",
-       "id": "lat-17-1-e8"
+       "id": "lat-17-1-e7"
       }
      ],
      "id": "lat-17-1",
@@ -27617,19 +26003,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words give one genuine English derivative: avaritia, unitas, ius, currus, persuadere, centuriones.",
-       "rubric": [
-        "Gives a real English word for at least three of the listed Latin words",
-        "Each derivative genuinely descends from the Latin word given",
-        "No invented or look-alike cognates"
-       ],
-       "model": "avaritia gives avarice and avaricious; unitas gives unity; ius (iuris) gives jurist and justice; currus gives curricle and curriculum (a chariot, a running course); persuadere gives persuade and persuasion; centuriones gives centurion and century.",
-       "why": "Each Latin word has a living English derivative, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-17-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'avaritia'?",
        "choices": [
@@ -27641,7 +26014,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Avarice derives from avaritia (greed); aviary is from avis, average and avert from other roots.",
        "src": "Most",
-       "id": "lat-17-2-e7"
+       "id": "lat-17-2-e6"
       },
       {
        "type": "mc",
@@ -27655,7 +26028,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Unity comes from unitas; unique and universe trace to other Latin forms and uncle is unrelated.",
        "src": "Most",
-       "id": "lat-17-2-e8"
+       "id": "lat-17-2-e7"
       },
       {
        "type": "order",
@@ -27674,7 +26047,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives \"Rex inveniendus est Iudaeis\" (a king must be found by the Jews) for this sentence.",
        "src": "Most",
-       "id": "lat-17-2-e9"
+       "id": "lat-17-2-e8"
       },
       {
        "type": "order",
@@ -27693,7 +26066,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "This drills the gerundive of obligation: \"Rex constituendus est populo\" (a king must be appointed for the people), matching the elders' demand \"Constitue nobis regem\" in this reading.",
        "src": "Most",
-       "id": "lat-17-2-e10"
+       "id": "lat-17-2-e9"
       }
      ],
      "id": "lat-17-2",
@@ -27912,19 +26285,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a real modern English word that derives from each, and explain the link: populus, argentum, clamor, videns, invitare, dominari.",
-       "rubric": [
-        "Each English word is a genuine derivative of the Latin word given, not a coincidental look-alike.",
-        "At least four of the six Latin words are matched with a correct English derivative.",
-        "Each answer briefly states the shared meaning that links Latin to English."
-       ],
-       "model": "populus gives 'popular' and 'populace' (relating to the people); argentum gives 'argentine' and the chemical symbol Ag for silver; clamor gives 'clamorous' and 'exclaim' (loud shouting); videns (from videre) gives 'video' and 'evident' (seeing); invitare gives 'invite' and 'invitation'; dominari (from dominus) gives 'dominate' and 'domineer' (to be lord over).",
-       "why": "These are authentic Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-17-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'argentum' (silver)?",
        "choices": [
@@ -27936,7 +26296,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Argentine (and the symbol Ag) derives from argentum, silver; the others come from unrelated Latin roots (arguere, rogare, augere).",
        "src": "Most",
-       "id": "lat-17-3-e7"
+       "id": "lat-17-3-e6"
       }
      ],
      "id": "lat-17-3",
@@ -28158,19 +26518,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a real modern English word that derives from each, and explain the link: currus, litus, spelunca, holocaustum, hereditas, congregare.",
-       "rubric": [
-        "Each English word is a genuine derivative of the Latin word given, not a coincidental look-alike.",
-        "At least four of the six Latin words are matched with a correct English derivative.",
-        "Each answer briefly states the shared meaning that links Latin to English."
-       ],
-       "model": "currus gives 'curricle' and 'curriculum' (a chariot, a running course); litus gives 'littoral' (relating to the shore); spelunca gives 'spelunker' and 'spelunking' (cave-exploring); holocaustum gives 'caustic' and 'cauterize' (sharing the Greek root for burning); hereditas gives 'hereditary' and 'heredity' (inheritance); congregare gives 'congregate' and 'congregation' (a gathering).",
-       "why": "These are authentic Latin-to-English derivations drawn from this lesson's vocabulary.",
-       "src": "Most",
-       "id": "lat-17-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'litus' (shore)?",
        "choices": [
@@ -28182,7 +26529,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Littoral (relating to the shore) derives from litus, litoris; the others come from littera (letter) and litigare (to dispute).",
        "src": "Most",
-       "id": "lat-17-4-e7"
+       "id": "lat-17-4-e6"
       },
       {
        "type": "order",
@@ -28207,7 +26554,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "From the answer key: Cis filium suum ad asinas reperiendas misit. This uses the gerundive (ad asinas reperiendas) to express purpose.",
        "src": "Most",
-       "id": "lat-17-4-e8"
+       "id": "lat-17-4-e7"
       },
       {
        "type": "order",
@@ -28232,7 +26579,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "From the answer key: Samuel populum convocavit ad annuntiandam legem regis. The gerundive (ad annuntiandam legem) expresses purpose.",
        "src": "Most",
-       "id": "lat-17-4-e9"
+       "id": "lat-17-4-e8"
       }
      ],
      "id": "lat-17-4",
@@ -28459,19 +26806,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give one genuine English word that derives from it: superare, idololatria, immolare, statura, iudicare, adventus.",
-       "rubric": [
-        "Each English word is a real word that genuinely derives from the listed Latin root.",
-        "At least three of the six pairings are correct and clearly explained.",
-        "No fanciful or invented derivations are offered."
-       ],
-       "model": "superare gives 'superable' and 'insuperable'; idololatria gives 'idolatry'; immolare gives 'immolate' and 'immolation'; statura gives 'stature'; iudicare gives 'judicial' and 'judicate'; adventus gives 'advent' and 'adventure'.",
-       "why": "These Latin words have real, traceable English descendants.",
-       "src": "Most",
-       "id": "lat-17-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'cornu' (horn)?",
        "choices": [
@@ -28483,7 +26817,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Cornucopia (horn of plenty) derives from cornu; carnival comes from caro/carnem (flesh) plus levare, coronet derives from corona (crown), and kernel is Germanic, so none of the distractors share the root cornu.",
        "src": "Most",
-       "id": "lat-17-5-e7"
+       "id": "lat-17-5-e6"
       }
      ],
      "id": "lat-17-5",
@@ -28712,19 +27046,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give one genuine English word that derives from it: custos, superbia, cithara, palatium, invadere, referre.",
-       "rubric": [
-        "Each English word is a real word that genuinely derives from the listed Latin root.",
-        "At least three of the six pairings are correct and clearly explained.",
-        "No invented or fanciful derivations are offered."
-       ],
-       "model": "custos gives 'custody' and 'custodian'; superbia gives 'superb'; cithara gives 'guitar' and 'zither'; palatium gives 'palace' and 'palatial'; invadere gives 'invade' and 'invasion'; referre gives 'refer' and 'reference'.",
-       "why": "These Latin words have real, traceable English descendants.",
-       "src": "Most",
-       "id": "lat-17-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'palatium' (palace)?",
        "choices": [
@@ -28736,7 +27057,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Palatial derives from palatium; palette and pallet come from Latin pala (spade), and palate comes from palatum.",
        "src": "Most",
-       "id": "lat-17-6-e7"
+       "id": "lat-17-6-e6"
       },
       {
        "type": "order",
@@ -28757,7 +27078,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives David auxilio venit fratribus suis.",
        "src": "Most",
-       "id": "lat-17-6-e8"
+       "id": "lat-17-6-e7"
       },
       {
        "type": "order",
@@ -28780,7 +27101,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives Goliath egrediebatur ad exprobrandum exercitui Israel.",
        "src": "Most",
-       "id": "lat-17-6-e9"
+       "id": "lat-17-6-e8"
       }
      ],
      "id": "lat-17-6",
@@ -28986,19 +27307,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives. For these Latin words, give a real English word descended from each: leo, canis, bestia, hasta, armatus, lorica.",
-       "rubric": [
-        "Lists a real English derivative for at least three of the words",
-        "Each derivative truly descends from its Latin source, not a look-alike",
-        "Answer is written without dashes"
-       ],
-       "model": "leo gives leonine; canis gives canine; bestia gives bestial; hasta gives hastate (spear-shaped); armatus gives armature or army; lorica gives loricate (sheathed in a hard protective shell).",
-       "why": "Spotting true descendants reinforces the Latin vocabulary of the duel.",
-       "src": "Most",
-       "id": "lat-17-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'canis' (dog)?",
        "choices": [
@@ -29010,7 +27318,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Canine derives from canis; the other words come from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-7-e7"
+       "id": "lat-17-7-e6"
       },
       {
        "type": "mc",
@@ -29024,7 +27332,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Leonine derives from leo (lion); the others are unrelated.",
        "src": "Most",
-       "id": "lat-17-7-e8"
+       "id": "lat-17-7-e7"
       }
      ],
      "id": "lat-17-7",
@@ -29292,19 +27600,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives. For these Latin words, give a real English word descended from each: cadaver, anima, palatium, invadere, festinare, tunica.",
-       "rubric": [
-        "Lists a real English derivative for at least three of the words",
-        "Each derivative truly descends from its Latin source, not a look-alike",
-        "Answer is written without dashes"
-       ],
-       "model": "cadaver gives cadaverous; anima gives animate or animal; palatium gives palace or palatial; invadere gives invade or invasion; festinare gives festinate and festination (a hastening); tunica gives tunic.",
-       "why": "Tracing real descendants reinforces the vocabulary of the victory and its aftermath.",
-       "src": "Most",
-       "id": "lat-17-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'palatium' (palace)?",
        "choices": [
@@ -29316,7 +27611,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Palatial derives from palatium; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-8-e7"
+       "id": "lat-17-8-e6"
       },
       {
        "type": "mc",
@@ -29330,7 +27625,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Cadaverous derives from cadaver; candor is from candere, cabinet and carafe are from unrelated roots (none from cadaver or cadere).",
        "src": "Most",
-       "id": "lat-17-8-e8"
+       "id": "lat-17-8-e7"
       },
       {
        "type": "order",
@@ -29351,7 +27646,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Dixit se hoc facturum esse, using the future active infinitive in indirect statement.",
        "src": "Most",
-       "id": "lat-17-8-e9"
+       "id": "lat-17-8-e8"
       },
       {
        "type": "order",
@@ -29372,7 +27667,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives Difficile est docere homines sapientiam, with a double objective after docere.",
        "src": "Most",
-       "id": "lat-17-8-e10"
+       "id": "lat-17-8-e9"
       }
      ],
      "id": "lat-17-8",
@@ -29538,19 +27833,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words give a real English derivative for at least three -- uxor, statua, lancea, fenestra, culpa, gratus.",
-       "rubric": [
-        "At least three of the listed Latin words are addressed",
-        "Each derivative is a genuine English word from that Latin root (not a translation of the word)",
-        "No invented or false cognates are offered"
-       ],
-       "model": "statua gives statue and statuary; lancea gives lance and lancet; culpa gives culpable and culprit; gratus gives gratitude, grateful and gratis; uxor gives uxorious (doting on one's wife); fenestra gives fenestration and defenestrate.",
-       "why": "These Latin nouns and adjectives survive in common English derivatives.",
-       "src": "Most",
-       "id": "lat-17-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'lancea' (lance)?",
        "choices": [
@@ -29562,7 +27844,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'lancet' derives from lancea; ladder (Old English hlaeder), lantern (Latin lanterna), and ledger (from 'lay') come from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-9-e7"
+       "id": "lat-17-9-e6"
       },
       {
        "type": "mc",
@@ -29576,7 +27858,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'culprit' derives from culpa; cultivate, culvert, and cuddle are from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-9-e8"
+       "id": "lat-17-9-e7"
       }
      ],
      "id": "lat-17-9",
@@ -29799,19 +28081,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words give a real English derivative for at least three -- canis, insidiae, extendere, iniquitas, persequi, malitia, vicissitudo.",
-       "rubric": [
-        "At least three of the listed Latin words are addressed",
-        "Each derivative is a genuine English word from that Latin root",
-        "No invented or false cognates are offered"
-       ],
-       "model": "canis gives canine; insidiae gives insidious; extendere gives extend and extension; iniquitas gives iniquity and iniquitous; persequi gives persecute and pursue; malitia gives malice and malicious; vicissitudo gives vicissitude.",
-       "why": "These Latin words survive in common English derivatives.",
-       "src": "Most",
-       "id": "lat-17-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'canis' (dog)?",
        "choices": [
@@ -29823,7 +28092,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'canine' derives from canis; canon, candle, and canvas come from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-10-e7"
+       "id": "lat-17-10-e6"
       },
       {
        "type": "mc",
@@ -29837,7 +28106,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'insidious' derives from insidiae; inside, insight, and insist are from unrelated roots.",
        "src": "Most",
-       "id": "lat-17-10-e8"
+       "id": "lat-17-10-e7"
       },
       {
        "type": "order",
@@ -29858,7 +28127,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives 'David seipsum minorem pulice putat,' using the ablative of comparison (pulice) after the comparative minorem.",
        "src": "Most",
-       "id": "lat-17-10-e9"
+       "id": "lat-17-10-e8"
       }
      ],
      "id": "lat-17-10",
@@ -30031,19 +28300,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-11-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words, give a real English word that derives from it: hasta, lancea, scyphus, turba, pretiosus, similis.",
-       "rubric": [
-        "At least three pairs are given with a genuine English derivative",
-        "Each derivative truly comes from the listed Latin root, not a look-alike",
-        "Answers are written cleanly without dashes"
-       ],
-       "model": "hasta gives us the botanical 'hastate' (spear-shaped); lancea gives us 'lance'; scyphus gives us the zoological 'scyphozoan' (cup-shaped jellyfish); turba gives us 'turbulent' and 'disturb'; pretiosus gives us 'precious'; similis gives us 'similar'.",
-       "why": "These Latin words have living English descendants, which fixes their meanings in memory.",
-       "src": "Most",
-       "id": "lat-17-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'turba' (crowd)?",
        "choices": [
@@ -30055,7 +28311,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Turbulent' descends from turba/turbare (to disturb a crowd); 'turban' is Persian, 'turbine' is from turbo (a spinning top), and 'turbot' is unrelated.",
        "src": "Most",
-       "id": "lat-17-11-e7"
+       "id": "lat-17-11-e6"
       },
       {
        "type": "mc",
@@ -30069,7 +28325,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Precious' descends from pretiosus/pretium (price); the others are unrelated.",
        "src": "Most",
-       "id": "lat-17-11-e8"
+       "id": "lat-17-11-e7"
       }
      ],
      "id": "lat-17-11",
@@ -30279,19 +28535,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-17-12-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words, give a real English word that derives from it: gladius, murus, cadaver, vulnerare, spoliare, agmen.",
-       "rubric": [
-        "At least three pairs are given with a genuine English derivative",
-        "Each derivative truly descends from the listed Latin root",
-        "Answers are written cleanly without dashes"
-       ],
-       "model": "gladius gives us 'gladiator' and 'gladiolus'; murus gives us 'mural' and 'immure'; cadaver gives us 'cadaverous'; vulnerare gives us 'vulnerable'; and spoliare gives us 'spoil' and 'despoil'.",
-       "why": "Tracing real English descendants anchors the meanings of these battle and burial words.",
-       "src": "Most",
-       "id": "lat-17-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'gladius' (sword)?",
        "choices": [
@@ -30303,7 +28546,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Gladiator' descends from gladius (sword); 'glad', 'glade', and 'gladden' are native Germanic words unrelated to the Latin.",
        "src": "Most",
-       "id": "lat-17-12-e7"
+       "id": "lat-17-12-e6"
       },
       {
        "type": "mc",
@@ -30317,7 +28560,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Mural' descends from murus (wall); 'murky', 'murmur', and 'murder' are unrelated.",
        "src": "Most",
-       "id": "lat-17-12-e8"
+       "id": "lat-17-12-e7"
       },
       {
        "type": "order",
@@ -30340,7 +28583,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives 'David multo fortius quam ceteri pugnavit', using the ablative of measure 'multo' (much) with the comparative adverb 'fortius'.",
        "src": "Most",
-       "id": "lat-17-12-e9"
+       "id": "lat-17-12-e8"
       },
       {
        "type": "order",
@@ -30363,7 +28606,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives 'Rex promisit se bene facturum esse', an indirect statement with the future infinitive.",
        "src": "Most",
-       "id": "lat-17-12-e10"
+       "id": "lat-17-12-e9"
       }
      ],
      "id": "lat-17-12",
@@ -30601,19 +28844,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English derivatives for these Latin words from the reading: populus, hasta, currus, cithara, vespera, latro.",
-       "rubric": [
-        "Gives at least three real English derivations with the correct Latin source",
-        "Each English word genuinely descends from the listed Latin word",
-        "No invented or homonym cognates are offered"
-       ],
-       "model": "populus gives popular and populace; currus gives curricle (a light chariot) and course (via currere); cithara gives guitar and zither; vespera gives vespers and vespertine (of the evening); latro gives larceny (via latrocinium, robbery) and the legal sense in latrocination; hasta gives hastate (spear-shaped).",
-       "why": "Linking the Latin vocabulary to real English descendants reinforces meaning.",
-       "src": "Most",
-       "id": "lat-18-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'cymbalum' (cymbal)?",
        "choices": [
@@ -30625,7 +28855,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "English cymbal descends from Latin cymbalum; symbol, simple, and sample come from unrelated roots.",
        "src": "Most",
-       "id": "lat-18-1-e7"
+       "id": "lat-18-1-e6"
       },
       {
        "type": "mc",
@@ -30639,7 +28869,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English diadem descends from Latin diadema; the other words come from Greek dia-compounds unrelated to crown.",
        "src": "Most",
-       "id": "lat-18-1-e8"
+       "id": "lat-18-1-e7"
       },
       {
        "type": "order",
@@ -30660,7 +28890,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Sentence 4 of the English to Latin key reads: Si male facit, puniendus est.",
        "src": "Most",
-       "id": "lat-18-1-e9"
+       "id": "lat-18-1-e8"
       }
      ],
      "id": "lat-18-1",
@@ -30834,19 +29064,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English derivatives for these Latin words from the reading: providentia, ecclesia, grex, firmare, tentorium, prophetia.",
-       "rubric": [
-        "Gives at least three real English derivations with the correct Latin source",
-        "Each English word genuinely descends from the listed Latin word",
-        "No invented or homonym cognates are offered"
-       ],
-       "model": "providentia gives providence and provident; ecclesia gives ecclesiastical and ecclesiology; grex gives gregarious and aggregate (via gregis, of the flock); firmare gives firm and confirm; tentorium and tendere give tent and tension; prophetia gives prophecy and prophetic.",
-       "why": "Connecting the vocabulary to genuine English descendants reinforces meaning.",
-       "src": "Most",
-       "id": "lat-18-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'ecclesia' (church)?",
        "choices": [
@@ -30858,7 +29075,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ecclesiastical descends from ecclesia; eclectic, eclipse, and eccentric come from unrelated Greek roots.",
        "src": "Most",
-       "id": "lat-18-2-e7"
+       "id": "lat-18-2-e6"
       },
       {
        "type": "mc",
@@ -30872,7 +29089,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gregarious descends from grex/gregis; greet, Greek, and grease come from unrelated roots.",
        "src": "Most",
-       "id": "lat-18-2-e8"
+       "id": "lat-18-2-e7"
       },
       {
        "type": "order",
@@ -30901,7 +29118,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Sentence 3 of the English to Latin key reads: Non essemus in potestate Philistinorum si David rex esset.",
        "src": "Most",
-       "id": "lat-18-2-e9"
+       "id": "lat-18-2-e8"
       }
      ],
      "id": "lat-18-2",
@@ -31119,19 +29336,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English derivatives for these Latin words from the reading: crux, psalmus, vermis, sors, adulterium, manus.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word chosen",
-        "Each derivative genuinely traces back to the listed Latin root",
-        "No invented or homonym pairings"
-       ],
-       "model": "crux gives crucify and crucial; psalmus gives psalter and psalmody; vermis gives vermin and vermicelli (little worms, a pasta); sors gives sort and sorcery (via sortiarius, a caster of lots); manus gives manual and manuscript.",
-       "why": "These are genuine English derivations from the Latin roots in the reading.",
-       "src": "Most",
-       "id": "lat-18-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'crux' (cross)?",
        "choices": [
@@ -31143,7 +29347,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Crucial derives from Latin crux, crucis (cross); cruel comes from crudelis, crusty from crusta, and cradle from Old English cradol, none of which derive from crux.",
        "src": "Most",
-       "id": "lat-18-3-e7"
+       "id": "lat-18-3-e6"
       },
       {
        "type": "mc",
@@ -31157,7 +29361,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vermin derives from Latin vermis (worm); the others come from different roots.",
        "src": "Most",
-       "id": "lat-18-3-e8"
+       "id": "lat-18-3-e7"
       }
      ],
      "id": "lat-18-3",
@@ -31373,19 +29577,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real English derivatives for these Latin words from the reading: currus, legio, poena, bellator, latus, premere.",
-       "rubric": [
-        "Gives at least three real English derivatives, one per Latin word chosen",
-        "Each derivative genuinely traces back to the listed Latin root",
-        "No invented or homonym pairings"
-       ],
-       "model": "currus gives current and courier (via currere, to run); legio gives legionary and legionnaire; poena gives penal and penalty; bellator gives belligerent and bellicose; latus gives lateral and bilateral; premere gives press and pressure.",
-       "why": "These are genuine English derivations from the Latin roots in the reading.",
-       "src": "Most",
-       "id": "lat-18-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'legio' (legion)?",
        "choices": [
@@ -31397,7 +29588,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Legionnaire derives from Latin legio; the others come from different roots.",
        "src": "Most",
-       "id": "lat-18-4-e7"
+       "id": "lat-18-4-e6"
       },
       {
        "type": "mc",
@@ -31411,7 +29602,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Penalty derives from Latin poena (punishment); the others are unrelated.",
        "src": "Most",
-       "id": "lat-18-4-e8"
+       "id": "lat-18-4-e7"
       },
       {
        "type": "order",
@@ -31436,7 +29627,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The key gives: \"Sollicitandis cordibus virorum Israel, Absalom potestatem accepit.\"",
        "src": "Most",
-       "id": "lat-18-4-e9"
+       "id": "lat-18-4-e8"
       },
       {
        "type": "order",
@@ -31465,7 +29656,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The key gives: \"Viris ad se vocandis, melior quam rex esse videbatur.\"",
        "src": "Most",
-       "id": "lat-18-4-e10"
+       "id": "lat-18-4-e9"
       }
      ],
      "id": "lat-18-4",
@@ -31650,19 +29841,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. Find genuine modern English derivatives of these Latin words from the reading: silva, solium, computare, lancea, populus, pronus.",
-       "rubric": [
-        "Lists three or more of these Latin words with a real English derivative for each.",
-        "Each English word genuinely descends from the Latin word given, not from a look-alike.",
-        "No invented or false cognates are offered."
-       ],
-       "model": "silva yields sylvan and Pennsylvania; computare yields compute and computer; lancea yields lance and lancet (a small surgical blade); populus yields popular and populace; pronus yields prone and pronation (turning face or palm down).",
-       "why": "Cognate awareness anchors the new vocabulary to familiar English roots.",
-       "src": "Most",
-       "id": "lat-18-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'populus'?",
        "choices": [
@@ -31674,7 +29852,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Populus (people) gives popular and populace; puddle, pupil, and popcorn come from unrelated roots.",
        "src": "Most",
-       "id": "lat-18-5-e7"
+       "id": "lat-18-5-e6"
       }
      ],
      "id": "lat-18-5",
@@ -31849,19 +30027,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. Find genuine modern English derivatives of these Latin words from the reading: oleum, sapiens, discernere, divitiae, confirmare, ceremonia.",
-       "rubric": [
-        "Lists three or more of these Latin words with a real English derivative for each.",
-        "Each English word genuinely descends from the Latin word given.",
-        "No invented or false cognates are offered."
-       ],
-       "model": "oleum yields oleo and petroleum; sapiens yields sapient and savvy (via sapere, to be wise); discernere yields discern and discernment; confirmare yields confirm and confirmation; ceremonia yields ceremony and ceremonial.",
-       "why": "Cognate awareness anchors the new vocabulary to familiar English roots.",
-       "src": "Most",
-       "id": "lat-18-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'sapiens'?",
        "choices": [
@@ -31873,7 +30038,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Sapiens (wise) gives sapient; sapphire, sap, and supine come from unrelated roots.",
        "src": "Most",
-       "id": "lat-18-6-e7"
+       "id": "lat-18-6-e6"
       },
       {
        "type": "order",
@@ -31890,7 +30055,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 4 of the English-to-Latin block as: Volebat sapientiam petere.",
        "src": "Most",
-       "id": "lat-18-6-e8"
+       "id": "lat-18-6-e7"
       },
       {
        "type": "order",
@@ -31913,7 +30078,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders sentence 3 of the English-to-Latin block as: Licebat ei donum a Deo petere.",
        "src": "Most",
-       "id": "lat-18-6-e9"
+       "id": "lat-18-6-e8"
       }
      ],
      "id": "lat-18-6",
@@ -32130,19 +30295,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Pick three of these Latin words and give a real English word descended from each: argentum, cedrus, ovis, fabula, nebula, proverbium.",
-       "rubric": [
-        "Gives exactly three Latin words from the list",
-        "Each English word truly derives from its Latin source",
-        "No invented or look-alike cognates"
-       ],
-       "model": "argentum gives Argentina and argent (heraldic silver); fabula gives fable and fabulous; proverbium gives proverb and proverbial.",
-       "why": "Connecting Most's Latin to its English descendants fixes the vocabulary in memory.",
-       "src": "Most",
-       "id": "lat-18-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'argentum' (silver)?",
        "choices": [
@@ -32154,7 +30306,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Argent, a heraldic term for silver, descends from argentum; the others are unrelated.",
        "src": "Most",
-       "id": "lat-18-7-e7"
+       "id": "lat-18-7-e6"
       },
       {
        "type": "mc",
@@ -32168,7 +30320,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Fable derives from fabula; the other words come from different Latin roots.",
        "src": "Most",
-       "id": "lat-18-7-e8"
+       "id": "lat-18-7-e7"
       }
      ],
      "id": "lat-18-7",
@@ -32380,19 +30532,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-8-e6"
       },
       {
-       "type": "compose",
-       "q": "Pick three of these Latin words and give a real English word descended from each: iugum, contra, addere, lenis, adolescens, pactum.",
-       "rubric": [
-        "Gives exactly three Latin words from the list",
-        "Each English word truly derives from its Latin source",
-        "No invented or look-alike cognates"
-       ],
-       "model": "iugum gives conjugal and subjugate; contra gives contrary and counter; adolescens gives adolescent and adult (both via adolescere, to grow up).",
-       "why": "Tying Most's Latin to its English descendants reinforces the new vocabulary.",
-       "src": "Most",
-       "id": "lat-18-8-e7"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'Many sacrifices were offered by the priests.'",
        "tokens": [
@@ -32413,7 +30552,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Multa sacrificia a sacerdotibus oblata sunt.",
        "src": "Most",
-       "id": "lat-18-8-e8"
+       "id": "lat-18-8-e7"
       },
       {
        "type": "order",
@@ -32430,7 +30569,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: Oves gladiis interfecerunt (the ablative gladiis means 'with swords').",
        "src": "Most",
-       "id": "lat-18-8-e9"
+       "id": "lat-18-8-e8"
       }
      ],
      "id": "lat-18-8",
@@ -32575,19 +30714,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each Latin word, give a real modern English word that descends from it: populus, hereditas, finire, convertere, aureus.",
-       "rubric": [
-        "Each English word is a genuine derivative of its Latin source",
-        "At least three of the five words are correctly matched",
-        "No Latin word is paired with a mere look-alike that does not share its root"
-       ],
-       "model": "populus gives popular and populace; hereditas gives hereditary and heredity; finire gives finish and finite; convertere gives convert and conversion; aureus gives aureate (golden) and oriole (the golden bird, via aureolus).",
-       "why": "These are real English derivations from the lesson's Latin vocabulary.",
-       "src": "Most",
-       "id": "lat-18-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vitulus' (calf)?",
        "choices": [
@@ -32599,7 +30725,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'veal' descends through Old French from Latin vitulus; the others derive from vita, villa, and vincere.",
        "src": "Most",
-       "id": "lat-18-9-e7"
+       "id": "lat-18-9-e6"
       },
       {
        "type": "mc",
@@ -32613,7 +30739,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Septentrional' (of the north) derives from septentrio; September is from septem, septic from Greek, sceptre from Greek skeptron.",
        "src": "Most",
-       "id": "lat-18-9-e8"
+       "id": "lat-18-9-e7"
       }
      ],
      "id": "lat-18-9",
@@ -32825,19 +30951,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each Latin word, give a real modern English word that descends from it: pluvia, corvus, colligere, languor, viscera.",
-       "rubric": [
-        "Each English word genuinely descends from its Latin source",
-        "At least three of the five are correctly matched",
-        "No pairing relies on a coincidental look-alike instead of a real root"
-       ],
-       "model": "pluvia gives pluvial (of rain) and pluviometer; corvus gives corvine (raven-like) and cormorant (via corvus marinus, sea-raven); colligere gives collect and collection; languor gives languid and languish; viscera gives visceral and eviscerate.",
-       "why": "These are real English derivations from the lesson's Latin vocabulary.",
-       "src": "Most",
-       "id": "lat-18-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'corvus' (raven)?",
        "choices": [
@@ -32849,7 +30962,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Corvine' (raven-like) descends from corvus; cordial is from cor, corner from cornu/Latin cornarium, corvette from Dutch korf.",
        "src": "Most",
-       "id": "lat-18-10-e7"
+       "id": "lat-18-10-e6"
       },
       {
        "type": "mc",
@@ -32863,7 +30976,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "A 'litter' (a portable couch/bed) derives through Old French from Latin lectus; lecture, lectern, and elect derive from legere.",
        "src": "Most",
-       "id": "lat-18-10-e8"
+       "id": "lat-18-10-e7"
       },
       {
        "type": "order",
@@ -32890,7 +31003,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Cum Achab regnum septentrionale rexit, Elias viduam vidit.'",
        "src": "Most",
-       "id": "lat-18-10-e9"
+       "id": "lat-18-10-e8"
       },
       {
        "type": "order",
@@ -32919,7 +31032,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Cum filius eius mortuus esset, vidua Eliae locuta est.'",
        "src": "Most",
-       "id": "lat-18-10-e10"
+       "id": "lat-18-10-e9"
       }
      ],
      "id": "lat-18-10",
@@ -33118,19 +31231,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-11-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: ignis, mensa, vertex, genu, torrens, pallium.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin word",
-        "Uses no em or en dashes, only commas",
-        "Avoids invented or false cognates"
-       ],
-       "model": "ignis gives ignite, ignition, and igneous; mensa gives commensal (sharing a table) and mesa (a flat-topped hill, via Spanish); vertex gives vertical and vortex; genu gives genuflect and genuflection; torrens gives torrent and torrential; pallium gives pall and palliate (to cloak or ease).",
-       "why": "These are genuine derivations from the Latin headwords glossed in this Lectio.",
-       "src": "Most",
-       "id": "lat-18-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ignis' (fire)?",
        "choices": [
@@ -33142,7 +31242,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ignite descends from ignis (fire); ignore is from gnoscere, signal from signum, and agile from agere, none from ignis.",
        "src": "Most",
-       "id": "lat-18-11-e7"
+       "id": "lat-18-11-e6"
       },
       {
        "type": "mc",
@@ -33156,7 +31256,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Genuflect comes from genu (knee) plus flectere, to bend the knee; general and generous are from genus, and genteel is from gentilis, none from genu.",
        "src": "Most",
-       "id": "lat-18-11-e8"
+       "id": "lat-18-11-e7"
       },
       {
        "type": "order",
@@ -33181,7 +31281,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Nemo carnibus sacrificii quod Elias obtulit vescebatur'; vesci (eat) is a deponent that takes the ablative carnibus.",
        "src": "Most",
-       "id": "lat-18-11-e9"
+       "id": "lat-18-11-e8"
       },
       {
        "type": "order",
@@ -33208,7 +31308,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Cum Eliseus Eliae ministrasset, pallio eius potitus est'; potiri (get possession of) is a deponent taking the ablative pallio.",
        "src": "Most",
-       "id": "lat-18-11-e10"
+       "id": "lat-18-11-e9"
       }
      ],
      "id": "lat-18-11",
@@ -33364,19 +31464,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-18-12-e5"
       },
       {
-       "type": "compose",
-       "q": "List the English words that come from or resemble today's Latin words: potens, crudelitas, annales, coniuratio, lavare, firmare.",
-       "rubric": [
-        "Gives at least three real English derivatives, each tied to its Latin word",
-        "Uses no em or en dashes, only commas",
-        "Avoids invented or false cognates"
-       ],
-       "model": "potens gives potent and potential; crudelitas gives cruelty and cruel; annales gives annual and anniversary (both from annus, year); coniuratio gives conjuration and conjure; lavare gives lavatory and lavish (an outpouring, via French); firmare gives firm, affirm, and confirm.",
-       "why": "These are genuine derivations from the Latin headwords glossed in this Lectio.",
-       "src": "Most",
-       "id": "lat-18-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'potens' (powerful)?",
        "choices": [
@@ -33388,7 +31475,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Potent descends from potens, potentis (powerful); portion is from portio, patient from pati, and pottery from potus/Old French, none from potens.",
        "src": "Most",
-       "id": "lat-18-12-e7"
+       "id": "lat-18-12-e6"
       },
       {
        "type": "mc",
@@ -33402,7 +31489,7 @@ window.COURSE_DATA.courses.push({
        "answer": 2,
        "why": "Affirm descends from firmare (to strengthen, make firm); format is from forma, former is Germanic, and frame is from Old English framian, none from firmare.",
        "src": "Most",
-       "id": "lat-18-12-e8"
+       "id": "lat-18-12-e7"
       },
       {
        "type": "order",
@@ -33421,7 +31508,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Multi carnibus frui volebant'; frui (enjoy) is a deponent that takes the ablative carnibus.",
        "src": "Most",
-       "id": "lat-18-12-e9"
+       "id": "lat-18-12-e8"
       },
       {
        "type": "order",
@@ -33448,7 +31535,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Si Eliseus eum ascendentem viderit, spiritum eius habebit', a future-more-vivid condition.",
        "src": "Most",
-       "id": "lat-18-12-e10"
+       "id": "lat-18-12-e9"
       }
      ],
      "id": "lat-18-12",
@@ -33693,19 +31780,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: find real modern English words descended from these Latin words from the reading: iustitia, vulnerare, prophetia, infirmitas, multiplicare, dolor.",
-       "rubric": [
-        "Gives at least three genuine English derivatives, one per Latin word",
-        "Each English word truly descends from the Latin root, not just a look-alike",
-        "Answers are written without dashes"
-       ],
-       "model": "iustitia gives justice; vulnerare gives vulnerable; prophetia gives prophecy; infirmitas gives infirmity; multiplicare gives multiply and multiplication; dolor gives dolorous and condolence.",
-       "why": "These Latin words from the Lectio survive in common English vocabulary, which helps fix their meaning.",
-       "src": "Most",
-       "id": "lat-19-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely descends from Latin 'dolor' (grief, pain) used in this Lectio?",
        "choices": [
@@ -33717,7 +31791,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Most glosses dolor as \"grief, pain\"; English \"dolorous\" (and condolence) descends from Latin dolor. The distractors come from unrelated roots: dollar from German Thaler, idol from Greek eidolon, doll from the name Dorothy, none from dolor.",
        "src": "Most",
-       "id": "lat-19-1-e7"
+       "id": "lat-19-1-e6"
       }
      ],
      "id": "lat-19-1",
@@ -33873,19 +31947,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-2-e4"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: find real modern English words descended from these Latin words from the reading: construere, destruere, protegere, simulacrum, catena, pius.",
-       "rubric": [
-        "Gives at least three genuine English derivatives, one per Latin word",
-        "Each English word truly descends from the Latin root, not a mere look-alike",
-        "Answers are written without dashes"
-       ],
-       "model": "construere gives construct and construction; destruere gives destroy and destruction; protegere gives protect; simulacrum gives simulate and simulation; catena gives chain (and concatenate); pius gives pious and piety.",
-       "why": "These Latin words from the Lectio live on in everyday English, reinforcing their meaning.",
-       "src": "Most",
-       "id": "lat-19-2-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely descends from Latin 'pius' (devout) used in this Lectio?",
        "choices": [
@@ -33897,7 +31958,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Most glosses pius as \"devout\"; English \"pious\" (and piety) descends from Latin pius/pietas. The distractors come from unrelated roots: pier from Medieval Latin pera, pipe from Latin pipare (to chirp), pyre from Greek pyr (fire), none from pius.",
        "src": "Most",
-       "id": "lat-19-2-e6"
+       "id": "lat-19-2-e5"
       },
       {
        "type": "order",
@@ -33918,7 +31979,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's English to Latin key gives: \"Visis corporibus mortuorum, Sennacherib abiit.\"",
        "src": "Most",
-       "id": "lat-19-2-e7"
+       "id": "lat-19-2-e6"
       },
       {
        "type": "order",
@@ -33941,7 +32002,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's English to Latin key gives: \"Nolente obedire rege, urbs obsessa est.\"",
        "src": "Most",
-       "id": "lat-19-2-e8"
+       "id": "lat-19-2-e7"
       }
      ],
      "id": "lat-19-2",
@@ -34121,19 +32182,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words give a genuine English derivative for each: bibliotheca, provincia, inscriptio, munitio, doctus.",
-       "rubric": [
-        "Each English word given is a real derivative, not a translation",
-        "At least three of the five are correctly linked",
-        "No dashes are used in the answer"
-       ],
-       "model": "bibliotheca gives bibliophile and bibliography; provincia gives province and provincial; inscriptio gives inscription and inscribe; munitio gives munition and ammunition; doctus (from docere) gives doctor and doctrine.",
-       "why": "These Latin nouns and the verb stem each survive in common English words, which fixes their meaning.",
-       "src": "Most",
-       "id": "lat-19-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'provincia'?",
        "choices": [
@@ -34145,7 +32193,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Provincia gives English 'provincial' (and 'province'); provide is from providere, proverb from proverbium, and prove from probare.",
        "src": "Most",
-       "id": "lat-19-3-e7"
+       "id": "lat-19-3-e6"
       },
       {
        "type": "mc",
@@ -34159,7 +32207,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Munitio (from munire, to fortify) gives 'munition'; the others come from moneta, monumentum, and mons.",
        "src": "Most",
-       "id": "lat-19-3-e8"
+       "id": "lat-19-3-e7"
       },
       {
        "type": "order",
@@ -34186,7 +32234,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Regnantibus regibus potentibus, Assyria aliis gentibus terrori fuerat (double dative terrori ... gentibus).",
        "src": "Most",
-       "id": "lat-19-3-e9"
+       "id": "lat-19-3-e8"
       },
       {
        "type": "order",
@@ -34213,7 +32261,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Capta urbe, Nabuchodonosor omnes thesauros templi Babylonem attulit (ablative absolute Capta urbe).",
        "src": "Most",
-       "id": "lat-19-3-e10"
+       "id": "lat-19-3-e9"
       }
      ],
      "id": "lat-19-3",
@@ -34410,19 +32458,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words give a genuine English derivative for each: scientia, disciplina, mensa, condemnare, contemplari.",
-       "rubric": [
-        "Each English word given is a real derivative, not a translation",
-        "At least three of the five are correctly linked",
-        "No dashes are used in the answer"
-       ],
-       "model": "scientia gives science and conscience; disciplina gives discipline and disciple; mensa gives mensal and commensal; condemnare gives condemn and condemnation; contemplari gives contemplate and contemplation.",
-       "why": "These Latin words survive directly in everyday English vocabulary, which secures their meaning.",
-       "src": "Most",
-       "id": "lat-19-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'scientia'?",
        "choices": [
@@ -34434,7 +32469,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Scientia (from scire, to know) gives English 'science'; scene and scenic come from Greek skene, and scent from sentire.",
        "src": "Most",
-       "id": "lat-19-4-e7"
+       "id": "lat-19-4-e6"
       },
       {
        "type": "mc",
@@ -34448,7 +32483,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Disciplina gives English 'discipline' (and 'disciple'); dispatch, display, and dispute come from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-19-4-e8"
+       "id": "lat-19-4-e7"
       },
       {
        "type": "order",
@@ -34485,7 +32520,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Rogante qui ex semine regio erat Daniele, servus regis legumina ad vescendum portavit (ablative absolute Rogante ... Daniele enclosing a relative clause).",
        "src": "Most",
-       "id": "lat-19-4-e9"
+       "id": "lat-19-4-e8"
       },
       {
        "type": "order",
@@ -34514,7 +32549,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Completis sicut rex imperaverat diebus, adducti sunt ad regem (ablative absolute Completis ... diebus around the clause sicut rex imperaverat).",
        "src": "Most",
-       "id": "lat-19-4-e10"
+       "id": "lat-19-4-e9"
       }
      ],
      "id": "lat-19-4",
@@ -34662,19 +32697,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: For these Latin words from the reading -- spiritus, donum, sententia, furor, plenus -- give one real modern English word derived from each.",
-       "rubric": [
-        "Lists a genuine English derivative for at least three of the five words",
-        "Derivations are real, not invented (e.g. spiritus to spirit, plenus to plenty)",
-        "No Latin word is paired with a mere look-alike that does not actually derive from it"
-       ],
-       "model": "spiritus to spirit/spiritual; donum to donate/donation; sententia to sentence/sentiment; furor to fury/furious; plenus to plenty/plenitude.",
-       "why": "These derivations show the Latin roots surviving in everyday English vocabulary.",
-       "src": "Most",
-       "id": "lat-19-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'furor' (wrath) used in this Lectio?",
        "choices": [
@@ -34686,7 +32708,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "The king acts \"in furore et in ira magna\"; furor gives English \"fury\" (and furious). The distractors come from unrelated roots: furnace from fornax, furrow is Germanic, and furnish from Old French fournir.",
        "src": "Most",
-       "id": "lat-19-5-e7"
+       "id": "lat-19-5-e6"
       }
      ],
      "id": "lat-19-5",
@@ -34956,19 +32978,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: For these Latin words from the reading -- statua, sublimis, ferreus, aspectus, mysterium, superare -- give one real modern English word derived from each.",
-       "rubric": [
-        "Lists a genuine English derivative for at least three of the words",
-        "Derivations are real, not invented (e.g. statua to statue, sublimis to sublime)",
-        "No Latin word is paired with a mere homonym that does not actually derive from it"
-       ],
-       "model": "statua to statue; sublimis to sublime; ferreus to ferrous; aspectus to aspect; mysterium to mystery; superare to superable/insuperable.",
-       "why": "Each Latin root carries forward into a recognizable English derivative.",
-       "src": "Most",
-       "id": "lat-19-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'digitus' (finger, toe)?",
        "choices": [
@@ -34980,7 +32989,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Digitus gives English \"digit\"; dignity comes from dignitas, ditch and diary from unrelated roots.",
        "src": "Most",
-       "id": "lat-19-6-e7"
+       "id": "lat-19-6-e6"
       },
       {
        "type": "order",
@@ -35007,7 +33016,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: \"Egressa sententia, Daniel regem ut tempus daret rogavit.\"",
        "src": "Most",
-       "id": "lat-19-6-e8"
+       "id": "lat-19-6-e7"
       },
       {
        "type": "order",
@@ -35032,7 +33041,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives: \"In Deo confisus, Daniel non est interfectus.\"",
        "src": "Most",
-       "id": "lat-19-6-e9"
+       "id": "lat-19-6-e8"
       }
      ],
      "id": "lat-19-6",
@@ -35245,19 +33254,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real modern English words derived from these Latin words from the reading: vinum, devorare, dolus, ostium, consumere, idolum, anulus.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin root",
-        "At least three of the words are accounted for",
-        "No Latin word is paired with a mere English look-alike"
-       ],
-       "model": "vinum gives 'vine' and 'vintage'; devorare gives 'devour' and 'voracious'; consumere gives 'consume' and 'consumption'; idolum gives 'idol' and 'idolatry'; anulus gives 'annular'; ostium gives 'ostiole' (a small opening); dolus gives the archaic English 'dole' (guile, deceit).",
-       "why": "Connecting Latin vocabulary to English derivatives reinforces the words and aids recall.",
-       "src": "Most",
-       "id": "lat-19-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vinum' (wine)?",
        "choices": [
@@ -35269,7 +33265,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vintner (a wine merchant) derives from vinum; the others come from unrelated Latin roots (vincere, viola, vita).",
        "src": "Most",
-       "id": "lat-19-7-e7"
+       "id": "lat-19-7-e6"
       },
       {
        "type": "mc",
@@ -35283,7 +33279,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Consumer derives from consumere; console, consonant, and consul come from different Latin roots.",
        "src": "Most",
-       "id": "lat-19-7-e8"
+       "id": "lat-19-7-e7"
       }
      ],
      "id": "lat-19-7",
@@ -35536,19 +33532,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Find real modern English words derived from these Latin words from the reading: leo, destruere, principium, auctoritas, draco, concedere, prohibitio.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin root",
-        "At least three of the words are accounted for",
-        "No Latin word is paired with a mere English look-alike"
-       ],
-       "model": "leo gives 'leonine'; destruere gives 'destroy' and 'destruction'; principium gives 'principle' and 'principal'; auctoritas gives 'authority'; draco gives 'dragon' and 'draconian'; concedere gives 'concede' and 'concession'; prohibitio gives 'prohibition'.",
-       "why": "Connecting Latin vocabulary to English derivatives reinforces the words and aids recall.",
-       "src": "Most",
-       "id": "lat-19-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'draco' (dragon)?",
        "choices": [
@@ -35560,7 +33543,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Draconian derives from Draco/draco; drain, drama, and draft come from unrelated roots.",
        "src": "Most",
-       "id": "lat-19-8-e7"
+       "id": "lat-19-8-e6"
       },
       {
        "type": "mc",
@@ -35574,7 +33557,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Authority derives directly from auctoritas; auction (auctio), autumn (autumnus), and auditor (audire) come from different roots.",
        "src": "Most",
-       "id": "lat-19-8-e8"
+       "id": "lat-19-8-e7"
       },
       {
        "type": "order",
@@ -35609,7 +33592,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Homines qui in Samaria habitabant, videntes Iudaeos templum aedificare, auxilium dare voluerunt.",
        "src": "Most",
-       "id": "lat-19-8-e9"
+       "id": "lat-19-8-e8"
       },
       {
        "type": "order",
@@ -35638,7 +33621,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: Iudaei qui in captivitate fuerant, regressi templum aedificare voluerunt.",
        "src": "Most",
-       "id": "lat-19-8-e10"
+       "id": "lat-19-8-e9"
       }
      ],
      "id": "lat-19-8",
@@ -35872,19 +33855,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-9-e10"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: epistola, rex, impedire, volumen, edictum, templum.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from the Latin word, not merely a look-alike",
-        "Notes briefly how the meanings connect"
-       ],
-       "model": "epistola gives epistle and epistolary; rex (regis) gives regal and regicide; impedire gives impede and impediment; volumen gives volume and voluminous; edictum gives edict; templum gives temple and templar.",
-       "why": "Each is a real Latin-to-English derivation taken from words in the reading.",
-       "src": "Most",
-       "id": "lat-19-9-e11"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'Those who wanted to build the temple came together.'",
        "tokens": [
@@ -35901,7 +33871,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Volentes templum aedificare convenerunt' for this English sentence.",
        "src": "Most",
-       "id": "lat-19-9-e12"
+       "id": "lat-19-9-e11"
       },
       {
        "type": "order",
@@ -35924,7 +33894,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Auxilium datum est a rege aedificantibus' for this English sentence.",
        "src": "Most",
-       "id": "lat-19-9-e13"
+       "id": "lat-19-9-e12"
       }
      ],
      "id": "lat-19-9",
@@ -36177,19 +34147,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-10-e7"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: convivium, diadema, indignatio, maritus, ornamentum, pulchritudo.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from the Latin word, not merely a look-alike",
-        "Briefly notes the link in meaning between Latin word and derivative"
-       ],
-       "model": "convivium gives convivial; diadema gives diadem; indignatio gives indignation and indignant; maritus gives marital and marriage; ornamentum gives ornament and ornamental; pulchritudo gives pulchritude.",
-       "why": "These are real, traceable Latin-to-English derivations drawn from words in the reading.",
-       "src": "Most",
-       "id": "lat-19-10-e8"
-      },
-      {
        "type": "order",
        "q": "Arrange the Latin words to mean: 'The one established as leader by the Persians came to those who were working.'",
        "tokens": [
@@ -36212,7 +34169,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Dux a Persis constitutus ad laborantes venit' for this English sentence.",
        "src": "Most",
-       "id": "lat-19-10-e9"
+       "id": "lat-19-10-e8"
       },
       {
        "type": "order",
@@ -36237,7 +34194,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key gives 'Dicentes Darium malum esse veritatem non dicunt' for this English sentence.",
        "src": "Most",
-       "id": "lat-19-10-e10"
+       "id": "lat-19-10-e9"
       }
      ],
      "id": "lat-19-10",
@@ -36436,19 +34393,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-11-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: populus, anulus, scriba, talentum, exaltare, ceremonia.",
-       "rubric": [
-        "Each English word given is a real word that genuinely descends from the listed Latin root.",
-        "No Latin word is paired with a mere English look-alike that does not share its root.",
-        "At least three of the six Latin words receive a correct derivative."
-       ],
-       "model": "populus gives popular and populace; anulus gives annular (ring-shaped); scriba gives scribe and scribble; talentum gives talent and talented; exaltare gives exalt and exaltation; ceremonia gives ceremony and ceremonial.",
-       "why": "These are real English derivations from Most's vocabulary.",
-       "src": "Most",
-       "id": "lat-19-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'anulus' (ring)?",
        "choices": [
@@ -36460,7 +34404,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Annular (ring-shaped) derives from anulus; annual comes from annus (year), and anvil and anchor are unrelated.",
        "src": "Most",
-       "id": "lat-19-11-e7"
+       "id": "lat-19-11-e6"
       },
       {
        "type": "mc",
@@ -36474,7 +34418,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Scribe derives directly from scriba; scallop, scrap, and scrub come from unrelated roots (scribble would also derive from the same scrib- root, so it is not used here).",
        "src": "Most",
-       "id": "lat-19-11-e8"
+       "id": "lat-19-11-e7"
       },
       {
        "type": "order",
@@ -36499,7 +34443,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this sentence as: Puellae cum audissent flentes Reginae Esther nuntiaverunt.",
        "src": "Most",
-       "id": "lat-19-11-e9"
+       "id": "lat-19-11-e8"
       }
      ],
      "id": "lat-19-11",
@@ -36756,19 +34700,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-19-12-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: pectus, salvator, clementia, furor, collum, regalis, aspectus.",
-       "rubric": [
-        "Each English word given is a real word that genuinely descends from the listed Latin root.",
-        "No Latin word is paired with a mere English look-alike that does not share its root.",
-        "At least three of the seven Latin words receive a correct derivative."
-       ],
-       "model": "pectus gives pectoral; salvator gives salvation and savior; clementia gives clement and clemency; furor gives fury and furious; collum gives collar; regalis gives regal and regalia; aspectus gives aspect.",
-       "why": "These are real English derivations from Most's vocabulary.",
-       "src": "Most",
-       "id": "lat-19-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'pectus' (breast)?",
        "choices": [
@@ -36780,7 +34711,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Pectoral (of the breast) derives from pectus; petulant comes from petere, peculiar from peculium, and pectin from Greek pektos.",
        "src": "Most",
-       "id": "lat-19-12-e7"
+       "id": "lat-19-12-e6"
       },
       {
        "type": "mc",
@@ -36794,7 +34725,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Clement derives from clementia; cement comes from caementum, climate from Greek klima, and claimant from clamare.",
        "src": "Most",
-       "id": "lat-19-12-e8"
+       "id": "lat-19-12-e7"
       },
       {
        "type": "order",
@@ -36823,7 +34754,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this sentence as: Regina ingressa locum in quo sedebat rex territa est.",
        "src": "Most",
-       "id": "lat-19-12-e9"
+       "id": "lat-19-12-e8"
       }
      ],
      "id": "lat-19-12",
@@ -36973,19 +34904,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for the Latin words anima, crudelitas, hortus, anulus, populus, gratia, regina, name a real modern English word that derives from each and say what it means.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the listed Latin words.",
-        "Each English word actually descends from the Latin word given, not merely a look-alike.",
-        "States a short, correct meaning for each English word chosen."
-       ],
-       "model": "anima gives animate, to bring to life; crudelitas gives cruelty, harshness; hortus gives horticulture, the cultivation of gardens; populus gives populace, the common people; gratia gives gratitude, thankfulness.",
-       "why": "These English words descend through Latin from Most's vocabulary in this reading.",
-       "src": "Most",
-       "id": "lat-20-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'hortus' (garden)?",
        "choices": [
@@ -36997,7 +34915,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Horticulture derives from hortus, garden; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-20-1-e7"
+       "id": "lat-20-1-e6"
       },
       {
        "type": "mc",
@@ -37011,7 +34929,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Annular, ring-shaped, derives from anulus; the others are unrelated.",
        "src": "Most",
-       "id": "lat-20-1-e8"
+       "id": "lat-20-1-e7"
       }
      ],
      "id": "lat-20-1",
@@ -37256,19 +35174,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for the Latin words supplicium, dignitas, amicitia, simulatio, senectus, manifestus, unitas, servitus, name a real modern English word that derives from each and say what it means.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the listed Latin words.",
-        "Each English word actually descends from the Latin word given, not merely a look-alike.",
-        "States a short, correct meaning for each English word chosen."
-       ],
-       "model": "dignitas gives dignity, worthiness; amicitia gives amicable, friendly; simulatio gives simulation, a pretended likeness; manifestus gives manifest, clearly shown; unitas gives unity, oneness; servitus gives servitude, bondage; senectus gives senescence, the process of growing old.",
-       "why": "Each English word descends through Latin from Most's vocabulary in this lesson.",
-       "src": "Most",
-       "id": "lat-20-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'dignitas' (dignity)?",
        "choices": [
@@ -37280,7 +35185,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Dignitary derives from dignitas; the others are unrelated.",
        "src": "Most",
-       "id": "lat-20-2-e7"
+       "id": "lat-20-2-e6"
       },
       {
        "type": "mc",
@@ -37294,7 +35199,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Deception derives from decipere; the others come from different roots.",
        "src": "Most",
-       "id": "lat-20-2-e8"
+       "id": "lat-20-2-e7"
       }
      ],
      "id": "lat-20-2",
@@ -37476,19 +35381,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for the Latin words spirare, fiducia, cruciatus, capillus, illudere, inutilis, scelestus, name a real modern English word that derives from each and say what it means.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the listed Latin words.",
-        "Each English word actually descends from the Latin word given, not merely a look-alike.",
-        "States a short, correct meaning for each English word chosen."
-       ],
-       "model": "spirare gives respire, to breathe; fiducia gives fiduciary, held in trust; cruciatus gives excruciating, intensely painful; capillus gives capillary, a tiny hairlike vessel; illudere gives illusion, a deceptive appearance; inutilis shares its util- root with utility, usefulness.",
-       "why": "Each English word descends through Latin from Most's vocabulary in this lesson.",
-       "src": "Most",
-       "id": "lat-20-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'spirare' (breathe)?",
        "choices": [
@@ -37500,7 +35392,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Respiration derives from spirare, to breathe; the others are unrelated.",
        "src": "Most",
-       "id": "lat-20-3-e7"
+       "id": "lat-20-3-e6"
       },
       {
        "type": "mc",
@@ -37514,7 +35406,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Excruciating derives from cruciare/cruciatus; the others come from different roots.",
        "src": "Most",
-       "id": "lat-20-3-e8"
+       "id": "lat-20-3-e7"
       },
       {
        "type": "order",
@@ -37541,7 +35433,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "From Most's English-to-Latin key for Lectio 31: Senex se non comesurum esse carnes porcinas dixit.",
        "src": "Most",
-       "id": "lat-20-3-e9"
+       "id": "lat-20-3-e8"
       },
       {
        "type": "order",
@@ -37562,7 +35454,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Drawn from Most's English-to-Latin key: Deum mundi regem suscitaturum esse (that God, the king of the world, would raise up).",
        "src": "Most",
-       "id": "lat-20-3-e10"
+       "id": "lat-20-3-e9"
       }
      ],
      "id": "lat-20-3",
@@ -37788,19 +35680,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: torquere, frustra, vanus, invocare, carnifex, spes, creator.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin root",
-        "At least three Latin words are matched to a real derivative",
-        "No Latin homonyms passed off as derivatives"
-       ],
-       "model": "torquere gives torture and torque; frustra gives frustrate; vanus gives vain and vanity; invocare gives invoke and invocation; carnifex shares carn- with carnivore and carnage; spes (sperare) gives despair via spero; creator gives create and creature.",
-       "why": "Cognate hunt builds vocabulary by linking Latin roots to real English words.",
-       "src": "Most",
-       "id": "lat-20-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'torquere' (to twist, torture)?",
        "choices": [
@@ -37812,7 +35691,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Torque derives from torquere (to twist); tornado, tortoise, and torrent have unrelated origins.",
        "src": "Most",
-       "id": "lat-20-4-e7"
+       "id": "lat-20-4-e6"
       },
       {
        "type": "mc",
@@ -37826,7 +35705,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Creature comes from creare; crater is Greek, credit is from credere, and crease is unrelated.",
        "src": "Most",
-       "id": "lat-20-4-e8"
+       "id": "lat-20-4-e7"
       }
      ],
      "id": "lat-20-4",
@@ -37994,19 +35873,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-5-e6"
       },
       {
-       "type": "compose",
-       "q": "Find genuine English derivatives for these Latin words from the reading: iustitia, populus, civitas, testis, zelus, propitius, polluere, sacerdos.",
-       "rubric": [
-        "Each English word genuinely derives from the listed Latin root",
-        "At least three Latin words are matched to a real derivative",
-        "No Latin homonyms passed off as derivatives"
-       ],
-       "model": "iustitia gives justice and justify; populus gives popular and populace; civitas gives city and civic; testis gives testimony and testify; zelus gives zeal and zealous; propitius gives propitious and propitiate; polluere gives pollute and pollution; sacerdos gives sacerdotal.",
-       "why": "Cognate hunt links the Latin roots to real English derivatives.",
-       "src": "Most",
-       "id": "lat-20-5-e7"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'testis' (witness)?",
        "choices": [
@@ -38018,7 +35884,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Testimony derives from testis (witness); the other choices do not derive from this root in that sense.",
        "src": "Most",
-       "id": "lat-20-5-e8"
+       "id": "lat-20-5-e7"
       },
       {
        "type": "mc",
@@ -38032,7 +35898,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Pollute derives from polluere; polish, pollen, and polite have unrelated origins.",
        "src": "Most",
-       "id": "lat-20-5-e9"
+       "id": "lat-20-5-e8"
       },
       {
        "type": "order",
@@ -38063,7 +35929,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key for the English-to-Latin block gives: \"Filius tertius venit: se propter leges Dei corpus suum despicere.\"",
        "src": "Most",
-       "id": "lat-20-5-e10"
+       "id": "lat-20-5-e9"
       },
       {
        "type": "order",
@@ -38096,7 +35962,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The answer key gives: \"Filius secundus etiam recusavit regi obedire: se velle legibus patriis obedire.\"",
        "src": "Most",
-       "id": "lat-20-5-e11"
+       "id": "lat-20-5-e10"
       }
      ],
      "id": "lat-20-5",
@@ -38237,19 +36103,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a genuine English derivative for each: leo, vermis, gloria, iustitia, testamentum, simplicitas.",
-       "rubric": [
-        "At least three of the six words are paired with a real English derivative",
-        "Each derivative truly descends from the Latin word given (not a same-sounding unrelated word)",
-        "No em dashes or en dashes are used in the answer"
-       ],
-       "model": "leo gives leonine; vermis gives vermin; gloria gives glory; iustitia gives justice; testamentum gives testament; simplicitas gives simplicity.",
-       "why": "These English words descend directly from the listed Latin roots.",
-       "src": "Most",
-       "id": "lat-20-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'vermis'?",
        "choices": [
@@ -38261,7 +36114,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Vermin derives from Latin vermis (worm); the other choices come from unrelated roots.",
        "src": "Most",
-       "id": "lat-20-6-e7"
+       "id": "lat-20-6-e6"
       },
       {
        "type": "mc",
@@ -38275,7 +36128,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Leonine (lionlike) derives from leo, leonis; the other words are unrelated.",
        "src": "Most",
-       "id": "lat-20-6-e8"
+       "id": "lat-20-6-e7"
       },
       {
        "type": "order",
@@ -38304,7 +36157,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key separates the agreeing pair Boni...viri and multis...tentationibus around the relative clause.",
        "src": "Most",
-       "id": "lat-20-6-e9"
+       "id": "lat-20-6-e8"
       },
       {
        "type": "order",
@@ -38329,7 +36182,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "This is Most's English-to-Latin answer key for sentence 2 of the exercise.",
        "src": "Most",
-       "id": "lat-20-6-e10"
+       "id": "lat-20-6-e9"
       }
      ],
      "id": "lat-20-6",
@@ -38556,19 +36409,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-7-e6"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a genuine English derivative for each: timor, multiplicare, conventus, gladium, regio, virtus.",
-       "rubric": [
-        "At least three of the six words are paired with a real English derivative",
-        "Each derivative truly descends from the Latin word given (not a coincidental look alike)",
-        "No em dashes or en dashes appear in the answer"
-       ],
-       "model": "timor gives timorous; multiplicare gives multiply; conventus gives convent; gladium gives gladiator; regio gives region; virtus gives virtue.",
-       "why": "Each English word derives directly from the listed Latin root.",
-       "src": "Most",
-       "id": "lat-20-7-e7"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gladium' (gladius)?",
        "choices": [
@@ -38580,7 +36420,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gladiator derives from gladius (sword); glad, glade, and glance come from unrelated roots.",
        "src": "Most",
-       "id": "lat-20-7-e8"
+       "id": "lat-20-7-e7"
       },
       {
        "type": "mc",
@@ -38594,7 +36434,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Timorous derives from timor (fear); timber, time, and timer are unrelated.",
        "src": "Most",
-       "id": "lat-20-7-e9"
+       "id": "lat-20-7-e8"
       },
       {
        "type": "order",
@@ -38619,7 +36459,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's answer key splits the agreeing pair Multa...mala around the comparison clause sicut timuerunt.",
        "src": "Most",
-       "id": "lat-20-7-e10"
+       "id": "lat-20-7-e9"
       }
      ],
      "id": "lat-20-7",
@@ -38810,19 +36650,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Latin words of the reading find genuine English derivatives: corona, spolium, salvator, ornare, impetus, tuba, gens.",
-       "rubric": [
-        "Lists at least three real English words, each paired with its Latin source from the list.",
-        "Each English word genuinely derives from the Latin word given (no invented links).",
-        "No dashes used anywhere in the answer."
-       ],
-       "model": "corona gives coronation and coronary; salvator gives salvation and salvage; ornare gives ornament and ornate; impetus gives impetuous; spolium gives spoliation, the act of plundering; gens gives gentile and genteel.",
-       "why": "These are real English derivations from this lesson's Latin vocabulary.",
-       "src": "Most",
-       "id": "lat-20-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'ornare' (adorn, decorate)?",
        "choices": [
@@ -38834,7 +36661,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ornament derives from Latin ornare; the others are unrelated in origin.",
        "src": "Most",
-       "id": "lat-20-8-e7"
+       "id": "lat-20-8-e6"
       },
       {
        "type": "mc",
@@ -38848,7 +36675,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Coronation derives from corona; corner, corral, and cornet come from other roots.",
        "src": "Most",
-       "id": "lat-20-8-e8"
+       "id": "lat-20-8-e7"
       }
      ],
      "id": "lat-20-8",
@@ -39060,19 +36887,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. From these Latin words of the reading find genuine English derivatives: homicida, vermis, invisibilis, fluctus, blasphemus, superbia, utilitas.",
-       "rubric": [
-        "Lists at least three real English words, each paired with its Latin source from the list.",
-        "Each English word genuinely derives from the Latin word given (no invented links).",
-        "No dashes used anywhere in the answer."
-       ],
-       "model": "homicida gives homicide; vermis gives vermin and vermicelli; invisibilis gives invisible; fluctus gives fluctuate and fluctuation; blasphemus gives blasphemy and blasphemous; superbia gives superb; utilitas gives utility and utilitarian.",
-       "why": "These are real English derivations from this lesson's Latin vocabulary.",
-       "src": "Most",
-       "id": "lat-20-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'homicida' (murderer)?",
        "choices": [
@@ -39084,7 +36898,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Homicide derives from Latin homicida; homily, homage, and homonym come from other roots.",
        "src": "Most",
-       "id": "lat-20-9-e7"
+       "id": "lat-20-9-e6"
       },
       {
        "type": "mc",
@@ -39098,7 +36912,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Fluctuate derives from fluctus (wave); flute, fluster, and fluff are unrelated in origin.",
        "src": "Most",
-       "id": "lat-20-9-e8"
+       "id": "lat-20-9-e7"
       },
       {
        "type": "order",
@@ -39123,7 +36937,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The key gives: Pessimus quem timebamus inimicus noster mortuus est.",
        "src": "Most",
-       "id": "lat-20-9-e9"
+       "id": "lat-20-9-e8"
       },
       {
        "type": "order",
@@ -39144,7 +36958,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "The key gives: Quod amaverunt sanctuarium viderunt desertum.",
        "src": "Most",
-       "id": "lat-20-9-e10"
+       "id": "lat-20-9-e9"
       }
      ],
      "id": "lat-20-9",
@@ -39269,19 +37083,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, give one real English derivative each where one exists: populus, exercitus, honor, gladius, civitas.",
-       "rubric": [
-        "Derivations are real English words that genuinely descend from the Latin word",
-        "At least three of the five words are correctly matched",
-        "No answer lists a mere look-alike that does not share the root"
-       ],
-       "model": "populus gives 'popular' and 'populace'; exercitus gives 'exercise'; honor gives 'honorable' and 'honorary'; gladius gives 'gladiator'; civitas gives 'city' and 'civic'.",
-       "why": "These Latin words have well-attested English derivatives, reinforcing recognition of the vocabulary.",
-       "src": "Most",
-       "id": "lat-20-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'gladius' (sword)?",
        "choices": [
@@ -39293,7 +37094,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Gladiator' derives from gladius (sword); 'glad', 'glide', and 'gladness' are unrelated Germanic words.",
        "src": "Most",
-       "id": "lat-20-10-e7"
+       "id": "lat-20-10-e6"
       },
       {
        "type": "mc",
@@ -39307,7 +37108,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Popular' derives from populus (people); 'purple' comes from purpura, 'pupil' and 'puppet' from pupillus/pupa, so none of the distractors share the populus root.",
        "src": "Most",
-       "id": "lat-20-10-e8"
+       "id": "lat-20-10-e7"
       }
      ],
      "id": "lat-20-10",
@@ -39429,19 +37230,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-11-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, give one real English derivative each where one exists: provincia, senatus, gloria, pax, matrimonium.",
-       "rubric": [
-        "Each derivative is a genuine English descendant of the Latin word",
-        "At least three of the five are correctly matched",
-        "No look-alike is offered that does not share the root"
-       ],
-       "model": "provincia gives 'province' and 'provincial'; senatus gives 'senate' and 'senator'; gloria gives 'glory' and 'glorious'; pax gives 'pacify' and 'pacific'; matrimonium gives 'matrimony' and 'matrimonial'.",
-       "why": "These words all have established English derivatives, reinforcing the vocabulary of the reading.",
-       "src": "Most",
-       "id": "lat-20-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'pax, pacis' (peace)?",
        "choices": [
@@ -39453,7 +37241,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Pacify' derives from pax/pacare (to make peace); 'pact' comes from pacisci, 'package' and 'patch' are unrelated.",
        "src": "Most",
-       "id": "lat-20-11-e7"
+       "id": "lat-20-11-e6"
       },
       {
        "type": "mc",
@@ -39467,7 +37255,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "'Senator' derives directly from senatus; 'senile' comes from senex, 'sensible' from sentire, 'sentinel' from a separate root.",
        "src": "Most",
-       "id": "lat-20-11-e8"
+       "id": "lat-20-11-e7"
       },
       {
        "type": "order",
@@ -39486,7 +37274,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this English-to-Latin sentence as 'Credentes duci capti sunt', using the present participle for the relative clause.",
        "src": "Most",
-       "id": "lat-20-11-e9"
+       "id": "lat-20-11-e8"
       },
       {
        "type": "order",
@@ -39505,7 +37293,7 @@ window.COURSE_DATA.courses.push({
        ],
        "why": "Most's key renders this English-to-Latin sentence as 'Sequentes Ionathan pauci erant'.",
        "src": "Most",
-       "id": "lat-20-11-e10"
+       "id": "lat-20-11-e9"
       }
      ],
      "id": "lat-20-11",
@@ -39703,19 +37491,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-12-e5"
       },
       {
-       "type": "compose",
-       "q": "From this lesson's prayers come the Latin words: preces, gloria, caritas, munera, Deus, intercessione. Name three genuine English derivatives and the Latin word each comes from.",
-       "rubric": [
-        "Gives at least three real English words that genuinely derive from these Latin words",
-        "Pairs each English word with the correct Latin source",
-        "Avoids inventing cognates or listing a Latin word's plain English homonym as its derivative"
-       ],
-       "model": "preces gives 'imprecation' and 'precarious'; gloria gives 'glory' and 'glorify'; caritas gives 'charity' and 'charitable'; munera (munus) gives 'munificent' and 'remunerate'; intercessione gives 'intercede' and 'intercession'.",
-       "why": "These are all real derivations, showing how Latin prayer vocabulary survives in English.",
-       "src": "Most",
-       "id": "lat-20-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from the Latin 'caritas' (love, charity)?",
        "choices": [
@@ -39727,7 +37502,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'charity' descends from caritas; carrot, cart, and chariot come from unrelated roots.",
        "src": "Most",
-       "id": "lat-20-12-e7"
+       "id": "lat-20-12-e6"
       },
       {
        "type": "mc",
@@ -39741,7 +37516,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Augment' derives from augere (to increase); auger is a tool from Old English nafogar, auburn is from Latin albus (whitish), and armor is from arma. None of these comes from augere.",
        "src": "Most",
-       "id": "lat-20-12-e8"
+       "id": "lat-20-12-e7"
       }
      ],
      "id": "lat-20-12",
@@ -39925,19 +37700,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-20-13-e5"
       },
       {
-       "type": "compose",
-       "q": "From this lesson come the Latin words: patria, vulnus, corona (coronare), Ecclesia, famulus, doctrina. Name three genuine English derivatives and the Latin word each comes from.",
-       "rubric": [
-        "Gives at least three real English words that genuinely derive from these Latin words",
-        "Pairs each English word with the correct Latin source",
-        "Avoids inventing cognates or listing a Latin word's plain English homonym as its derivative"
-       ],
-       "model": "patria gives 'patriot' and 'expatriate'; vulnus gives 'vulnerable'; coronare (corona) gives 'coronation' and 'coronary'; Ecclesia gives 'ecclesiastical'; doctrina gives 'doctrine' and 'doctrinal'.",
-       "why": "These are all genuine derivations, showing the survival of liturgical Latin in English.",
-       "src": "Most",
-       "id": "lat-20-13-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from the Latin 'vulnus' (wound)?",
        "choices": [
@@ -39949,7 +37711,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Vulnerable' derives from vulnus (wound); vulgar is from vulgus, voluble from volvere, and vulture from a separate root.",
        "src": "Most",
-       "id": "lat-20-13-e7"
+       "id": "lat-20-13-e6"
       },
       {
        "type": "mc",
@@ -39963,7 +37725,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Coronation' derives from corona/coronare; corner, corral, and corduroy come from unrelated roots.",
        "src": "Most",
-       "id": "lat-20-13-e8"
+       "id": "lat-20-13-e7"
       }
      ],
      "id": "lat-20-13",
@@ -40147,19 +37909,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, name a genuine English word that derives from each: communio, remedium, supplex, gubernare, infirmitas, salvare.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from the Latin root, not merely a look-alike",
-        "No Latin word is paired with its own English homonym as the supposed derivative"
-       ],
-       "model": "communio gives communion; remedium gives remedy and remedial; supplex gives supplicate and supplication; gubernare gives govern, governor, and gubernatorial; infirmitas gives infirm and infirmary; salvare gives salvage and salvation.",
-       "why": "Tracing these collect-prayer words to their living English descendants reinforces the vocabulary through real derivation.",
-       "src": "Most",
-       "id": "lat-21-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'gubernare' (govern, direct)?",
        "choices": [
@@ -40171,7 +37920,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Gubernatorial descends from Latin gubernare through gubernator; the other choices are unrelated in origin.",
        "src": "Most",
-       "id": "lat-21-1-e7"
+       "id": "lat-21-1-e6"
       }
      ],
      "id": "lat-21-1",
@@ -40385,19 +38134,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, name a genuine English word that derives from each: solemnitas, venerari, imitari, celebrare, benignus, eruditio.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the listed words",
-        "Each derivative genuinely descends from the Latin root, not merely a look-alike",
-        "No Latin word is paired with its own English homonym as the supposed derivative"
-       ],
-       "model": "solemnitas gives solemnity and solemn; venerari gives venerate and veneration; imitari gives imitate and imitation; celebrare gives celebrate and celebration; benignus gives benign and benignity; eruditio gives erudite and erudition.",
-       "why": "Linking these prayer-vocabulary words to real English descendants anchors them through genuine derivation.",
-       "src": "Most",
-       "id": "lat-21-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'celebrare' (celebrate)?",
        "choices": [
@@ -40409,7 +38145,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Celebrant descends from Latin celebrare; cellar, celery, and celibate come from unrelated roots.",
        "src": "Most",
-       "id": "lat-21-2-e7"
+       "id": "lat-21-2-e6"
       }
      ],
      "id": "lat-21-2",
@@ -40528,19 +38264,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from this lesson's words (deprecatio, defensio, petitio, perpetuus, largiri, exultare, consuetus), give a real English derivative for three of them.",
-       "rubric": [
-        "Provides three real English words, each tied to a different Latin term above.",
-        "Each English word genuinely derives from the Latin root (no homonyms or invented links).",
-        "Uses no em dashes or en dashes anywhere in the answer."
-       ],
-       "model": "petitio gives \"petition\"; defensio gives \"defense\" and \"defensive\"; perpetuus gives \"perpetual\" and \"perpetuity\"; exultare gives \"exult\" and \"exultant.\"",
-       "why": "These Latin stems pass directly into recognizable English vocabulary.",
-       "src": "Most",
-       "id": "lat-21-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'petitio' (petition)?",
        "choices": [
@@ -40552,7 +38275,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Petition descends from petitio/petere; petite, petty, and pet come from unrelated roots.",
        "src": "Most",
-       "id": "lat-21-3-e7"
+       "id": "lat-21-3-e6"
       },
       {
        "type": "mc",
@@ -40566,7 +38289,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Perpetuate derives from perpetuus; the other options come from different Latin stems.",
        "src": "Most",
-       "id": "lat-21-3-e8"
+       "id": "lat-21-3-e7"
       }
      ],
      "id": "lat-21-3",
@@ -40812,19 +38535,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from this lesson's words (multiplicare, abluere, effundere, pignus, concors, vitium, proles, dulcedo), give a real English derivative for three of them.",
-       "rubric": [
-        "Provides three real English words, each tied to a different Latin term above.",
-        "Each English word genuinely derives from the Latin root, not a chance look-alike.",
-        "Contains no em dashes or en dashes."
-       ],
-       "model": "multiplicare gives \"multiply\" and \"multiplication\"; effundere gives \"effusion\" and \"effusive\"; concors gives \"concord\"; vitium gives \"vice\" and \"vitiate.\"",
-       "why": "Each of these Latin stems is the source of standard English vocabulary.",
-       "src": "Most",
-       "id": "lat-21-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'multiplicare' (multiply)?",
        "choices": [
@@ -40836,7 +38546,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Multiply descends from multiplicare; multitude comes from multitudo, while mulch and mullet are unrelated.",
        "src": "Most",
-       "id": "lat-21-4-e7"
+       "id": "lat-21-4-e6"
       },
       {
        "type": "mc",
@@ -40850,7 +38560,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Reverence comes from revereri/vereri; verify is from verus, and veneer and veer are unrelated.",
        "src": "Most",
-       "id": "lat-21-4-e8"
+       "id": "lat-21-4-e7"
       }
      ],
      "id": "lat-21-4",
@@ -40994,19 +38704,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-5-e4"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading give one real English word derived from it: episcopus, persecutio, imperium, mortalitas, sanctus.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the words",
-        "Derivations are real and not invented (no false homonyms)",
-        "Answer is written without dashes"
-       ],
-       "model": "episcopus gives episcopal; persecutio gives persecution; imperium gives imperial; mortalitas gives mortality; sanctus gives sanctify.",
-       "why": "Recognizing real English derivatives reinforces the Latin vocabulary of Cyprian's life.",
-       "src": "Most",
-       "id": "lat-21-5-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'episcopus' (bishop)?",
        "choices": [
@@ -41018,7 +38715,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Episcopal derives from episcopus (bishop); the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-21-5-e6"
+       "id": "lat-21-5-e5"
       }
      ],
      "id": "lat-21-5",
@@ -41237,19 +38934,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading give one real English word derived from it: oratio, salus, testari, advocatus, gratia, veritas.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the words",
-        "Each derivation is real and not invented",
-        "Answer contains no dashes"
-       ],
-       "model": "oratio gives oration; salus gives salutary; testari gives testify; advocatus gives advocate; gratia gives gratitude; veritas gives verity.",
-       "why": "Connecting these Latin words to real English derivatives strengthens recall of Cyprian's vocabulary.",
-       "src": "Most",
-       "id": "lat-21-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'advocatus' (advocate)?",
        "choices": [
@@ -41261,7 +38945,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Advocate derives directly from advocatus; the other words come from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-21-6-e7"
+       "id": "lat-21-6-e6"
       },
       {
        "type": "mc",
@@ -41275,7 +38959,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Aural (relating to the ear) derives from auris; aurora, auto, and author come from different roots.",
        "src": "Most",
-       "id": "lat-21-6-e8"
+       "id": "lat-21-6-e7"
       }
      ],
      "id": "lat-21-6",
@@ -41531,19 +39215,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-7-e5"
       },
       {
-       "type": "compose",
-       "q": "Find a real modern English word that derives from each of these Latin words from the reading: disciplina, maiestas, occultus, labium, memor.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the five words",
-        "Each derivative truly comes from the listed Latin root",
-        "No invented or unrelated words are offered"
-       ],
-       "model": "disciplina gives 'discipline' and 'disciplined'; maiestas gives 'majesty' and 'majestic'; occultus gives 'occult'; labium gives 'labial'; memor gives 'memory' and 'memorial'.",
-       "why": "These Latin words have well-attested English descendants, reinforcing vocabulary through cognates.",
-       "src": "Most",
-       "id": "lat-21-7-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from the Latin 'cubiculum' / 'cubile' (bedroom, place of lying down)?",
        "choices": [
@@ -41555,7 +39226,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Cubicle' derives from Latin cubiculum, a small sleeping chamber. The distractors come from unrelated roots: cube from Greek kybos, chamber from Latin camera, and garden from a Germanic word. (Note: cubit and incubator were avoided as distractors because they also descend from cubare, the root of cubiculum.)",
        "src": "Most",
-       "id": "lat-21-7-e7"
+       "id": "lat-21-7-e6"
       }
      ],
      "id": "lat-21-7",
@@ -41745,19 +39416,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-8-e5"
       },
       {
-       "type": "compose",
-       "q": "Find a real modern English word that derives from each of these Latin words from the reading: evangelium, fiducia, implorare, magis, debitor.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the five words",
-        "Each derivative truly traces back to the listed Latin root",
-        "No invented or coincidental look-alikes are offered"
-       ],
-       "model": "evangelium gives 'evangelical' and 'evangelist'; fiducia gives 'fiduciary'; implorare gives 'implore'; debitor gives 'debtor' and 'debit'.",
-       "why": "Each Latin word has a recognized English descendant, reinforcing vocabulary.",
-       "src": "Most",
-       "id": "lat-21-8-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from the Latin 'evangelium' (Gospel, good news)?",
        "choices": [
@@ -41769,7 +39427,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Evangelist' derives from evangelium; the other choices come from unrelated roots (evening from Old English, evict from evincere, evaporate from vapor).",
        "src": "Most",
-       "id": "lat-21-8-e7"
+       "id": "lat-21-8-e6"
       },
       {
        "type": "mc",
@@ -41783,7 +39441,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "'Justification' derives from iustificare; the others come from unrelated roots.",
        "src": "Most",
-       "id": "lat-21-8-e8"
+       "id": "lat-21-8-e7"
       }
      ],
      "id": "lat-21-8",
@@ -41995,19 +39653,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-9-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a real English word descended from each: doctor, unitas, populus, oratio, concordia, simplex.",
-       "rubric": [
-        "Give one genuine English derivative for at least four of the six words",
-        "Each derivative must truly descend from the listed Latin word, not merely resemble it",
-        "Keep each answer to a single English word"
-       ],
-       "model": "doctor gives doctrine and doctoral, unitas gives unit and unity, populus gives popular and populace, oratio gives oration and oratory, concordia gives concord and concordance, simplex gives simple and simplicity.",
-       "why": "These Latin words left clear English descendants, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-21-9-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'populus' (people)?",
        "choices": [
@@ -42019,7 +39664,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Populus (people) gives English popular; pamphlet comes from the name Pamphilus, and the others are unrelated.",
        "src": "Most",
-       "id": "lat-21-9-e7"
+       "id": "lat-21-9-e6"
       },
       {
        "type": "mc",
@@ -42033,7 +39678,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Oratio (speech, prayer) gives English oration; the others derive from unrelated roots.",
        "src": "Most",
-       "id": "lat-21-9-e8"
+       "id": "lat-21-9-e7"
       }
      ],
      "id": "lat-21-9",
@@ -42264,19 +39909,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-10-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt. For these Latin words from the reading, give a real English word descended from each: homicida, indignatio, aeternitas, generare, pretium, indulgentia.",
-       "rubric": [
-        "Give one genuine English derivative for at least four of the six words",
-        "Each derivative must truly descend from the listed Latin word, not merely resemble it",
-        "Keep each answer to a single English word"
-       ],
-       "model": "homicida gives homicide, indignatio gives indignation, aeternitas gives eternity, generare gives generate, pretium gives precious, indulgentia gives indulgence.",
-       "why": "These Latin words produced clear English descendants, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-21-10-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'homicida' (murderer)?",
        "choices": [
@@ -42288,7 +39920,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Homicida (murderer) gives English homicide; homily is from Greek homilia, harmony from Greek harmonia, and homely from English home, none from homicida.",
        "src": "Most",
-       "id": "lat-21-10-e7"
+       "id": "lat-21-10-e6"
       },
       {
        "type": "mc",
@@ -42302,7 +39934,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Aeternitas gives English eternity directly; internal comes from internus, ternary from terni, and tern is a seabird, none from the aetern- root.",
        "src": "Most",
-       "id": "lat-21-10-e8"
+       "id": "lat-21-10-e7"
       }
      ],
      "id": "lat-21-10",
@@ -42490,19 +40122,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-11-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give a real English word that derives from it: sanctificare, regnum, nomen, terrenus, oratio, resurgere.",
-       "rubric": [
-        "Gives at least three genuine English derivations (not mere look-alikes).",
-        "Each English word truly descends from the Latin root given.",
-        "No Latin word is paired with an unrelated English homonym."
-       ],
-       "model": "sanctificare gives sanctify/sanctification; regnum gives reign/regnal; nomen gives nominal/nominate; terrenus gives terrestrial/terrain; oratio gives oration/orator; resurgere gives resurgent/resurrection.",
-       "why": "These Latin words have direct English descendants, which fixes them in memory.",
-       "src": "Most",
-       "id": "lat-21-11-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'saeculum' (world, age)?",
        "choices": [
@@ -42514,7 +40133,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'secular' derives from saeculum (an age, the worldly realm); the others come from unrelated Latin roots.",
        "src": "Most",
-       "id": "lat-21-11-e7"
+       "id": "lat-21-11-e6"
       },
       {
        "type": "mc",
@@ -42528,7 +40147,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'reign' descends from regnum; region comes from regio, regular from regula, rigid from rigidus.",
        "src": "Most",
-       "id": "lat-21-11-e8"
+       "id": "lat-21-11-e7"
       }
      ],
      "id": "lat-21-11",
@@ -42705,19 +40324,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-21-12-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for each of these Latin words from the reading, give a real English word that derives from it: voluntas, caritas, concupiscentia, ambitio, patientia, aeternus.",
-       "rubric": [
-        "Gives at least three genuine English derivations (not mere look-alikes).",
-        "Each English word truly descends from the Latin root given.",
-        "No Latin word is paired with an unrelated English homonym."
-       ],
-       "model": "voluntas gives voluntary/volition; caritas gives charity/charitable; concupiscentia gives concupiscence/concupiscent; ambitio gives ambition/ambitious; patientia gives patience/patient; aeternus gives eternal/eternity.",
-       "why": "These Latin words have direct English descendants, which fixes them in memory.",
-       "src": "Most",
-       "id": "lat-21-12-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'voluntas' (will)?",
        "choices": [
@@ -42729,7 +40335,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'voluntary' descends from voluntas; volume comes from volumen, volatile from volare, voltage from the name Volta.",
        "src": "Most",
-       "id": "lat-21-12-e7"
+       "id": "lat-21-12-e6"
       },
       {
        "type": "mc",
@@ -42743,7 +40349,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'pacify' descends from pax/pacem; package and pace come from other roots, and pact comes from pactum.",
        "src": "Most",
-       "id": "lat-21-12-e8"
+       "id": "lat-21-12-e7"
       }
      ],
      "id": "lat-21-12",
@@ -42985,19 +40591,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words of the reading, give one real English derivative each for at least three of them: salus (salutis), terra, corpus, panis, caritas, spiritus, fides.",
-       "rubric": [
-        "At least three Latin words are each matched to a real English derivative",
-        "Each derivative genuinely comes from that Latin root, not a chance look-alike",
-        "Answer is dash-free and lists the English word beside its Latin source"
-       ],
-       "model": "salus -> salutary; terra -> terrain (terrestrial); corpus -> corporal (corporate); panis -> pantry; caritas -> charity; spiritus -> spirit (spiritual); fides -> fidelity.",
-       "why": "These reading words have clear, real English descendants.",
-       "src": "Most",
-       "id": "lat-22-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'caro, carnis' (flesh), seen in the reading as 'caro' and 'carnem'?",
        "choices": [
@@ -43009,7 +40602,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Carnival derives from caro/carnem (flesh); the others do not.",
        "src": "Most",
-       "id": "lat-22-1-e7"
+       "id": "lat-22-1-e6"
       },
       {
        "type": "mc",
@@ -43023,7 +40616,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Pantry derives from panis (bread); panic, panel, and pane have other origins.",
        "src": "Most",
-       "id": "lat-22-1-e8"
+       "id": "lat-22-1-e7"
       }
      ],
      "id": "lat-22-1",
@@ -43371,19 +40964,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-2-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words of the reading, give one real English derivative each for at least three: radix, cupiditas, lacus, fera, pauper, victus, liber.",
-       "rubric": [
-        "At least three Latin words are each matched to a real English derivative",
-        "Each derivative genuinely descends from that Latin root, not a coincidental look-alike",
-        "Answer is dash-free and pairs each English word with its Latin source"
-       ],
-       "model": "radix -> radical (radish); cupiditas -> cupidity; lacus -> lagoon (lake); fera -> feral (ferocious); pauper -> poverty (impoverish); victus -> victuals; liber -> liberty (liberate).",
-       "why": "These reading words have genuine English descendants.",
-       "src": "Most",
-       "id": "lat-22-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'avis' (bird), seen in 'aves pascunt'?",
        "choices": [
@@ -43395,7 +40975,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Aviation derives from avis (bird); the others have unrelated roots.",
        "src": "Most",
-       "id": "lat-22-2-e7"
+       "id": "lat-22-2-e6"
       },
       {
        "type": "mc",
@@ -43409,7 +40989,7 @@ window.COURSE_DATA.courses.push({
        "answer": 1,
        "why": "Liberty derives from liber 'free'; library and librarian come from liber 'book', a different word.",
        "src": "Most",
-       "id": "lat-22-2-e8"
+       "id": "lat-22-2-e7"
       }
      ],
      "id": "lat-22-2",
@@ -43685,19 +41265,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-3-e5"
       },
       {
-       "type": "compose",
-       "q": "For these Latin words from the lesson, name a real English word that derives from each: debitor, sacrificium, conscientia, pacificus, homicida.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the words",
-        "Each derivative truly descends from the given Latin root",
-        "Answer is free of em dashes and en dashes"
-       ],
-       "model": "debitor gives debtor and debit; sacrificium gives sacrifice; conscientia gives conscience and conscientious; pacificus gives pacific and pacify; homicida gives homicide.",
-       "why": "These Latin words survive in common English derivatives, which helps fix their meaning.",
-       "src": "Most",
-       "id": "lat-22-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'martyrium' (martyrdom)?",
        "choices": [
@@ -43709,7 +41276,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Martyr descends from the same root as martyrium; the others are unrelated in origin.",
        "src": "Most",
-       "id": "lat-22-3-e7"
+       "id": "lat-22-3-e6"
       },
       {
        "type": "mc",
@@ -43723,7 +41290,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Coronation derives from corona/coronare (crown); carnival comes from caro/carnem, candle from candere, and current from currere.",
        "src": "Most",
-       "id": "lat-22-3-e8"
+       "id": "lat-22-3-e7"
       }
      ],
      "id": "lat-22-3",
@@ -43947,19 +41514,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-4-e5"
       },
       {
-       "type": "compose",
-       "q": "For these Latin words from the lesson, name a real English word that derives from each: tentatio, vigilare, conclusio (from concludere), securus, tutor.",
-       "rubric": [
-        "Gives a genuine English derivative for at least three of the words",
-        "Each derivative truly descends from the given Latin root",
-        "Answer contains no em dashes or en dashes"
-       ],
-       "model": "tentatio gives temptation; vigilare gives vigil and vigilant; concludere gives conclude and conclusion; securus gives secure and security; tutor gives tutelage and tutorial.",
-       "why": "These Latin words survive in everyday English derivatives, which helps fix their meaning.",
-       "src": "Most",
-       "id": "lat-22-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'expugnare' (to take by assault)?",
        "choices": [
@@ -43971,7 +41525,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Pugnacious shares the root pugna/pugnare (fight) with expugnare; the others derive from different roots.",
        "src": "Most",
-       "id": "lat-22-4-e7"
+       "id": "lat-22-4-e6"
       },
       {
        "type": "mc",
@@ -43985,7 +41539,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Admonish descends from admonere; administer, admire, and admit come from different Latin verbs.",
        "src": "Most",
-       "id": "lat-22-4-e8"
+       "id": "lat-22-4-e7"
       }
      ],
      "id": "lat-22-4",
@@ -44149,19 +41703,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-5-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, give a genuine English derivative for each and explain the link: magisterium, compendium, maiestas, demonstrare, indoctus.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the words",
-        "Each derivative truly descends from the Latin root, not a chance look-alike",
-        "Explanations are short and dash-free"
-       ],
-       "model": "magisterium gives magisterial and magistrate (relating to a master or teacher). compendium gives compendious (a concise summary). maiestas gives majesty and majestic (greatness, grandeur). demonstrare gives demonstrate and demonstration (to show or prove). indoctus relates to doctrine and doctor through doctus, learned (here un-learned).",
-       "why": "These Latin words have clear, genuine English descendants, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-22-5-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'compendium' (a summary)?",
        "choices": [
@@ -44173,7 +41714,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Compendious derives from compendium (a concise summary). Compete, company, and complain come from unrelated Latin roots (petere, panis/companio, plangere).",
        "src": "Most",
-       "id": "lat-22-5-e7"
+       "id": "lat-22-5-e6"
       }
      ],
      "id": "lat-22-5",
@@ -44377,19 +41918,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-6-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: for these Latin words from the reading, give a genuine English derivative for each and explain the link: redimere, cogitatio, penetrare, sensus, discordia, benignitas.",
-       "rubric": [
-        "Gives a real English derivative for at least three of the words",
-        "Each derivative truly descends from the Latin root, not a chance look-alike",
-        "Explanations are short and dash-free"
-       ],
-       "model": "redimere gives redeem and redemption (to buy back). cogitatio gives cogitate and cogitation (thinking, thought). penetrare gives penetrate and penetration (to pass into). sensus gives sense, sensation, and sensory (perception). discordia gives discord and discordant (lack of agreement). benignitas gives benign and benignity (kindliness).",
-       "why": "These Latin words have clear, genuine English descendants, reinforcing the vocabulary.",
-       "src": "Most",
-       "id": "lat-22-6-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word genuinely comes from Latin 'redimere' (to redeem, buy back)?",
        "choices": [
@@ -44401,7 +41929,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Redemption derives from redimere/redemptus (to buy back). Redundant (redundare), reduce (reducere), and render (reddere) come from different Latin roots.",
        "src": "Most",
-       "id": "lat-22-6-e7"
+       "id": "lat-22-6-e6"
       },
       {
        "type": "mc",
@@ -44415,7 +41943,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Sensation derives from sensus/sentire (to perceive). Season (satio), senate (senatus, from senex), and second (secundus) come from unrelated roots.",
        "src": "Most",
-       "id": "lat-22-6-e8"
+       "id": "lat-22-6-e7"
       }
      ],
      "id": "lat-22-6",
@@ -44548,19 +42076,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-7-e3"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: arbor, sterilis, auditor, centurio, benignus, operatio.",
-       "rubric": [
-        "Give a real English word for at least three of the listed Latin words",
-        "Each English word genuinely derives from its Latin source",
-        "No invented or homonym pairings"
-       ],
-       "model": "arbor gives arboreal and arborist; sterilis gives sterile and sterilize; auditor gives audition and auditory; centurio gives century and centurion; benignus gives benign and benignity; operatio gives operation and operative.",
-       "why": "These Latin nouns and adjectives left clear English descendants.",
-       "src": "Most",
-       "id": "lat-22-7-e4"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'arbor'?",
        "choices": [
@@ -44572,7 +42087,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'arboreal' derives from Latin arbor, tree; arbiter is from Latin arbiter, harbor is Germanic, and ardor is from Latin ardere.",
        "src": "Most",
-       "id": "lat-22-7-e5"
+       "id": "lat-22-7-e4"
       }
      ],
      "id": "lat-22-7",
@@ -44715,19 +42230,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-8-e3"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: revelare, nodus, prandium, claritas, contestari, pressura, sacrificium.",
-       "rubric": [
-        "Give a real English word for at least three of the listed Latin words",
-        "Each English word genuinely derives from its Latin source",
-        "No invented or homonym pairings"
-       ],
-       "model": "revelare gives reveal and revelation; nodus gives node and nodule; claritas gives clarity and clarify; contestari gives contest and testify; pressura gives pressure and press; sacrificium gives sacrifice and sacrificial.",
-       "why": "These Latin words are the roots of common English derivatives.",
-       "src": "Most",
-       "id": "lat-22-8-e4"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'nodus'?",
        "choices": [
@@ -44739,7 +42241,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'node' derives from Latin nodus, knot; the others are unrelated in origin.",
        "src": "Most",
-       "id": "lat-22-8-e5"
+       "id": "lat-22-8-e4"
       }
      ],
      "id": "lat-22-8",
@@ -44856,19 +42358,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-9-e3"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: victor, Trinitas, consummare, declarat, vivificare, celebrare.",
-       "rubric": [
-        "Give a real English word for at least three of the listed Latin words",
-        "Each English word genuinely derives from its Latin source",
-        "No invented or homonym pairings"
-       ],
-       "model": "victor gives victory and victorious; Trinitas gives trinity and trinitarian; consummare gives consummate; declarat gives declare and declaration; vivificare gives vivify; celebrare gives celebrate and celebration.",
-       "why": "These Latin verbs and nouns yield familiar English words.",
-       "src": "Most",
-       "id": "lat-22-9-e4"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'victor'?",
        "choices": [
@@ -44880,7 +42369,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'victory' derives from Latin victor / victoria; the others come from different Latin roots.",
        "src": "Most",
-       "id": "lat-22-9-e5"
+       "id": "lat-22-9-e4"
       }
      ],
      "id": "lat-22-9",
@@ -45063,19 +42552,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-22-10-e4"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words name a genuine English derivative for at least three of them: matutinus, contemplari, nocturnus, imitari, admirabilis, curatio.",
-       "rubric": [
-        "Give a real English word for at least three of the listed Latin words",
-        "Each English word genuinely derives from its Latin source",
-        "No invented or homonym pairings"
-       ],
-       "model": "matutinus gives matins and matutinal; contemplari gives contemplate and contemplation; nocturnus gives nocturnal and nocturne; imitari gives imitate and imitation; admirabilis gives admirable and admire; curatio gives cure and curative.",
-       "why": "These Latin words are the roots of common English derivatives.",
-       "src": "Most",
-       "id": "lat-22-10-e5"
-      },
-      {
        "type": "mc",
        "q": "Which English word comes from Latin 'nocturnus'?",
        "choices": [
@@ -45087,7 +42563,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "English 'nocturnal' derives from Latin nocturnus, of the night; the other words come from different roots.",
        "src": "Most",
-       "id": "lat-22-10-e6"
+       "id": "lat-22-10-e5"
       }
      ],
      "id": "lat-22-10",
@@ -45315,19 +42791,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-23-1-e5"
       },
       {
-       "type": "compose",
-       "q": "Caesar's reading uses memorandi (from memorare) and copia. Write one English sentence that uses two English words genuinely derived from Latin words in this Lectio.",
-       "rubric": [
-        "Contains at least two English words derived from Latin words appearing in this Lectio",
-        "Each derived word is spelled correctly and used in a grammatically complete sentence",
-        "The sentence makes clear sense and stays free of dashes"
-       ],
-       "model": "A faithless ally who feels no friendship can still hinder a just deliberation.",
-       "why": "Faithless reflects infidus (faithless), friendship reflects amicitia (friendship), hinder reflects officere (hinder), and just reflects iure (rightly); all are real derivations from words in this Lectio.",
-       "src": "Most",
-       "id": "lat-23-1-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word is genuinely derived from Latin amicitia (friendship)?",
        "choices": [
@@ -45339,7 +42802,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Amicable derives from Latin amicus/amicitia (friend, friendship). Ample is from amplus, amnesty from Greek amnestia, and amber from Arabic anbar.",
        "src": "Most",
-       "id": "lat-23-1-e7"
+       "id": "lat-23-1-e6"
       }
      ],
      "id": "lat-23-1",
@@ -45612,19 +43075,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-23-2-e5"
       },
       {
-       "type": "compose",
-       "q": "This reading uses crudelitas (cruelty), existimare (think, judge), and moderari (regulate). Write one English sentence that uses two English words genuinely derived from Latin words in this Lectio.",
-       "rubric": [
-        "Contains at least two English words derived from Latin words appearing in this Lectio",
-        "Each derived word is spelled correctly and used in a grammatically complete sentence",
-        "The sentence makes clear sense and stays free of dashes"
-       ],
-       "model": "A magnificent display of cruelty cannot moderate the anger of a hostile crowd.",
-       "why": "Magnificent reflects magnificus (magnificent), cruelty reflects crudelitas (cruelty), moderate reflects moderari (regulate, moderate), and hostile reflects infestus (hostile); all are real derivations from words in this Lectio.",
-       "src": "Most",
-       "id": "lat-23-2-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word is genuinely derived from Latin crudelitas / crudelis (cruelty, cruel)?",
        "choices": [
@@ -45636,7 +43086,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Cruel derives from Latin crudelis (cruel). Crude (raw) is from crudus, crucible relates to crux/crucibulum, and crusade derives from crux (cross), not from crudelitas.",
        "src": "Most",
-       "id": "lat-23-2-e7"
+       "id": "lat-23-2-e6"
       }
      ],
      "id": "lat-23-2",
@@ -45932,19 +43382,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-23-3-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words of the reading, give one real English derivative each for at least three of them: avaritia, luxuria, libertas, misericors, audacia, opulentia.",
-       "rubric": [
-        "At least three Latin words are each matched to a real English derivative",
-        "Each derivative genuinely descends from that Latin root, not a chance look-alike",
-        "Answer is dash-free and pairs each English word with its Latin source"
-       ],
-       "model": "avaritia -> avarice; luxuria -> luxury (luxurious); libertas -> liberty; misericors -> misericord; audacia -> audacious (audacity); opulentia -> opulence (opulent).",
-       "why": "These reading words have genuine, common English descendants.",
-       "src": "Most",
-       "id": "lat-23-3-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word truly comes from Latin 'avaritia' (greed), used in the reading as 'luxuria atque avaritia'?",
        "choices": [
@@ -45956,7 +43393,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Avarice descends from avaritia (greed); average, aviary, and aversion come from other roots.",
        "src": "Most",
-       "id": "lat-23-3-e7"
+       "id": "lat-23-3-e6"
       },
       {
        "type": "mc",
@@ -45970,7 +43407,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Luxury descends from luxuria; luggage, luminous (from lumen), and lurid (from luridus) have other origins.",
        "src": "Most",
-       "id": "lat-23-3-e8"
+       "id": "lat-23-3-e7"
       }
      ],
      "id": "lat-23-3",
@@ -46288,19 +43725,6 @@ window.COURSE_DATA.courses.push({
        "id": "lat-23-4-e5"
       },
       {
-       "type": "compose",
-       "q": "Cognate hunt: from these Latin words of the reading, give one real English derivative each for at least three of them: imperium, ambitio, parricida, divitiae (divitias), industria, censere.",
-       "rubric": [
-        "At least three Latin words are each matched to a real English derivative",
-        "Each derivative genuinely descends from that Latin root, not a coincidental look-alike",
-        "Answer is dash-free and pairs each English word with its Latin source"
-       ],
-       "model": "imperium -> imperial; ambitio -> ambition; parricida -> parricide; divitiae -> divitiae yields no common derivative, so use a sibling root instead, e.g. industria -> industry (industrial); censere -> census (censor).",
-       "why": "These reading words have genuine English descendants that fix their meaning.",
-       "src": "Most",
-       "id": "lat-23-4-e6"
-      },
-      {
        "type": "mc",
        "q": "Which English word truly comes from Latin 'imperium' (command, rule), used in the reading as 'foris iustum imperium'?",
        "choices": [
@@ -46312,7 +43736,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Imperial descends from imperium (rule); imperative comes from imperare, impervious from per+via, and improvise from in+provisus.",
        "src": "Most",
-       "id": "lat-23-4-e7"
+       "id": "lat-23-4-e6"
       },
       {
        "type": "mc",
@@ -46326,7 +43750,7 @@ window.COURSE_DATA.courses.push({
        "answer": 0,
        "why": "Ambition descends from ambitio; ambient comes from ambire in another sense, ambulance from ambulare, and amber from Arabic anbar.",
        "src": "Most",
-       "id": "lat-23-4-e8"
+       "id": "lat-23-4-e7"
       }
      ],
      "id": "lat-23-4",
