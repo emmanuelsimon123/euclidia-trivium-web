@@ -129,6 +129,22 @@ em{color:var(--gold);font-style:italic}
 .gloss{display:inline;font:inherit;color:inherit;background:none;border:0;padding:0;border-bottom:1px dotted var(--gold);cursor:help}
 .gloss:hover,.gloss:focus{color:var(--gold-light);outline:none}
 .gloss:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:2px}
+/* Latin reading: every content word is tappable, so keep the underline very faint until hover/focus */
+.lat-gloss{border-bottom:1px dotted rgba(232,160,32,.3);cursor:pointer}
+.lat-gloss:hover,.lat-gloss:focus{color:var(--gold-light);border-bottom-color:var(--gold)}
+/* Latin paradigms reference */
+.para-section{color:var(--gold-light);font-size:19px;margin:26px 0 10px;border-bottom:1px solid var(--gold-border);padding-bottom:6px}
+.para-card{padding:14px 16px;margin-bottom:14px}
+.para-label{font-size:15px;color:var(--text-bright);margin:0 0 10px}
+.para-table{border-collapse:collapse;width:100%;font-size:14px}
+.para-table th,.para-table td{border:1px solid var(--gold-border);padding:5px 10px;text-align:left}
+.para-table thead th{color:var(--gold);font-weight:600}
+.para-table tbody th{color:var(--text-dim);font-weight:600;white-space:nowrap}
+.para-table td{color:var(--text-bright)}
+/* on-screen macron keyboard (Latin answer inputs) */
+.macron-bar{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 8px}
+.macron-key{font:inherit;font-size:16px;line-height:1;min-width:36px;height:34px;padding:0 7px;background:var(--navy-card);color:var(--gold-light);border:1px solid var(--gold-border);border-radius:8px;cursor:pointer}
+.macron-key:hover{background:var(--gold-pale);color:var(--gold);border-color:var(--gold)}
 .gloss-pop{position:fixed;z-index:80;display:none;background:var(--navy-card);border:1px solid var(--gold-border);border-radius:8px;padding:8px 11px;font-size:12.5px;line-height:1.45;color:var(--text-bright);box-shadow:0 12px 30px rgba(0,0,0,.55);pointer-events:none}
 .gloss-pop.show{display:block}
 .lesson-lead{font-style:italic;color:var(--gold-light);font-size:15.5px;line-height:1.6;margin-bottom:16px;padding-left:14px;border-left:2px solid var(--gold)}
@@ -335,7 +351,7 @@ select.num-input option{background:var(--navy-card);color:var(--text-bright)}
 /* ===== accessibility ===== */
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .dg-slot,.dg-rail{cursor:pointer}
-.dg-slot:focus-visible,.dg-rail:focus-visible,.dg-tile:focus-visible,.tile:focus-visible,.choice:focus-visible,.pw-tag:focus-visible,.pw-opt:focus-visible,.audio-btn:focus-visible,.gloss:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.dg-slot:focus-visible,.dg-rail:focus-visible,.dg-tile:focus-visible,.tile:focus-visible,.choice:focus-visible,.pw-tag:focus-visible,.pw-opt:focus-visible,.audio-btn:focus-visible,.gloss:focus-visible,.macron-key:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
 /* graded states carry a glyph, not color alone (WCAG 1.4.1) */
 .choice.correct::after{content:"✓";margin-left:auto;color:var(--green);font-weight:700}
 .choice.wrong::after{content:"✗";margin-left:auto;color:var(--red);font-weight:700}

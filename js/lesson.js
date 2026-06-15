@@ -189,9 +189,29 @@
     inp.addEventListener("input", () => setCheck(inp.value.trim().length > 0));
     // NOTE: Enter is handled ONLY by the global keydown handler in app.js (single authority),
     // so one Enter = Check (pause on feedback) OR Continue, never both.
+    if (L && L.courseId === "lat") area.appendChild(macronBar(inp)); // Latin: on-screen macron keys (display only; grading ignores macrons)
     area.appendChild(inp);
     L.st = { get: () => inp.value };
     setTimeout(() => inp.focus(), 30);
+  }
+  const MACRON_KEYS = ["ā", "ē", "ī", "ō", "ū", "Ā", "Ē", "Ī", "Ō", "Ū"];
+  function insertAtCursor(inp, ch) {
+    const s = inp.selectionStart != null ? inp.selectionStart : inp.value.length;
+    const e = inp.selectionEnd != null ? inp.selectionEnd : s;
+    inp.value = inp.value.slice(0, s) + ch + inp.value.slice(e);
+    inp.selectionStart = inp.selectionEnd = s + ch.length;
+    inp.dispatchEvent(new Event("input", { bubbles: true })); // re-run setCheck
+    inp.focus();
+  }
+  function macronBar(inp) {
+    const bar = h("div", { class: "macron-bar", role: "group", "aria-label": "Insert Latin long-vowel (macron) letters" });
+    MACRON_KEYS.forEach(ch => {
+      const b = h("button", { type: "button", class: "macron-key", tabindex: "-1", "aria-label": "Insert " + ch });
+      b.textContent = ch;
+      b.addEventListener("mousedown", e => { e.preventDefault(); insertAtCursor(inp, ch); }); // preventDefault keeps the input focused + cursor position
+      bar.appendChild(b);
+    });
+    return bar;
   }
   function selectMC(idx, btn, wrap) { if (L.graded) return; mcSel = idx; wrap.querySelectorAll(".choice").forEach(b => b.classList.remove("sel")); btn.classList.add("sel"); setCheck(true); }
 

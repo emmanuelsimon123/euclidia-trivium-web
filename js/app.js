@@ -49,6 +49,26 @@
     renderPath();
     const ls = lessonsOf(activeCourse), done = ls.filter(l => isDone(l.id)).length;
     $("heroSub").textContent = `${C().course(activeCourse)?.title}: ${done} of ${ls.length} lessons complete · ${W.srs.dueCount()} due for review.`;
+    // Latin-only: paradigm reference + drill deck
+    const isLat = activeCourse === "lat";
+    ["paradigmsLink", "paradigmDrill"].forEach(id => { const b = $(id); if (b) b.style.display = isLat ? "" : "none"; });
+  }
+  // ---------- Latin paradigms reference (read-only tables from courses/paradigms.js) ----------
+  function renderParadigms() {
+    const body = $("paradigmsBody"); if (!body) return; body.innerHTML = "";
+    const tables = (window.PARADIGMS && window.PARADIGMS.tables) || [];
+    body.appendChild(h("p", { class: "lesson-lead" }, "The forms beneath the readings: declensions, conjugations, and pronouns, with vowel lengths marked. Tap “Practice paradigms” on the home screen to drill them."));
+    const bySection = {};
+    tables.forEach(t => (bySection[t.section] = bySection[t.section] || []).push(t));
+    Object.keys(bySection).forEach(sec => {
+      body.appendChild(h("h2", { class: "para-section" }, sec));
+      bySection[sec].forEach(t => {
+        const tbl = h("table", { class: "para-table" });
+        if (t.headers && t.headers.length) tbl.appendChild(h("thead", null, h("tr", null, t.headers.map(hd => h("th", null, hd)))));
+        tbl.appendChild(h("tbody", null, (t.rows || []).map(r => h("tr", null, r.map((cell, ci) => h(ci === 0 ? "th" : "td", ci === 0 ? { scope: "row" } : null, cell))))));
+        body.appendChild(h("div", { class: "card para-card" }, h("h3", { class: "para-label" }, t.label), tbl, t.note ? h("div", { class: "ex-note" }, t.note) : ""));
+      });
+    });
   }
   // course-progress strip + prominent "due for review" CTA (Khan-style dashboard)
   function renderDashboard() {
@@ -160,7 +180,7 @@
       head.appendChild(h("p", { class: "step-note" }, "Read the text carefully — let it speak first. Tap a highlighted word for its meaning, or press 🔊 to hear it read aloud."));
       if (l.original) body.appendChild(h("div", { class: "card reading" },
         h("div", { class: "reading-head" }, h("span", { class: "rd-head-left" }, h("span", { class: "reading-kicker" }, "The Reading"), audioBtn(() => l.original)), src ? h("span", { class: "src-cite" }, src) : ""),
-        renderReading(l.original)));
+        renderReading(l.original, latGloss(l.id))));
       if (l.keyTerms && l.keyTerms.length) body.appendChild(card("Words to know", h("div", null, l.keyTerms.map(t => h("div", { class: "term" }, h("b", null, t.term), h("span", null, " — " + t.def))))));
     }});
     steps.push({ name: "Divisio", render: (head, body) => {
@@ -304,21 +324,34 @@
     if (m) return { head: m[1].trim(), rest: m[2].trim() };
     return null;
   }
-  function renderBody(wrap, text, seen) {
+  // Latin reading words become tappable: every content word maps to its dictionary form, meaning, and
+  // parse (Most's own gloss when the word is a vocab item). Built from courses/latin-gloss.js.
+  function latGloss(id) { return (typeof window !== "undefined" && window.LAT_GLOSS && window.LAT_GLOSS[id]) || null; }
+  const stripLatLower = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  function wrapLatinWords(html, gloss) {
+    return html.replace(/[A-Za-zÀ-ɏ]+/g, w => {
+      const e = gloss[stripLatLower(w)];
+      if (!e) return w;
+      const def = (e.l ? e.l + " — " : "") + e.d + (e.p ? "  ·  " + e.p : "");
+      return '<button type="button" class="gloss lat-gloss" aria-label="' + escAttr(w + ": " + def) + '" data-def="' + escAttr(def) + '">' + w + "</button>";
+    });
+  }
+  function renderBody(wrap, text, seen, gloss) {
     if (/^[A-Za-z](\s+[A-Za-z'&.]+){5,}\.?$/.test(text) && text.length < 100) { wrap.appendChild(h("div", { class: "rd-letters" }, text)); return; } // alphabet / letter row
+    const wrapFn = gloss ? seg => wrapLatinWords(esc(seg), gloss) : seg => wrapGloss(wrapExamples(esc(seg)), seen);
     text.split(/(?=\s\([a-h]\)\s)/).forEach(seg => {                                      // break out lettered sub-notes (a)(b)…; leaves inline (1)(2) digits alone
       seg = seg.trim(); if (!seg) return;
       const n = seg.match(/^\(([a-h])\)\s([\s\S]*)$/);
-      if (n) wrap.appendChild(h("div", { class: "rd-note" }, h("span", { class: "rd-badge" }, n[1]), h("span", { html: wrapGloss(wrapExamples(esc(n[2])), seen) })));
-      else wrap.appendChild(h("p", { html: wrapGloss(wrapExamples(esc(seg)), seen) }));
+      if (n) wrap.appendChild(h("div", { class: "rd-note" }, h("span", { class: "rd-badge" }, n[1]), h("span", { html: wrapFn(n[2]) })));
+      else wrap.appendChild(h("p", { html: wrapFn(seg) }));
     });
   }
-  function renderReading(text) {
+  function renderReading(text, gloss) {
     const wrap = h("div", { class: "prose original" }), seen = new Set();
     (text || "").split(/\n\n+/).map(b => b.trim()).filter(Boolean).forEach(block => {
       const hd = tryHeading(block);
-      if (hd) { wrap.appendChild(h("h4", { class: "rd-h" }, hd.head)); if (hd.rest) renderBody(wrap, hd.rest, seen); }
-      else renderBody(wrap, block, seen);
+      if (hd) { wrap.appendChild(h("h4", { class: "rd-h" }, hd.head)); if (hd.rest) renderBody(wrap, hd.rest, seen, gloss); }
+      else renderBody(wrap, block, seen, gloss);
     });
     return wrap;
   }
@@ -458,6 +491,8 @@
     $("continueBtn").addEventListener("click", () => openLesson(activeCourse, currentLesson(activeCourse)));
     $("reviewLink").addEventListener("click", () => { if (!W.srs.dueCount()) { toast("Nothing due yet — keep learning!"); return; } W.lesson.start(activeCourse, currentLesson(activeCourse), { mode: "review" }); });
     $("creditsLink").addEventListener("click", () => { renderCredits(); show("credits"); });
+    { const pl = $("paradigmsLink"); if (pl) pl.addEventListener("click", () => { renderParadigms(); show("paradigms"); }); }
+    { const pd = $("paradigmDrill"); if (pd) pd.addEventListener("click", () => W.lesson.start("lat", "lat-paradigms")); }
     { const sl = $("summaryLink"); if (sl) sl.addEventListener("click", printSummary); }
     $("studiumNext").addEventListener("click", studiumNext);
     $("studiumBack").addEventListener("click", studiumBack);

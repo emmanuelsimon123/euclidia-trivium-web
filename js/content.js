@@ -137,12 +137,47 @@
       const t = (info.lesson.keyTerms || [])[+m[2]]; if (!t) return null;
       return termQuestion(info.course.id, m[1], t, +m[2]);
     }
+    if (srsId.indexOf("para:") === 0) {
+      const m = srsId.match(/^para:(.+):(\d+):(\d+)$/); if (!m) return null;
+      const t = PARA().find(x => x.id === m[1]); if (!t) return null;
+      return cellQ(t, +m[2], +m[3], (W.store.srs()[srsId] || {}).box || 0);
+    }
     return null;
+  }
+
+  // ---------- paradigm drills (generated from window.PARADIGMS; reuses type/mc, no new exercise type) ----------
+  const PARA = () => (window.PARADIGMS && window.PARADIGMS.tables) || [];
+  const CASE_FULL = { "N.": "Nominative", "G.": "Genitive", "D.": "Dative", "A.": "Accusative", "Ab.": "Ablative", "V.": "Vocative", "Abl.": "Ablative", "Nom.": "Nominative", "Gen.": "Genitive", "Dat.": "Dative", "Acc.": "Accusative", "Voc.": "Vocative" };
+  const LABEL_RE = /^(n|g|d|a|ab|v|nom|gen|dat|acc|abl|voc|1|2|3|1st|2nd|3rd|4th|sing\.?|plur\.?)\.?$/i;
+  // a table is drillable when its first column is a label (case/person), not a form
+  function isLabelCol(t) { return !!t.headers && (t.headers[0] === "Case" || ((t.rows || []).length > 0 && (t.rows || []).every(r => LABEL_RE.test((r[0] || "").trim())))); }
+  function paradigmTables() { return PARA().filter(isLabelCol); }
+  const cleanForm = s => (s || "").replace(/-/g, "").trim();
+  function isDrillForm(s) { const f = cleanForm(s); return !!f && !/[\s/(),]/.test(f) && f !== "—" && f !== "-"; }
+  function tableForms(t) { const out = []; (t.rows || []).forEach(r => { for (let c = 1; c < r.length; c++) if (isDrillForm(r[c])) out.push(cleanForm(r[c])); }); return out; }
+  const ctxOf = t => (t.label || "").replace(/\s*\([^)]*\)\s*/g, " ").replace(/\s+/g, " ").trim();
+  const paraExpand = s => CASE_FULL[(s || "").trim()] || (s || "").trim();
+  function cellQ(t, ri, ci, box) {
+    const row = (t.rows || [])[ri]; if (!row || !isDrillForm(row[ci])) return null;
+    const form = cleanForm(row[ci]), header = (t.headers || [])[ci] || "";
+    const prompt = (ctxOf(t) + " — " + paraExpand(row[0]) + " " + header).trim();
+    const srsId = `para:${t.id}:${ri}:${ci}`;
+    if (box >= 1 && Math.random() < 0.5) return { type: "type", kind: "production", srsId, lessonId: "lat-paradigms", label: "Give the form", q: prompt, accept: [form], answerDisplay: form, why: t.label };
+    const { choices, answer } = buildChoices(form, tableForms(t), 4);
+    return { type: "mc", kind: "recognition", srsId, lessonId: "lat-paradigms", label: "Pick the correct form", q: prompt, choices: choices.map(x => ({ text: x })), answer, why: t.label };
+  }
+  function composeParadigm(opts) {
+    opts = opts || {};
+    const cells = [];
+    paradigmTables().forEach(t => (t.rows || []).forEach((r, ri) => { for (let ci = 1; ci < r.length; ci++) if (isDrillForm(r[ci])) cells.push([t, ri, ci]); }));
+    if (!cells.length) return [];
+    return shuffle(cells).slice(0, opts.size || 14).map(([t, ri, ci]) => cellQ(t, ri, ci, (W.store.srs()[`para:${t.id}:${ri}:${ci}`] || {}).box || 0)).filter(Boolean);
   }
 
   // ---------- session composer ----------
   function composeLesson(courseId, lessonId, opts) {
     opts = opts || {};
+    if (lessonId === "lat-paradigms" && opts.mode !== "review") return composeParadigm(opts);
     if (opts.mode === "review") {
       // surface the weakest / most-overdue items first via the SRS weight(), with light jitter so sessions vary
       const ids = [...new Set(W.srs.dueIds().concat(W.srs.wrongIds()))];
@@ -171,6 +206,7 @@
   W.content = {
     courses, course, units, lessons, findLesson, lessonInfo,
     composeLesson, questionForId, exQuestion, termQuestion,
+    composeParadigm, paradigmTables,
     normEng, gradeAccept, shuffle, sample, buildChoices, DATA, COURSES,
   };
 })();

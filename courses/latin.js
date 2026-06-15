@@ -67,11 +67,11 @@ window.COURSE_DATA.courses.push({
        "def": "with"
       },
       {
-       "term": "vidit",
+       "term": "vīdit",
        "def": "saw"
       },
       {
-       "term": "dixit",
+       "term": "dīxit",
        "def": "said"
       },
       {
@@ -179,7 +179,7 @@ window.COURSE_DATA.courses.push({
        "def": "to"
       },
       {
-       "term": "ergo",
+       "term": "ergō",
        "def": "therefore"
       },
       {
@@ -187,7 +187,7 @@ window.COURSE_DATA.courses.push({
        "def": "in, into, on"
       },
       {
-       "term": "non",
+       "term": "nōn",
        "def": "not"
       },
       {
@@ -203,7 +203,7 @@ window.COURSE_DATA.courses.push({
        "def": "sailor"
       },
       {
-       "term": "navis",
+       "term": "nāvis",
        "def": "ship"
       },
       {
@@ -211,11 +211,11 @@ window.COURSE_DATA.courses.push({
        "def": "small"
       },
       {
-       "term": "pecunia",
+       "term": "pecūnia",
        "def": "money"
       },
       {
-       "term": "planus",
+       "term": "plānus",
        "def": "flat"
       },
       {
@@ -223,7 +223,7 @@ window.COURSE_DATA.courses.push({
        "def": "girl"
       },
       {
-       "term": "regina",
+       "term": "rēgīna",
        "def": "queen"
       },
       {
@@ -423,23 +423,23 @@ window.COURSE_DATA.courses.push({
        "def": "market, forum"
       },
       {
-       "term": "remansit",
+       "term": "remānsit",
        "def": "remained"
       },
       {
-       "term": "domi",
+       "term": "domī",
        "def": "at home"
       },
       {
-       "term": "carnes bovinas assas",
+       "term": "carnēs bovīnās assās",
        "def": "roast beef"
       },
       {
-       "term": "exclamavit",
+       "term": "exclāmāvit",
        "def": "shouted"
       },
       {
-       "term": "dixerunt",
+       "term": "dīxērunt",
        "def": "said"
       }
      ],
@@ -534,7 +534,7 @@ window.COURSE_DATA.courses.push({
        "def": "great, large"
       },
       {
-       "term": "amavit",
+       "term": "amāvit",
        "def": "loved"
       },
       {
@@ -542,15 +542,15 @@ window.COURSE_DATA.courses.push({
        "def": "that"
       },
       {
-       "term": "fundaverunt",
+       "term": "fundāvērunt",
        "def": "founded"
       },
       {
-       "term": "veritas",
+       "term": "vēritās",
        "def": "truth"
       },
       {
-       "term": "fuerunt",
+       "term": "fuērunt",
        "def": "were"
       },
       {
@@ -669,11 +669,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "amavit",
+       "term": "amāvit",
        "def": "loved"
       },
       {
-       "term": "veritas",
+       "term": "vēritās",
        "def": "truth"
       },
       {
@@ -768,11 +768,11 @@ window.COURSE_DATA.courses.push({
        "def": "bad, evil"
       },
       {
-       "term": "primus",
+       "term": "prīmus",
        "def": "first"
       },
       {
-       "term": "rex",
+       "term": "rēx",
        "def": "king"
       },
       {
@@ -788,11 +788,11 @@ window.COURSE_DATA.courses.push({
        "def": "is"
       },
       {
-       "term": "regnavit",
+       "term": "rēgnāvit",
        "def": "ruled"
       },
       {
-       "term": "Etrusci",
+       "term": "Etrūscī",
        "def": "Etruscans"
       },
       {
@@ -804,7 +804,7 @@ window.COURSE_DATA.courses.push({
        "def": "throne"
       },
       {
-       "term": "quando",
+       "term": "quandō",
        "def": "when"
       }
      ],
@@ -928,7 +928,7 @@ window.COURSE_DATA.courses.push({
        "def": "army"
       },
       {
-       "term": "paravit",
+       "term": "parāvit",
        "def": "prepared"
       },
       {
@@ -952,11 +952,11 @@ window.COURSE_DATA.courses.push({
        "def": "stood"
       },
       {
-       "term": "pons",
+       "term": "pōns",
        "def": "bridge"
       },
       {
-       "term": "iecit",
+       "term": "iēcit",
        "def": "threw"
       },
       {
@@ -1071,7 +1071,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "fecit",
+       "term": "fēcit",
        "def": "made, did"
       },
       {
@@ -1087,11 +1087,11 @@ window.COURSE_DATA.courses.push({
        "def": "now"
       },
       {
-       "term": "civis, i",
+       "term": "cīvis, ī",
        "def": "citizen"
       },
       {
-       "term": "potestas",
+       "term": "potestās",
        "def": "power"
       },
       {
@@ -1107,19 +1107,19 @@ window.COURSE_DATA.courses.push({
        "def": "patrician"
       },
       {
-       "term": "dives",
+       "term": "dīves",
        "def": "rich"
       },
       {
-       "term": "plebs",
+       "term": "plēbs",
        "def": "plebeian(s)"
       },
       {
-       "term": "mons",
+       "term": "mōns",
        "def": "mountain, mount"
       },
       {
-       "term": "venite",
+       "term": "venīte",
        "def": "come"
       },
       {
@@ -1127,7 +1127,7 @@ window.COURSE_DATA.courses.push({
        "def": "office"
       },
       {
-       "term": "tribunus",
+       "term": "tribūnus",
        "def": "tribune"
       }
      ],
@@ -1225,23 +1225,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "creavit",
+       "term": "creāvit",
        "def": "created, made"
       },
       {
-       "term": "ager, agro",
+       "term": "ager, agrō",
        "def": "field, farm"
       },
       {
-       "term": "vicit",
+       "term": "vīcit",
        "def": "conquered"
       },
       {
-       "term": "consilium, consilio",
+       "term": "consilium, consiliō",
        "def": "plan"
       },
       {
-       "term": "e, ex",
+       "term": "ē, ex",
        "def": "from, out from"
       },
       {
@@ -1249,27 +1249,27 @@ window.COURSE_DATA.courses.push({
        "def": "brave, strong"
       },
       {
-       "term": "periculum, o",
+       "term": "perīculum, o",
        "def": "danger"
       },
       {
-       "term": "senatus, u",
+       "term": "senātus, ū",
        "def": "Senate"
       },
       {
-       "term": "Aequi",
+       "term": "Aequī",
        "def": "the Aequi"
       },
       {
-       "term": "dictator",
+       "term": "dictātor",
        "def": "dictator"
       },
       {
-       "term": "legatus",
+       "term": "lēgātus",
        "def": "legate"
       },
       {
-       "term": "rursus",
+       "term": "rūrsus",
        "def": "again"
       }
      ],
@@ -1376,15 +1376,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "**ADJECTIVES USED ALONE:** Notice the use of multis in pugnaverunt cum multis. It means: They fought with many. Of course, multis means many peoples or nations. We may leave a word understood with an adjective. We must then supply the right word in English; we usually supply one of these: men, things, etc. **OBJECTIVE AND ABLATIVE OF THE FOURTH AND FIFTH DECLENSIONS:** So far we have studied only three declensions. We have used some words from the fourth declension, and now we look more closely at the new forms. In the fourth declension the objective singular is **exercitum** and the ablative singular is **exercitu** (objective plural exercitus, ablative plural exercitibus). In the fifth declension the objective singular is **diem** and the ablative singular is **die** (objective plural dies, ablative plural diebus). The fourth declension has the same objective singular as the second declension, and the same ablative plural as the third. In the fifth declension all four of these forms are the same as the third (although the third sometimes has the ablative singular in -i), except that the ablative plural has -ebus instead of -ibus. How can we tell which declension a word belongs to? We look at the ablative singular ending: 1st in -a, 2nd in -o, 3rd in -e or -i, 4th in -u, 5th in -e. The fifth and the third can both end in -e, but there are very few fifth declension words, so we simply mark them, like dies, -e (5). **THE ABLATIVE USED WITHOUT A PREPOSITION:** It is possible to use the ablative case without a preposition. It can then have various meanings. Study these examples: Romani non vicerunt pecunia (The Romans did not conquer by money); Romani fuerunt multi numero (The Romans were many in number); Romani exclamaverunt voce magna (The Romans shouted with a great voice). Notice the English prepositions we may supply: in, by, with. Whenever we see an ablative without a preposition, we try that little list of prepositions to find the meaning.",
      "keyTerms": [
       {
-       "term": "res, re (5)",
+       "term": "rēs, rē (5)",
        "def": "thing"
       },
       {
-       "term": "rarus",
+       "term": "rārus",
        "def": "rare"
       },
       {
-       "term": "dies, die (5)",
+       "term": "diēs, diē (5)",
        "def": "day"
       },
       {
@@ -1396,35 +1396,35 @@ window.COURSE_DATA.courses.push({
        "def": "always"
       },
       {
-       "term": "barbari",
+       "term": "barbarī",
        "def": "barbarians"
       },
       {
-       "term": "Galli",
+       "term": "Gallī",
        "def": "Gauls"
       },
       {
-       "term": "cepit",
+       "term": "cēpit",
        "def": "took, captured"
       },
       {
-       "term": "fere",
+       "term": "ferē",
        "def": "almost, in general"
       },
       {
-       "term": "totus",
+       "term": "tōtus",
        "def": "whole"
       },
       {
-       "term": "audivit",
+       "term": "audīvit",
        "def": "heard"
       },
       {
-       "term": "anser",
+       "term": "ānser",
        "def": "goose"
       },
       {
-       "term": "humanus",
+       "term": "hūmānus",
        "def": "human"
       }
      ],
@@ -1527,31 +1527,31 @@ window.COURSE_DATA.courses.push({
      "explanation": "RURSUS VIDEAMUS FORMAS VETERES (let us review the old forms again). We have learned that there are five sets of endings for nouns, which we call the five declensions. We distinguish one declension from another by the ablative singular form (we add the number 5 for the fifth since it has **-e**, and the third declension also has **-e** on some nouns). A noun never changes its declension, it always stays in the same family of endings. We have now seen nearly all the forms of three cases in all five declensions, except the nominative of the fourth and fifth. Compare the singular and plural across the five: **nauta, nautae** (1st), **agnus, agni** (2nd), **lex, leges** (3rd), **senatus, senatus** (4th), **dies, dies** (5th). Note the new nominative singulars **senatus** (4th declension) and **dies** (5th declension). Remember too that the nominative singular of the second declension may have other forms (such as **vir, ager**), and the nominative of the third may have various forms. In Lesson Nine we shall learn the nominative plurals of the fourth and fifth.",
      "keyTerms": [
       {
-       "term": "fabula, a",
+       "term": "fābula, a",
        "def": "legend"
       },
       {
-       "term": "lex, lege",
+       "term": "lēx, lēge",
        "def": "law"
       },
       {
-       "term": "solus",
+       "term": "sōlus",
        "def": "alone, only"
       },
       {
-       "term": "de",
+       "term": "dē",
        "def": "about"
       },
       {
-       "term": "narravit",
+       "term": "nārrāvit",
        "def": "told"
       },
       {
-       "term": "scivit",
+       "term": "scīvit",
        "def": "knew"
       },
       {
-       "term": "scripsit",
+       "term": "scrīpsit",
        "def": "wrote"
       },
       {
@@ -1559,7 +1559,7 @@ window.COURSE_DATA.courses.push({
        "def": "because"
       },
       {
-       "term": "misit",
+       "term": "mīsit",
        "def": "sent"
       }
      ],
@@ -1669,23 +1669,23 @@ window.COURSE_DATA.courses.push({
        "def": "be able"
       },
       {
-       "term": "rogare, rogavit",
+       "term": "rogāre, rogāvit",
        "def": "ask"
       },
       {
-       "term": "servare, servavit",
+       "term": "servāre, servāvit",
        "def": "save"
       },
       {
-       "term": "timere, timuit",
+       "term": "timēre, timuit",
        "def": "fear"
       },
       {
-       "term": "videre",
+       "term": "vidēre",
        "def": "to see"
       },
       {
-       "term": "venire",
+       "term": "venīre",
        "def": "to come"
       },
       {
@@ -1693,15 +1693,15 @@ window.COURSE_DATA.courses.push({
        "def": "to seize"
       },
       {
-       "term": "defendere",
+       "term": "dēfendere",
        "def": "defend"
       },
       {
-       "term": "stare",
+       "term": "stāre",
        "def": "to stand"
       },
       {
-       "term": "non solum",
+       "term": "nōn sōlum",
        "def": "not only"
       },
       {
@@ -1709,19 +1709,19 @@ window.COURSE_DATA.courses.push({
        "def": "other, another"
       },
       {
-       "term": "natio",
+       "term": "nātiō",
        "def": "nation"
       },
       {
-       "term": "meridionalis",
+       "term": "merīdiōnālis",
        "def": "southern"
       },
       {
-       "term": "a, ab",
+       "term": "ā, ab",
        "def": "from"
       },
       {
-       "term": "Epirus",
+       "term": "Ēpīrus",
        "def": "Epirus"
       },
       {
@@ -1860,23 +1860,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "**Neuter nouns with nominative and objective plural in -a:** some nouns have a nominative and objective plural ending in **-a**. These belong to the second and third declensions (a few are fourth, seen later). So far we have met seven: **bellum** (plural **bella**), and likewise **consilium** (consilia), **forum** (fora), **periculum** (pericula), **saeculum** (saecula), **mare** (maria), **nomen** (nomina). For every neuter noun, the nominative singular is the same as the objective singular, in all declensions. The nominative and objective plurals always have **-a**, but some have **-ia** instead. In the second declension, when the nominative singular ends in -ium the plural is -ia. In the third declension, words that use -e for the ablative have only -a (nomen, nomine, plural nomina), while words that use -i for the ablative have -ia (mare, -i, plural maria). Rule of thumb: in the second declension, all nouns whose nominative ends in -um take the -a endings; in the third declension, nouns whose nominative ends in -n, -t, -men, -ma, -e, -al, or -ar are neuter and take the -a endings.",
      "keyTerms": [
       {
-       "term": "septentrionalis",
+       "term": "septentriōnālis",
        "def": "north"
       },
       {
-       "term": "mercator",
+       "term": "mercātor",
        "def": "merchant"
       },
       {
-       "term": "mercatura",
+       "term": "mercātūra",
        "def": "trade"
       },
       {
-       "term": "colonus",
+       "term": "colōnus",
        "def": "colonist"
       },
       {
-       "term": "putavit",
+       "term": "putāvit",
        "def": "thought"
       },
       {
@@ -1884,31 +1884,31 @@ window.COURSE_DATA.courses.push({
        "def": "century, age"
       },
       {
-       "term": "nomen, nomine",
+       "term": "nōmen, nōmine",
        "def": "name"
       },
       {
-       "term": "mare, i",
+       "term": "mare, ī",
        "def": "sea"
       },
       {
-       "term": "iacere, iecit",
+       "term": "iacere, iēcit",
        "def": "throw"
       },
       {
-       "term": "scribere, scripsit",
+       "term": "scrībere, scrīpsit",
        "def": "write"
       },
       {
-       "term": "invenire, invenit",
+       "term": "invenīre, invēnit",
        "def": "find"
       },
       {
-       "term": "stare, stetit",
+       "term": "stāre, stetit",
        "def": "stand"
       },
       {
-       "term": "mittere, misit",
+       "term": "mittere, mīsit",
        "def": "send"
       },
       {
@@ -1916,35 +1916,35 @@ window.COURSE_DATA.courses.push({
        "def": "want, will"
       },
       {
-       "term": "parare, paravit",
+       "term": "parāre, parāvit",
        "def": "prepare"
       },
       {
-       "term": "regnare, regnavit",
+       "term": "rēgnāre, rēgnāvit",
        "def": "rule"
       },
       {
-       "term": "venire, venit",
+       "term": "venīre, vēnit",
        "def": "come"
       },
       {
-       "term": "remanere, remansit",
+       "term": "remanēre, remānsit",
        "def": "remain"
       },
       {
-       "term": "videre, vidit",
+       "term": "vidēre, vīdit",
        "def": "see"
       },
       {
-       "term": "vincere, vicit",
+       "term": "vincere, vīcit",
        "def": "conquer"
       },
       {
-       "term": "scire, scivit",
+       "term": "scīre, scīvit",
        "def": "know"
       },
       {
-       "term": "poeta",
+       "term": "poēta",
        "def": "poet"
       }
      ],
@@ -2094,11 +2094,11 @@ window.COURSE_DATA.courses.push({
        "def": "help"
       },
       {
-       "term": "--, odit",
+       "term": "--, ōdit",
        "def": "hate (no present infinitive)"
       },
       {
-       "term": "egregius, a, um",
+       "term": "ēgregius, a, um",
        "def": "excellent"
       },
       {
@@ -2106,7 +2106,7 @@ window.COURSE_DATA.courses.push({
        "def": "glad"
       },
       {
-       "term": "victoria, a",
+       "term": "victōria, a",
        "def": "victory"
       },
       {
@@ -2118,15 +2118,15 @@ window.COURSE_DATA.courses.push({
        "def": "middle (of)"
       },
       {
-       "term": "mercatura",
+       "term": "mercātūra",
        "def": "trade"
       },
       {
-       "term": "eorum",
+       "term": "eōrum",
        "def": "of them"
       },
       {
-       "term": "Syracusarum",
+       "term": "Syrācūsārum",
        "def": "of Syracuse"
       }
      ],
@@ -2262,19 +2262,19 @@ window.COURSE_DATA.courses.push({
      "explanation": "**Nihil novi hodie, veteribus studeamus** (Nothing new today, let's study the old things). This Lectio reviews everything so far, so let us look again at the old forms (**Iterum videamus formas veteres**). **INFINITIVES:** Notice the verbs that name an action without a subject, the infinitives. They all end in **-re**: *invenire* (to find), *venire* (to come), *capere* (to capture), *facere* (to do, make), *revocare* (to recall). They often follow words like *necesse fuit* (it was necessary) or *voluit* (he wished): *Necesse fuit invenire terras novas*, it was necessary to find new lands. Recall the other infinitives you have met: *vincere* (to conquer), *cadere* (to fall), *esse* (to be), *dare* (to give), *velle* (to wish), *mittere* (to send), *scire* (to know), *iacere* (to throw). **ADJECTIVES:** Words like *magnus*, *bonus*, *novus*, *multus*, *fortis*, *aeternus* are adjectives, and their endings match the noun they describe. So *terras novas* (objective plural) but *aurum multum* (objective singular), *vir fortis* (nominative) but *consiliis* (ablative plural). For now, just be satisfied to get their meaning and let the matching endings come naturally. **VERBS and CASES:** The verbs are all the perfect tense, **-it** (singular) and **-erunt** (plural). The three cases are still the nominative (subject), the objective (direct object and the object of *ad*, *contra*, *post*, *in* with motion), and the ablative (after *cum*, *a*, and *in* without motion). **QUOD** still reports indirect statements: *Dixerunt quod Hannibal posuit manum in altare* (they said that Hannibal put his hand on the altar).",
      "keyTerms": [
       {
-       "term": "accipere, accepit",
+       "term": "accipere, accēpit",
        "def": "receive"
       },
       {
-       "term": "ponere, posuit",
+       "term": "pōnere, posuit",
        "def": "put, place"
       },
       {
-       "term": "promittere, promisit",
+       "term": "prōmittere, prōmīsit",
        "def": "promise"
       },
       {
-       "term": "contra (with obj. case)",
+       "term": "contrā (with obj. case)",
        "def": "against"
       },
       {
@@ -2286,15 +2286,15 @@ window.COURSE_DATA.courses.push({
        "def": "gold"
       },
       {
-       "term": "puer, puero",
+       "term": "puer, puerō",
        "def": "boy"
       },
       {
-       "term": "imperator",
+       "term": "imperātor",
        "def": "general, commander"
       },
       {
-       "term": "manus, u",
+       "term": "manus, ū",
        "def": "hand (feminine gender)"
       },
       {
@@ -2310,15 +2310,15 @@ window.COURSE_DATA.courses.push({
        "def": "father"
       },
       {
-       "term": "pax, pace",
+       "term": "pāx, pāce",
        "def": "peace"
       },
       {
-       "term": "Hispania",
+       "term": "Hispānia",
        "def": "Spain"
       },
       {
-       "term": "altare",
+       "term": "altāre",
        "def": "altar"
       },
       {
@@ -2326,7 +2326,7 @@ window.COURSE_DATA.courses.push({
        "def": "eternal"
       },
       {
-       "term": "revocare",
+       "term": "revocāre",
        "def": "recall"
       }
      ],
@@ -2497,23 +2497,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "**Third declension adjectives.** Most of them decline like **fortis**. In the singular the nominative has two forms, **fortis** (masculine and feminine) and **forte** (neuter); the objective is **fortem** and **forte**; the ablative is **forti** for both. In the plural the nominative is **fortes** and the neuter **fortia**, the objective the same, and the ablative **fortibus**. The ablative ending -i is the key signal of these adjectives. Some have three forms in the nominative singular, like **acer, acris, acre**, which behaves exactly like fortis except for the special feminine **acris**. Others have only one form, like **ferox**, which serves all three genders; its objective is **ferocem** (masculine and feminine) but **ferox** in the neuter, and the plurals are **feroces** and **ferocia**. In the vocabulary Most gives the one, two, or three nominative forms followed by the ablative singular. **Pluperfect tense.** To say 'he had come,' take **venit** and change -it to -erat, giving **venerat**, 'he had come,' and **venerant**, 'they had come.' This works on any verb and is one notch farther in the past than the perfect (dixit). **Adjectives as nouns.** Just as the masculine form can stand alone (boni, 'good men'), so can the neuter: **bonum** means a good thing, **bona** means good things, while **bonus** means a good man and **boni** good men.",
      "keyTerms": [
       {
-       "term": "de (with ablative)",
+       "term": "dē (with ablative)",
        "def": "about, concerning, down from"
       },
       {
-       "term": "acer, acris, acre, acri",
+       "term": "ācer, ācris, ācre, ācrī",
        "def": "sharp, eager, keen"
       },
       {
-       "term": "ferox, feroci",
+       "term": "ferōx, ferōcī",
        "def": "fierce"
       },
       {
-       "term": "non iam",
+       "term": "nōn iam",
        "def": "no longer"
       },
       {
-       "term": "fortis, e, i",
+       "term": "fortis, e, ī",
        "def": "brave, strong"
       },
       {
@@ -2529,11 +2529,11 @@ window.COURSE_DATA.courses.push({
        "def": "journey"
       },
       {
-       "term": "bonus miles, milite",
+       "term": "bonus mīles, mīlite",
        "def": "soldier"
       },
       {
-       "term": "magnus mons, monte",
+       "term": "magnus mōns, monte",
        "def": "mountain"
       },
       {
@@ -2541,11 +2541,11 @@ window.COURSE_DATA.courses.push({
        "def": "good things"
       },
       {
-       "term": "trans",
+       "term": "trāns",
        "def": "across"
       },
       {
-       "term": "laudavit",
+       "term": "laudāvit",
        "def": "praised"
       },
       {
@@ -2553,11 +2553,11 @@ window.COURSE_DATA.courses.push({
        "def": "climbed"
       },
       {
-       "term": "rupes ardua",
+       "term": "rūpēs ardua",
        "def": "steep cliff"
       },
       {
-       "term": "descendere",
+       "term": "dēscendere",
        "def": "go down"
       },
       {
@@ -2569,11 +2569,11 @@ window.COURSE_DATA.courses.push({
        "def": "fire"
       },
       {
-       "term": "acetum",
+       "term": "acētum",
        "def": "vinegar"
       },
       {
-       "term": "probabiliter",
+       "term": "probābiliter",
        "def": "probably"
       },
       {
@@ -2722,11 +2722,11 @@ window.COURSE_DATA.courses.push({
        "def": "near"
       },
       {
-       "term": "trans (with objective case)",
+       "term": "trāns (with objective case)",
        "def": "across"
       },
       {
-       "term": "cibus, o",
+       "term": "cibus, ō",
        "def": "food"
       },
       {
@@ -2734,19 +2734,19 @@ window.COURSE_DATA.courses.push({
        "def": "horseman"
       },
       {
-       "term": "magnum flumen, flumine",
+       "term": "magnum flūmen, flūmine",
        "def": "river"
       },
       {
-       "term": "frigidus, a, um",
+       "term": "frīgidus, a, um",
        "def": "cold"
       },
       {
-       "term": "insidiae, is (plural only)",
+       "term": "īnsidiae, is (plural only)",
        "def": "ambush, snare"
       },
       {
-       "term": "impatiens",
+       "term": "impatiēns",
        "def": "impatient"
       }
      ],
@@ -2896,7 +2896,7 @@ window.COURSE_DATA.courses.push({
        "def": "now"
       },
       {
-       "term": "trans",
+       "term": "trāns",
        "def": "across"
       },
       {
@@ -2908,7 +2908,7 @@ window.COURSE_DATA.courses.push({
        "def": "between"
       },
       {
-       "term": "insidiae",
+       "term": "īnsidiae",
        "def": "ambush"
       },
       {
@@ -3090,27 +3090,27 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "expectare",
+       "term": "expectāre",
        "def": "wait"
       },
       {
-       "term": "vocavit",
+       "term": "vocāvit",
        "def": "called"
       },
       {
-       "term": "Cunctator",
+       "term": "Cūnctātor",
        "def": "delayer"
       },
       {
-       "term": "elegit",
+       "term": "ēlēgit",
        "def": "elected"
       },
       {
-       "term": "scriptor",
+       "term": "scrīptor",
        "def": "writer"
       },
       {
-       "term": "clarus",
+       "term": "clārus",
        "def": "clear"
       },
       {
@@ -3266,15 +3266,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "**ABLATIVE ABSOLUTE.** Latin has a handy short-cut for setting up a sentence. In English we say, \"This being the case, let us go ahead.\" Latin does the same sort of thing, but puts the pattern in the ablative case, and in a greater variety than English: **Rege expulso, Romani pugnaverunt.** This pattern is called the ablative absolute. A literal, crude translation is useful as a start: \"The king HAVING BEEN expelled, the Romans fought.\" Here **rege** is simply \"the king,\" and the participle **expulso** becomes \"having been expelled.\" The HAVING BEEN formula is a good way to get the sense. That crude version can then be expanded with a connecting word: 1. **When** (or after) the king was expelled, the Romans fought. 2. **Because** (or since) the king was expelled, the Romans fought. 3. **Although** the king was expelled, the Romans fought. 4. **If** the king was expelled, the Romans fought. There is also a fifth, handy type: make an independent clause out of the absolute and join it with **and**, as in \"The king was expelled AND the Romans fought.\" These absolutes are extremely important, since almost every page of a Latin author has at least one. Memorize one model sentence with its translation, and at very least memorize the words when, after, because, although, and if.",
      "keyTerms": [
       {
-       "term": "intercludere, interclusit, interclusus",
+       "term": "interclūdere, interclūsit, interclūsus",
        "def": "cut off"
       },
       {
-       "term": "navigare, navigavit, navigatus",
+       "term": "nāvigāre, nāvigāvit, nāvigātus",
        "def": "sail"
       },
       {
-       "term": "vocare, vocavit, vocatus",
+       "term": "vocāre, vocāvit, vocātus",
        "def": "call"
       },
       {
@@ -3282,7 +3282,7 @@ window.COURSE_DATA.courses.push({
        "def": "reinforcements, auxiliaries"
       },
       {
-       "term": "frumentum, o",
+       "term": "frūmentum, ō",
        "def": "grain"
       },
       {
@@ -3290,11 +3290,11 @@ window.COURSE_DATA.courses.push({
        "def": "very great, greatest"
       },
       {
-       "term": "nihilominus",
+       "term": "nihilōminus",
        "def": "nevertheless"
       },
       {
-       "term": "pro (with ablative)",
+       "term": "prō (with ablative)",
        "def": "for"
       }
      ],
@@ -3445,27 +3445,27 @@ window.COURSE_DATA.courses.push({
      "explanation": "**POSSESSIVE CASE:** The possessive case is the \"of\" case, or the \"'s\" case. All Latin nouns have endings for the possessive case. We form it by substituting the possessive endings for the ablative singular endings, thus: nautae, nautarum; agni, agnorum; legis, legum. So agni means either the lamb's or of the lamb. Notice the two third-declension samples: in the singular both end in -is, but in the plural one has -um and the other has -ium. Which one a noun takes depends on its ablative singular. Nouns (and adjectives) that have ablative singular in -i take the -ium possessive plural; those with ablative singular in -e take only -um. Gender makes no difference: all three genders in the third declension use the same possessive endings, with -um versus -ium decided by the ablative. The same neuters that have -i in the ablative singular and -ia for nominative and objective plurals also have -ium for the possessive plural. The -i's have it. Adjectives use the same declensions as the nouns: bonus-type adjectives use Masculine -i, -orum; Feminine -ae, -arum; Neuter -a, -orum. Since nearly all third-declension adjectives have ablative singular in -i, their possessive forms are -is and -ium. Some possessive endings are duplicates of other cases, so nautae could be possessive singular or nominative plural, and agni likewise; the way the patterns are used will soon tell us how to distinguish them.\n**PARTICIPLES USED AS NOUNS:** In the last sentence, necesse fuit facere iussa, the word iussa is the neuter nominative-objective plural of the participle of iubere. Just as bona can mean good things, iussa can mean ordered things, so facere iussa means to do the things ordered.",
      "keyTerms": [
       {
-       "term": "civis, civium",
+       "term": "cīvis, cīvium",
        "def": "citizen"
       },
       {
-       "term": "senatus, senatuum",
+       "term": "senātus, senātuum",
        "def": "senate"
       },
       {
-       "term": "dies, diei, dierum",
+       "term": "diēs, diēī, diērum",
        "def": "day"
       },
       {
-       "term": "deliberare, -avit, -atus",
+       "term": "dēlīberāre, -āvit, -ātus",
        "def": "deliberate"
       },
       {
-       "term": "discedere, -cessit, -cessurus",
+       "term": "discēdere, -cessit, -cessūrus",
        "def": "depart"
       },
       {
-       "term": "iubere, iussit, iussus",
+       "term": "iubēre, iussit, iussus",
        "def": "order"
       },
       {
@@ -3477,19 +3477,19 @@ window.COURSE_DATA.courses.push({
        "def": "around"
       },
       {
-       "term": "arena, a",
+       "term": "arēna, a",
        "def": "sand"
       },
       {
-       "term": "responsum, o",
+       "term": "respōnsum, o",
        "def": "answer"
       },
       {
-       "term": "totus",
+       "term": "tōtus",
        "def": "whole"
       },
       {
-       "term": "unus",
+       "term": "ūnus",
        "def": "one"
       },
       {
@@ -3649,11 +3649,11 @@ window.COURSE_DATA.courses.push({
        "def": "easy"
       },
       {
-       "term": "odisse",
+       "term": "ōdisse",
        "def": "to hate"
       },
       {
-       "term": "habere orationem",
+       "term": "habēre ōrātiōnem",
        "def": "to give a speech"
       },
       {
@@ -3661,11 +3661,11 @@ window.COURSE_DATA.courses.push({
        "def": "all, every"
       },
       {
-       "term": "finis",
+       "term": "fīnis",
        "def": "end"
       },
       {
-       "term": "delere",
+       "term": "dēlēre",
        "def": "to destroy"
       },
       {
@@ -3673,7 +3673,7 @@ window.COURSE_DATA.courses.push({
        "def": "often"
       },
       {
-       "term": "debuit",
+       "term": "dēbuit",
        "def": "ought"
       },
       {
@@ -3685,7 +3685,7 @@ window.COURSE_DATA.courses.push({
        "def": "without"
       },
       {
-       "term": "deponere",
+       "term": "dēpōnere",
        "def": "lay down"
       },
       {
@@ -3693,23 +3693,23 @@ window.COURSE_DATA.courses.push({
        "def": "arms"
       },
       {
-       "term": "debere, debuit, debitus",
+       "term": "dēbēre, dēbuit, dēbitus",
        "def": "owe, ought"
       },
       {
-       "term": "deponere, -posuit, -positus",
+       "term": "dēpōnere, -posuit, -positus",
        "def": "put down"
       },
       {
-       "term": "delere, delevit, deletus",
+       "term": "dēlēre, dēlēvit, dēlētus",
        "def": "destroy"
       },
       {
-       "term": "facilis, facile, i",
+       "term": "facilis, facile, ī",
        "def": "easy"
       },
       {
-       "term": "bonus finis, e (poss. pl. -ium)",
+       "term": "bonus fīnis, e (poss. pl. -ium)",
        "def": "end"
       },
       {
@@ -3717,11 +3717,11 @@ window.COURSE_DATA.courses.push({
        "def": "all, every"
       },
       {
-       "term": "magna oratio, -ione",
+       "term": "magna ōrātiō, -iōne",
        "def": "speech"
       },
       {
-       "term": "orationem habere",
+       "term": "ōrātiōnem habēre",
        "def": "give a speech"
       },
       {
@@ -3868,11 +3868,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "heri",
+       "term": "herī",
        "def": "yesterday"
       },
       {
-       "term": "audivimus",
+       "term": "audīvimus",
        "def": "we heard"
       },
       {
@@ -3888,11 +3888,11 @@ window.COURSE_DATA.courses.push({
        "def": "it is permitted"
       },
       {
-       "term": "aedificare, -avit, -atus",
+       "term": "aedificāre, -āvit, -ātus",
        "def": "build"
       },
       {
-       "term": "femina, a",
+       "term": "fēmina, a",
        "def": "woman"
       },
       {
@@ -3916,19 +3916,19 @@ window.COURSE_DATA.courses.push({
        "def": "nothing"
       },
       {
-       "term": "lacessere, -cessivit, -cessitus",
+       "term": "lacessere, -cessīvit, -cessītus",
        "def": "harass"
       },
       {
-       "term": "eodem (abl.)",
+       "term": "eōdem (abl.)",
        "def": "same"
       },
       {
-       "term": "locus, o (plural shifts to neuter: loca)",
+       "term": "locus, ō (plural shifts to neuter: loca)",
        "def": "place"
       },
       {
-       "term": "nemo, nemine (has no poss.)",
+       "term": "nēmō, nēmine (has no poss.)",
        "def": "no one"
       }
      ],
@@ -4070,35 +4070,35 @@ window.COURSE_DATA.courses.push({
        "def": "were"
       },
       {
-       "term": "interficere, fecit, fectus",
+       "term": "interficere, fēcit, fectus",
        "def": "kill"
       },
       {
-       "term": "movere, movit, motus",
+       "term": "movēre, mōvit, mōtus",
        "def": "move"
       },
       {
-       "term": "proponere, posuit, positus",
+       "term": "prōpōnere, posuit, positus",
        "def": "propose"
       },
       {
-       "term": "tenere, tenuit, tentus",
+       "term": "tenēre, tenuit, tentus",
        "def": "hold, keep"
       },
       {
-       "term": "labor, labore",
+       "term": "labor, labōre",
        "def": "work, suffering"
       },
       {
-       "term": "misericordia, a",
+       "term": "misericordia, ā",
        "def": "mercy, pity"
       },
       {
-       "term": "servus, o",
+       "term": "servus, ō",
        "def": "slave"
       },
       {
-       "term": "senator, ore",
+       "term": "senātor, ōre",
        "def": "senator"
       },
       {
@@ -4106,35 +4106,35 @@ window.COURSE_DATA.courses.push({
        "def": "one's own, his, hers, its, theirs"
       },
       {
-       "term": "verus, a, um",
+       "term": "vērus, a, um",
        "def": "true; re vera, in truth, really"
       },
       {
-       "term": "nativitas",
+       "term": "nātīvitās",
        "def": "birth"
       },
       {
-       "term": "motus",
+       "term": "mōtus",
        "def": "moved"
       },
       {
-       "term": "divites",
+       "term": "dīvitēs",
        "def": "the rich"
       },
       {
-       "term": "conducere",
+       "term": "condūcere",
        "def": "hire"
       },
       {
-       "term": "proposuit",
+       "term": "prōposuit",
        "def": "proposed"
       },
       {
-       "term": "comitia tributa",
+       "term": "comitia tribūta",
        "def": "popular assembly"
       },
       {
-       "term": "quidam",
+       "term": "quīdam",
        "def": "certain"
       },
       {
@@ -4271,7 +4271,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "monstrare, monstravit, monstratus",
+       "term": "mōnstrāre, mōnstrāvit, mōnstrātus",
        "def": "show"
       },
       {
@@ -4279,23 +4279,23 @@ window.COURSE_DATA.courses.push({
        "def": "especially"
       },
       {
-       "term": "bona consuetudo, consuetudine",
+       "term": "bona cōnsuētūdō, cōnsuētūdine",
        "def": "custom"
       },
       {
-       "term": "filius, o",
+       "term": "fīlius, ō",
        "def": "son"
       },
       {
-       "term": "melior, melius, meliore",
+       "term": "melior, melius, meliōre",
        "def": "better"
       },
       {
-       "term": "occidentalis, e, i",
+       "term": "occidentālis, e, i",
        "def": "western"
       },
       {
-       "term": "orientalis, e, i",
+       "term": "orientālis, e, i",
        "def": "eastern"
       },
       {
@@ -4307,19 +4307,19 @@ window.COURSE_DATA.courses.push({
        "def": "certain things"
       },
       {
-       "term": "consuetudo",
+       "term": "consuētūdō",
        "def": "custom"
       },
       {
-       "term": "monstravit",
+       "term": "mōnstrāvit",
        "def": "showed"
       },
       {
-       "term": "audivimus",
+       "term": "audīvimus",
        "def": "we heard"
       },
       {
-       "term": "nepos",
+       "term": "nepōs",
        "def": "nephew"
       }
      ],
@@ -4441,19 +4441,19 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cogere, coegit, coactus",
+       "term": "cōgere, coēgit, coāctus",
        "def": "compel"
       },
       {
-       "term": "simulare, avit, atus",
+       "term": "simulāre, āvit, ātus",
        "def": "feign, pretend"
       },
       {
-       "term": "punire, punivit, punitus",
+       "term": "pūnīre, pūnīvit, pūnītus",
        "def": "punish"
       },
       {
-       "term": "sperare, avit, atus",
+       "term": "spērāre, āvit, ātus",
        "def": "hope"
       },
       {
@@ -4461,27 +4461,27 @@ window.COURSE_DATA.courses.push({
        "def": "soon"
       },
       {
-       "term": "delectus, u",
+       "term": "dēlēctus, ū",
        "def": "draft, levy"
       },
       {
-       "term": "iniustus, a, um",
+       "term": "iniūstus, a, um",
        "def": "unjust"
       },
       {
-       "term": "ira, a",
+       "term": "īra, a",
        "def": "anger"
       },
       {
-       "term": "modus, o",
+       "term": "modus, ō",
        "def": "manner, way, measure, limit"
       },
       {
-       "term": "coactus",
+       "term": "coāctus",
        "def": "forced"
       },
       {
-       "term": "audacia",
+       "term": "audācia",
        "def": "boldness"
       },
       {
@@ -4626,15 +4626,15 @@ window.COURSE_DATA.courses.push({
        "def": "time"
       },
       {
-       "term": "provincia",
+       "term": "prōvincia",
        "def": "province"
       },
       {
-       "term": "solum",
+       "term": "sōlum",
        "def": "only"
       },
       {
-       "term": "infudit",
+       "term": "īnfūdit",
        "def": "poured"
       },
       {
@@ -4666,23 +4666,23 @@ window.COURSE_DATA.courses.push({
        "def": "be absent"
       },
       {
-       "term": "revocare",
+       "term": "revocāre",
        "def": "recall"
       },
       {
-       "term": "amicus",
+       "term": "amīcus",
        "def": "friend"
       },
       {
-       "term": "abesse, afuit, afuturus",
+       "term": "abesse, āfuit, āfutūrus",
        "def": "be absent"
       },
       {
-       "term": "revocare, avit, atus",
+       "term": "revocāre, āvit, ātus",
        "def": "recall"
       },
       {
-       "term": "infundere, fudit, fusus",
+       "term": "īnfundere, fūdit, fūsus",
        "def": "pour in"
       },
       {
@@ -4846,11 +4846,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "evadere, evasit, evasus",
+       "term": "ēvādere, ēvāsit, ēvāsus",
        "def": "escape"
       },
       {
-       "term": "frangere, fregit, fractus",
+       "term": "frangere, frēgit, fractus",
        "def": "break"
       },
       {
@@ -4858,7 +4858,7 @@ window.COURSE_DATA.courses.push({
        "def": "seize, snatch"
       },
       {
-       "term": "Mithradates, e, m.",
+       "term": "Mithradātēs, e, m.",
        "def": "Mithradates"
       },
       {
@@ -4870,7 +4870,7 @@ window.COURSE_DATA.courses.push({
        "def": "second, successful"
       },
       {
-       "term": "vita, a",
+       "term": "vīta, a",
        "def": "life"
       },
       {
@@ -4882,7 +4882,7 @@ window.COURSE_DATA.courses.push({
        "def": "between, among"
       },
       {
-       "term": "omnino",
+       "term": "omnīnō",
        "def": "altogether, at all, in all"
       },
       {
@@ -4890,19 +4890,19 @@ window.COURSE_DATA.courses.push({
        "def": "then"
       },
       {
-       "term": "pretiosus",
+       "term": "pretiōsus",
        "def": "precious"
       },
       {
-       "term": "trucidatio",
+       "term": "trucīdātiō",
        "def": "butchery"
       },
       {
-       "term": "quotidie",
+       "term": "quotīdiē",
        "def": "daily"
       },
       {
-       "term": "proscriptus",
+       "term": "prōscrīptus",
        "def": "proscribed"
       }
      ],
@@ -5050,15 +5050,15 @@ window.COURSE_DATA.courses.push({
        "def": "command, power"
       },
       {
-       "term": "maior, maius, maiore",
+       "term": "māior, māius, māiōre",
        "def": "greater"
       },
       {
-       "term": "pauci, ae, a (plural forms only)",
+       "term": "paucī, ae, a (plural forms only)",
        "def": "few"
       },
       {
-       "term": "dictatura",
+       "term": "dictātūra",
        "def": "dictatorship"
       },
       {
@@ -5066,11 +5066,11 @@ window.COURSE_DATA.courses.push({
        "def": "title"
       },
       {
-       "term": "humilitas",
+       "term": "humilitās",
        "def": "humility"
       },
       {
-       "term": "pirata",
+       "term": "pīrāta",
        "def": "pirate"
       }
      ],
@@ -5219,7 +5219,7 @@ window.COURSE_DATA.courses.push({
        "def": "happen"
       },
       {
-       "term": "ducere in matrimonium",
+       "term": "dūcere in mātrimōnium",
        "def": "marry"
       },
       {
@@ -5227,11 +5227,11 @@ window.COURSE_DATA.courses.push({
        "def": "learn"
       },
       {
-       "term": "ducere, duxit, ductus",
+       "term": "dūcere, dūxit, ductus",
        "def": "lead"
       },
       {
-       "term": "fugere, fugit",
+       "term": "fugere, fūgit",
        "def": "flee"
       },
       {
@@ -5243,7 +5243,7 @@ window.COURSE_DATA.courses.push({
        "def": "art, skill"
       },
       {
-       "term": "audax, audaci",
+       "term": "audāx, audācī",
        "def": "bold"
       },
       {
@@ -5251,11 +5251,11 @@ window.COURSE_DATA.courses.push({
        "def": "Caesar"
       },
       {
-       "term": "bona iuventus, iuventute",
+       "term": "bona iuventūs, iuventūte",
        "def": "youth (time of life)"
       },
       {
-       "term": "magister, magistro",
+       "term": "magister, magistrō",
        "def": "teacher"
       },
       {
@@ -5263,11 +5263,11 @@ window.COURSE_DATA.courses.push({
        "def": "example"
       },
       {
-       "term": "filia",
+       "term": "fīlia",
        "def": "daughter"
       },
       {
-       "term": "matrimonium",
+       "term": "mātrimōnium",
        "def": "marriage"
       },
       {
@@ -5279,15 +5279,15 @@ window.COURSE_DATA.courses.push({
        "def": "wife"
       },
       {
-       "term": "negare",
+       "term": "negāre",
        "def": "say no, refuse"
       },
       {
-       "term": "pirata",
+       "term": "pīrāta",
        "def": "pirate"
       },
       {
-       "term": "captivitas",
+       "term": "captīvitās",
        "def": "captivity"
       }
      ],
@@ -5429,15 +5429,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "dividere, divisit, divisus",
+       "term": "dīvidere, dīvīsit, dīvīsus",
        "def": "divide"
       },
       {
-       "term": "magnus amor, amore",
+       "term": "magnus amor, amōre",
        "def": "love"
       },
       {
-       "term": "consulatus, u",
+       "term": "consulātus, ū",
        "def": "consulship"
       },
       {
@@ -5449,7 +5449,7 @@ window.COURSE_DATA.courses.push({
        "def": "four"
       },
       {
-       "term": "tres, tria, tribus (no singular, of course)",
+       "term": "trēs, tria, tribus (no singular, of course)",
        "def": "three"
       },
       {
@@ -5457,27 +5457,27 @@ window.COURSE_DATA.courses.push({
        "def": "bond, chain"
       },
       {
-       "term": "olim",
+       "term": "ōlim",
        "def": "once (upon a time)"
       },
       {
-       "term": "nondum",
+       "term": "nōndum",
        "def": "not yet"
       },
       {
-       "term": "collega",
+       "term": "collēga",
        "def": "colleague"
       },
       {
-       "term": "triumviri",
+       "term": "triumvirī",
        "def": "triumvirs"
       },
       {
-       "term": "divitissimus",
+       "term": "dīvitissimus",
        "def": "richest"
       },
       {
-       "term": "anser",
+       "term": "ānser",
        "def": "goose"
       }
      ],
@@ -5637,11 +5637,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "exspectare, avit, atus",
+       "term": "exspectāre, āvit, ātus",
        "def": "expect"
       },
       {
-       "term": "praevidere, vidit, visus",
+       "term": "praevidēre, vīdit, vīsus",
        "def": "foresee"
       },
       {
@@ -5649,7 +5649,7 @@ window.COURSE_DATA.courses.push({
        "def": "envy, unpopularity"
       },
       {
-       "term": "meridionalis, e, i",
+       "term": "merīdiōnālis, e, ī",
        "def": "southern"
       },
       {
@@ -5657,11 +5657,11 @@ window.COURSE_DATA.courses.push({
        "def": "reward"
       },
       {
-       "term": "talis, e, i",
+       "term": "tālis, e, i",
        "def": "such"
       },
       {
-       "term": "insuper",
+       "term": "īnsuper",
        "def": "in addition, besides"
       },
       {
@@ -5673,7 +5673,7 @@ window.COURSE_DATA.courses.push({
        "def": "neither ... nor"
       },
       {
-       "term": "tenere, tenuit, tentus",
+       "term": "tenēre, tenuit, tentus",
        "def": "hold, keep"
       }
      ],
@@ -5809,23 +5809,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "accusare, avit, atus",
+       "term": "accūsāre, āvit, ātus",
        "def": "accuse, blame"
       },
       {
-       "term": "redire, rediit, rediturus",
+       "term": "redīre, rediit, reditūrus",
        "def": "return, go back (the third plural present is redeunt)"
       },
       {
-       "term": "dimittere, misit, missus",
+       "term": "dīmittere, mīsit, missus",
        "def": "dismiss"
       },
       {
-       "term": "explicare, avit, atus",
+       "term": "explicāre, āvit, ātus",
        "def": "explain"
       },
       {
-       "term": "petere, petivit, petitus",
+       "term": "petere, petīvit, petītus",
        "def": "ask, seek"
       },
       {
@@ -5837,23 +5837,23 @@ window.COURSE_DATA.courses.push({
        "def": "either ... or"
       },
       {
-       "term": "inimicus, o",
+       "term": "inimīcus, o",
        "def": "enemy (personal enemy)"
       },
       {
-       "term": "iudicium, o",
+       "term": "iūdicium, o",
        "def": "judgment, court, trial"
       },
       {
-       "term": "magistratus",
+       "term": "magistrātus",
        "def": "office"
       },
       {
-       "term": "intercedere",
+       "term": "intercēdere",
        "def": "veto"
       },
       {
-       "term": "decretum",
+       "term": "dēcrētum",
        "def": "decree"
       }
      ],
@@ -6001,23 +6001,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "agere, egit, actus",
+       "term": "agere, ēgit, āctus",
        "def": "do, drive, act, discuss, spend (time)"
       },
       {
-       "term": "loqui, locutus est",
+       "term": "loquī, locūtus est",
        "def": "speak"
       },
       {
-       "term": "sequi, secutus est",
+       "term": "sequī, secūtus est",
        "def": "follow"
       },
       {
-       "term": "conari, conatus est",
+       "term": "cōnārī, cōnātus est",
        "def": "attempt"
       },
       {
-       "term": "aperire, aperuit, apertus",
+       "term": "aperīre, aperuit, apertus",
        "def": "open"
       },
       {
@@ -6029,23 +6029,23 @@ window.COURSE_DATA.courses.push({
        "def": "gate, door"
       },
       {
-       "term": "nullus, a, um",
+       "term": "nūllus, a, um",
        "def": "no, none"
       },
       {
-       "term": "interea",
+       "term": "intereā",
        "def": "meanwhile"
       },
       {
-       "term": "intercessio",
+       "term": "intercessiō",
        "def": "veto"
       },
       {
-       "term": "defendere",
+       "term": "dēfendere",
        "def": "defend"
       },
       {
-       "term": "finis",
+       "term": "fīnis",
        "def": "end, border"
       },
       {
@@ -6188,7 +6188,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "moriuntur, mori",
+       "term": "moriuntur, morī",
        "def": "die"
       },
       {
@@ -6204,7 +6204,7 @@ window.COURSE_DATA.courses.push({
        "def": "soon"
       },
       {
-       "term": "deditio",
+       "term": "dēditiō",
        "def": "surrender"
       },
       {
@@ -6212,11 +6212,11 @@ window.COURSE_DATA.courses.push({
        "def": "praetor"
       },
       {
-       "term": "recipere se",
+       "term": "recipere sē",
        "def": "retreat"
       },
       {
-       "term": "septentrionalis, e, i",
+       "term": "septentriōnālis, e, ī",
        "def": "northern"
       },
       {
@@ -6228,11 +6228,11 @@ window.COURSE_DATA.courses.push({
        "def": "excessive"
       },
       {
-       "term": "confidentia",
+       "term": "confīdentia",
        "def": "confidence"
       },
       {
-       "term": "putare, avit, atus",
+       "term": "putāre, āvit, ātus",
        "def": "think"
       },
       {
@@ -6244,7 +6244,7 @@ window.COURSE_DATA.courses.push({
        "def": "death"
       },
       {
-       "term": "bona soror, sorore",
+       "term": "bona soror, sorōre",
        "def": "sister"
       },
       {
@@ -6252,11 +6252,11 @@ window.COURSE_DATA.courses.push({
        "def": "swiftly"
       },
       {
-       "term": "nuntius, o",
+       "term": "nūntius, o",
        "def": "messenger, message"
       },
       {
-       "term": "cepit, ceptus",
+       "term": "cēpit, ceptus",
        "def": "take (note like capiunt)"
       }
      ],
@@ -6401,23 +6401,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "colligere, collegit, collectus",
+       "term": "colligere, collēgit, collēctus",
        "def": "collect"
       },
       {
-       "term": "reverti, reversus est",
+       "term": "revertī, reversus est",
        "def": "return"
       },
       {
-       "term": "ostendere, ostendit, ostensus",
+       "term": "ostendere, ostendit, ostēnsus",
        "def": "show"
       },
       {
-       "term": "proficisci, profectus est",
+       "term": "proficīscī, profectus est",
        "def": "set out"
       },
       {
-       "term": "unus mensis, i",
+       "term": "ūnus mēnsis, i",
        "def": "month"
       },
       {
@@ -6425,11 +6425,11 @@ window.COURSE_DATA.courses.push({
        "def": "or (in questions only)"
       },
       {
-       "term": "diu",
+       "term": "diū",
        "def": "a long time"
       },
       {
-       "term": "quare",
+       "term": "quārē",
        "def": "why"
       },
       {
@@ -6437,7 +6437,7 @@ window.COURSE_DATA.courses.push({
        "def": "returned"
       },
       {
-       "term": "clementia",
+       "term": "clēmentia",
        "def": "mercy"
       },
       {
@@ -6449,15 +6449,15 @@ window.COURSE_DATA.courses.push({
        "def": "corrected"
       },
       {
-       "term": "celebravit",
+       "term": "celebrāvit",
        "def": "celebrated"
       },
       {
-       "term": "corona",
+       "term": "corōna",
        "def": "crown"
       },
       {
-       "term": "festum",
+       "term": "fēstum",
        "def": "feast"
       },
       {
@@ -6603,7 +6603,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cavere, cavit, cautus",
+       "term": "cavēre, cāvit, cautus",
        "def": "beware"
       },
       {
@@ -6611,47 +6611,47 @@ window.COURSE_DATA.courses.push({
        "def": "begin (the last part has active meaning)"
       },
       {
-       "term": "monere, monuit, monitus",
+       "term": "monēre, monuit, monitus",
        "def": "warn, advise"
       },
       {
-       "term": "respondere, respondit, responsus",
+       "term": "respondēre, respondit, respōnsus",
        "def": "answer"
       },
       {
-       "term": "mala coniuratio, ione",
+       "term": "mala coniūrātiō, iōne",
        "def": "conspiracy"
       },
       {
-       "term": "gladius, o",
+       "term": "gladius, ō",
        "def": "sword"
       },
       {
-       "term": "magnus pes, pede",
+       "term": "magnus pēs, pede",
        "def": "foot"
       },
       {
-       "term": "bonus scriptor, ore",
+       "term": "bonus scrīptor, ōre",
        "def": "writer"
       },
       {
-       "term": "odisse",
+       "term": "ōdisse",
        "def": "to hate"
       },
       {
-       "term": "sica",
+       "term": "sīca",
        "def": "dagger"
       },
       {
-       "term": "monitio",
+       "term": "monitiō",
        "def": "warning"
       },
       {
-       "term": "Idus",
+       "term": "Īdūs",
        "def": "Ides (15th)"
       },
       {
-       "term": "vates",
+       "term": "vātēs",
        "def": "soothsayer"
       },
       {
@@ -6791,35 +6791,35 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "legere, legit, lectus",
+       "term": "legere, lēgit, lēctus",
        "def": "read"
       },
       {
-       "term": "nasci, natus est",
+       "term": "nāscī, nātus est",
        "def": "be born"
       },
       {
-       "term": "noscere, novit, notus",
+       "term": "nōscere, nōvit, nōtus",
        "def": "learn (perfect = has learned, so knows; notus = known)"
       },
       {
-       "term": "vivere, vixit, victurus",
+       "term": "vīvere, vīxit, victūrus",
        "def": "live"
       },
       {
-       "term": "clarus, a, um",
+       "term": "clārus, a, um",
        "def": "famous, brilliant"
       },
       {
-       "term": "equus, equo",
+       "term": "equus, equō",
        "def": "horse"
       },
       {
-       "term": "liber, libro",
+       "term": "liber, librō",
        "def": "book"
       },
       {
-       "term": "ordo, ordine",
+       "term": "ōrdō, ōrdine",
        "def": "row, order, rank"
       },
       {
@@ -6827,11 +6827,11 @@ window.COURSE_DATA.courses.push({
        "def": "good"
       },
       {
-       "term": "notus",
+       "term": "nōtus",
        "def": "known"
       },
       {
-       "term": "natus",
+       "term": "nātus",
        "def": "born"
       },
       {
@@ -6839,11 +6839,11 @@ window.COURSE_DATA.courses.push({
        "def": "equestrian"
       },
       {
-       "term": "equites",
+       "term": "equitēs",
        "def": "knights"
       },
       {
-       "term": "frater",
+       "term": "frāter",
        "def": "brother"
       },
       {
@@ -6859,7 +6859,7 @@ window.COURSE_DATA.courses.push({
        "def": "art, skill"
       },
       {
-       "term": "nobilitas, nobilitate",
+       "term": "nōbilitās, nōbilitāte",
        "def": "nobility, the nobles"
       }
      ],
@@ -6991,11 +6991,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "[fiunt], fieri, factus est",
+       "term": "[fīunt], fierī, factus est",
        "def": "to become, happen (the same as 'to become'); factus est is really the last part of facere"
       },
       {
-       "term": "nescire, ivit, itus",
+       "term": "nescīre, īvit, ītus",
        "def": "not to know"
       },
       {
@@ -7003,7 +7003,7 @@ window.COURSE_DATA.courses.push({
        "def": "on account of"
       },
       {
-       "term": "bonus homo, homine",
+       "term": "bonus homō, homine",
        "def": "man (human being in general, may include women and children)"
       },
       {
@@ -7011,11 +7011,11 @@ window.COURSE_DATA.courses.push({
        "def": "beginning"
       },
       {
-       "term": "peccatum, o",
+       "term": "peccātum, o",
        "def": "sin"
       },
       {
-       "term": "magnus princeps, principe",
+       "term": "magnus prīnceps, prīncipe",
        "def": "chief"
       },
       {
@@ -7027,11 +7027,11 @@ window.COURSE_DATA.courses.push({
        "def": "way, road, means"
       },
       {
-       "term": "magna virtus, virtute",
+       "term": "magna virtūs, virtūte",
        "def": "virtue, courage, manliness (of vir)"
       },
       {
-       "term": "talis",
+       "term": "tālis",
        "def": "such"
       },
       {
@@ -7039,7 +7039,7 @@ window.COURSE_DATA.courses.push({
        "def": "pride"
       },
       {
-       "term": "comparare",
+       "term": "comparāre",
        "def": "compare"
       },
       {
@@ -7205,7 +7205,7 @@ window.COURSE_DATA.courses.push({
        "def": "Gaul, France"
       },
       {
-       "term": "amica",
+       "term": "amīca",
        "def": "friend (fem.)"
       },
       {
@@ -7213,15 +7213,15 @@ window.COURSE_DATA.courses.push({
        "def": "my, mine"
       },
       {
-       "term": "narrare, avit, atus",
+       "term": "nārrāre, āvit, ātus",
        "def": "tell"
       },
       {
-       "term": "probare, avit, atus",
+       "term": "probāre, āvit, ātus",
        "def": "prove, test"
       },
       {
-       "term": "comprehendere, prehendit, prehensus",
+       "term": "comprehendere, prehendit, prehēnsus",
        "def": "grasp, arrest"
       },
       {
@@ -7229,19 +7229,19 @@ window.COURSE_DATA.courses.push({
        "def": "warned"
       },
       {
-       "term": "vehemens, vehementi",
+       "term": "vehemēns, vehementī",
        "def": "forceful"
       },
       {
-       "term": "ullus, a, um",
+       "term": "ūllus, a, um",
        "def": "any"
       },
       {
-       "term": "difficultas",
+       "term": "difficultās",
        "def": "difficulty"
       },
       {
-       "term": "socius, o",
+       "term": "socius, ō",
        "def": "ally, companion"
       }
      ],
@@ -7387,11 +7387,11 @@ window.COURSE_DATA.courses.push({
        "def": "consult"
       },
       {
-       "term": "placere, placuit, placiturus",
+       "term": "placēre, placuit, placitūrus",
        "def": "be pleasing to (dative)"
       },
       {
-       "term": "liberare, avit, atus",
+       "term": "līberāre, āvit, ātus",
        "def": "free"
       },
       {
@@ -7555,15 +7555,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "profanare, avit, atus",
+       "term": "profānāre, āvit, ātus",
        "def": "defile"
       },
       {
-       "term": "alibi",
+       "term": "alibī",
        "def": "elsewhere"
       },
       {
-       "term": "causa, a",
+       "term": "causā, ā",
        "def": "cause, case, reason"
       },
       {
@@ -7575,11 +7575,11 @@ window.COURSE_DATA.courses.push({
        "def": "enemy (national)"
       },
       {
-       "term": "mysterium, o",
+       "term": "mystērium, o",
        "def": "mystery, rite"
       },
       {
-       "term": "coram (with abl.)",
+       "term": "cōram (with abl.)",
        "def": "in the presence of, before"
       },
       {
@@ -7599,19 +7599,19 @@ window.COURSE_DATA.courses.push({
        "def": "family"
       },
       {
-       "term": "adoptare",
+       "term": "adoptāre",
        "def": "adopt"
       },
       {
-       "term": "plebeius",
+       "term": "plēbēius",
        "def": "plebeian"
       },
       {
-       "term": "pro",
+       "term": "prō",
        "def": "in place of"
       },
       {
-       "term": "iudicium",
+       "term": "iūdicium",
        "def": "trial"
       },
       {
@@ -7763,23 +7763,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "ire, iit, iturus",
+       "term": "īre, iit, itūrus",
        "def": "go"
       },
       {
-       "term": "afficio, afficere, affecit, affectus",
+       "term": "afficiō, afficere, affēcit, affectus",
        "def": "affect, move"
       },
       {
-       "term": "aggredior, aggredi, aggressus est",
+       "term": "aggredior, aggredī, aggressus est",
        "def": "attack"
       },
       {
-       "term": "non solum ... verum etiam",
+       "term": "nōn sōlum ... vērum etiam",
        "def": "not only ... but also"
       },
       {
-       "term": "hodie",
+       "term": "hodiē",
        "def": "today"
       },
       {
@@ -7787,23 +7787,23 @@ window.COURSE_DATA.courses.push({
        "def": "certain"
       },
       {
-       "term": "magnus dolor, dolore",
+       "term": "magnus dolor, dolōre",
        "def": "grief, pain"
       },
       {
-       "term": "exsilium, o",
+       "term": "exsilium, ō",
        "def": "exile"
       },
       {
-       "term": "ius, iure",
+       "term": "iūs, iūre",
        "def": "right, law"
       },
       {
-       "term": "exire",
+       "term": "exīre",
        "def": "go out"
       },
       {
-       "term": "gubernator",
+       "term": "gubernātor",
        "def": "governor"
       }
      ],
@@ -7946,19 +7946,19 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "ignoscere, ignovit, ignotus (with dat. and obj.)",
+       "term": "ignōscere, ignōvit, ignōtus (with dat. and obj.)",
        "def": "forgive (Caesari multa ignovit: He forgave Caesar many things)"
       },
       {
-       "term": "postea",
+       "term": "posteā",
        "def": "afterwards"
       },
       {
-       "term": "si",
+       "term": "sī",
        "def": "if"
       },
       {
-       "term": "sicut",
+       "term": "sīcut",
        "def": "as, just as, as if"
       },
       {
@@ -7966,7 +7966,7 @@ window.COURSE_DATA.courses.push({
        "def": "that, so that, in order to, in order that"
       },
       {
-       "term": "ne",
+       "term": "nē",
        "def": "lest, so that ... not"
       },
       {
@@ -7978,11 +7978,11 @@ window.COURSE_DATA.courses.push({
        "def": "permission"
       },
       {
-       "term": "bona monitio, monitione",
+       "term": "bona monitiō, monitiōne",
        "def": "advice, warning"
       },
       {
-       "term": "bonus vates, i",
+       "term": "bonus vātēs, i",
        "def": "soothsayer, prophet"
       },
       {
@@ -8137,23 +8137,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "decollare, avit, atus",
+       "term": "dēcollāre, āvit, ātus",
        "def": "behead"
       },
       {
-       "term": "proscribere, scripsit, scriptus",
+       "term": "prōscrībere, scrīpsit, scrīptus",
        "def": "proscribe"
       },
       {
-       "term": "nolle, noluit",
+       "term": "nōlle, nōluit",
        "def": "be unwilling"
       },
       {
-       "term": "permittere, misit, missus",
+       "term": "permittere, mīsit, missus",
        "def": "permit"
       },
       {
-       "term": "quotidie",
+       "term": "quotīdiē",
        "def": "daily"
       },
       {
@@ -8165,11 +8165,11 @@ window.COURSE_DATA.courses.push({
        "def": "fleet"
       },
       {
-       "term": "similis, simile, i",
+       "term": "similis, simile, ī",
        "def": "like, similar"
       },
       {
-       "term": "proscriptus",
+       "term": "prōscrīptus",
        "def": "proscribed"
       }
      ],
@@ -8314,7 +8314,7 @@ window.COURSE_DATA.courses.push({
        "def": "drive, rout"
       },
       {
-       "term": "privare, privavit, privatus",
+       "term": "prīvāre, prīvāvit, prīvātus",
        "def": "deprive (with abl., privare Mariam agno = deprive Mary of the lamb)"
       },
       {
@@ -8342,7 +8342,7 @@ window.COURSE_DATA.courses.push({
        "def": "beautiful"
       },
       {
-       "term": "deseruit",
+       "term": "dēseruit",
        "def": "deserted"
       },
       {
@@ -8503,7 +8503,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "relinquere, reliquit, relictus",
+       "term": "relinquere, relīquit, relictus",
        "def": "leave"
       },
       {
@@ -8515,11 +8515,11 @@ window.COURSE_DATA.courses.push({
        "def": "sacred"
       },
       {
-       "term": "adhuc",
+       "term": "adhūc",
        "def": "yet, still"
       },
       {
-       "term": "Geneseos",
+       "term": "Geneseōs",
        "def": "possessive singular of Genesis (Greek)"
       },
       {
@@ -8531,7 +8531,7 @@ window.COURSE_DATA.courses.push({
        "def": "rather"
       },
       {
-       "term": "requiescere, requievit, requietus",
+       "term": "requiēscere, requiēvit, requiētus",
        "def": "rest"
       },
       {
@@ -8539,15 +8539,15 @@ window.COURSE_DATA.courses.push({
        "def": "work"
       },
       {
-       "term": "docere, docuit, doctus",
+       "term": "docēre, docuit, doctus",
        "def": "teach"
       },
       {
-       "term": "coelum, o (but plural is masc.; coeli)",
+       "term": "coelum, ō (but plural is masc.; coelī)",
        "def": "heaven, sky"
       },
       {
-       "term": "spiritus",
+       "term": "spīritus",
        "def": "spirit"
       },
       {
@@ -8555,11 +8555,11 @@ window.COURSE_DATA.courses.push({
        "def": "above, over"
       },
       {
-       "term": "magna lux, luce",
+       "term": "magna lūx, lūce",
        "def": "light"
       },
       {
-       "term": "separavit",
+       "term": "sēparāvit",
        "def": "separated"
       },
       {
@@ -8571,11 +8571,11 @@ window.COURSE_DATA.courses.push({
        "def": "night"
       },
       {
-       "term": "solummodo",
+       "term": "sōlummodo",
        "def": "only"
       },
       {
-       "term": "fiat",
+       "term": "fīat",
        "def": "let it be"
       }
      ],
@@ -8726,15 +8726,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "libertas, libertatis",
+       "term": "lībertās, lībertātis",
        "def": "freedom, liberty"
       },
       {
-       "term": "virtus, virtutis",
+       "term": "virtūs, virtūtis",
        "def": "courage, valor"
       },
       {
-       "term": "miles, militis",
+       "term": "mīles, mīlitis",
        "def": "soldier"
       },
       {
@@ -8746,7 +8746,7 @@ window.COURSE_DATA.courses.push({
        "def": "brave, strong"
       },
       {
-       "term": "periculum, o",
+       "term": "perīculum, o",
        "def": "danger"
       },
       {
@@ -8758,15 +8758,15 @@ window.COURSE_DATA.courses.push({
        "def": "plan, advice"
       },
       {
-       "term": "intervallum, o",
+       "term": "intervāllum, o",
        "def": "interval, gap"
       },
       {
-       "term": "adhuc",
+       "term": "adhūc",
        "def": "yet, still"
       },
       {
-       "term": "solummodo",
+       "term": "sōlummodo",
        "def": "only"
       }
      ],
@@ -8901,11 +8901,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "comedere, comedit, comesus",
+       "term": "comedere, comēdit, comēsus",
        "def": "eat"
       },
       {
-       "term": "imperare, avit, atus",
+       "term": "imperāre, āvit, ātus",
        "def": "command"
       },
       {
@@ -8913,7 +8913,7 @@ window.COURSE_DATA.courses.push({
        "def": "then, next"
       },
       {
-       "term": "proferre, protulit, prolatus",
+       "term": "prōferre, prōtulit, prōlātus",
        "def": "bring forth"
       },
       {
@@ -8925,27 +8925,27 @@ window.COURSE_DATA.courses.push({
        "def": "so"
       },
       {
-       "term": "bona imago, imagine",
+       "term": "bona imāgō, imāgine",
        "def": "image"
       },
       {
-       "term": "lignum, o",
+       "term": "lignum, ō",
        "def": "wood, tree"
       },
       {
-       "term": "lingua, a",
+       "term": "lingua, ā",
        "def": "tongue, language"
       },
       {
-       "term": "luna, a",
+       "term": "lūna, a",
        "def": "moon"
       },
       {
-       "term": "signum, o",
+       "term": "signum, ō",
        "def": "sign, signal, standard"
       },
       {
-       "term": "bonus sol, sole",
+       "term": "bonus sōl, sōle",
        "def": "sun"
       },
       {
@@ -8957,7 +8957,7 @@ window.COURSE_DATA.courses.push({
        "def": "bird"
       },
       {
-       "term": "limus",
+       "term": "līmus",
        "def": "slime"
       },
       {
@@ -8965,15 +8965,15 @@ window.COURSE_DATA.courses.push({
        "def": "fish"
       },
       {
-       "term": "inspiravit",
+       "term": "īnspīrāvit",
        "def": "breathed in"
       },
       {
-       "term": "facies",
+       "term": "faciēs",
        "def": "face"
       },
       {
-       "term": "spiraculum",
+       "term": "spīrāculum",
        "def": "breath"
       },
       {
@@ -9136,27 +9136,27 @@ window.COURSE_DATA.courses.push({
        "def": "hide"
       },
       {
-       "term": "obedire, obedivit, obeditus",
+       "term": "obēdīre, obēdīvit, obēdītus",
        "def": "obey (with dative)"
       },
       {
-       "term": "credere, credidit, creditus",
+       "term": "crēdere, crēdidit, crēditus",
        "def": "believe (Maria credit Marco: Mary believes Marcus)"
       },
       {
-       "term": "sentire, sensit, sensus",
+       "term": "sentīre, sēnsit, sēnsus",
        "def": "feel, realize, perceive"
       },
       {
-       "term": "interrogare, avit, atus",
+       "term": "interrogāre, āvit, ātus",
        "def": "question, ask"
       },
       {
-       "term": "diabolus, o",
+       "term": "diabolus, ō",
        "def": "devil"
       },
       {
-       "term": "magna vox, voce",
+       "term": "magna vōx, vōce",
        "def": "voice"
       },
       {
@@ -9164,15 +9164,15 @@ window.COURSE_DATA.courses.push({
        "def": "whether"
       },
       {
-       "term": "serpens",
+       "term": "serpēns",
        "def": "snake"
       },
       {
-       "term": "fructus",
+       "term": "frūctus",
        "def": "fruit"
       },
       {
-       "term": "nudus",
+       "term": "nūdus",
        "def": "naked"
       }
      ],
@@ -9310,7 +9310,7 @@ window.COURSE_DATA.courses.push({
        "def": "deceive"
       },
       {
-       "term": "offerre, obtulit, oblatus",
+       "term": "offerre, obtulit, oblātus",
        "def": "offer (compare proferre in Lesson 45)"
       },
       {
@@ -9318,15 +9318,15 @@ window.COURSE_DATA.courses.push({
        "def": "so great, so large"
       },
       {
-       "term": "malum, o",
+       "term": "mālum, ō",
        "def": "apple"
       },
       {
-       "term": "bona mater, matre",
+       "term": "bona māter, mātre",
        "def": "mother"
       },
       {
-       "term": "bonus pastor, pastore",
+       "term": "bonus pāstor, pāstōre",
        "def": "shepherd, herdsman"
       },
       {
@@ -9334,15 +9334,15 @@ window.COURSE_DATA.courses.push({
        "def": "farmer"
       },
       {
-       "term": "bona virgo, virgine",
+       "term": "bona virgō, virgine",
        "def": "virgin, maiden"
       },
       {
-       "term": "omnipotens",
+       "term": "omnipotēns",
        "def": "omnipotent"
       },
       {
-       "term": "cur",
+       "term": "cūr",
        "def": "why"
       },
       {
@@ -9354,19 +9354,19 @@ window.COURSE_DATA.courses.push({
        "def": "crush"
       },
       {
-       "term": "virgo",
+       "term": "virgō",
        "def": "virgin"
       },
       {
-       "term": "spes (5th)",
+       "term": "spēs (5th)",
        "def": "hope"
       },
       {
-       "term": "secum",
+       "term": "sēcum",
        "def": "cum se"
       },
       {
-       "term": "nescire",
+       "term": "nescīre",
        "def": "not know"
       }
      ],
@@ -9515,11 +9515,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "committere, commisit, commissus",
+       "term": "committere, commīsit, commissus",
        "def": "commit, intrust"
       },
       {
-       "term": "irasci, iratus est",
+       "term": "īrāscī, īrātus est",
        "def": "be angry at (with dative)"
       },
       {
@@ -9527,11 +9527,11 @@ window.COURSE_DATA.courses.push({
        "def": "make! (a command; imperative singular of facere)"
       },
       {
-       "term": "duc",
+       "term": "dūc",
        "def": "lead! (a command)"
       },
       {
-       "term": "bona caro, carne",
+       "term": "bona carō, carne",
        "def": "flesh, meat"
       },
       {
@@ -9539,7 +9539,7 @@ window.COURSE_DATA.courses.push({
        "def": "body"
       },
       {
-       "term": "diluvium, o",
+       "term": "dīluvium, ō",
        "def": "flood, deluge"
       },
       {
@@ -9551,7 +9551,7 @@ window.COURSE_DATA.courses.push({
        "def": "rain"
       },
       {
-       "term": "mea mens, mente",
+       "term": "mea mēns, mente",
        "def": "mind"
       },
       {
@@ -9559,11 +9559,11 @@ window.COURSE_DATA.courses.push({
        "def": "very bad, worst"
       },
       {
-       "term": "plurimus, a, um",
+       "term": "plūrimus, a, um",
        "def": "very many, most"
       },
       {
-       "term": "spiritus",
+       "term": "spīritus",
        "def": "breath"
       },
       {
@@ -9728,23 +9728,23 @@ window.COURSE_DATA.courses.push({
        "def": "close"
       },
       {
-       "term": "rumpere, rupit, ruptus",
+       "term": "rumpere, rūpit, ruptus",
        "def": "break"
       },
       {
-       "term": "ferre, tulit, latus",
+       "term": "ferre, tulit, lātus",
        "def": "bear, bring (forms like proferre)"
       },
       {
-       "term": "terrere, terruit, territus",
+       "term": "terrēre, terruit, territus",
        "def": "terrify"
       },
       {
-       "term": "cur",
+       "term": "cūr",
        "def": "why"
       },
       {
-       "term": "recordari, recordatus est",
+       "term": "recordārī, recordātus est",
        "def": "remember (with possessive case)"
       },
       {
@@ -9756,7 +9756,7 @@ window.COURSE_DATA.courses.push({
        "def": "high, deep"
       },
       {
-       "term": "magnus fons, fonte (poss. pl. -ium)",
+       "term": "magnus fōns, fonte (poss. pl. -ium)",
        "def": "fountain, spring"
       },
       {
@@ -9764,7 +9764,7 @@ window.COURSE_DATA.courses.push({
        "def": "wind"
       },
       {
-       "term": "fons",
+       "term": "fōns",
        "def": "fountain"
       },
       {
@@ -9800,11 +9800,11 @@ window.COURSE_DATA.courses.push({
        "def": "bear, bring"
       },
       {
-       "term": "ramus",
+       "term": "rāmus",
        "def": "branch"
       },
       {
-       "term": "oliva",
+       "term": "olīva",
        "def": "olive, olive tree"
       },
       {
@@ -9960,15 +9960,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "egrediuntur, gredi, gressus est",
+       "term": "ēgrediuntur, gredī, gressus est",
        "def": "go out (half-deponent)"
       },
       {
-       "term": "confidere, confisus est",
+       "term": "confīdere, confīsus est",
        "def": "trust in (deponent)"
       },
       {
-       "term": "mutare, avit, atus",
+       "term": "mūtāre, āvit, ātus",
        "def": "change"
       },
       {
@@ -9976,15 +9976,15 @@ window.COURSE_DATA.courses.push({
        "def": "never"
       },
       {
-       "term": "magnum altare, i",
+       "term": "magnum altāre, i",
        "def": "altar"
       },
       {
-       "term": "arcus, u",
+       "term": "arcus, ū",
        "def": "bow"
       },
       {
-       "term": "magna civitas, civitate",
+       "term": "magna cīvitās, cīvitāte",
        "def": "city, citizenship"
       },
       {
@@ -9996,7 +9996,7 @@ window.COURSE_DATA.courses.push({
        "def": "tower"
       },
       {
-       "term": "recordari",
+       "term": "recordārī",
        "def": "remember"
       },
       {
@@ -10139,11 +10139,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "finire, ivit, itus",
+       "term": "fīnīre, īvit, ītus",
        "def": "finish, complete"
       },
       {
-       "term": "habitare, avit, atus",
+       "term": "habitāre, āvit, ātus",
        "def": "dwell, inhabit"
       },
       {
@@ -10163,19 +10163,19 @@ window.COURSE_DATA.courses.push({
        "def": "so"
       },
       {
-       "term": "maiores, maioribus",
+       "term": "māiōrēs, māiōribus",
        "def": "ancestors"
       },
       {
-       "term": "peior, peius, peiore",
+       "term": "pēior, pēius, pēiōre",
        "def": "worse"
       },
       {
-       "term": "millenarium",
+       "term": "mīllēnārium",
        "def": "a thousand years"
       },
       {
-       "term": "utilis",
+       "term": "ūtilis",
        "def": "useful"
       },
       {
@@ -10187,7 +10187,7 @@ window.COURSE_DATA.courses.push({
        "def": "polytheist, worshipper of many gods"
       },
       {
-       "term": "luna",
+       "term": "lūna",
        "def": "moon"
       }
      ],
@@ -10350,15 +10350,15 @@ window.COURSE_DATA.courses.push({
        "def": "worship"
       },
       {
-       "term": "volo",
+       "term": "volō",
        "def": "I wish"
       },
       {
-       "term": "gens",
+       "term": "gēns",
        "def": "people"
       },
       {
-       "term": "benedicere",
+       "term": "benedīcere",
        "def": "bless"
       },
       {
@@ -10366,15 +10366,15 @@ window.COURSE_DATA.courses.push({
        "def": "again"
       },
       {
-       "term": "fames",
+       "term": "famēs",
        "def": "famine"
       },
       {
-       "term": "valde",
+       "term": "valdē",
        "def": "very"
       },
       {
-       "term": "dives, divite",
+       "term": "dīves, dīvite",
        "def": "rich (poss. pl. -um)"
       },
       {
@@ -10382,23 +10382,23 @@ window.COURSE_DATA.courses.push({
        "def": "behold"
       },
       {
-       "term": "eligere",
+       "term": "ēligere",
        "def": "choose"
       },
       {
-       "term": "circa",
+       "term": "circā",
        "def": "about"
       },
       {
-       "term": "stella",
+       "term": "stēlla",
        "def": "star"
       },
       {
-       "term": "apparere, apparuit, apparitus",
+       "term": "appārēre, appāruit, appāritus",
        "def": "appear"
       },
       {
-       "term": "magna fames, fame",
+       "term": "magna famēs, fame",
        "def": "hunger, famine"
       },
       {
@@ -10560,27 +10560,27 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "salvare",
+       "term": "salvāre",
        "def": "save"
       },
       {
-       "term": "sacerdos",
+       "term": "sacerdōs",
        "def": "priest"
       },
       {
-       "term": "panis",
+       "term": "pānis",
        "def": "bread"
       },
       {
-       "term": "vinum",
+       "term": "vīnum",
        "def": "wine"
       },
       {
-       "term": "gens",
+       "term": "gēns",
        "def": "people, nation"
       },
       {
-       "term": "circumcidere, cidit, cisus",
+       "term": "circumcīdere, cīdit, cīsus",
        "def": "circumcise"
       },
       {
@@ -10596,23 +10596,23 @@ window.COURSE_DATA.courses.push({
        "def": "for the sake of (with poss.)"
       },
       {
-       "term": "petitio",
+       "term": "petītiō",
        "def": "request"
       },
       {
-       "term": "perseverare, avit, atus",
+       "term": "persevērāre, āvit, ātus",
        "def": "continue, persevere"
       },
       {
-       "term": "ultimo",
+       "term": "ultimō",
        "def": "finally, at last"
       },
       {
-       "term": "bonus panis, e",
+       "term": "bonus pānis, e",
        "def": "bread"
       },
       {
-       "term": "bonus sacerdos, dote",
+       "term": "bonus sacerdōs, dōte",
        "def": "priest"
       },
       {
@@ -10757,15 +10757,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "destruere",
+       "term": "dēstruere",
        "def": "destroy"
       },
       {
-       "term": "primum",
+       "term": "prīmum",
        "def": "first"
       },
       {
-       "term": "sedere",
+       "term": "sedēre",
        "def": "sit"
       },
       {
@@ -10781,23 +10781,23 @@ window.COURSE_DATA.courses.push({
        "def": "shameful"
       },
       {
-       "term": "iocari",
+       "term": "iocārī",
        "def": "to joke"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "in the morning"
       },
       {
-       "term": "perire",
+       "term": "perīre",
        "def": "perish"
       },
       {
-       "term": "exire",
+       "term": "exīre",
        "def": "go out"
       },
       {
-       "term": "morari",
+       "term": "morārī",
        "def": "delay"
       },
       {
@@ -10809,7 +10809,7 @@ window.COURSE_DATA.courses.push({
        "def": "as if"
       },
       {
-       "term": "voluntas",
+       "term": "voluntās",
        "def": "will"
       },
       {
@@ -10821,11 +10821,11 @@ window.COURSE_DATA.courses.push({
        "def": "turned"
       },
       {
-       "term": "sal",
+       "term": "sāl",
        "def": "salt"
       },
       {
-       "term": "certe",
+       "term": "certē",
        "def": "certainly"
       },
       {
@@ -10972,7 +10972,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "oraculum",
+       "term": "ōrāculum",
        "def": "oracle"
       },
       {
@@ -10980,15 +10980,15 @@ window.COURSE_DATA.courses.push({
        "def": "ambiguous"
       },
       {
-       "term": "adulescens",
+       "term": "adulēscēns",
        "def": "young man"
       },
       {
-       "term": "responsum",
+       "term": "respōnsum",
        "def": "answer, response"
       },
       {
-       "term": "redire",
+       "term": "redīre",
        "def": "to return (a compound of ire)"
       }
      ],
@@ -11093,11 +11093,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "gens",
+       "term": "gēns",
        "def": "nation"
       },
       {
-       "term": "implere",
+       "term": "implēre",
        "def": "fill"
       },
       {
@@ -11109,11 +11109,11 @@ window.COURSE_DATA.courses.push({
        "def": "covenant"
       },
       {
-       "term": "plus, plure (pl. plures, plura)",
+       "term": "plūs, plūre (pl. plūrēs, plūra)",
        "def": "more"
       },
       {
-       "term": "tollere, sustulit, sublatus",
+       "term": "tollere, sustulit, sublātus",
        "def": "remove, take, lift, raise"
       },
       {
@@ -11121,19 +11121,19 @@ window.COURSE_DATA.courses.push({
        "def": "I am here"
       },
       {
-       "term": "monstrare",
+       "term": "mōnstrāre",
        "def": "show"
       },
       {
-       "term": "surrexit",
+       "term": "surrēxit",
        "def": "arose"
       },
       {
-       "term": "fili mi",
+       "term": "fīlī mī",
        "def": "my son"
       },
       {
-       "term": "ligare, avit, atus",
+       "term": "ligāre, āvit, ātus",
        "def": "bind"
       },
       {
@@ -11145,19 +11145,19 @@ window.COURSE_DATA.courses.push({
        "def": "before"
       },
       {
-       "term": "tangere, tetigit, tactus",
+       "term": "tangere, tetigit, tāctus",
        "def": "touch"
       },
       {
-       "term": "aries",
+       "term": "ariēs",
        "def": "ram"
       },
       {
-       "term": "benedicere",
+       "term": "benedīcere",
        "def": "bless"
       },
       {
-       "term": "adesse, adfuit, adfuturus",
+       "term": "adesse, adfuit, adfutūrus",
        "def": "be present"
       }
      ],
@@ -11303,19 +11303,19 @@ window.COURSE_DATA.courses.push({
        "def": "worship, till, cultivate"
       },
       {
-       "term": "magna gens, gente",
+       "term": "magna gēns, gente",
        "def": "tribe, people (poss. pl. -ium)"
       },
       {
-       "term": "implere, implevit, impletus",
+       "term": "implēre, implēvit, implētus",
        "def": "fill, fulfill"
       },
       {
-       "term": "bona voluntas, voluntate",
+       "term": "bona voluntās, voluntāte",
        "def": "will"
       },
       {
-       "term": "filia, a",
+       "term": "fīlia, a",
        "def": "daughter"
       },
       {
@@ -11323,7 +11323,7 @@ window.COURSE_DATA.courses.push({
        "def": "whence, from where"
       },
       {
-       "term": "senex, o",
+       "term": "senex, ō",
        "def": "old man"
       },
       {
@@ -11331,11 +11331,11 @@ window.COURSE_DATA.courses.push({
        "def": "I am"
       },
       {
-       "term": "providere",
+       "term": "prōvidēre",
        "def": "provide"
       },
       {
-       "term": "eas",
+       "term": "eās",
        "def": "subj. of ire"
       },
       {
@@ -11343,11 +11343,11 @@ window.COURSE_DATA.courses.push({
        "def": "woman"
       },
       {
-       "term": "haurire",
+       "term": "haurīre",
        "def": "draw"
       },
       {
-       "term": "oravit",
+       "term": "ōrāvit",
        "def": "prayed"
       },
       {
@@ -11355,11 +11355,11 @@ window.COURSE_DATA.courses.push({
        "def": "imperative of facere"
       },
       {
-       "term": "camelus",
+       "term": "camēlus",
        "def": "camel"
       },
       {
-       "term": "parentes",
+       "term": "parentēs",
        "def": "parents"
       }
      ],
@@ -11510,15 +11510,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "dormire, ivit, itus",
+       "term": "dormīre, īvit, ītus",
        "def": "sleep"
       },
       {
-       "term": "numerare, avit, atus",
+       "term": "numerāre, āvit, ātus",
        "def": "count, number"
       },
       {
-       "term": "morari, moratus est",
+       "term": "morārī, morātus est",
        "def": "delay, stay"
       },
       {
@@ -11534,11 +11534,11 @@ window.COURSE_DATA.courses.push({
        "def": "pact, covenant"
       },
       {
-       "term": "bonus frater, fratre",
+       "term": "bonus frāter, frātre",
        "def": "brother"
       },
       {
-       "term": "simulatio",
+       "term": "simulātiō",
        "def": "pretense"
       },
       {
@@ -11546,15 +11546,15 @@ window.COURSE_DATA.courses.push({
        "def": "stone"
       },
       {
-       "term": "scala",
+       "term": "scāla",
        "def": "ladder"
       },
       {
-       "term": "cacumen",
+       "term": "cacūmen",
        "def": "top"
       },
       {
-       "term": "renovare",
+       "term": "renovāre",
        "def": "renew"
       },
       {
@@ -11711,23 +11711,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "adorare, avit, atus",
+       "term": "adōrāre, āvit, ātus",
        "def": "respect, reverence, adore"
       },
       {
-       "term": "circumstare, -stetit, --",
+       "term": "circumstāre, -stetit, --",
        "def": "surround"
       },
       {
-       "term": "occidere, occidit, occisus",
+       "term": "occīdere, occīdit, occīsus",
        "def": "kill"
       },
       {
-       "term": "prodesse, profuit, profuturus",
+       "term": "prōdesse, prōfuit, prōfutūrus",
        "def": "be profitable to (dat., compound of esse)"
       },
       {
-       "term": "subiciunt, subicere, iecit, iectus",
+       "term": "subiciunt, subicere, iēcit, iectus",
        "def": "subject"
       },
       {
@@ -11735,7 +11735,7 @@ window.COURSE_DATA.courses.push({
        "def": "cattle"
       },
       {
-       "term": "somnium, o",
+       "term": "somnium, ō",
        "def": "dream"
       },
       {
@@ -11755,11 +11755,11 @@ window.COURSE_DATA.courses.push({
        "def": "favorable"
       },
       {
-       "term": "custodire",
+       "term": "custōdīre",
        "def": "watch"
       },
       {
-       "term": "somniator",
+       "term": "somniātor",
        "def": "dreamer"
       }
      ],
@@ -11912,19 +11912,19 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "fundere, fudit, fusus",
+       "term": "fundere, fūdit, fūsus",
        "def": "pour, shed"
       },
       {
-       "term": "merere, meruit, meritus",
+       "term": "merēre, meruit, meritus",
        "def": "earn, deserve"
       },
       {
-       "term": "trahere, traxit, tractus",
+       "term": "trahere, trāxit, tractus",
        "def": "draw, drag"
       },
       {
-       "term": "vendere, vendidit, venditus",
+       "term": "vēndere, vēndidit, vēnditus",
        "def": "sell"
       },
       {
@@ -11932,7 +11932,7 @@ window.COURSE_DATA.courses.push({
        "def": "soul, life, breath"
       },
       {
-       "term": "ferus, o & fera, a",
+       "term": "ferus, ō & fera, a",
        "def": "wild beast"
       },
       {
@@ -11948,11 +11948,11 @@ window.COURSE_DATA.courses.push({
        "def": "word"
       },
       {
-       "term": "devorare",
+       "term": "dēvorāre",
        "def": "eat"
       },
       {
-       "term": "sedere",
+       "term": "sedēre",
        "def": "sit"
       },
       {
@@ -12059,19 +12059,19 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "fundere, fudit, fusus",
+       "term": "fundere, fūdit, fūsus",
        "def": "pour, shed"
       },
       {
-       "term": "merere, meruit, meritus",
+       "term": "merēre, meruit, meritus",
        "def": "earn, deserve"
       },
       {
-       "term": "trahere, traxit, tractus",
+       "term": "trahere, trāxit, tractus",
        "def": "draw, drag"
       },
       {
-       "term": "vendere, vendidit, venditus",
+       "term": "vēndere, vēndidit, vēnditus",
        "def": "sell"
       },
       {
@@ -12079,7 +12079,7 @@ window.COURSE_DATA.courses.push({
        "def": "soul, life, breath"
       },
       {
-       "term": "ferus, o & fera, a",
+       "term": "ferus, ō & fera, a",
        "def": "wild beast"
       },
       {
@@ -12095,11 +12095,11 @@ window.COURSE_DATA.courses.push({
        "def": "word"
       },
       {
-       "term": "devorare",
+       "term": "dēvorāre",
        "def": "eat"
       },
       {
-       "term": "sedere",
+       "term": "sedēre",
        "def": "sit"
       },
       {
@@ -12205,11 +12205,11 @@ window.COURSE_DATA.courses.push({
        "def": "parrot"
       },
       {
-       "term": "femina",
+       "term": "fēmina",
        "def": "woman"
       },
       {
-       "term": "navigare, avit, atus",
+       "term": "nāvigāre, āvit, ātus",
        "def": "sail"
       },
       {
@@ -12217,11 +12217,11 @@ window.COURSE_DATA.courses.push({
        "def": "sailor"
       },
       {
-       "term": "profanus",
+       "term": "profānus",
        "def": "profane"
       },
       {
-       "term": "tegere, texit, tectus",
+       "term": "tegere, tēxit, tēctus",
        "def": "cover"
       },
       {
@@ -12233,11 +12233,11 @@ window.COURSE_DATA.courses.push({
        "def": "week"
       },
       {
-       "term": "dies dominica",
+       "term": "diēs dominica",
        "def": "Sunday"
       },
       {
-       "term": "feria secunda",
+       "term": "fēria secunda",
        "def": "Monday"
       },
       {
@@ -12245,11 +12245,11 @@ window.COURSE_DATA.courses.push({
        "def": "minister, servant"
       },
       {
-       "term": "vox",
+       "term": "vōx",
        "def": "voice"
       },
       {
-       "term": "querens (queri)",
+       "term": "querēns (querī)",
        "def": "complaining"
       },
       {
@@ -12332,7 +12332,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "administrare, avit, atus",
+       "term": "administrāre, āvit, ātus",
        "def": "govern, manage"
       },
       {
@@ -12340,27 +12340,27 @@ window.COURSE_DATA.courses.push({
        "def": "cup"
       },
       {
-       "term": "malum crimen, crimine",
+       "term": "malum crīmen, crīmine",
        "def": "charge, crime"
       },
       {
-       "term": "emere, emit, emptus",
+       "term": "emere, ēmit, ēmptus",
        "def": "buy"
       },
       {
-       "term": "gratia, a",
+       "term": "grātia, a",
        "def": "favor, grace, gratitude"
       },
       {
-       "term": "restituere, restituit, restitutus",
+       "term": "restituere, restituit, restitūtus",
        "def": "restore"
       },
       {
-       "term": "negotium, o",
+       "term": "negōtium, o",
        "def": "business, trouble"
       },
       {
-       "term": "antea (adv.)",
+       "term": "anteā (adv.)",
        "def": "before, formerly"
       },
       {
@@ -12384,15 +12384,15 @@ window.COURSE_DATA.courses.push({
        "def": "butler"
       },
       {
-       "term": "vitis",
+       "term": "vītis",
        "def": "vine"
       },
       {
-       "term": "propago",
+       "term": "prōpāgō",
        "def": "branch"
       },
       {
-       "term": "uva",
+       "term": "ūva",
        "def": "grape"
       },
       {
@@ -12400,7 +12400,7 @@ window.COURSE_DATA.courses.push({
        "def": "pressed"
       },
       {
-       "term": "innocens",
+       "term": "innocēns",
        "def": "innocent"
       }
      ],
@@ -12555,31 +12555,31 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "auferre, abstulit, ablatus",
+       "term": "auferre, abstulit, ablātus",
        "def": "take away (compound of ferre); Aufert arma militi, he takes arms from the soldier"
       },
       {
-       "term": "oblivisci, oblitus est",
+       "term": "oblīvīscī, oblītus est",
        "def": "forget (with possessive or object)"
       },
       {
-       "term": "oriuntur, oriri, ortus est",
+       "term": "oriuntur, orīrī, ortus est",
        "def": "rise, arise"
       },
       {
-       "term": "pasci, pastus est",
+       "term": "pāscī, pāstus est",
        "def": "feed on (with abl.)"
       },
       {
-       "term": "suspendere, pendit, pensus",
+       "term": "suspendere, pendit, pēnsus",
        "def": "hang"
       },
       {
-       "term": "alienus, a, um",
+       "term": "aliēnus, a, um",
        "def": "foreign, unfavorable"
       },
       {
-       "term": "bos, bove",
+       "term": "bōs, bove",
        "def": "cow, bull, ox (masc. or fem.)"
       },
       {
@@ -12595,15 +12595,15 @@ window.COURSE_DATA.courses.push({
        "def": "basket"
       },
       {
-       "term": "farina",
+       "term": "farīna",
        "def": "meal"
       },
       {
-       "term": "natalitius",
+       "term": "nātālitius",
        "def": "birthday"
       },
       {
-       "term": "convivium",
+       "term": "convīvium",
        "def": "banquet"
       },
       {
@@ -12619,15 +12619,15 @@ window.COURSE_DATA.courses.push({
        "def": "marshy"
       },
       {
-       "term": "deformis",
+       "term": "dēfōrmis",
        "def": "ugly"
       },
       {
-       "term": "exilis",
+       "term": "exīlis",
        "def": "thin"
       },
       {
-       "term": "spica",
+       "term": "spīca",
        "def": "ear of grain"
       },
       {
@@ -12635,7 +12635,7 @@ window.COURSE_DATA.courses.push({
        "def": "stalk"
       },
       {
-       "term": "plenus",
+       "term": "plēnus",
        "def": "full"
       }
      ],
@@ -12773,19 +12773,19 @@ window.COURSE_DATA.courses.push({
        "def": "then"
       },
       {
-       "term": "interpretari (deponent)",
+       "term": "interpretārī (deponent)",
        "def": "interpret"
       },
       {
-       "term": "Domine mi",
+       "term": "Domine mī",
        "def": "my Lord"
       },
       {
-       "term": "somniare",
+       "term": "somniāre",
        "def": "dream"
       },
       {
-       "term": "recte",
+       "term": "rēctē",
        "def": "rightly"
       },
       {
@@ -12797,27 +12797,27 @@ window.COURSE_DATA.courses.push({
        "def": "wisdom"
       },
       {
-       "term": "adducere",
+       "term": "addūcere",
        "def": "lead to"
       },
       {
-       "term": "plenus",
+       "term": "plēnus",
        "def": "full"
       },
       {
-       "term": "ubertas",
+       "term": "ūbertās",
        "def": "fertility"
       },
       {
-       "term": "implere",
+       "term": "implēre",
        "def": "fulfill"
       },
       {
-       "term": "oblivio",
+       "term": "oblīviō",
        "def": "forgetfulness"
       },
       {
-       "term": "tradere",
+       "term": "trādere",
        "def": "give over"
       },
       {
@@ -12837,11 +12837,11 @@ window.COURSE_DATA.courses.push({
        "def": "destroy"
       },
       {
-       "term": "providere",
+       "term": "prōvidēre",
        "def": "provide"
       },
       {
-       "term": "sapiens",
+       "term": "sapiēns",
        "def": "wise"
       },
       {
@@ -12849,23 +12849,23 @@ window.COURSE_DATA.courses.push({
        "def": "put in charge of"
       },
       {
-       "term": "adducere, duxit, ductus",
+       "term": "addūcere, dūxit, ductus",
        "def": "lead to, influence"
       },
       {
-       "term": "polliceri, pollicitus est",
+       "term": "pollicērī, pollicitus est",
        "def": "promise"
       },
       {
-       "term": "[praecipiunt], praecipere, praecepit, praeceptus",
+       "term": "[praecipiunt], praecipere, praecēpit, praeceptus",
        "def": "command"
       },
       {
-       "term": "[praeficiunt], praeficere, fecit, fectus",
+       "term": "[praeficiunt], praeficere, fēcit, fectus",
        "def": "put someone in charge of something"
       },
       {
-       "term": "tradere, tradidit, traditus",
+       "term": "trādere, trādidit, trāditus",
        "def": "hand over"
       },
       {
@@ -12873,7 +12873,7 @@ window.COURSE_DATA.courses.push({
        "def": "need"
       },
       {
-       "term": "plenus, a, um",
+       "term": "plēnus, a, um",
        "def": "full"
       },
       {
@@ -12881,7 +12881,7 @@ window.COURSE_DATA.courses.push({
        "def": "wisdom"
       },
       {
-       "term": "magna ubertas, ubertate",
+       "term": "magna ūbertās, ūbertāte",
        "def": "fertility, richness"
       }
      ],
@@ -13018,15 +13018,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "circumire, it, *iturus",
+       "term": "circumīre, it, *itūrus",
        "def": "go around"
       },
       {
-       "term": "constituere, stituit, stitutus",
+       "term": "constituere, stituit, stitūtus",
        "def": "set up, decide, determine"
       },
       {
-       "term": "praecedere, cessit, cessurus",
+       "term": "praecēdere, cessit, cessūrus",
        "def": "go before"
       },
       {
@@ -13038,11 +13038,11 @@ window.COURSE_DATA.courses.push({
        "def": "barn"
       },
       {
-       "term": "magnum os, ore",
+       "term": "magnum ōs, ōre",
        "def": "mouth"
       },
       {
-       "term": "bonus praeco, praecone",
+       "term": "bonus praecō, praecōne",
        "def": "herald"
       },
       {
@@ -13058,7 +13058,7 @@ window.COURSE_DATA.courses.push({
        "def": "throne"
       },
       {
-       "term": "anulus",
+       "term": "ānulus",
        "def": "ring"
       },
       {
@@ -13066,19 +13066,19 @@ window.COURSE_DATA.courses.push({
        "def": "chariot"
       },
       {
-       "term": "clamare",
+       "term": "clāmāre",
        "def": "cry"
       },
       {
-       "term": "salvator",
+       "term": "salvātor",
        "def": "savior"
       },
       {
-       "term": "arena",
+       "term": "arēna",
        "def": "sand"
       },
       {
-       "term": "coaequare",
+       "term": "coaequāre",
        "def": "make equal"
       }
      ],
@@ -13231,23 +13231,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "abire, iit, *iturus",
+       "term": "abīre, iit, *itūrus",
        "def": "go away"
       },
       {
-       "term": "flere, flevit, fletus",
+       "term": "flēre, flēvit, flētus",
        "def": "weep"
       },
       {
-       "term": "patiuntur, pati, passus est",
+       "term": "patiuntur, patī, passus est",
        "def": "suffer"
       },
       {
-       "term": "peccare, avit, atus",
+       "term": "peccāre, āvit, ātus",
        "def": "sin"
       },
       {
-       "term": "bonus explorator, ore",
+       "term": "bonus explōrātor, ōre",
        "def": "spy, scout"
       },
       {
@@ -13255,11 +13255,11 @@ window.COURSE_DATA.courses.push({
        "def": "least, smallest"
       },
       {
-       "term": "bonus sermo, one",
+       "term": "bonus sermō, ōne",
        "def": "word, conversation"
       },
       {
-       "term": "merito",
+       "term": "meritō",
        "def": "deservingly"
       },
       {
@@ -13267,19 +13267,19 @@ window.COURSE_DATA.courses.push({
        "def": "whatever"
       },
       {
-       "term": "simulare",
+       "term": "simulāre",
        "def": "pretend"
       },
       {
-       "term": "suspicari",
+       "term": "suspicārī",
        "def": "suspect"
       },
       {
-       "term": "pacificus",
+       "term": "pācificus",
        "def": "peaceful"
       },
       {
-       "term": "exquirere",
+       "term": "exquīrere",
        "def": "demand"
       },
       {
@@ -13396,15 +13396,15 @@ window.COURSE_DATA.courses.push({
        "def": "heretic"
       },
       {
-       "term": "mutare, avit, atus",
+       "term": "mūtāre, āvit, ātus",
        "def": "change"
       },
       {
-       "term": "significare, avit, atus",
+       "term": "significāre, āvit, ātus",
        "def": "mean, signify"
       },
       {
-       "term": "sol, sole",
+       "term": "sōl, sōle",
        "def": "sun"
       },
       {
@@ -13412,7 +13412,7 @@ window.COURSE_DATA.courses.push({
        "def": "worship, cultivate"
       },
       {
-       "term": "reverti, reversus est",
+       "term": "revertī, reversus est",
        "def": "return"
       },
       {
@@ -13420,7 +13420,7 @@ window.COURSE_DATA.courses.push({
        "def": "it follows that"
       },
       {
-       "term": "maiestas, tate",
+       "term": "māiestās, tāte",
        "def": "majesty"
       },
       {
@@ -13432,19 +13432,19 @@ window.COURSE_DATA.courses.push({
        "def": "statue"
       },
       {
-       "term": "omnino",
+       "term": "omnīnō",
        "def": "entirely, at all"
       },
       {
-       "term": "mirabilis",
+       "term": "mīrābilis",
        "def": "wonderful, amazing"
       },
       {
-       "term": "diversus, a, um",
+       "term": "dīversus, a, um",
        "def": "various, different"
       },
       {
-       "term": "discedere, cessit, cessurus",
+       "term": "discēdere, cessit, cessūrus",
        "def": "depart, go away"
       }
      ],
@@ -13581,39 +13581,39 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "accedere, cessit, cessurus",
+       "term": "accēdere, cessit, cessūrus",
        "def": "go to, approach"
       },
       {
-       "term": "manere, mansit, mansurus",
+       "term": "manēre, mānsit, mānsūrus",
        "def": "remain"
       },
       {
-       "term": "reperire, reperuit, repertus",
+       "term": "reperīre, reperuit, repertus",
        "def": "find, find out"
       },
       {
-       "term": "amittere, misit, missus",
+       "term": "āmittere, mīsit, missus",
        "def": "lose"
       },
       {
-       "term": "dolere, doluit, doliturus",
+       "term": "dolēre, doluit, dolitūrus",
        "def": "grieve, be pained"
       },
       {
-       "term": "metus, u",
+       "term": "metus, ū",
        "def": "fear"
       },
       {
-       "term": "mandare, avit, atus",
+       "term": "mandāre, āvit, ātus",
        "def": "entrust, command"
       },
       {
-       "term": "bona salus, salute",
+       "term": "bona salūs, salūte",
        "def": "safety, salvation"
       },
       {
-       "term": "mille",
+       "term": "mīlle",
        "def": "thousand"
       },
       {
@@ -13621,7 +13621,7 @@ window.COURSE_DATA.courses.push({
        "def": "but"
       },
       {
-       "term": "salus",
+       "term": "salūs",
        "def": "safety"
       },
       {
@@ -13629,27 +13629,27 @@ window.COURSE_DATA.courses.push({
        "def": "greatly"
       },
       {
-       "term": "donum",
+       "term": "dōnum",
        "def": "gift"
       },
       {
-       "term": "cena",
+       "term": "cēna",
        "def": "dinner"
       },
       {
-       "term": "dispensator",
+       "term": "dispēnsātor",
        "def": "steward"
       },
       {
-       "term": "lavare",
+       "term": "lavāre",
        "def": "wash"
       },
       {
-       "term": "pes",
+       "term": "pēs",
        "def": "foot"
       },
       {
-       "term": "continere",
+       "term": "continēre",
        "def": "restrain"
       },
       {
@@ -13794,27 +13794,27 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cena",
+       "term": "cēna",
        "def": "dinner"
       },
       {
-       "term": "cogitare, avit, atus",
+       "term": "cōgitāre, āvit, ātus",
        "def": "think"
       },
       {
-       "term": "auctoritas, tate",
+       "term": "auctōritās, tāte",
        "def": "authority, influence"
       },
       {
-       "term": "etsi",
+       "term": "etsī",
        "def": "even if, although"
       },
       {
-       "term": "nocere, nocuit, nociturus",
+       "term": "nocēre, nocuit, nocitūrus",
        "def": "harm (with dat.)"
       },
       {
-       "term": "munus, munere",
+       "term": "mūnus, mūnere",
        "def": "duty, gift"
       },
       {
@@ -13830,23 +13830,23 @@ window.COURSE_DATA.courses.push({
        "def": "silver"
       },
       {
-       "term": "consequi, consecutus est",
+       "term": "consequī, consecūtus est",
        "def": "follow up, overtake, accomplish"
       },
       {
-       "term": "portare, avit, atus",
+       "term": "portāre, āvit, ātus",
        "def": "carry"
       },
       {
-       "term": "pes",
+       "term": "pēs",
        "def": "foot"
       },
       {
-       "term": "ceteri",
+       "term": "cēterī",
        "def": "the rest"
       },
       {
-       "term": "cognoscere, novit, notus",
+       "term": "cognōscere, nōvit, nōtus",
        "def": "learn (and therefore the perfect means: know)"
       }
      ],
@@ -14013,19 +14013,19 @@ window.COURSE_DATA.courses.push({
        "def": "feed, nourish"
       },
       {
-       "term": "continere, continuit, contentus",
+       "term": "continēre, continuit, contentus",
        "def": "hold together, restrain"
       },
       {
-       "term": "regere, rexit, rectus",
+       "term": "regere, rēxit, rēctus",
        "def": "rule"
       },
       {
-       "term": "valere, valuit, valiturus",
+       "term": "valēre, valuit, valitūrus",
        "def": "be well, be strong"
       },
       {
-       "term": "durus, a, um",
+       "term": "dūrus, a, um",
        "def": "hard"
       },
       {
@@ -14041,11 +14041,11 @@ window.COURSE_DATA.courses.push({
        "def": "beyond, besides, except"
       },
       {
-       "term": "elevavit",
+       "term": "ēlevāvit",
        "def": "raised"
       },
       {
-       "term": "huc",
+       "term": "hūc",
        "def": "to this place"
       },
       {
@@ -14053,7 +14053,7 @@ window.COURSE_DATA.courses.push({
        "def": "as it were"
       },
       {
-       "term": "morari",
+       "term": "morārī",
        "def": "delay"
       }
      ],
@@ -14149,19 +14149,19 @@ window.COURSE_DATA.courses.push({
        "def": "feed, nourish"
       },
       {
-       "term": "continere, continuit, contentus",
+       "term": "continēre, continuit, contentus",
        "def": "hold together, restrain"
       },
       {
-       "term": "regere, rexit, rectus",
+       "term": "regere, rēxit, rēctus",
        "def": "rule"
       },
       {
-       "term": "valere, valuit, valiturus",
+       "term": "valēre, valuit, valitūrus",
        "def": "be well, be strong"
       },
       {
-       "term": "durus, a, um",
+       "term": "dūrus, a, um",
        "def": "hard"
       },
       {
@@ -14177,11 +14177,11 @@ window.COURSE_DATA.courses.push({
        "def": "beyond, besides, except"
       },
       {
-       "term": "elevavit",
+       "term": "ēlevāvit",
        "def": "raised"
       },
       {
-       "term": "huc",
+       "term": "hūc",
        "def": "to this place"
       },
       {
@@ -14189,7 +14189,7 @@ window.COURSE_DATA.courses.push({
        "def": "as it were"
       },
       {
-       "term": "morari",
+       "term": "morārī",
        "def": "delay"
       }
      ],
@@ -14331,11 +14331,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "appropinquare, avit, atus (with dat.)",
+       "term": "appropinquāre, āvit, ātus (with dat.)",
        "def": "approach"
       },
       {
-       "term": "copia, a",
+       "term": "cōpia, a",
        "def": "abundance, supply (pl. troops)"
       },
       {
@@ -14343,11 +14343,11 @@ window.COURSE_DATA.courses.push({
        "def": "heavy"
       },
       {
-       "term": "currere, cucurrit, cursurus",
+       "term": "currere, cucurrit, cursūrus",
        "def": "run"
       },
       {
-       "term": "liberi, is (pl. only)",
+       "term": "līberī, īs (pl. only)",
        "def": "children"
       },
       {
@@ -14355,23 +14355,23 @@ window.COURSE_DATA.courses.push({
        "def": "best, very good"
       },
       {
-       "term": "tribuere, tribuit, tributus",
+       "term": "tribuere, tribuit, tribūtus",
        "def": "assign, give"
       },
       {
-       "term": "singuli, ae, a (pl. only)",
+       "term": "singulī, ae, a (pl. only)",
        "def": "one at a time, each"
       },
       {
-       "term": "magna aetas, aetate",
+       "term": "magna aetās, aetāte",
        "def": "age"
       },
       {
-       "term": "nuntiavit",
+       "term": "nūntiāvit",
        "def": "reported"
       },
       {
-       "term": "dominari",
+       "term": "dominārī",
        "def": "be a ruler"
       },
       {
@@ -14379,11 +14379,11 @@ window.COURSE_DATA.courses.push({
        "def": "sleep"
       },
       {
-       "term": "evigilare",
+       "term": "ēvigilāre",
        "def": "wake up"
       },
       {
-       "term": "osculari",
+       "term": "ōsculārī",
        "def": "kiss"
       },
       {
@@ -14528,11 +14528,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "appropinquare, avit, atus (with dat.)",
+       "term": "appropinquāre, āvit, ātus (with dat.)",
        "def": "approach"
       },
       {
-       "term": "copia, a",
+       "term": "cōpia, a",
        "def": "abundance, supply (pl. troops)"
       },
       {
@@ -14540,11 +14540,11 @@ window.COURSE_DATA.courses.push({
        "def": "heavy"
       },
       {
-       "term": "currere, cucurrit, cursurus",
+       "term": "currere, cucurrit, cursūrus",
        "def": "run"
       },
       {
-       "term": "liberi, is (pl. only)",
+       "term": "līberī, īs (pl. only)",
        "def": "children"
       },
       {
@@ -14552,23 +14552,23 @@ window.COURSE_DATA.courses.push({
        "def": "best, very good"
       },
       {
-       "term": "tribuere, tribuit, tributus",
+       "term": "tribuere, tribuit, tribūtus",
        "def": "assign, give"
       },
       {
-       "term": "singuli, ae, a (pl. only)",
+       "term": "singulī, ae, a (pl. only)",
        "def": "one at a time, each"
       },
       {
-       "term": "magna aetas, aetate",
+       "term": "magna aetās, aetāte",
        "def": "age"
       },
       {
-       "term": "nuntiavit",
+       "term": "nūntiāvit",
        "def": "reported"
       },
       {
-       "term": "dominari",
+       "term": "dominārī",
        "def": "be a ruler"
       },
       {
@@ -14576,11 +14576,11 @@ window.COURSE_DATA.courses.push({
        "def": "sleep"
       },
       {
-       "term": "evigilare",
+       "term": "ēvigilāre",
        "def": "wake up"
       },
       {
-       "term": "osculari",
+       "term": "ōsculārī",
        "def": "kiss"
       },
       {
@@ -14675,27 +14675,27 @@ window.COURSE_DATA.courses.push({
        "def": "he says"
       },
       {
-       "term": "benedicere, dixit, dictus",
+       "term": "benedīcere, dīxit, dictus",
        "def": "bless (sometimes with the dative)"
       },
       {
-       "term": "ceteri, ae, a",
+       "term": "cēterī, ae, a",
        "def": "the rest, the others"
       },
       {
-       "term": "cernere, crevit, cretus",
+       "term": "cernere, crēvit, crētus",
        "def": "see, distinguish"
       },
       {
-       "term": "donec",
+       "term": "dōnec",
        "def": "while, until"
       },
       {
-       "term": "gratus, a, um",
+       "term": "grātus, a, um",
        "def": "pleasing"
       },
       {
-       "term": "iuvare, iuvit, iutus",
+       "term": "iuvāre, iūvit, iūtus",
        "def": "help, please"
       },
       {
@@ -14703,7 +14703,7 @@ window.COURSE_DATA.courses.push({
        "def": "fall, rush"
       },
       {
-       "term": "usque ad",
+       "term": "ūsque ad",
        "def": "as far as, even to"
       },
       {
@@ -14715,7 +14715,7 @@ window.COURSE_DATA.courses.push({
        "def": "last"
       },
       {
-       "term": "venturus, a, um",
+       "term": "ventūrus, a, um",
        "def": "about to come"
       },
       {
@@ -14727,11 +14727,11 @@ window.COURSE_DATA.courses.push({
        "def": "thigh"
       },
       {
-       "term": "sepelire",
+       "term": "sepelīre",
        "def": "bury"
       },
       {
-       "term": "facies",
+       "term": "faciēs",
        "def": "face"
       },
       {
@@ -14739,11 +14739,11 @@ window.COURSE_DATA.courses.push({
        "def": "command"
       },
       {
-       "term": "aromata",
+       "term": "arōmata",
        "def": "spices"
       },
       {
-       "term": "condire",
+       "term": "condīre",
        "def": "embalm"
       }
      ],
@@ -14879,15 +14879,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cupiunt, cupere, cupivit, cupitus",
+       "term": "cupiunt, cupere, cupīvit, cupītus",
        "def": "desire"
       },
       {
-       "term": "mos, more",
+       "term": "mōs, mōre",
        "def": "custom, habit (in pl.: morals, character)"
       },
       {
-       "term": "exercere, exercuit, exercitus",
+       "term": "exercēre, exercuit, exercitus",
        "def": "practice, train"
       },
       {
@@ -14895,7 +14895,7 @@ window.COURSE_DATA.courses.push({
        "def": "bone (compare: os, ore mouth)"
       },
       {
-       "term": "sumere, sumpsit, sumptus",
+       "term": "sūmere, sūmpsit, sūmptus",
        "def": "take, assume (sumere supplicium de eo, exact punishment from him)"
       },
       {
@@ -14919,7 +14919,7 @@ window.COURSE_DATA.courses.push({
        "def": "embalmed"
       },
       {
-       "term": "obsecro",
+       "term": "obsecrō",
        "def": "beg"
       },
       {
@@ -14927,7 +14927,7 @@ window.COURSE_DATA.courses.push({
        "def": "malice"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
@@ -14935,7 +14935,7 @@ window.COURSE_DATA.courses.push({
        "def": "safe"
       },
       {
-       "term": "visitare",
+       "term": "vīsitāre",
        "def": "visit"
       },
       {
@@ -15047,15 +15047,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cupiunt, cupere, cupivit, cupitus",
+       "term": "cupiunt, cupere, cupīvit, cupītus",
        "def": "desire"
       },
       {
-       "term": "mos, more",
+       "term": "mōs, mōre",
        "def": "custom, habit (in pl.: morals, character)"
       },
       {
-       "term": "exercere, exercuit, exercitus",
+       "term": "exercēre, exercuit, exercitus",
        "def": "practice, train"
       },
       {
@@ -15063,7 +15063,7 @@ window.COURSE_DATA.courses.push({
        "def": "bone (compare: os, ore mouth)"
       },
       {
-       "term": "sumere, sumpsit, sumptus",
+       "term": "sūmere, sūmpsit, sūmptus",
        "def": "take, assume (sumere supplicium de eo, exact punishment from him)"
       },
       {
@@ -15083,7 +15083,7 @@ window.COURSE_DATA.courses.push({
        "def": "near"
       },
       {
-       "term": "poema, atis",
+       "term": "poēma, atis",
        "def": "poem"
       }
      ],
@@ -15202,23 +15202,23 @@ window.COURSE_DATA.courses.push({
        "def": "despise, scorn"
       },
       {
-       "term": "crescere, crevit, cretus",
+       "term": "crēscere, crēvit, crētus",
        "def": "grow (compare parts of cernere)"
       },
       {
-       "term": "mirari, miratus est",
+       "term": "mīrārī, mīrātus est",
        "def": "wonder, admire"
       },
       {
-       "term": "quaerere, quaesivit, quaesitus",
+       "term": "quaerere, quaesīvit, quaesītus",
        "def": "seek"
       },
       {
-       "term": "spectare, avit, atus",
+       "term": "spectāre, āvit, ātus",
        "def": "look at"
       },
       {
-       "term": "durum onus, onere",
+       "term": "dūrum onus, onere",
        "def": "burden"
       },
       {
@@ -15226,7 +15226,7 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "ignorare",
+       "term": "ignōrāre",
        "def": "not know"
       },
       {
@@ -15234,11 +15234,11 @@ window.COURSE_DATA.courses.push({
        "def": "crush"
       },
       {
-       "term": "transire",
+       "term": "trānsīre",
        "def": "go over"
       },
       {
-       "term": "egredi",
+       "term": "ēgredī",
        "def": "go out"
       },
       {
@@ -15246,7 +15246,7 @@ window.COURSE_DATA.courses.push({
        "def": "put over"
       },
       {
-       "term": "affligere",
+       "term": "afflīgere",
        "def": "afflict"
       },
       {
@@ -15270,7 +15270,7 @@ window.COURSE_DATA.courses.push({
        "def": "reed"
       },
       {
-       "term": "ripa",
+       "term": "rīpa",
        "def": "bank"
       },
       {
@@ -15434,23 +15434,23 @@ window.COURSE_DATA.courses.push({
        "def": "despise, scorn"
       },
       {
-       "term": "crescere, crevit, cretus",
+       "term": "crēscere, crēvit, crētus",
        "def": "grow (compare parts of cernere)"
       },
       {
-       "term": "mirari, miratus est",
+       "term": "mīrārī, mīrātus est",
        "def": "wonder, admire"
       },
       {
-       "term": "quaerere, quaesivit, quaesitus",
+       "term": "quaerere, quaesīvit, quaesītus",
        "def": "seek"
       },
       {
-       "term": "spectare, avit, atus",
+       "term": "spectāre, āvit, ātus",
        "def": "look at"
       },
       {
-       "term": "durum onus, onere",
+       "term": "dūrum onus, onere",
        "def": "burden"
       },
       {
@@ -15458,7 +15458,7 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "ignorare",
+       "term": "ignōrāre",
        "def": "not know"
       },
       {
@@ -15466,11 +15466,11 @@ window.COURSE_DATA.courses.push({
        "def": "crush"
       },
       {
-       "term": "transire",
+       "term": "trānsīre",
        "def": "go over"
       },
       {
-       "term": "egredi",
+       "term": "ēgredī",
        "def": "go out"
       },
       {
@@ -15478,7 +15478,7 @@ window.COURSE_DATA.courses.push({
        "def": "put over"
       },
       {
-       "term": "affligere",
+       "term": "afflīgere",
        "def": "afflict"
       },
       {
@@ -15502,7 +15502,7 @@ window.COURSE_DATA.courses.push({
        "def": "reed"
       },
       {
-       "term": "ripa",
+       "term": "rīpa",
        "def": "bank"
       },
       {
@@ -15510,7 +15510,7 @@ window.COURSE_DATA.courses.push({
        "def": "far off"
       },
       {
-       "term": "venari, venatus est",
+       "term": "vēnārī, vēnātus est",
        "def": "hunt"
       }
      ],
@@ -15642,23 +15642,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "audere, ausus est",
+       "term": "audēre, ausus est",
        "def": "dare"
       },
       {
-       "term": "suscipiunt, suscipere, cepit, ceptus",
+       "term": "suscipiunt, suscipere, cēpit, ceptus",
        "def": "undertake, take"
       },
       {
-       "term": "vadere (no other parts)",
+       "term": "vādere (no other parts)",
        "def": "go"
       },
       {
-       "term": "curare, avit, atus",
+       "term": "cūrāre, āvit, ātus",
        "def": "take care of (with object, not possessive case)"
       },
       {
-       "term": "mora, a",
+       "term": "mora, ā",
        "def": "delay"
       },
       {
@@ -15666,7 +15666,7 @@ window.COURSE_DATA.courses.push({
        "def": "woman"
       },
       {
-       "term": "desiderare, avit, atus",
+       "term": "dēsīderāre, āvit, ātus",
        "def": "desire, miss"
       },
       {
@@ -15686,11 +15686,11 @@ window.COURSE_DATA.courses.push({
        "def": "reed"
       },
       {
-       "term": "ripa",
+       "term": "rīpa",
        "def": "bank"
       },
       {
-       "term": "merces",
+       "term": "mercēs",
        "def": "pay"
       }
      ],
@@ -15769,15 +15769,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "hortatus erat",
+       "term": "hortātus erat",
        "def": "encouraged"
       },
       {
-       "term": "vitet (vitare)",
+       "term": "vītet (vītāre)",
        "def": "avoid"
       },
       {
-       "term": "mirabili (mirabilis)",
+       "term": "mīrābilī (mīrābilis)",
        "def": "wonderful"
       },
       {
@@ -15785,7 +15785,7 @@ window.COURSE_DATA.courses.push({
        "def": "relative"
       },
       {
-       "term": "spem (spes)",
+       "term": "spem (spēs)",
        "def": "hope"
       },
       {
@@ -15793,23 +15793,23 @@ window.COURSE_DATA.courses.push({
        "def": "goes on"
       },
       {
-       "term": "litus",
+       "term": "lītus",
        "def": "shore"
       },
       {
-       "term": "persuadet (persuadere)",
+       "term": "persuādet (persuādēre)",
        "def": "persuades"
       },
       {
-       "term": "diluvio (diluvium)",
+       "term": "dīluviō (dīluvium)",
        "def": "flood"
       },
       {
-       "term": "salvi (salvus)",
+       "term": "salvī (salvus)",
        "def": "saved"
       },
       {
-       "term": "somno (somnus)",
+       "term": "somnō (somnus)",
        "def": "sleep"
       }
      ],
@@ -15941,15 +15941,15 @@ window.COURSE_DATA.courses.push({
        "def": "see, catch sight of"
       },
       {
-       "term": "fluere, fluxit, fluxurus",
+       "term": "fluere, flūxit, flūxūrus",
        "def": "flow"
       },
       {
-       "term": "solvere, solvit, solutus",
+       "term": "solvere, solvit, solūtus",
        "def": "loosen, pay"
       },
       {
-       "term": "facies (5), facie",
+       "term": "faciēs (5), faciē",
        "def": "face"
       },
       {
@@ -15961,7 +15961,7 @@ window.COURSE_DATA.courses.push({
        "def": "with, at the house of"
       },
       {
-       "term": "huc",
+       "term": "hūc",
        "def": "to this place"
       },
       {
@@ -15969,7 +15969,7 @@ window.COURSE_DATA.courses.push({
        "def": "on account of"
       },
       {
-       "term": "pastor",
+       "term": "pāstor",
        "def": "shepherd"
       },
       {
@@ -15981,19 +15981,19 @@ window.COURSE_DATA.courses.push({
        "def": "bramble bush"
       },
       {
-       "term": "comburere",
+       "term": "combūrere",
        "def": "burn up"
       },
       {
-       "term": "ardere",
+       "term": "ārdēre",
        "def": "burn"
       },
       {
-       "term": "calceamentum",
+       "term": "calceāmentum",
        "def": "shoe"
       },
       {
-       "term": "pes",
+       "term": "pēs",
        "def": "foot"
       },
       {
@@ -16001,7 +16001,7 @@ window.COURSE_DATA.courses.push({
        "def": "hide"
       },
       {
-       "term": "duritia",
+       "term": "dūritia",
        "def": "hardness"
       },
       {
@@ -16009,7 +16009,7 @@ window.COURSE_DATA.courses.push({
        "def": "grief, pain"
       },
       {
-       "term": "spatiosus",
+       "term": "spatiōsus",
        "def": "extensive"
       },
       {
@@ -16021,11 +16021,11 @@ window.COURSE_DATA.courses.push({
        "def": "honey"
       },
       {
-       "term": "immolare",
+       "term": "immolāre",
        "def": "sacrifice"
       },
       {
-       "term": "sic",
+       "term": "sīc",
        "def": "thus"
       },
       {
@@ -16136,15 +16136,15 @@ window.COURSE_DATA.courses.push({
        "def": "see, catch sight of"
       },
       {
-       "term": "fluere, fluxit, fluxurus",
+       "term": "fluere, flūxit, flūxūrus",
        "def": "flow"
       },
       {
-       "term": "solvere, solvit, solutus",
+       "term": "solvere, solvit, solūtus",
        "def": "loosen, pay"
       },
       {
-       "term": "facies (5), facie",
+       "term": "faciēs (5), faciē",
        "def": "face"
       },
       {
@@ -16156,7 +16156,7 @@ window.COURSE_DATA.courses.push({
        "def": "with, at the house of"
       },
       {
-       "term": "huc",
+       "term": "hūc",
        "def": "to this place"
       },
       {
@@ -16299,7 +16299,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "intellegere, lexit, lectus",
+       "term": "intellegere, lēxit, lēctus",
        "def": "understand"
       },
       {
@@ -16307,7 +16307,7 @@ window.COURSE_DATA.courses.push({
        "def": "unharmed"
       },
       {
-       "term": "persuadere, suasit, suasus",
+       "term": "persuādēre, suāsit, suāsus",
        "def": "persuade (with dat.)"
       },
       {
@@ -16319,7 +16319,7 @@ window.COURSE_DATA.courses.push({
        "def": "to meet (dat.)"
       },
       {
-       "term": "praebere, praebuit, praebitus",
+       "term": "praebēre, praebuit, praebitus",
        "def": "furnish, offer"
       },
       {
@@ -16327,11 +16327,11 @@ window.COURSE_DATA.courses.push({
        "def": "at the same time"
       },
       {
-       "term": "ultra (adverb and prep. with obj.)",
+       "term": "ultrā (adverb and prep. with obj.)",
        "def": "more, further, beyond"
       },
       {
-       "term": "proicere, iecit, iectus",
+       "term": "prōicere, iēcit, iectus",
        "def": "throw"
       },
       {
@@ -16347,11 +16347,11 @@ window.COURSE_DATA.courses.push({
        "def": "tail"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
-       "term": "congregare",
+       "term": "congregāre",
        "def": "gather"
       },
       {
@@ -16477,7 +16477,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "intellegere, lexit, lectus",
+       "term": "intellegere, lēxit, lēctus",
        "def": "understand"
       },
       {
@@ -16485,7 +16485,7 @@ window.COURSE_DATA.courses.push({
        "def": "unharmed"
       },
       {
-       "term": "persuadere, suasit, suasus",
+       "term": "persuādēre, suāsit, suāsus",
        "def": "persuade (with dat.)"
       },
       {
@@ -16497,7 +16497,7 @@ window.COURSE_DATA.courses.push({
        "def": "to meet (dat.)"
       },
       {
-       "term": "praebere, praebuit, praebitus",
+       "term": "praebēre, praebuit, praebitus",
        "def": "furnish, offer"
       },
       {
@@ -16505,11 +16505,11 @@ window.COURSE_DATA.courses.push({
        "def": "at the same time"
       },
       {
-       "term": "ultra (adverb and prep. with obj.)",
+       "term": "ultrā (adverb and prep. with obj.)",
        "def": "more, further, beyond"
       },
       {
-       "term": "proicere, iecit, iectus",
+       "term": "prōicere, iēcit, iectus",
        "def": "throw"
       }
      ],
@@ -16652,7 +16652,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "intellegere, lexit, lectus",
+       "term": "intellegere, lēxit, lēctus",
        "def": "understand"
       },
       {
@@ -16660,7 +16660,7 @@ window.COURSE_DATA.courses.push({
        "def": "unharmed"
       },
       {
-       "term": "persuadere, suasit, suasus",
+       "term": "persuādēre, suāsit, suāsus",
        "def": "persuade (with dat.)"
       },
       {
@@ -16672,7 +16672,7 @@ window.COURSE_DATA.courses.push({
        "def": "to meet (dat.)"
       },
       {
-       "term": "praebere, praebuit, praebitus",
+       "term": "praebēre, praebuit, praebitus",
        "def": "furnish, offer"
       },
       {
@@ -16680,11 +16680,11 @@ window.COURSE_DATA.courses.push({
        "def": "at the same time"
       },
       {
-       "term": "ultra (adverb and prep. with obj.)",
+       "term": "ultrā (adverb and prep. with obj.)",
        "def": "more, further, beyond"
       },
       {
-       "term": "proicere, iecit, iectus",
+       "term": "prōicere, iēcit, iectus",
        "def": "throw"
       }
      ],
@@ -16761,27 +16761,27 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "concedere, cessit, cessus",
+       "term": "concēdere, cessit, cessus",
        "def": "yield, grant"
       },
       {
-       "term": "queri, questus est",
+       "term": "querī, questus est",
        "def": "complain"
       },
       {
-       "term": "negare, avit, atus",
+       "term": "negāre, āvit, ātus",
        "def": "deny, say no, refuse"
       },
       {
-       "term": "sustinere, sustinuit, sustentus",
+       "term": "sustinēre, sustinuit, sustentus",
        "def": "withstand, hold up, bear"
       },
       {
-       "term": "prohibere, prohibuit, prohibitus",
+       "term": "prohibēre, prohibuit, prohibitus",
        "def": "prohibit, prevent"
       },
       {
-       "term": "frustra",
+       "term": "frūstrā",
        "def": "in vain"
       },
       {
@@ -16797,11 +16797,11 @@ window.COURSE_DATA.courses.push({
        "def": "magician"
       },
       {
-       "term": "devorare",
+       "term": "dēvorāre",
        "def": "eat (up)"
       },
       {
-       "term": "duritia",
+       "term": "dūritia",
        "def": "hardness"
       },
       {
@@ -16809,15 +16809,15 @@ window.COURSE_DATA.courses.push({
        "def": "heart"
       },
       {
-       "term": "plaga",
+       "term": "plāga",
        "def": "plague"
       },
       {
-       "term": "rana",
+       "term": "rāna",
        "def": "frog"
       },
       {
-       "term": "malle",
+       "term": "mālle",
        "def": "prefer"
       }
      ],
@@ -16971,11 +16971,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "indurare, avit, atus",
+       "term": "indūrāre, āvit, ātus",
        "def": "harden"
       },
       {
-       "term": "orare, avit, atus",
+       "term": "ōrāre, āvit, ātus",
        "def": "beg, pray"
       },
       {
@@ -16983,7 +16983,7 @@ window.COURSE_DATA.courses.push({
        "def": "strike"
       },
       {
-       "term": "pergere, perrexit, perrectus",
+       "term": "pergere, perrēxit, perrēctus",
        "def": "proceed, go"
       },
       {
@@ -16991,7 +16991,7 @@ window.COURSE_DATA.courses.push({
        "def": "heart"
       },
       {
-       "term": "digitus, o",
+       "term": "digitus, ō",
        "def": "finger"
       },
       {
@@ -16999,11 +16999,11 @@ window.COURSE_DATA.courses.push({
        "def": "dust"
       },
       {
-       "term": "hic (adverb)",
+       "term": "hīc (adverb)",
        "def": "here"
       },
       {
-       "term": "quod si",
+       "term": "quod sī",
        "def": "but if"
       },
       {
@@ -17011,11 +17011,11 @@ window.COURSE_DATA.courses.push({
        "def": "also, even (never first word)"
       },
       {
-       "term": "exire",
+       "term": "exīre",
        "def": "go out"
       },
       {
-       "term": "iussu",
+       "term": "iussū",
        "def": "by order"
       },
       {
@@ -17023,7 +17023,7 @@ window.COURSE_DATA.courses.push({
        "def": "gnats"
       },
       {
-       "term": "educere",
+       "term": "ēdūcere",
        "def": "lead out"
       },
       {
@@ -17031,15 +17031,15 @@ window.COURSE_DATA.courses.push({
        "def": "fly"
       },
       {
-       "term": "fieri",
+       "term": "fierī",
        "def": "be done"
       },
       {
-       "term": "verumtamen",
+       "term": "vērumtamen",
        "def": "nevertheless"
       },
       {
-       "term": "egressus",
+       "term": "ēgressus",
        "def": "go out"
       }
      ],
@@ -17183,11 +17183,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "indurare, avit, atus",
+       "term": "indūrāre, āvit, ātus",
        "def": "harden"
       },
       {
-       "term": "orare, avit, atus",
+       "term": "ōrāre, āvit, ātus",
        "def": "beg, pray"
       },
       {
@@ -17195,7 +17195,7 @@ window.COURSE_DATA.courses.push({
        "def": "strike"
       },
       {
-       "term": "pergere, perrexit, perrectus",
+       "term": "pergere, perrēxit, perrēctus",
        "def": "proceed, go"
       },
       {
@@ -17203,7 +17203,7 @@ window.COURSE_DATA.courses.push({
        "def": "heart"
       },
       {
-       "term": "digitus, o",
+       "term": "digitus, ō",
        "def": "finger"
       },
       {
@@ -17211,11 +17211,11 @@ window.COURSE_DATA.courses.push({
        "def": "dust"
       },
       {
-       "term": "hic (adverb)",
+       "term": "hīc (adverb)",
        "def": "here"
       },
       {
-       "term": "quod si",
+       "term": "quod sī",
        "def": "but if"
       },
       {
@@ -17223,11 +17223,11 @@ window.COURSE_DATA.courses.push({
        "def": "also, even (never first word)"
       },
       {
-       "term": "exire",
+       "term": "exīre",
        "def": "go out"
       },
       {
-       "term": "iussu",
+       "term": "iussū",
        "def": "by order"
       },
       {
@@ -17235,7 +17235,7 @@ window.COURSE_DATA.courses.push({
        "def": "gnats"
       },
       {
-       "term": "educere",
+       "term": "ēdūcere",
        "def": "lead out"
       },
       {
@@ -17243,15 +17243,15 @@ window.COURSE_DATA.courses.push({
        "def": "fly"
       },
       {
-       "term": "fieri",
+       "term": "fierī",
        "def": "be done"
       },
       {
-       "term": "verumtamen",
+       "term": "vērumtamen",
        "def": "nevertheless"
       },
       {
-       "term": "egressus",
+       "term": "ēgressus",
        "def": "go out"
       }
      ],
@@ -17338,35 +17338,35 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "impedire, ivit, itus",
+       "term": "impedīre, īvit, ītus",
        "def": "hinder, impede"
       },
       {
-       "term": "retinere, retinuit, retentus",
+       "term": "retinēre, retinuit, retentus",
        "def": "keep back, retain"
       },
       {
-       "term": "statuere, statuit, statutus",
+       "term": "statuere, statuit, statūtus",
        "def": "set, decide"
       },
       {
-       "term": "pertinere, pertinuit",
+       "term": "pertinēre, pertinuit",
        "def": "pertain, belong"
       },
       {
-       "term": "possidere, possedit, possessus",
+       "term": "possidēre, possēdit, possessus",
        "def": "possess"
       },
       {
-       "term": "licet, licere, licuit, licitum est",
+       "term": "licet, licēre, licuit, licitum est",
        "def": "it is permitted"
       },
       {
-       "term": "oportet, oportere, oportuit",
+       "term": "oportet, oportēre, oportuit",
        "def": "it is necessary, it is proper"
       },
       {
-       "term": "placet, placere, placuit, placitum est",
+       "term": "placet, placēre, placuit, placitum est",
        "def": "it pleases, it is decided"
       },
       {
@@ -17378,7 +17378,7 @@ window.COURSE_DATA.courses.push({
        "def": "anyone, anything"
       },
       {
-       "term": "pereat (from perire)",
+       "term": "pereat (from perīre)",
        "def": "perish"
       },
       {
@@ -17386,7 +17386,7 @@ window.COURSE_DATA.courses.push({
        "def": "scatter"
       },
       {
-       "term": "iumentum",
+       "term": "iūmentum",
        "def": "beast of burden"
       },
       {
@@ -17538,35 +17538,35 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "impedire, ivit, itus",
+       "term": "impedīre, īvit, ītus",
        "def": "hinder, impede"
       },
       {
-       "term": "retinere, retinuit, retentus",
+       "term": "retinēre, retinuit, retentus",
        "def": "keep back, retain"
       },
       {
-       "term": "statuere, statuit, statutus",
+       "term": "statuere, statuit, statūtus",
        "def": "set, decide"
       },
       {
-       "term": "pertinere, pertinuit",
+       "term": "pertinēre, pertinuit",
        "def": "pertain, belong"
       },
       {
-       "term": "possidere, possedit, possessus",
+       "term": "possidēre, possēdit, possessus",
        "def": "possess"
       },
       {
-       "term": "licet, licere, licuit, licitum est",
+       "term": "licet, licēre, licuit, licitum est",
        "def": "it is permitted"
       },
       {
-       "term": "oportet, oportere, oportuit",
+       "term": "oportet, oportēre, oportuit",
        "def": "it is necessary, it is proper"
       },
       {
-       "term": "placet, placere, placuit, placitum est",
+       "term": "placet, placēre, placuit, placitum est",
        "def": "it pleases, it is decided"
       },
       {
@@ -17717,15 +17717,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "augere, auxit, auctus",
+       "term": "augēre, auxit, auctus",
        "def": "increase"
       },
       {
-       "term": "cessare, avit, atus",
+       "term": "cessāre, āvit, ātus",
        "def": "cease"
       },
       {
-       "term": "desinere, desivit, desitus",
+       "term": "dēsinere, dēsīvit, dēsitus",
        "def": "cease, stop"
       },
       {
@@ -17737,11 +17737,11 @@ window.COURSE_DATA.courses.push({
        "def": "all"
       },
       {
-       "term": "clarum fulgur, fulgure",
+       "term": "clārum fulgur, fulgure",
        "def": "clear lightning"
       },
       {
-       "term": "qualis, e, i",
+       "term": "quālis, e, ī",
        "def": "such, what kind"
       },
       {
@@ -17753,15 +17753,15 @@ window.COURSE_DATA.courses.push({
        "def": "because"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "in the morning"
       },
       {
-       "term": "en",
+       "term": "ēn",
        "def": "behold"
       },
       {
-       "term": "grando",
+       "term": "grandō",
        "def": "hail storm"
       },
       {
@@ -17777,11 +17777,11 @@ window.COURSE_DATA.courses.push({
        "def": "lightning"
       },
       {
-       "term": "nequaquam",
+       "term": "nēquāquam",
        "def": "by no means"
       },
       {
-       "term": "hora",
+       "term": "hōra",
        "def": "hour"
       }
      ],
@@ -17932,7 +17932,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "consiliarius",
+       "term": "consiliārius",
        "def": "counselor"
       },
       {
@@ -17940,11 +17940,11 @@ window.COURSE_DATA.courses.push({
        "def": "basket"
       },
       {
-       "term": "persuadere, persuasi",
+       "term": "persuādēre, persuāsī",
        "def": "persuade"
       },
       {
-       "term": "cogere",
+       "term": "cōgere",
        "def": "compel, force"
       },
       {
@@ -17952,7 +17952,7 @@ window.COURSE_DATA.courses.push({
        "def": "nourish, raise"
       },
       {
-       "term": "crescere, crevit",
+       "term": "crēscere, crēvit",
        "def": "grow up"
       },
       {
@@ -18049,7 +18049,7 @@ window.COURSE_DATA.courses.push({
        "def": "old man"
       },
       {
-       "term": "mendacium",
+       "term": "mendācium",
        "def": "lie"
       },
       {
@@ -18057,7 +18057,7 @@ window.COURSE_DATA.courses.push({
        "def": "whoever"
       },
       {
-       "term": "ambulare",
+       "term": "ambulāre",
        "def": "walk"
       },
       {
@@ -18144,19 +18144,19 @@ window.COURSE_DATA.courses.push({
      "explanation": "This Lectio is about the **locative case** and about the **ablatives of instrument and personal agent**. The locative names the place WHERE one stays, and it is used only with names of towns and cities (and a few stray words such as domus, domi, at home). It exists only in the FIRST and SECOND declensions, with endings -ae and -i, as in Romae (at Rome) and Tarenti (at Tarentum). In the plurals of the first and second declensions, and in the third declension, we use the ablative instead, so we seldom find in Roma or in Tarento. The other point is how to say BY in the ablative. When something is done by a thing, we use the ablative with no preposition (the ablative of instrument), as in Interfectus est gladio, He was killed by a sword. When something is done by a person, we use the preposition ab (the ablative of personal agent), as in Interfectus est a Marco, He was killed by Marcus. So a person normally takes ab, but a thing ordinarily takes no preposition.",
      "keyTerms": [
       {
-       "term": "introire, iit, *iturus",
+       "term": "intrōīre, iit, *itūrus",
        "def": "enter, go in"
       },
       {
-       "term": "levare, avit, atus",
+       "term": "levāre, āvit, ātus",
        "def": "raise, relieve"
       },
       {
-       "term": "urere, ussit, ustus",
+       "term": "ūrere, ussit, ūstus",
        "def": "burn"
       },
       {
-       "term": "flare, avit, atus",
+       "term": "flāre, āvit, ātus",
        "def": "blow"
       },
       {
@@ -18168,7 +18168,7 @@ window.COURSE_DATA.courses.push({
        "def": "red"
       },
       {
-       "term": "quicumque, quaecumque, quodcumque",
+       "term": "quīcumque, quaecumque, quodcumque",
        "def": "whoever, whichever, whatever"
       },
       {
@@ -18176,11 +18176,11 @@ window.COURSE_DATA.courses.push({
        "def": "as"
       },
       {
-       "term": "sin",
+       "term": "sīn",
        "def": "but if"
       },
       {
-       "term": "usquequo",
+       "term": "ūsquequō",
        "def": "how long"
       },
       {
@@ -18188,7 +18188,7 @@ window.COURSE_DATA.courses.push({
        "def": "resist"
       },
       {
-       "term": "inducere",
+       "term": "indūcere",
        "def": "bring in"
       },
       {
@@ -18196,7 +18196,7 @@ window.COURSE_DATA.courses.push({
        "def": "locust(s)"
       },
       {
-       "term": "eicere",
+       "term": "ēicere",
        "def": "throw out"
       },
       {
@@ -18204,7 +18204,7 @@ window.COURSE_DATA.courses.push({
        "def": "sight"
       },
       {
-       "term": "festinus",
+       "term": "festīnus",
        "def": "swift"
       },
       {
@@ -18216,7 +18216,7 @@ window.COURSE_DATA.courses.push({
        "def": "wherever"
       },
       {
-       "term": "oves",
+       "term": "ovēs",
        "def": "sheep"
       },
       {
@@ -18322,19 +18322,19 @@ window.COURSE_DATA.courses.push({
      "explanation": "This story shows the **ablative of means** at work, often in the gerund form ending in -ndo, which tells HOW an action was done. Aaron made the water blood percutiendo flumine, by striking the river, and called the gnats pulvere percutiendo, by striking the dust. Moses sent the boils cinere spargendo in coelum, by scattering ashes into the sky. In each case the ablative names the thing or the action used to do the deed, and it takes no preposition, exactly as the Lectio's grammar note explains for the ablative of instrument. Notice too magno periculo and magno terrori, which are datives showing what these men were a source of, danger and terror, to the land.",
      "keyTerms": [
       {
-       "term": "consiliarius",
+       "term": "consiliārius",
        "def": "counselor"
       },
       {
-       "term": "percutiendo",
+       "term": "percutiendō",
        "def": "by striking"
       },
       {
-       "term": "flumen, flumine",
+       "term": "flūmen, flūmine",
        "def": "river"
       },
       {
-       "term": "ranae",
+       "term": "rānae",
        "def": "frogs"
       },
       {
@@ -18354,11 +18354,11 @@ window.COURSE_DATA.courses.push({
        "def": "ash"
       },
       {
-       "term": "grando, grandinem",
+       "term": "grandō, grandinem",
        "def": "hail"
       },
       {
-       "term": "peiora",
+       "term": "pēiōra",
        "def": "worse things"
       }
      ],
@@ -18486,23 +18486,23 @@ window.COURSE_DATA.courses.push({
      "explanation": "This lesson features **five deponent verbs that govern the ablative**: their apparent object is in the ablative rather than the accusative. They are **uti** (use), as in *gladio utitur*, he uses a sword; **frui** (enjoy), as in *frumento fruitur*, he enjoys grain; **fungi** (busy oneself with, perform a duty), as in *consulatu fungitur*, he performed the duty of a consul; **potiri** (get possession of), as in *terra potitus est*, he got possession of the land; and **vesci** (eat), as in *cibis vescitur*, he eats foods. These are really middle-voice verbs, neither fully active nor passive: the subject acts so as to affect himself, so **uti** means to serve oneself by means of something, **fungi** to busy oneself with something. The lesson also notes some **optional endings**: most i-stems may take ablative singular in e (but never i for consonant stems), present participles have the choice, and the accusative plural of i-stems may be -is (long i) instead of -es. Verbs may show -re instead of -ris for the second person singular passive, and -ere instead of -erunt for the third person plural perfect. Finally, contracted perfects are common: -avit, -evit, and -ivit perfects drop v and the following vowel (amasti, delesti, audisti; amarunt; amaram; amassem), and noscere gives nosti, norunt, noram, nosse.",
      "keyTerms": [
       {
-       "term": "deesse, defuit, defuturus",
+       "term": "deesse, dēfuit, dēfutūrus",
        "def": "fail, be lacking to"
       },
       {
-       "term": "tacere, tacuit, tacitus",
+       "term": "tacēre, tacuit, tacitus",
        "def": "be silent"
       },
       {
-       "term": "immutare, avit, atus",
+       "term": "immūtāre, āvit, ātus",
        "def": "change"
       },
       {
-       "term": "laudare, avit, atus",
+       "term": "laudāre, āvit, ātus",
        "def": "praise"
       },
       {
-       "term": "servire, servivit, servitus",
+       "term": "servīre, servīvit, servītus",
        "def": "be slave to (with dat.)"
       },
       {
@@ -18510,7 +18510,7 @@ window.COURSE_DATA.courses.push({
        "def": "right"
       },
       {
-       "term": "murus, o",
+       "term": "mūrus, ō",
        "def": "wall"
       },
       {
@@ -18518,15 +18518,15 @@ window.COURSE_DATA.courses.push({
        "def": "dry"
       },
       {
-       "term": "ne ...quidem",
+       "term": "nē ...quidem",
        "def": "not even"
       },
       {
-       "term": "nubes",
+       "term": "nūbēs",
        "def": "cloud"
       },
       {
-       "term": "nuntiare",
+       "term": "nūntiāre",
        "def": "announce"
       },
       {
@@ -18534,7 +18534,7 @@ window.COURSE_DATA.courses.push({
        "def": "chariot (fourth declension)"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "take"
       },
       {
@@ -18542,11 +18542,11 @@ window.COURSE_DATA.courses.push({
        "def": "whatever"
       },
       {
-       "term": "electus",
+       "term": "ēlēctus",
        "def": "picked"
       },
       {
-       "term": "nequaquam",
+       "term": "nēquāquam",
        "def": "by no means"
       },
       {
@@ -18562,23 +18562,23 @@ window.COURSE_DATA.courses.push({
        "def": "wave"
       },
       {
-       "term": "uti, usus est",
+       "term": "ūtī, ūsus est",
        "def": "use (with ablative)"
       },
       {
-       "term": "frui, fructus est",
+       "term": "fruī, frūctus est",
        "def": "enjoy (with ablative)"
       },
       {
-       "term": "fungi, functus est",
+       "term": "fungī, functus est",
        "def": "busy self with, perform (with ablative)"
       },
       {
-       "term": "potiri, potitus est",
+       "term": "potīrī, potītus est",
        "def": "get possession of (with ablative)"
       },
       {
-       "term": "vesci",
+       "term": "vēscī",
        "def": "eat (with ablative)"
       }
      ],
@@ -18733,7 +18733,7 @@ window.COURSE_DATA.courses.push({
        "def": "drive"
       },
       {
-       "term": "primogenitus",
+       "term": "prīmōgenitus",
        "def": "first-born"
       },
       {
@@ -18749,15 +18749,15 @@ window.COURSE_DATA.courses.push({
        "def": "mill"
       },
       {
-       "term": "iumentum",
+       "term": "iūmentum",
        "def": "beast of burden"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "shout"
       },
       {
-       "term": "principium",
+       "term": "prīncipium",
        "def": "beginning"
       },
       {
@@ -18773,11 +18773,11 @@ window.COURSE_DATA.courses.push({
        "def": "suffice"
       },
       {
-       "term": "vesci",
+       "term": "vēscī",
        "def": "eat"
       },
       {
-       "term": "vicinus",
+       "term": "vīcīnus",
        "def": "neighbor"
       },
       {
@@ -18801,7 +18801,7 @@ window.COURSE_DATA.courses.push({
        "def": "door post"
       },
       {
-       "term": "superliminare",
+       "term": "superlīmināre",
        "def": "lintel"
       },
       {
@@ -18817,7 +18817,7 @@ window.COURSE_DATA.courses.push({
        "def": "wild"
       },
       {
-       "term": "lactuca",
+       "term": "lactūca",
        "def": "lettuce"
       },
       {
@@ -18927,11 +18927,11 @@ window.COURSE_DATA.courses.push({
      "explanation": "No new grammar here: this is Natural-Method reading practice. Watch the **cum**-clauses from the first lesson at work, together with deponent verbs (such as loqui, to speak) and the subjunctives Most uses in indirect commands and purpose clauses.",
      "keyTerms": [
       {
-       "term": "claudicare",
+       "term": "claudicāre",
        "def": "waver"
       },
       {
-       "term": "eligere",
+       "term": "ēligere",
        "def": "choose"
       },
       {
@@ -18939,35 +18939,35 @@ window.COURSE_DATA.courses.push({
        "def": "cut"
       },
       {
-       "term": "supponere",
+       "term": "suppōnere",
        "def": "put beneath"
       },
       {
-       "term": "invocare",
+       "term": "invocāre",
        "def": "call on"
       },
       {
-       "term": "exaudire",
+       "term": "exaudīre",
        "def": "hear, grant favor"
       },
       {
-       "term": "respondere",
+       "term": "respondēre",
        "def": "answer"
       },
       {
-       "term": "transilire",
+       "term": "trānsilīre",
        "def": "jump over"
       },
       {
-       "term": "illudere",
+       "term": "illūdere",
        "def": "mock"
       },
       {
-       "term": "diversorium",
+       "term": "dīversōrium",
        "def": "inn"
       },
       {
-       "term": "excitare",
+       "term": "excitāre",
        "def": "arouse"
       },
       {
@@ -18979,11 +18979,11 @@ window.COURSE_DATA.courses.push({
        "def": "drench"
       },
       {
-       "term": "ritus",
+       "term": "rītus",
        "def": "rite"
       },
       {
-       "term": "meridies",
+       "term": "merīdiēs",
        "def": "noon"
       }
      ],
@@ -19093,7 +19093,7 @@ window.COURSE_DATA.courses.push({
        "def": "holocaust, whole burnt offering"
       },
       {
-       "term": "lapides",
+       "term": "lapidēs",
        "def": "stones"
       },
       {
@@ -19109,7 +19109,7 @@ window.COURSE_DATA.courses.push({
        "def": "pour"
       },
       {
-       "term": "vorare",
+       "term": "vorāre",
        "def": "consume, devour"
       }
      ],
@@ -19235,15 +19235,15 @@ window.COURSE_DATA.courses.push({
        "def": "read"
       },
       {
-       "term": "Vetus Testamentum (VT)",
+       "term": "Vetus Testāmentum (VT)",
        "def": "Old Testament"
       },
       {
-       "term": "peccatum",
+       "term": "peccātum",
        "def": "sin"
       },
       {
-       "term": "filius",
+       "term": "fīlius",
        "def": "son"
       },
       {
@@ -19251,7 +19251,7 @@ window.COURSE_DATA.courses.push({
        "def": "man"
       },
       {
-       "term": "frater",
+       "term": "frāter",
        "def": "brother"
       },
       {
@@ -19259,11 +19259,11 @@ window.COURSE_DATA.courses.push({
        "def": "kill"
       },
       {
-       "term": "videre",
+       "term": "vidēre",
        "def": "see"
       },
       {
-       "term": "diluvium",
+       "term": "dīluvium",
        "def": "flood"
       },
       {
@@ -19275,7 +19275,7 @@ window.COURSE_DATA.courses.push({
        "def": "tower"
       },
       {
-       "term": "vendere",
+       "term": "vēndere",
        "def": "sell"
       },
       {
@@ -19283,19 +19283,19 @@ window.COURSE_DATA.courses.push({
        "def": "help"
       },
       {
-       "term": "ei (dat. of is)",
+       "term": "eī (dat. of is)",
        "def": "to him"
       },
       {
-       "term": "qui",
+       "term": "quī",
        "def": "who"
       },
       {
-       "term": "nescire",
+       "term": "nescīre",
        "def": "not know"
       },
       {
-       "term": "coegit (cogere)",
+       "term": "coēgit (cōgere)",
        "def": "force"
       }
      ],
@@ -19397,7 +19397,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "durus",
+       "term": "dūrus",
        "def": "hard"
       },
       {
@@ -19409,7 +19409,7 @@ window.COURSE_DATA.courses.push({
        "def": "wish"
       },
       {
-       "term": "salvare",
+       "term": "salvāre",
        "def": "save"
       },
       {
@@ -19421,7 +19421,7 @@ window.COURSE_DATA.courses.push({
        "def": "permit"
       },
       {
-       "term": "discedere",
+       "term": "discēdere",
        "def": "depart"
       },
       {
@@ -19441,7 +19441,7 @@ window.COURSE_DATA.courses.push({
        "def": "sea"
       },
       {
-       "term": "ambulare",
+       "term": "ambulāre",
        "def": "walk"
       },
       {
@@ -19461,7 +19461,7 @@ window.COURSE_DATA.courses.push({
        "def": "seize"
       },
       {
-       "term": "monere",
+       "term": "monēre",
        "def": "advise"
       },
       {
@@ -19469,15 +19469,15 @@ window.COURSE_DATA.courses.push({
        "def": "again"
       },
       {
-       "term": "nemo",
+       "term": "nēmō",
        "def": "no one"
       },
       {
-       "term": "laudare",
+       "term": "laudāre",
        "def": "praise"
       },
       {
-       "term": "vox",
+       "term": "vōx",
        "def": "voice"
       }
      ],
@@ -19585,7 +19585,7 @@ window.COURSE_DATA.courses.push({
        "def": "sunk"
       },
       {
-       "term": "imperare",
+       "term": "imperāre",
        "def": "to order"
       },
       {
@@ -19593,15 +19593,15 @@ window.COURSE_DATA.courses.push({
        "def": "journey"
       },
       {
-       "term": "invenire",
+       "term": "invenīre",
        "def": "to find"
       },
       {
-       "term": "amarus",
+       "term": "amārus",
        "def": "bitter"
       },
       {
-       "term": "orare",
+       "term": "ōrāre",
        "def": "to pray"
       },
       {
@@ -19613,7 +19613,7 @@ window.COURSE_DATA.courses.push({
        "def": "wood, tree"
       },
       {
-       "term": "proiciunt",
+       "term": "prōiciunt",
        "def": "they throw"
       },
       {
@@ -19629,15 +19629,15 @@ window.COURSE_DATA.courses.push({
        "def": "food"
       },
       {
-       "term": "quare",
+       "term": "quārē",
        "def": "why"
       },
       {
-       "term": "re vera",
+       "term": "rē vērā",
        "def": "really"
       },
       {
-       "term": "punire",
+       "term": "pūnīre",
        "def": "to punish"
       },
       {
@@ -19645,11 +19645,11 @@ window.COURSE_DATA.courses.push({
        "def": "because of"
       },
       {
-       "term": "plenus",
+       "term": "plēnus",
        "def": "full (of)"
       },
       {
-       "term": "murmuratio",
+       "term": "murmurātiō",
        "def": "murmuring"
       },
       {
@@ -19657,11 +19657,11 @@ window.COURSE_DATA.courses.push({
        "def": "in the evening"
       },
       {
-       "term": "coturnix",
+       "term": "coturnīx",
        "def": "quail"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "in the morning"
       },
       {
@@ -19669,7 +19669,7 @@ window.COURSE_DATA.courses.push({
        "def": "to lie"
       },
       {
-       "term": "unusquisque",
+       "term": "ūnusquisque",
        "def": "each one"
       },
       {
@@ -19677,7 +19677,7 @@ window.COURSE_DATA.courses.push({
        "def": "to gather"
       },
       {
-       "term": "mensura",
+       "term": "mēnsūra",
        "def": "measure"
       },
       {
@@ -19693,7 +19693,7 @@ window.COURSE_DATA.courses.push({
        "def": "less"
       },
       {
-       "term": "crastinus",
+       "term": "crāstinus",
        "def": "of tomorrow"
       },
       {
@@ -19701,7 +19701,7 @@ window.COURSE_DATA.courses.push({
        "def": "to have begun"
       },
       {
-       "term": "scatere",
+       "term": "scatēre",
        "def": "to swarm, teem (with)"
       },
       {
@@ -19709,15 +19709,15 @@ window.COURSE_DATA.courses.push({
        "def": "worm"
       },
       {
-       "term": "mandatum",
+       "term": "mandātum",
        "def": "command"
       },
       {
-       "term": "donec",
+       "term": "dōnec",
        "def": "until"
       },
       {
-       "term": "pervenire",
+       "term": "pervenīre",
        "def": "to arrive"
       }
      ],
@@ -19814,7 +19814,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "proficisci",
+       "term": "proficīscī",
        "def": "to set out"
       },
       {
@@ -19822,11 +19822,11 @@ window.COURSE_DATA.courses.push({
        "def": "therefore"
       },
       {
-       "term": "tentare",
+       "term": "tentāre",
        "def": "to tempt, try"
       },
       {
-       "term": "cur",
+       "term": "cūr",
        "def": "why"
       },
       {
@@ -19838,7 +19838,7 @@ window.COURSE_DATA.courses.push({
        "def": "thirst"
       },
       {
-       "term": "adhuc",
+       "term": "adhūc",
        "def": "yet"
       },
       {
@@ -19846,19 +19846,19 @@ window.COURSE_DATA.courses.push({
        "def": "a little"
       },
       {
-       "term": "lapidare",
+       "term": "lapidāre",
        "def": "to stone"
       },
       {
-       "term": "antecedere",
+       "term": "antecēdere",
        "def": "to go before"
       },
       {
-       "term": "sumere",
+       "term": "sūmere",
        "def": "to take"
       },
       {
-       "term": "portare",
+       "term": "portāre",
        "def": "to carry"
       },
       {
@@ -19878,15 +19878,15 @@ window.COURSE_DATA.courses.push({
        "def": "rock"
       },
       {
-       "term": "fere",
+       "term": "ferē",
        "def": "about, almost"
       },
       {
-       "term": "eligere",
+       "term": "ēligere",
        "def": "to choose"
       },
       {
-       "term": "egredi",
+       "term": "ēgredī",
        "def": "to go out"
       },
       {
@@ -19898,15 +19898,15 @@ window.COURSE_DATA.courses.push({
        "def": "hill"
       },
       {
-       "term": "iussit (iubere)",
+       "term": "iussit (iubēre)",
        "def": "to order"
       },
       {
-       "term": "levare",
+       "term": "levāre",
        "def": "to raise"
       },
       {
-       "term": "sin",
+       "term": "sīn",
        "def": "but if"
       },
       {
@@ -19922,7 +19922,7 @@ window.COURSE_DATA.courses.push({
        "def": "stone"
       },
       {
-       "term": "sedere",
+       "term": "sedēre",
        "def": "to sit"
       },
       {
@@ -19934,7 +19934,7 @@ window.COURSE_DATA.courses.push({
        "def": "part, side"
       },
       {
-       "term": "os, ore",
+       "term": "ōs, ōre",
        "def": "mouth"
       },
       {
@@ -20042,19 +20042,19 @@ window.COURSE_DATA.courses.push({
        "def": "decalog (10 commandments)"
       },
       {
-       "term": "figere",
+       "term": "fīgere",
        "def": "fix, fasten"
       },
       {
-       "term": "tentorium",
+       "term": "tentōrium",
        "def": "tent"
       },
       {
-       "term": "quomodo",
+       "term": "quōmodo",
        "def": "how"
       },
       {
-       "term": "ala",
+       "term": "āla",
        "def": "wing"
       },
       {
@@ -20062,27 +20062,27 @@ window.COURSE_DATA.courses.push({
        "def": "eagle"
       },
       {
-       "term": "custodire",
+       "term": "custōdīre",
        "def": "keep"
       },
       {
-       "term": "pactum",
+       "term": "pāctum",
        "def": "covenant"
       },
       {
-       "term": "dilectus",
+       "term": "dīlēctus",
        "def": "loved"
       },
       {
-       "term": "sacerdotalis",
+       "term": "sacerdōtālis",
        "def": "priestly"
       },
       {
-       "term": "gens",
+       "term": "gēns",
        "def": "race, people"
       },
       {
-       "term": "maiores",
+       "term": "māiōrēs",
        "def": "elders"
       },
       {
@@ -20090,27 +20090,27 @@ window.COURSE_DATA.courses.push({
        "def": "report"
       },
       {
-       "term": "loqui",
+       "term": "loquī",
        "def": "speak"
       },
       {
-       "term": "caligo",
+       "term": "cālīgō",
        "def": "mist"
       },
       {
-       "term": "nubes",
+       "term": "nūbēs",
        "def": "cloud"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "sanctify"
       },
       {
-       "term": "cras",
+       "term": "crās",
        "def": "tomorrow"
       },
       {
-       "term": "lavare",
+       "term": "lavāre",
        "def": "wash"
       },
       {
@@ -20122,7 +20122,7 @@ window.COURSE_DATA.courses.push({
        "def": "bounds"
       },
       {
-       "term": "cavere",
+       "term": "cavēre",
        "def": "beware"
       },
       {
@@ -20142,7 +20142,7 @@ window.COURSE_DATA.courses.push({
        "def": "he says (said)"
       },
       {
-       "term": "estote (imperative)",
+       "term": "estōte (imperative)",
        "def": "be"
       }
      ],
@@ -20247,15 +20247,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "coram",
+       "term": "cōram",
        "def": "before"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "morning"
       },
       {
-       "term": "inclaresco",
+       "term": "inclārēscō",
        "def": "shine"
       },
       {
@@ -20267,11 +20267,11 @@ window.COURSE_DATA.courses.push({
        "def": "lightning"
       },
       {
-       "term": "micare",
+       "term": "micāre",
        "def": "shine"
       },
       {
-       "term": "operire",
+       "term": "operīre",
        "def": "cover"
       },
       {
@@ -20287,11 +20287,11 @@ window.COURSE_DATA.courses.push({
        "def": "camp"
       },
       {
-       "term": "radix (root)",
+       "term": "rādīx (root)",
        "def": "foot"
       },
       {
-       "term": "fumare",
+       "term": "fūmāre",
        "def": "smoke"
       },
       {
@@ -20299,7 +20299,7 @@ window.COURSE_DATA.courses.push({
        "def": "fire"
       },
       {
-       "term": "fornax",
+       "term": "fornāx",
        "def": "furnace"
       },
       {
@@ -20307,11 +20307,11 @@ window.COURSE_DATA.courses.push({
        "def": "sound"
       },
       {
-       "term": "paulatim",
+       "term": "paulātim",
        "def": "gradually"
       },
       {
-       "term": "crescere",
+       "term": "crēscere",
        "def": "grow"
       },
       {
@@ -20323,11 +20323,11 @@ window.COURSE_DATA.courses.push({
        "def": "by chance"
       },
       {
-       "term": "perire",
+       "term": "perīre",
        "def": "perish"
       },
       {
-       "term": "densus",
+       "term": "dēnsus",
        "def": "thick, dense"
       }
      ],
@@ -20436,15 +20436,15 @@ window.COURSE_DATA.courses.push({
        "def": "all"
       },
       {
-       "term": "sermo",
+       "term": "sermō",
        "def": "word"
       },
       {
-       "term": "educere",
+       "term": "ēdūcere",
        "def": "lead out"
       },
       {
-       "term": "servitus",
+       "term": "servitūs",
        "def": "slavery"
       },
       {
@@ -20452,11 +20452,11 @@ window.COURSE_DATA.courses.push({
        "def": "statue"
       },
       {
-       "term": "similitudo",
+       "term": "similitūdō",
        "def": "likeness"
       },
       {
-       "term": "res",
+       "term": "rēs",
        "def": "thing"
       },
       {
@@ -20464,27 +20464,27 @@ window.COURSE_DATA.courses.push({
        "def": "worship"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "take"
       },
       {
-       "term": "habere",
+       "term": "habēre",
        "def": "have, consider"
       },
       {
-       "term": "insons",
+       "term": "īnsōns",
        "def": "innocent"
       },
       {
-       "term": "memento",
+       "term": "mementō",
        "def": "remember"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "sanctify"
       },
       {
-       "term": "operari",
+       "term": "operārī",
        "def": "work"
       },
       {
@@ -20496,7 +20496,7 @@ window.COURSE_DATA.courses.push({
        "def": "maidservant"
       },
       {
-       "term": "iumentum",
+       "term": "iūmentum",
        "def": "beast"
       },
       {
@@ -20504,7 +20504,7 @@ window.COURSE_DATA.courses.push({
        "def": "stranger"
       },
       {
-       "term": "intra",
+       "term": "intrā",
        "def": "within"
       },
       {
@@ -20512,11 +20512,11 @@ window.COURSE_DATA.courses.push({
        "def": "gate"
       },
       {
-       "term": "requiescere",
+       "term": "requiēscere",
        "def": "rest"
       },
       {
-       "term": "benedicere (w. dat)",
+       "term": "benedīcere (w. dat)",
        "def": "bless"
       },
       {
@@ -20528,11 +20528,11 @@ window.COURSE_DATA.courses.push({
        "def": "kill"
       },
       {
-       "term": "moechari",
+       "term": "moechārī",
        "def": "commit adultery"
       },
       {
-       "term": "furtum",
+       "term": "fūrtum",
        "def": "theft"
       },
       {
@@ -20540,7 +20540,7 @@ window.COURSE_DATA.courses.push({
        "def": "neighbor"
       },
       {
-       "term": "concupiscere",
+       "term": "concupīscere",
        "def": "desire"
       },
       {
@@ -20548,7 +20548,7 @@ window.COURSE_DATA.courses.push({
        "def": "wife"
       },
       {
-       "term": "bos",
+       "term": "bōs",
        "def": "ox"
       },
       {
@@ -20669,7 +20669,7 @@ window.COURSE_DATA.courses.push({
        "def": "sound"
       },
       {
-       "term": "perterriti",
+       "term": "perterritī",
        "def": "terrified"
       },
       {
@@ -20681,27 +20681,27 @@ window.COURSE_DATA.courses.push({
        "def": "far off"
       },
       {
-       "term": "nolite",
+       "term": "nōlīte",
        "def": "do not"
       },
       {
-       "term": "probare",
+       "term": "probāre",
        "def": "test"
       },
       {
-       "term": "peccare",
+       "term": "peccāre",
        "def": "sin"
       },
       {
-       "term": "accedere",
+       "term": "accēdere",
        "def": "approach"
       },
       {
-       "term": "caligo",
+       "term": "cālīgō",
        "def": "cloud"
       },
       {
-       "term": "praeterea",
+       "term": "praetereā",
        "def": "besides"
       },
       {
@@ -20717,7 +20717,7 @@ window.COURSE_DATA.courses.push({
        "def": "rise"
       },
       {
-       "term": "aedificare",
+       "term": "aedificāre",
        "def": "build"
       },
       {
@@ -20741,7 +20741,7 @@ window.COURSE_DATA.courses.push({
        "def": "pledged"
       },
       {
-       "term": "septuaginta",
+       "term": "septuāgintā",
        "def": "70"
       },
       {
@@ -20765,15 +20765,15 @@ window.COURSE_DATA.courses.push({
        "def": "get up"
       },
       {
-       "term": "donec",
+       "term": "dōnec",
        "def": "until"
       },
       {
-       "term": "reverti",
+       "term": "revertī",
        "def": "return"
       },
       {
-       "term": "operire",
+       "term": "operīre",
        "def": "cover"
       },
       {
@@ -20781,7 +20781,7 @@ window.COURSE_DATA.courses.push({
        "def": "cover"
       },
       {
-       "term": "species",
+       "term": "speciēs",
        "def": "appearance"
       },
       {
@@ -20793,7 +20793,7 @@ window.COURSE_DATA.courses.push({
        "def": "sight"
       },
       {
-       "term": "quadraginta",
+       "term": "quadrāgintā",
        "def": "40"
       },
       {
@@ -20910,11 +20910,11 @@ window.COURSE_DATA.courses.push({
        "def": "delay"
       },
       {
-       "term": "praecedere",
+       "term": "praecēdere",
        "def": "go before"
       },
       {
-       "term": "ignorare",
+       "term": "ignōrāre",
        "def": "not know"
       },
       {
@@ -20926,7 +20926,7 @@ window.COURSE_DATA.courses.push({
        "def": "take"
       },
       {
-       "term": "inaures aureas",
+       "term": "inaurēs aureās",
        "def": "gold ear rings"
       },
       {
@@ -20934,31 +20934,31 @@ window.COURSE_DATA.courses.push({
        "def": "calf"
       },
       {
-       "term": "conflatilis",
+       "term": "conflātilis",
        "def": "molten"
       },
       {
-       "term": "dii",
+       "term": "diī",
        "def": "gods"
       },
       {
-       "term": "praeco",
+       "term": "praecō",
        "def": "herald"
       },
       {
-       "term": "fortitudo",
+       "term": "fortitūdō",
        "def": "strength"
       },
       {
-       "term": "scriptor",
+       "term": "scrīptor",
        "def": "writer"
       },
       {
-       "term": "sicut",
+       "term": "sīcut",
        "def": "as"
       },
       {
-       "term": "cito",
+       "term": "citō",
        "def": "quickly"
       },
       {
@@ -20966,51 +20966,51 @@ window.COURSE_DATA.courses.push({
        "def": "show"
       },
       {
-       "term": "immolare",
+       "term": "immolāre",
        "def": "immolate"
       },
       {
-       "term": "laudare",
+       "term": "laudāre",
        "def": "praise"
       },
       {
-       "term": "durus",
+       "term": "dūrus",
        "def": "hard, stiff"
       },
       {
-       "term": "cervix",
+       "term": "cervīx",
        "def": "neck"
       },
       {
-       "term": "dimittere",
+       "term": "dīmittere",
        "def": "let go"
       },
       {
-       "term": "irasci",
+       "term": "īrāscī",
        "def": "be angry"
       },
       {
-       "term": "delere",
+       "term": "dēlēre",
        "def": "destroy"
       },
       {
-       "term": "orare",
+       "term": "ōrāre",
        "def": "pray"
       },
       {
-       "term": "callide",
+       "term": "callidē",
        "def": "cleverly"
       },
       {
-       "term": "quiescere",
+       "term": "quiēscere",
        "def": "come to rest"
       },
       {
-       "term": "esto",
+       "term": "estō",
        "def": "be (imperative)"
       },
       {
-       "term": "placabilis",
+       "term": "plācābilis",
        "def": "appeased"
       },
       {
@@ -21018,39 +21018,39 @@ window.COURSE_DATA.courses.push({
        "def": "in regard to"
       },
       {
-       "term": "nequitia",
+       "term": "nēquitia",
        "def": "wickedness"
       },
       {
-       "term": "recordari",
+       "term": "recordārī",
        "def": "remember (imperative here)"
       },
       {
-       "term": "iurare",
+       "term": "iūrāre",
        "def": "swear"
       },
       {
-       "term": "temetipsum",
+       "term": "tēmetipsum",
        "def": "yourself"
       },
       {
-       "term": "multiplicare",
+       "term": "multiplicāre",
        "def": "multiply"
       },
       {
-       "term": "semen",
+       "term": "sēmen",
        "def": "seed, descendants"
       },
       {
-       "term": "stella",
+       "term": "stēlla",
        "def": "star"
       },
       {
-       "term": "possidere",
+       "term": "possidēre",
        "def": "possess"
       },
       {
-       "term": "placare",
+       "term": "plācāre",
        "def": "appease"
       },
       {
@@ -21058,23 +21058,23 @@ window.COURSE_DATA.courses.push({
        "def": "against"
       },
       {
-       "term": "testimonium",
+       "term": "testimōnium",
        "def": "testimony"
       },
       {
-       "term": "portare",
+       "term": "portāre",
        "def": "carry"
       },
       {
-       "term": "appropinquare",
+       "term": "appropinquāre",
        "def": "approach"
       },
       {
-       "term": "cantare",
+       "term": "cantāre",
        "def": "sing"
       },
       {
-       "term": "proicere",
+       "term": "prōicere",
        "def": "throw forth"
       },
       {
@@ -21082,7 +21082,7 @@ window.COURSE_DATA.courses.push({
        "def": "break"
       },
       {
-       "term": "radix",
+       "term": "rādīx",
        "def": "root"
       },
       {
@@ -21098,11 +21098,11 @@ window.COURSE_DATA.courses.push({
        "def": "dust"
       },
       {
-       "term": "Si quis...",
+       "term": "Sī quis...",
        "def": "if anyone belongs to the Lord"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "take"
       },
       {
@@ -21114,11 +21114,11 @@ window.COURSE_DATA.courses.push({
        "def": "fall"
       },
       {
-       "term": "mille",
+       "term": "mīlle",
        "def": "1000"
       },
       {
-       "term": "dicere",
+       "term": "dīcere",
        "def": "say, tell"
       }
      ],
@@ -21220,15 +21220,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "ultio",
+       "term": "ultiō",
        "def": "vengeance"
       },
       {
-       "term": "punire",
+       "term": "pūnīre",
        "def": "punish"
       },
       {
-       "term": "praecidere",
+       "term": "praecīdere",
        "def": "cut"
       },
       {
@@ -21256,23 +21256,23 @@ window.COURSE_DATA.courses.push({
        "def": "anyone, someone"
       },
       {
-       "term": "antea",
+       "term": "anteā",
        "def": "before"
       },
       {
-       "term": "nubes",
+       "term": "nūbēs",
        "def": "cloud"
       },
       {
-       "term": "invocare",
+       "term": "invocāre",
        "def": "call on"
       },
       {
-       "term": "quadraginta",
+       "term": "quadrāgintā",
        "def": "40"
       },
       {
-       "term": "panis",
+       "term": "pānis",
        "def": "bread"
       },
       {
@@ -21280,11 +21280,11 @@ window.COURSE_DATA.courses.push({
        "def": "covenant"
       },
       {
-       "term": "facies",
+       "term": "faciēs",
        "def": "face"
       },
       {
-       "term": "claritas",
+       "term": "clāritās",
        "def": "brightness"
       },
       {
@@ -21292,7 +21292,7 @@ window.COURSE_DATA.courses.push({
        "def": "near"
       },
       {
-       "term": "accedere",
+       "term": "accēdere",
        "def": "approach"
       },
       {
@@ -21409,11 +21409,11 @@ window.COURSE_DATA.courses.push({
        "def": "Core"
       },
       {
-       "term": "ducenti",
+       "term": "ducentī",
        "def": "200"
       },
       {
-       "term": "quinquaginta",
+       "term": "quīnquāgintā",
        "def": "50"
       },
       {
@@ -21425,7 +21425,7 @@ window.COURSE_DATA.courses.push({
        "def": "now, already"
       },
       {
-       "term": "elevare",
+       "term": "ēlevāre",
        "def": "raise"
       },
       {
@@ -21437,27 +21437,27 @@ window.COURSE_DATA.courses.push({
        "def": "he said"
       },
       {
-       "term": "notum facere",
+       "term": "nōtum facere",
        "def": "make known"
       },
       {
-       "term": "pertinere",
+       "term": "pertinēre",
        "def": "pertain"
       },
       {
-       "term": "thuribulum",
+       "term": "thūribulum",
        "def": "censer"
       },
       {
-       "term": "coram (w. abl.)",
+       "term": "cōram (w. abl.)",
        "def": "before"
       },
       {
-       "term": "eligere",
+       "term": "ēligere",
        "def": "choose"
       },
       {
-       "term": "separare",
+       "term": "sēparāre",
        "def": "separate"
       },
       {
@@ -21465,7 +21465,7 @@ window.COURSE_DATA.courses.push({
        "def": "join"
       },
       {
-       "term": "servire (w. dat.)",
+       "term": "servīre (w. dat.)",
        "def": "serve"
       },
       {
@@ -21473,11 +21473,11 @@ window.COURSE_DATA.courses.push({
        "def": "worship"
       },
       {
-       "term": "tabernaculum",
+       "term": "tabernāculum",
        "def": "tabernacle, tent"
       },
       {
-       "term": "ministrare",
+       "term": "ministrāre",
        "def": "minister"
       },
       {
@@ -21485,7 +21485,7 @@ window.COURSE_DATA.courses.push({
        "def": "nearest, neighbor"
       },
       {
-       "term": "congregatio",
+       "term": "congregātiō",
        "def": "congregation"
       },
       {
@@ -21497,23 +21497,23 @@ window.COURSE_DATA.courses.push({
        "def": "take, remove"
       },
       {
-       "term": "singuli",
+       "term": "singulī",
        "def": "each, one at a time"
       },
       {
-       "term": "congregare",
+       "term": "congregāre",
        "def": "gather"
       },
       {
-       "term": "ostium",
+       "term": "ōstium",
        "def": "door"
       },
       {
-       "term": "apparere",
+       "term": "appārēre",
        "def": "appear"
       },
       {
-       "term": "separamini",
+       "term": "sēparāminī",
        "def": "passive imperative"
       },
       {
@@ -21525,23 +21525,23 @@ window.COURSE_DATA.courses.push({
        "def": "destroy"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
-       "term": "fortissime",
+       "term": "fortissimē",
        "def": "most mighty"
       },
       {
-       "term": "spiritus",
+       "term": "spīritus",
        "def": "spirit"
       },
       {
-       "term": "universus",
+       "term": "ūniversus",
        "def": "all"
       },
       {
-       "term": "caro",
+       "term": "carō",
        "def": "flesh"
       },
       {
@@ -21553,35 +21553,35 @@ window.COURSE_DATA.courses.push({
        "def": "involve, roll in"
       },
       {
-       "term": "consuetus",
+       "term": "consuētus",
        "def": "customary"
       },
       {
-       "term": "mori",
+       "term": "morī",
        "def": "die"
       },
       {
-       "term": "sin",
+       "term": "sīn",
        "def": "but if"
       },
       {
-       "term": "aperire",
+       "term": "aperīre",
        "def": "open"
       },
       {
-       "term": "os",
+       "term": "ōs",
        "def": "mouth"
       },
       {
-       "term": "deglutire",
+       "term": "dēglūtīre",
        "def": "swallow"
       },
       {
-       "term": "infernus",
+       "term": "īnfernus",
        "def": "underworld, sheol"
       },
       {
-       "term": "blasphemare",
+       "term": "blasphēmāre",
        "def": "blaspheme"
       },
       {
@@ -21593,11 +21593,11 @@ window.COURSE_DATA.courses.push({
        "def": "as, when"
       },
       {
-       "term": "cessare",
+       "term": "cessāre",
        "def": "cease"
       },
       {
-       "term": "dirumpere",
+       "term": "dīrumpere",
        "def": "break apart"
       },
       {
@@ -21605,47 +21605,47 @@ window.COURSE_DATA.courses.push({
        "def": "possessions"
       },
       {
-       "term": "perire",
+       "term": "perīre",
        "def": "perish"
       },
       {
-       "term": "egredi",
+       "term": "ēgredī",
        "def": "come forth"
       },
       {
-       "term": "sequens",
+       "term": "sequēns",
        "def": "following"
       },
       {
-       "term": "oriri",
+       "term": "orīrī",
        "def": "arise"
       },
       {
-       "term": "seditio",
+       "term": "sēditiō",
        "def": "sedition"
       },
       {
-       "term": "crescere",
+       "term": "crēscere",
        "def": "grow"
       },
       {
-       "term": "tabernaculum foederis",
+       "term": "tabernāculum foederis",
        "def": "tabernacle of covenant"
       },
       {
-       "term": "ingredi",
+       "term": "ingredī",
        "def": "enter"
       },
       {
-       "term": "operire",
+       "term": "operīre",
        "def": "cover"
       },
       {
-       "term": "recedere",
+       "term": "recēdere",
        "def": "go back"
       },
       {
-       "term": "multitudo",
+       "term": "multitūdō",
        "def": "crowd"
       },
       {
@@ -21657,7 +21657,7 @@ window.COURSE_DATA.courses.push({
        "def": "continue, go"
       },
       {
-       "term": "cito",
+       "term": "citō",
        "def": "quickly"
       },
       {
@@ -21665,7 +21665,7 @@ window.COURSE_DATA.courses.push({
        "def": "run"
       },
       {
-       "term": "vastare",
+       "term": "vāstāre",
        "def": "devastate"
       },
       {
@@ -21673,7 +21673,7 @@ window.COURSE_DATA.courses.push({
        "def": "fire"
       },
       {
-       "term": "plaga",
+       "term": "plāga",
        "def": "blow"
       },
       {
@@ -21794,35 +21794,35 @@ window.COURSE_DATA.courses.push({
        "def": "starts a wish (we wish that we had perished)"
       },
       {
-       "term": "ecclesia",
+       "term": "ecclēsia",
        "def": "assembly, church"
       },
       {
-       "term": "solitudo",
+       "term": "sōlitūdō",
        "def": "solitude"
       },
       {
-       "term": "iumentum",
+       "term": "iūmentum",
        "def": "beast of burden"
       },
       {
-       "term": "dimittere",
+       "term": "dīmittere",
        "def": "dismiss"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "cry"
       },
       {
-       "term": "thesaurus",
+       "term": "thēsaurus",
        "def": "treasure"
       },
       {
-       "term": "fons",
+       "term": "fōns",
        "def": "spring, fountain, source"
       },
       {
-       "term": "satiare",
+       "term": "satiāre",
        "def": "satisfy"
       },
       {
@@ -21830,7 +21830,7 @@ window.COURSE_DATA.courses.push({
        "def": "rod"
       },
       {
-       "term": "incredulus",
+       "term": "incrēdulus",
        "def": "unbelieving"
       },
       {
@@ -21846,11 +21846,11 @@ window.COURSE_DATA.courses.push({
        "def": "because"
       },
       {
-       "term": "dubitare",
+       "term": "dubitāre",
        "def": "doubt"
       },
       {
-       "term": "introire",
+       "term": "intrōīre",
        "def": "enter"
       },
       {
@@ -21866,7 +21866,7 @@ window.COURSE_DATA.courses.push({
        "def": "fall, die"
       },
       {
-       "term": "flere",
+       "term": "flēre",
        "def": "weep"
       }
      ],
@@ -21980,15 +21980,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "ignitus",
+       "term": "ignītus",
        "def": "fiery"
       },
       {
-       "term": "proficisci",
+       "term": "proficīscī",
        "def": "set out"
       },
       {
-       "term": "circumire",
+       "term": "circumīre",
        "def": "go around"
       },
       {
@@ -21996,7 +21996,7 @@ window.COURSE_DATA.courses.push({
        "def": "be lacking, fail"
       },
       {
-       "term": "nauseare",
+       "term": "nauseāre",
        "def": "be sick"
       },
       {
@@ -22004,7 +22004,7 @@ window.COURSE_DATA.courses.push({
        "def": "light"
       },
       {
-       "term": "quotidie",
+       "term": "quotīdiē",
        "def": "daily"
       },
       {
@@ -22012,7 +22012,7 @@ window.COURSE_DATA.courses.push({
        "def": "on account of"
       },
       {
-       "term": "aeneus",
+       "term": "aēneus",
        "def": "bronze"
       },
       {
@@ -22020,15 +22020,15 @@ window.COURSE_DATA.courses.push({
        "def": "look at"
       },
       {
-       "term": "sanare",
+       "term": "sānāre",
        "def": "heal"
       },
       {
-       "term": "evangelium",
+       "term": "ēvangelium",
        "def": "Gospel"
       },
       {
-       "term": "exaltare",
+       "term": "exaltāre",
        "def": "exalt"
       },
       {
@@ -22036,15 +22036,15 @@ window.COURSE_DATA.courses.push({
        "def": "it is necessary, proper"
       },
       {
-       "term": "prophetia",
+       "term": "prophētīa",
        "def": "prophecy"
       },
       {
-       "term": "obumbratio",
+       "term": "obumbrātiō",
        "def": "foreshadowing"
       },
       {
-       "term": "figura",
+       "term": "figūra",
        "def": "figure"
       },
       {
@@ -22052,7 +22052,7 @@ window.COURSE_DATA.courses.push({
        "def": "cross"
       },
       {
-       "term": "sanitas",
+       "term": "sānitās",
        "def": "health, salvation"
       },
       {
@@ -22064,15 +22064,15 @@ window.COURSE_DATA.courses.push({
        "def": "twice"
       },
       {
-       "term": "contra (w. obj.)",
+       "term": "contrā (w. obj.)",
        "def": "opposite, against"
       },
       {
-       "term": "tradere",
+       "term": "trādere",
        "def": "hand over"
       },
       {
-       "term": "taedere",
+       "term": "taedēre",
        "def": "weary, disgust (impersonal)"
       }
      ],
@@ -22178,11 +22178,11 @@ window.COURSE_DATA.courses.push({
        "def": "die"
       },
       {
-       "term": "praevaricari",
+       "term": "praevāricārī",
        "def": "sin"
       },
       {
-       "term": "contradictio",
+       "term": "contrādictiō",
        "def": "contradiction"
       },
       {
@@ -22194,11 +22194,11 @@ window.COURSE_DATA.courses.push({
        "def": "show"
       },
       {
-       "term": "iurare",
+       "term": "iūrāre",
        "def": "swear"
       },
       {
-       "term": "semen",
+       "term": "sēmen",
        "def": "seed, descendant(s)"
       },
       {
@@ -22206,7 +22206,7 @@ window.COURSE_DATA.courses.push({
        "def": "eye"
       },
       {
-       "term": "sepelire",
+       "term": "sepelīre",
        "def": "bury"
       },
       {
@@ -22214,11 +22214,11 @@ window.COURSE_DATA.courses.push({
        "def": "valley"
       },
       {
-       "term": "caligare",
+       "term": "cālīgāre",
        "def": "be misty"
       },
       {
-       "term": "plenus",
+       "term": "plēnus",
        "def": "full"
       },
       {
@@ -22230,11 +22230,11 @@ window.COURSE_DATA.courses.push({
        "def": "wisdom"
       },
       {
-       "term": "ultra",
+       "term": "ultrā",
        "def": "any more, further"
       },
       {
-       "term": "facies",
+       "term": "faciēs",
        "def": "face"
       },
       {
@@ -22242,11 +22242,11 @@ window.COURSE_DATA.courses.push({
        "def": "short"
       },
       {
-       "term": "vocare",
+       "term": "vocāre",
        "def": "call"
       },
       {
-       "term": "significare",
+       "term": "significāre",
        "def": "mean"
       }
      ],
@@ -22347,15 +22347,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "salus",
+       "term": "salūs",
        "def": "salvation, health, safety"
       },
       {
-       "term": "fidelis",
+       "term": "fidēlis",
        "def": "faithful"
       },
       {
-       "term": "quadraginta annorum",
+       "term": "quadrāgintā annōrum",
        "def": "was forty years old"
       },
       {
@@ -22371,15 +22371,15 @@ window.COURSE_DATA.courses.push({
        "def": "father of Josue"
       },
       {
-       "term": "transire",
+       "term": "trānsīre",
        "def": "cross"
       },
       {
-       "term": "flumen",
+       "term": "flūmen",
        "def": "river"
       },
       {
-       "term": "calcare",
+       "term": "calcāre",
        "def": "tread on"
       },
       {
@@ -22391,7 +22391,7 @@ window.COURSE_DATA.courses.push({
        "def": "river"
       },
       {
-       "term": "Euphrates",
+       "term": "Euphrātēs",
        "def": "Euphrates"
       },
       {
@@ -22399,7 +22399,7 @@ window.COURSE_DATA.courses.push({
        "def": "boundary"
       },
       {
-       "term": "derelinquere",
+       "term": "dērelinquere",
        "def": "leave, abandon"
       }
      ],
@@ -22507,11 +22507,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "explorator",
+       "term": "explōrātor",
        "def": "scout, spy"
       },
       {
-       "term": "spectare",
+       "term": "spectāre",
        "def": "look at, face"
       },
       {
@@ -22531,11 +22531,11 @@ window.COURSE_DATA.courses.push({
        "def": "camp"
       },
       {
-       "term": "morari",
+       "term": "morārī",
        "def": "delay, stay"
       },
       {
-       "term": "finire",
+       "term": "fīnīre",
        "def": "finish"
       },
       {
@@ -22543,7 +22543,7 @@ window.COURSE_DATA.courses.push({
        "def": "middle of camp"
       },
       {
-       "term": "praeco",
+       "term": "praecō",
        "def": "herald"
       },
       {
@@ -22551,19 +22551,19 @@ window.COURSE_DATA.courses.push({
        "def": "ark"
       },
       {
-       "term": "sacerdos",
+       "term": "sacerdōs",
        "def": "priest"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "make holy"
       },
       {
-       "term": "cras",
+       "term": "crās",
        "def": "tomorrow"
       },
       {
-       "term": "mirabilis",
+       "term": "mīrābilis",
        "def": "wonderful"
       },
       {
@@ -22571,11 +22571,11 @@ window.COURSE_DATA.courses.push({
        "def": "orders"
       },
       {
-       "term": "complere",
+       "term": "complēre",
        "def": "fill, fulfill"
       },
       {
-       "term": "exaltare",
+       "term": "exaltāre",
        "def": "exalt"
       },
       {
@@ -22583,7 +22583,7 @@ window.COURSE_DATA.courses.push({
        "def": "begin"
       },
       {
-       "term": "deficere",
+       "term": "dēficere",
        "def": "fail"
       },
       {
@@ -22595,7 +22595,7 @@ window.COURSE_DATA.courses.push({
        "def": "ground"
       },
       {
-       "term": "transgredi",
+       "term": "trānsgredī",
        "def": "cross"
       },
       {
@@ -22607,15 +22607,15 @@ window.COURSE_DATA.courses.push({
        "def": "stone"
       },
       {
-       "term": "durissimus",
+       "term": "dūrissimus",
        "def": "very hard"
       },
       {
-       "term": "tentorium",
+       "term": "tentōrium",
        "def": "tent"
       },
       {
-       "term": "figere",
+       "term": "fīgere",
        "def": "fix, fasten"
       },
       {
@@ -22623,7 +22623,7 @@ window.COURSE_DATA.courses.push({
        "def": "shoulder"
       },
       {
-       "term": "idcirco",
+       "term": "idcircō",
        "def": "for that reason"
       },
       {
@@ -22631,7 +22631,7 @@ window.COURSE_DATA.courses.push({
        "def": "for a memorial"
       },
       {
-       "term": "usque in aeternum",
+       "term": "ūsque in aeternum",
        "def": "forever"
       },
       {
@@ -22639,11 +22639,11 @@ window.COURSE_DATA.courses.push({
        "def": "bed (of a river)"
       },
       {
-       "term": "magnificare",
+       "term": "magnificāre",
        "def": "exalt"
       },
       {
-       "term": "adhuc",
+       "term": "adhūc",
        "def": "yet, still"
       },
       {
@@ -22651,7 +22651,7 @@ window.COURSE_DATA.courses.push({
        "def": "flow"
       },
       {
-       "term": "consuescere",
+       "term": "consuēscere",
        "def": "be accustomed"
       }
      ],
@@ -22760,23 +22760,23 @@ window.COURSE_DATA.courses.push({
        "def": "towards the west"
       },
       {
-       "term": "siccare",
+       "term": "siccāre",
        "def": "dry"
       },
       {
-       "term": "donec",
+       "term": "dōnec",
        "def": "until, as long as"
       },
       {
-       "term": "dissolutus",
+       "term": "dissolūtus",
        "def": "weakened"
       },
       {
-       "term": "spiritus",
+       "term": "spīritus",
        "def": "breath, spirit"
       },
       {
-       "term": "introitus",
+       "term": "intrōitus",
        "def": "entry"
       },
       {
@@ -22784,15 +22784,15 @@ window.COURSE_DATA.courses.push({
        "def": "Galgala"
       },
       {
-       "term": "frux",
+       "term": "frūx",
        "def": "fruit"
       },
       {
-       "term": "uti",
+       "term": "ūtī",
        "def": "use (with ablative)"
       },
       {
-       "term": "levare",
+       "term": "levāre",
        "def": "raise, lift"
       },
       {
@@ -22812,15 +22812,15 @@ window.COURSE_DATA.courses.push({
        "def": "or"
       },
       {
-       "term": "adversarius",
+       "term": "adversārius",
        "def": "opposed, enemy"
       },
       {
-       "term": "nequaquam",
+       "term": "nēquāquam",
        "def": "by no means"
       },
       {
-       "term": "princeps",
+       "term": "prīnceps",
        "def": "prince, leader"
       },
       {
@@ -22832,15 +22832,15 @@ window.COURSE_DATA.courses.push({
        "def": "he said"
       },
       {
-       "term": "calceamentum",
+       "term": "calceāmentum",
        "def": "shoe"
       },
       {
-       "term": "munitus",
+       "term": "mūnītus",
        "def": "fortified"
       },
       {
-       "term": "munire",
+       "term": "mūnīre",
        "def": "fortify"
       },
       {
@@ -22848,11 +22848,11 @@ window.COURSE_DATA.courses.push({
        "def": "because of (with object)"
       },
       {
-       "term": "audere",
+       "term": "audēre",
        "def": "dare"
       },
       {
-       "term": "circumire",
+       "term": "circumīre",
        "def": "go around"
       },
       {
@@ -22864,7 +22864,7 @@ window.COURSE_DATA.courses.push({
        "def": "trumpet"
       },
       {
-       "term": "septies",
+       "term": "septiēs",
        "def": "seven times"
       },
       {
@@ -22872,7 +22872,7 @@ window.COURSE_DATA.courses.push({
        "def": "sound"
       },
       {
-       "term": "insonare",
+       "term": "īnsonāre",
        "def": "sound"
       },
       {
@@ -22884,7 +22884,7 @@ window.COURSE_DATA.courses.push({
        "def": "longer"
       },
       {
-       "term": "murus",
+       "term": "mūrus",
        "def": "wall"
       },
       {
@@ -22892,15 +22892,15 @@ window.COURSE_DATA.courses.push({
        "def": "fall, rush together"
       },
       {
-       "term": "incedere",
+       "term": "incēdere",
        "def": "go, walk"
       },
       {
-       "term": "armatus",
+       "term": "armātus",
        "def": "armed"
       },
       {
-       "term": "clamare",
+       "term": "clāmāre",
        "def": "cry"
       },
       {
@@ -22908,7 +22908,7 @@ window.COURSE_DATA.courses.push({
        "def": "once"
       },
       {
-       "term": "diluculum",
+       "term": "dīlūculum",
        "def": "daybreak"
       },
       {
@@ -22916,7 +22916,7 @@ window.COURSE_DATA.courses.push({
        "def": "rise"
       },
       {
-       "term": "disponere",
+       "term": "dispōnere",
        "def": "arrange"
       },
       {
@@ -22924,19 +22924,19 @@ window.COURSE_DATA.courses.push({
        "def": "circuit"
       },
       {
-       "term": "unusquisque",
+       "term": "ūnusquisque",
        "def": "each, every one"
       },
       {
-       "term": "putare",
+       "term": "putāre",
        "def": "think"
       },
       {
-       "term": "errare",
+       "term": "errāre",
        "def": "wander, err"
       },
       {
-       "term": "fere",
+       "term": "ferē",
        "def": "about, almost"
       },
       {
@@ -22944,7 +22944,7 @@ window.COURSE_DATA.courses.push({
        "def": "opinion"
       },
       {
-       "term": "videtur",
+       "term": "vidētur",
        "def": "it seems"
       },
       {
@@ -23059,15 +23059,15 @@ window.COURSE_DATA.courses.push({
        "def": "near, at"
       },
       {
-       "term": "expugnare",
+       "term": "expugnāre",
        "def": "storm, capture"
       },
       {
-       "term": "oppugnare",
+       "term": "oppugnāre",
        "def": "besiege"
       },
       {
-       "term": "habitare",
+       "term": "habitāre",
        "def": "live, dwell"
       },
       {
@@ -23079,11 +23079,11 @@ window.COURSE_DATA.courses.push({
        "def": "swiftly"
       },
       {
-       "term": "liberare",
+       "term": "līberāre",
        "def": "free"
       },
       {
-       "term": "convenire",
+       "term": "convenīre",
        "def": "come together"
       },
       {
@@ -23103,7 +23103,7 @@ window.COURSE_DATA.courses.push({
        "def": "suddenly"
       },
       {
-       "term": "conturbare",
+       "term": "conturbāre",
        "def": "throw into disorder"
       },
       {
@@ -23111,23 +23111,23 @@ window.COURSE_DATA.courses.push({
        "def": "crush"
       },
       {
-       "term": "plaga",
+       "term": "plāga",
        "def": "blow, plague"
       },
       {
-       "term": "persequi",
+       "term": "persequī",
        "def": "follow, pursue"
       },
       {
-       "term": "usque ad",
+       "term": "ūsque ad",
        "def": "even to"
       },
       {
-       "term": "grando",
+       "term": "grandō",
        "def": "hail"
       },
       {
-       "term": "amittere",
+       "term": "āmittere",
        "def": "lose"
       },
       {
@@ -23139,19 +23139,19 @@ window.COURSE_DATA.courses.push({
        "def": "valley"
       },
       {
-       "term": "gens",
+       "term": "gēns",
        "def": "people, tribe"
       },
       {
-       "term": "ulcisci se de",
+       "term": "ulcīscī se de",
        "def": "avenge self on"
       },
       {
-       "term": "festinare",
+       "term": "festīnāre",
        "def": "hasten"
       },
       {
-       "term": "occidens",
+       "term": "occidēns",
        "def": "west"
       },
       {
@@ -23281,11 +23281,11 @@ window.COURSE_DATA.courses.push({
        "def": "hide"
       },
       {
-       "term": "spelunca",
+       "term": "spēlunca",
        "def": "cave"
       },
       {
-       "term": "latere",
+       "term": "latēre",
        "def": "lie hidden"
       },
       {
@@ -23297,15 +23297,15 @@ window.COURSE_DATA.courses.push({
        "def": "stone"
       },
       {
-       "term": "ingens",
+       "term": "ingēns",
        "def": "huge"
       },
       {
-       "term": "os",
+       "term": "ōs",
        "def": "mouth"
       },
       {
-       "term": "custodire",
+       "term": "custōdīre",
        "def": "guard"
       },
       {
@@ -23313,11 +23313,11 @@ window.COURSE_DATA.courses.push({
        "def": "each, all"
       },
       {
-       "term": "dimittere",
+       "term": "dīmittere",
        "def": "let go"
       },
       {
-       "term": "intrare",
+       "term": "intrāre",
        "def": "enter"
       },
       {
@@ -23329,7 +23329,7 @@ window.COURSE_DATA.courses.push({
        "def": "cut, kill"
       },
       {
-       "term": "adversarius",
+       "term": "adversārius",
        "def": "opponent"
       },
       {
@@ -23345,7 +23345,7 @@ window.COURSE_DATA.courses.push({
        "def": "all"
       },
       {
-       "term": "dimicare",
+       "term": "dīmicāre",
        "def": "fight to the finish"
       },
       {
@@ -23357,11 +23357,11 @@ window.COURSE_DATA.courses.push({
        "def": "tree"
       },
       {
-       "term": "evolvere",
+       "term": "ēvolvere",
        "def": "unroll"
       },
       {
-       "term": "promissio",
+       "term": "prōmissiō",
        "def": "promise"
       },
       {
@@ -23369,15 +23369,15 @@ window.COURSE_DATA.courses.push({
        "def": "tribe"
       },
       {
-       "term": "maiores natu",
+       "term": "māiōrēs nātū",
        "def": "elders"
       },
       {
-       "term": "senescere",
+       "term": "senēscere",
        "def": "grow old"
       },
       {
-       "term": "aetas",
+       "term": "aetās",
        "def": "age"
       },
       {
@@ -23385,7 +23385,7 @@ window.COURSE_DATA.courses.push({
        "def": "see, decide"
       },
       {
-       "term": "quomodo",
+       "term": "quōmodo",
        "def": "how"
       },
       {
@@ -23397,15 +23397,15 @@ window.COURSE_DATA.courses.push({
        "def": "take away"
       },
       {
-       "term": "solummodo",
+       "term": "sōlummodo",
        "def": "only"
       },
       {
-       "term": "confortare",
+       "term": "confortāre",
        "def": "strengthen"
       },
       {
-       "term": "estote",
+       "term": "estōte",
        "def": "be (imperative)"
       },
       {
@@ -23413,11 +23413,11 @@ window.COURSE_DATA.courses.push({
        "def": "careful"
       },
       {
-       "term": "volumen",
+       "term": "volūmen",
        "def": "book, scroll"
       },
       {
-       "term": "declinare",
+       "term": "dēclīnāre",
        "def": "decline, turn aside"
       },
       {
@@ -23429,11 +23429,11 @@ window.COURSE_DATA.courses.push({
        "def": "left"
       },
       {
-       "term": "servire",
+       "term": "servīre",
        "def": "serve (with dative)"
       },
       {
-       "term": "adhaerere",
+       "term": "adhaerēre",
        "def": "stick to"
       },
       {
@@ -23441,27 +23441,27 @@ window.COURSE_DATA.courses.push({
        "def": "sight"
       },
       {
-       "term": "robustissimus",
+       "term": "rōbustissimus",
        "def": "very strong"
       },
       {
-       "term": "mille",
+       "term": "mīlle",
        "def": "1000"
       },
       {
-       "term": "quod si",
+       "term": "quod sī",
        "def": "but if"
       },
       {
-       "term": "miscere",
+       "term": "miscēre",
        "def": "mix, mingle"
       },
       {
-       "term": "mandatum",
+       "term": "mandātum",
        "def": "command"
       },
       {
-       "term": "turbare",
+       "term": "turbāre",
        "def": "disturb"
       }
      ],
@@ -23587,7 +23587,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "iudex",
+       "term": "iūdex",
        "def": "judge"
       },
       {
@@ -23599,11 +23599,11 @@ window.COURSE_DATA.courses.push({
        "def": "subject"
       },
       {
-       "term": "usque ad",
+       "term": "ūsque ad",
        "def": "even to, up to"
       },
       {
-       "term": "potestas",
+       "term": "potestās",
        "def": "power"
       },
       {
@@ -23611,23 +23611,23 @@ window.COURSE_DATA.courses.push({
        "def": "Amenhotep, King of Egypt"
       },
       {
-       "term": "gubernator",
+       "term": "gubernātor",
        "def": "governor"
       },
       {
-       "term": "nominare",
+       "term": "nōmināre",
        "def": "name"
       },
       {
-       "term": "sensus",
+       "term": "sēnsus",
        "def": "sense"
       },
       {
-       "term": "legalis",
+       "term": "lēgālis",
        "def": "legal"
       },
       {
-       "term": "liberator",
+       "term": "līberātor",
        "def": "liberator"
       },
       {
@@ -23639,7 +23639,7 @@ window.COURSE_DATA.courses.push({
        "def": "repentance"
       },
       {
-       "term": "definire",
+       "term": "dēfīnīre",
        "def": "define"
       },
       {
@@ -23647,15 +23647,15 @@ window.COURSE_DATA.courses.push({
        "def": "begin"
       },
       {
-       "term": "clarius",
+       "term": "clārius",
        "def": "clearer"
       },
       {
-       "term": "sanctus",
+       "term": "sānctus",
        "def": "holy"
       },
       {
-       "term": "immo vero",
+       "term": "immō vērō",
        "def": "rather, furthermore"
       },
       {
@@ -23667,11 +23667,11 @@ window.COURSE_DATA.courses.push({
        "def": "Madianites"
       },
       {
-       "term": "invadere",
+       "term": "invādere",
        "def": "invade"
       },
       {
-       "term": "camelus",
+       "term": "camēlus",
        "def": "camel"
       },
       {
@@ -23679,7 +23679,7 @@ window.COURSE_DATA.courses.push({
        "def": "bear, convey (pass. ride on)"
       },
       {
-       "term": "incursio",
+       "term": "incursiō",
        "def": "attack"
       },
       {
@@ -23691,19 +23691,19 @@ window.COURSE_DATA.courses.push({
        "def": "crush, oppress"
       },
       {
-       "term": "spelunca",
+       "term": "spēlunca",
        "def": "cave"
       },
       {
-       "term": "repugnare",
+       "term": "repugnāre",
        "def": "fight back"
       },
       {
-       "term": "oves, boves, asinos",
+       "term": "ovēs, bovēs, asinōs",
        "def": "sheep, oxen, asses"
       },
       {
-       "term": "ceteri",
+       "term": "cēterī",
        "def": "the rest, others"
       },
       {
@@ -23715,7 +23715,7 @@ window.COURSE_DATA.courses.push({
        "def": "flock"
       },
       {
-       "term": "tabernaculum",
+       "term": "tabernāculum",
        "def": "tent"
       },
       {
@@ -23727,31 +23727,31 @@ window.COURSE_DATA.courses.push({
        "def": "countless"
       },
       {
-       "term": "humiliare",
+       "term": "humiliāre",
        "def": "humiliate"
       },
       {
-       "term": "clamare",
+       "term": "clāmāre",
        "def": "cry"
       },
       {
-       "term": "postulare",
+       "term": "postulāre",
        "def": "ask, demand"
       },
       {
-       "term": "servitus",
+       "term": "servitūs",
        "def": "slavery"
       },
       {
-       "term": "affligere",
+       "term": "afflīgere",
        "def": "afflict"
       },
       {
-       "term": "eicere",
+       "term": "ēicere",
        "def": "throw out"
       },
       {
-       "term": "sedere",
+       "term": "sedēre",
        "def": "sit"
       },
       {
@@ -23759,7 +23759,7 @@ window.COURSE_DATA.courses.push({
        "def": "tree"
       },
       {
-       "term": "purgare",
+       "term": "pūrgāre",
        "def": "cleanse"
       },
       {
@@ -23767,11 +23767,11 @@ window.COURSE_DATA.courses.push({
        "def": "wine press"
       },
       {
-       "term": "fortissime",
+       "term": "fortissimē",
        "def": "bravest"
       },
       {
-       "term": "obsecrare",
+       "term": "obsecrāre",
        "def": "beg"
       },
       {
@@ -23783,11 +23783,11 @@ window.COURSE_DATA.courses.push({
        "def": "look at"
       },
       {
-       "term": "vadere",
+       "term": "vādere",
        "def": "go"
       },
       {
-       "term": "infimus",
+       "term": "īnfimus",
        "def": "lowest"
       },
       {
@@ -23795,7 +23795,7 @@ window.COURSE_DATA.courses.push({
        "def": "he says"
       },
       {
-       "term": "gratia",
+       "term": "grātia",
        "def": "favor, thanks"
       },
       {
@@ -23904,11 +23904,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "consumere",
+       "term": "consūmere",
        "def": "consume"
       },
       {
-       "term": "evanescere",
+       "term": "ēvānēscere",
        "def": "vanish"
       },
       {
@@ -23928,15 +23928,15 @@ window.COURSE_DATA.courses.push({
        "def": "Baal (god of Chanaan)"
       },
       {
-       "term": "temo",
+       "term": "tēmō",
        "def": "pole (in honor of goddess Ashera)"
       },
       {
-       "term": "succidere",
+       "term": "succīdere",
        "def": "cut down"
       },
       {
-       "term": "summitas",
+       "term": "summitās",
        "def": "top"
       },
       {
@@ -23948,31 +23948,31 @@ window.COURSE_DATA.courses.push({
        "def": "author"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "in the morning"
       },
       {
-       "term": "produc (imperat.)",
+       "term": "prōdūc (imperat.)",
        "def": "bring forth"
       },
       {
-       "term": "destruere",
+       "term": "dēstruere",
        "def": "destroy"
       },
       {
-       "term": "ulcisci se de",
+       "term": "ulcīscī se de",
        "def": "take vengeance on"
       },
       {
-       "term": "pugnator",
+       "term": "pugnātor",
        "def": "fighter"
       },
       {
-       "term": "congregare",
+       "term": "congregāre",
        "def": "gather"
       },
       {
-       "term": "castrametari",
+       "term": "castramētārī",
        "def": "pitch camp"
       },
       {
@@ -23988,15 +23988,15 @@ window.COURSE_DATA.courses.push({
        "def": "fleece"
       },
       {
-       "term": "lana",
+       "term": "lāna",
        "def": "wool"
       },
       {
-       "term": "area",
+       "term": "ārea",
        "def": "threshing floor"
       },
       {
-       "term": "ros (rore)",
+       "term": "rōs (rōre)",
        "def": "dew"
       },
       {
@@ -24020,7 +24020,7 @@ window.COURSE_DATA.courses.push({
        "def": "rock"
       },
       {
-       "term": "ius",
+       "term": "iūs",
        "def": "juice, soup"
       },
       {
@@ -24162,15 +24162,15 @@ window.COURSE_DATA.courses.push({
        "def": "get up, rise"
       },
       {
-       "term": "gloriari",
+       "term": "glōriārī",
        "def": "boast"
       },
       {
-       "term": "vis",
+       "term": "vīs",
        "def": "force, strength (pl. vires)"
       },
       {
-       "term": "praedicare",
+       "term": "praedicāre",
        "def": "proclaim"
       },
       {
@@ -24178,7 +24178,7 @@ window.COURSE_DATA.courses.push({
        "def": "fearful"
       },
       {
-       "term": "mille",
+       "term": "mīlle",
        "def": "one thousand"
       },
       {
@@ -24186,7 +24186,7 @@ window.COURSE_DATA.courses.push({
        "def": "lick"
       },
       {
-       "term": "solere",
+       "term": "solēre",
        "def": "be accustomed"
       },
       {
@@ -24194,7 +24194,7 @@ window.COURSE_DATA.courses.push({
        "def": "dog"
       },
       {
-       "term": "curvatis genibus",
+       "term": "curvātīs genibus",
        "def": "with bent knees"
       },
       {
@@ -24202,7 +24202,7 @@ window.COURSE_DATA.courses.push({
        "def": "drink"
       },
       {
-       "term": "pro (w. abl.)",
+       "term": "prō (w. abl.)",
        "def": "in proportion to"
       },
       {
@@ -24218,11 +24218,11 @@ window.COURSE_DATA.courses.push({
        "def": "below"
       },
       {
-       "term": "confortare",
+       "term": "confortāre",
        "def": "strengthen"
       },
       {
-       "term": "securior",
+       "term": "sēcūrior",
        "def": "more confidently"
       },
       {
@@ -24234,11 +24234,11 @@ window.COURSE_DATA.courses.push({
        "def": "locust"
       },
       {
-       "term": "innumerabilis",
+       "term": "innumerābilis",
        "def": "countless"
       },
       {
-       "term": "arena",
+       "term": "arēna",
        "def": "sand"
       },
       {
@@ -24246,7 +24246,7 @@ window.COURSE_DATA.courses.push({
        "def": "shore"
       },
       {
-       "term": "subcinericius panis",
+       "term": "subcinerīcius pānis",
        "def": "barley bread baked under ashes"
       },
       {
@@ -24254,11 +24254,11 @@ window.COURSE_DATA.courses.push({
        "def": "overturn"
       },
       {
-       "term": "coaequare",
+       "term": "coaequāre",
        "def": "make level"
       },
       {
-       "term": "lagena",
+       "term": "lagēna",
        "def": "jar"
       },
       {
@@ -24274,19 +24274,19 @@ window.COURSE_DATA.courses.push({
        "def": "round about"
       },
       {
-       "term": "complodere",
+       "term": "complōdere",
        "def": "strike together"
       },
       {
-       "term": "vociferare",
+       "term": "vōciferāre",
        "def": "shout"
       },
       {
-       "term": "ululare",
+       "term": "ululāre",
        "def": "wail"
       },
       {
-       "term": "mutua caede",
+       "term": "mūtuā caede",
        "def": "in mutual slaughter"
       },
       {
@@ -24398,7 +24398,7 @@ window.COURSE_DATA.courses.push({
        "def": "of today, today's"
       },
       {
-       "term": "Creta",
+       "term": "Crēta",
        "def": "Crete (island)"
       },
       {
@@ -24406,7 +24406,7 @@ window.COURSE_DATA.courses.push({
        "def": "easily"
       },
       {
-       "term": "subiectio",
+       "term": "subiectiō",
        "def": "subjection"
       },
       {
@@ -24418,7 +24418,7 @@ window.COURSE_DATA.courses.push({
        "def": "tribe"
       },
       {
-       "term": "novacula",
+       "term": "novācula",
        "def": "razor"
       },
       {
@@ -24426,27 +24426,27 @@ window.COURSE_DATA.courses.push({
        "def": "nazarite (consecrated to God)"
       },
       {
-       "term": "infantia",
+       "term": "īnfantia",
        "def": "infancy"
       },
       {
-       "term": "fortitudo",
+       "term": "fortitūdō",
        "def": "bravery, strength"
       },
       {
-       "term": "catulus leonis",
+       "term": "catulus leōnis",
        "def": "young lion"
       },
       {
-       "term": "rugire",
+       "term": "rugīre",
        "def": "roar"
       },
       {
-       "term": "dilaceravit",
+       "term": "dīlacerāvit",
        "def": "tore into pieces, rending it like a goat"
       },
       {
-       "term": "ligare",
+       "term": "ligāre",
        "def": "bind"
       },
       {
@@ -24454,19 +24454,19 @@ window.COURSE_DATA.courses.push({
        "def": "surround"
       },
       {
-       "term": "positis custodibus",
+       "term": "positīs custōdibus",
        "def": "placing guards"
       },
       {
-       "term": "praestolari",
+       "term": "praestōlārī",
        "def": "wait"
       },
       {
-       "term": "exire",
+       "term": "exīre",
        "def": "go out"
       },
       {
-       "term": "mane",
+       "term": "māne",
        "def": "morning"
       },
       {
@@ -24474,7 +24474,7 @@ window.COURSE_DATA.courses.push({
        "def": "kill"
       },
       {
-       "term": "dormire",
+       "term": "dormīre",
        "def": "sleep"
       },
       {
@@ -24482,7 +24482,7 @@ window.COURSE_DATA.courses.push({
        "def": "thence"
       },
       {
-       "term": "imponere",
+       "term": "impōnere",
        "def": "put on"
       },
       {
@@ -24502,15 +24502,15 @@ window.COURSE_DATA.courses.push({
        "def": "valley"
       },
       {
-       "term": "decipere",
+       "term": "dēcipere",
        "def": "deceive"
       },
       {
-       "term": "superare",
+       "term": "superāre",
        "def": "overcome"
       },
       {
-       "term": "valere",
+       "term": "valēre",
        "def": "be well, be able"
       },
       {
@@ -24518,19 +24518,19 @@ window.COURSE_DATA.courses.push({
        "def": "silver coin"
       },
       {
-       "term": "obsecrare",
+       "term": "obsecrāre",
        "def": "beg"
       },
       {
-       "term": "erumpere",
+       "term": "ērumpere",
        "def": "break out"
       },
       {
-       "term": "septem nerviceis funibus",
+       "term": "septem nerviceis fūnibus",
        "def": "seven cords made of sinews not yet dry and still moist"
       },
       {
-       "term": "vincire",
+       "term": "vincīre",
        "def": "bind"
       },
       {
@@ -24538,11 +24538,11 @@ window.COURSE_DATA.courses.push({
        "def": "break"
       },
       {
-       "term": "quomodo si",
+       "term": "quōmodo sī",
        "def": "just as if, just as"
       },
       {
-       "term": "cognoscere",
+       "term": "cognōscere",
        "def": "learn (in pf., know)"
       },
       {
@@ -24550,7 +24550,7 @@ window.COURSE_DATA.courses.push({
        "def": "known"
       },
       {
-       "term": "illudere (w. dat.)",
+       "term": "illūdere (w. dat.)",
        "def": "mock"
       },
       {
@@ -24558,11 +24558,11 @@ window.COURSE_DATA.courses.push({
        "def": "at least"
       },
       {
-       "term": "indicare",
+       "term": "indicāre",
        "def": "show"
       },
       {
-       "term": "funis",
+       "term": "fūnis",
        "def": "rope"
       },
       {
@@ -24570,7 +24570,7 @@ window.COURSE_DATA.courses.push({
        "def": "work"
       },
       {
-       "term": "filum",
+       "term": "fīlum",
        "def": "thread"
       }
      ],
@@ -24723,7 +24723,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "usquequo",
+       "term": "ūsquequō",
        "def": "how long"
       },
       {
@@ -24731,11 +24731,11 @@ window.COURSE_DATA.courses.push({
        "def": "draw out"
       },
       {
-       "term": "clavus",
+       "term": "clāvus",
        "def": "nail"
       },
       {
-       "term": "mentiri",
+       "term": "mentīrī",
        "def": "lie"
       },
       {
@@ -24747,7 +24747,7 @@ window.COURSE_DATA.courses.push({
        "def": "period, space"
       },
       {
-       "term": "deficere",
+       "term": "dēficere",
        "def": "fail"
       },
       {
@@ -24755,11 +24755,11 @@ window.COURSE_DATA.courses.push({
        "def": "bravest"
       },
       {
-       "term": "lassare",
+       "term": "lassāre",
        "def": "make weary"
       },
       {
-       "term": "novacula",
+       "term": "novācula",
        "def": "razor"
       },
       {
@@ -24771,7 +24771,7 @@ window.COURSE_DATA.courses.push({
        "def": "womb"
       },
       {
-       "term": "radere",
+       "term": "rādere",
        "def": "shave"
       },
       {
@@ -24779,7 +24779,7 @@ window.COURSE_DATA.courses.push({
        "def": "heart"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "take along"
       },
       {
@@ -24791,19 +24791,19 @@ window.COURSE_DATA.courses.push({
        "def": "sleep"
       },
       {
-       "term": "cogitare",
+       "term": "cōgitāre",
        "def": "think"
       },
       {
-       "term": "eruere",
+       "term": "ēruere",
        "def": "push out"
       },
       {
-       "term": "vincire",
+       "term": "vincīre",
        "def": "bind"
       },
       {
-       "term": "catena",
+       "term": "catēna",
        "def": "chain"
       },
       {
@@ -24811,19 +24811,19 @@ window.COURSE_DATA.courses.push({
        "def": "grind"
       },
       {
-       "term": "crescere",
+       "term": "crēscere",
        "def": "grow"
       },
       {
-       "term": "convenire",
+       "term": "convenīre",
        "def": "come together, assemble"
       },
       {
-       "term": "in unum",
+       "term": "in ūnum",
        "def": "together"
       },
       {
-       "term": "immolare",
+       "term": "immolāre",
        "def": "offer"
       },
       {
@@ -24831,15 +24831,15 @@ window.COURSE_DATA.courses.push({
        "def": "victim"
       },
       {
-       "term": "epulari",
+       "term": "epulārī",
        "def": "feast"
       },
       {
-       "term": "convivium",
+       "term": "convīvium",
        "def": "banquet"
       },
       {
-       "term": "ludere",
+       "term": "lūdere",
        "def": "play"
       },
       {
@@ -24847,31 +24847,31 @@ window.COURSE_DATA.courses.push({
        "def": "column"
       },
       {
-       "term": "niti",
+       "term": "nītī",
        "def": "rest on (with abl.)"
       },
       {
-       "term": "reclinare",
+       "term": "reclīnāre",
        "def": "lean"
       },
       {
-       "term": "requiescere",
+       "term": "requiēscere",
        "def": "rest"
       },
       {
-       "term": "tectum",
+       "term": "tēctum",
        "def": "roof"
       },
       {
-       "term": "solarium",
+       "term": "sōlārium",
        "def": "balcony"
       },
       {
-       "term": "utriusque sexus",
+       "term": "utrīusque sexūs",
        "def": "of both sexes"
       },
       {
-       "term": "ultio",
+       "term": "ultiō",
        "def": "vengeance"
       },
       {
@@ -24883,19 +24883,19 @@ window.COURSE_DATA.courses.push({
        "def": "shake together"
       },
       {
-       "term": "plures",
+       "term": "plūrēs",
        "def": "more"
       },
       {
-       "term": "cognatio",
+       "term": "cognātiō",
        "def": "relationship"
       },
       {
-       "term": "sepelire",
+       "term": "sepelīre",
        "def": "bury"
       },
       {
-       "term": "crinis",
+       "term": "crīnis",
        "def": "lock of hair"
       },
       {
@@ -25010,11 +25010,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "liberi",
+       "term": "līberī",
        "def": "children"
       },
       {
-       "term": "nominare",
+       "term": "nōmināre",
        "def": "name"
       },
       {
@@ -25022,7 +25022,7 @@ window.COURSE_DATA.courses.push({
        "def": "devout"
       },
       {
-       "term": "sumere",
+       "term": "sūmere",
        "def": "take"
       },
       {
@@ -25030,43 +25030,43 @@ window.COURSE_DATA.courses.push({
        "def": "offer"
       },
       {
-       "term": "aperte",
+       "term": "apertē",
        "def": "openly"
       },
       {
-       "term": "revelare",
+       "term": "revēlāre",
        "def": "reveal"
       },
       {
-       "term": "honorare",
+       "term": "honōrāre",
        "def": "honor"
       },
       {
-       "term": "primitiae",
+       "term": "prīmitiae",
        "def": "first fruits"
       },
       {
-       "term": "propterea",
+       "term": "proptereā",
        "def": "therefore"
       },
       {
-       "term": "loquens locutus",
+       "term": "loquēns locūtus",
        "def": "I have really spoken"
       },
       {
-       "term": "ministrare",
+       "term": "ministrāre",
        "def": "minister"
       },
       {
-       "term": "usque in aeternum",
+       "term": "ūsque in aeternum",
        "def": "forever"
       },
       {
-       "term": "quicumque",
+       "term": "quīcumque",
        "def": "whoever"
       },
       {
-       "term": "glorificare",
+       "term": "glōrificāre",
        "def": "glorify"
       },
       {
@@ -25074,31 +25074,31 @@ window.COURSE_DATA.courses.push({
        "def": "scorn"
       },
       {
-       "term": "ignobilis",
+       "term": "ignōbilis",
        "def": "ignoble"
       },
       {
-       "term": "suscitare",
+       "term": "suscitāre",
        "def": "raise up"
       },
       {
-       "term": "iuxta",
+       "term": "iūxtā",
        "def": "according to, along"
       },
       {
-       "term": "christus",
+       "term": "chrīstus",
        "def": "anointed one"
       },
       {
-       "term": "sermo",
+       "term": "sermō",
        "def": "word, thing"
       },
       {
-       "term": "pretiosus",
+       "term": "pretiōsus",
        "def": "precious"
       },
       {
-       "term": "visio",
+       "term": "vīsiō",
        "def": "vision"
       },
       {
@@ -25110,19 +25110,19 @@ window.COURSE_DATA.courses.push({
        "def": "return (imperative)"
       },
       {
-       "term": "nondum",
+       "term": "nōndum",
        "def": "not yet"
       },
       {
-       "term": "tertio",
+       "term": "tertiō",
        "def": "for the third time"
       },
       {
-       "term": "tinnire",
+       "term": "tinnīre",
        "def": "tingle"
       },
       {
-       "term": "ambo",
+       "term": "ambō",
        "def": "both"
       },
       {
@@ -25130,19 +25130,19 @@ window.COURSE_DATA.courses.push({
        "def": "against"
       },
       {
-       "term": "praedicere",
+       "term": "praedīcere",
        "def": "predict"
       },
       {
-       "term": "iudicare",
+       "term": "iūdicāre",
        "def": "judge, condemn"
       },
       {
-       "term": "iniquitas",
+       "term": "inīquitās",
        "def": "iniquity"
       },
       {
-       "term": "indigne",
+       "term": "indignē",
        "def": "unworthily"
       },
       {
@@ -25150,7 +25150,7 @@ window.COURSE_DATA.courses.push({
        "def": "correct"
       },
       {
-       "term": "expiare",
+       "term": "expiāre",
        "def": "expiate"
       },
       {
@@ -25158,11 +25158,11 @@ window.COURSE_DATA.courses.push({
        "def": "victim"
       },
       {
-       "term": "munus",
+       "term": "mūnus",
        "def": "gift"
       },
       {
-       "term": "indicare",
+       "term": "indicāre",
        "def": "tell"
       }
      ],
@@ -25322,11 +25322,11 @@ window.COURSE_DATA.courses.push({
        "def": "about, as if"
       },
       {
-       "term": "maiores natu",
+       "term": "māiōrēs nātū",
        "def": "elders"
       },
       {
-       "term": "salvare",
+       "term": "salvāre",
        "def": "to save"
       },
       {
@@ -25338,11 +25338,11 @@ window.COURSE_DATA.courses.push({
        "def": "Cherubim (a kind of angels)"
       },
       {
-       "term": "vociferari",
+       "term": "vōciferārī",
        "def": "to shout"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "shout, cry"
       },
       {
@@ -25350,7 +25350,7 @@ window.COURSE_DATA.courses.push({
        "def": "who, what"
       },
       {
-       "term": "dolere",
+       "term": "dolēre",
        "def": "to grieve"
       },
       {
@@ -25358,15 +25358,15 @@ window.COURSE_DATA.courses.push({
        "def": "woe"
       },
       {
-       "term": "sublimis",
+       "term": "sublīmis",
        "def": "lofty"
       },
       {
-       "term": "confortamini",
+       "term": "confortāminī",
        "def": "strengthen yourselves"
       },
       {
-       "term": "estote",
+       "term": "estōte",
        "def": "be (future imperative)"
       },
       {
@@ -25374,19 +25374,19 @@ window.COURSE_DATA.courses.push({
        "def": "to cut to pieces, kill"
       },
       {
-       "term": "pedes",
+       "term": "pedēs",
        "def": "foot soldier"
       },
       {
-       "term": "nuntiare",
+       "term": "nūntiāre",
        "def": "to announce"
       },
       {
-       "term": "caligare",
+       "term": "cālīgāre",
        "def": "to be in darkness"
       },
       {
-       "term": "acies",
+       "term": "aciēs",
        "def": "battle line"
       },
       {
@@ -25394,19 +25394,19 @@ window.COURSE_DATA.courses.push({
        "def": "Philistines (Hebrew plural)"
       },
       {
-       "term": "sedes",
+       "term": "sēdēs",
        "def": "seat"
       },
       {
-       "term": "manere",
+       "term": "manēre",
        "def": "to remain"
       },
       {
-       "term": "retrorsum",
+       "term": "retrōrsum",
        "def": "backwards"
       },
       {
-       "term": "cervix",
+       "term": "cervīx",
        "def": "neck"
       },
       {
@@ -25418,11 +25418,11 @@ window.COURSE_DATA.courses.push({
        "def": "of great age"
       },
       {
-       "term": "Azotus",
+       "term": "Azōtus",
        "def": "Azotus (a Philistine city)"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
@@ -25438,7 +25438,7 @@ window.COURSE_DATA.courses.push({
        "def": "to cut off"
       },
       {
-       "term": "limen",
+       "term": "līmen",
        "def": "threshold"
       },
       {
@@ -25450,27 +25450,27 @@ window.COURSE_DATA.courses.push({
        "def": "heavy"
       },
       {
-       "term": "confusio",
+       "term": "confūsiō",
        "def": "confusion"
       },
       {
-       "term": "huiuscemodi",
+       "term": "huiuscemodī",
        "def": "of this sort"
       },
       {
-       "term": "congregare",
+       "term": "congregāre",
        "def": "to gather"
       },
       {
-       "term": "circumducere",
+       "term": "circumdūcere",
        "def": "to lead about"
       },
       {
-       "term": "vates",
+       "term": "vātēs",
        "def": "soothsayer"
       },
       {
-       "term": "indicare",
+       "term": "indicāre",
        "def": "to tell"
       },
       {
@@ -25486,23 +25486,23 @@ window.COURSE_DATA.courses.push({
        "def": "to worship"
       },
       {
-       "term": "benedicere",
+       "term": "benedīcere",
        "def": "to bless"
       },
       {
-       "term": "affligere",
+       "term": "afflīgere",
        "def": "to afflict"
       },
       {
-       "term": "cessare",
+       "term": "cessāre",
        "def": "to cease"
       },
       {
-       "term": "adiuvare",
+       "term": "adiuvāre",
        "def": "to help"
       },
       {
-       "term": "ruina",
+       "term": "ruīna",
        "def": "downfall, ruin"
       }
      ],
@@ -25606,23 +25606,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "senescere",
+       "term": "senēscere",
        "def": "to grow old"
       },
       {
-       "term": "avaritia",
+       "term": "avāritia",
        "def": "greed"
       },
       {
-       "term": "declinare",
+       "term": "dēclīnāre",
        "def": "to go down, turn aside"
       },
       {
-       "term": "munus",
+       "term": "mūnus",
        "def": "gift, bribe"
       },
       {
-       "term": "ambulare",
+       "term": "ambulāre",
        "def": "to walk"
       },
       {
@@ -25630,11 +25630,11 @@ window.COURSE_DATA.courses.push({
        "def": "to distort"
       },
       {
-       "term": "unitas",
+       "term": "ūnitās",
        "def": "unity"
       },
       {
-       "term": "reperire",
+       "term": "reperīre",
        "def": "to find"
       },
       {
@@ -25642,11 +25642,11 @@ window.COURSE_DATA.courses.push({
        "def": "to desire"
       },
       {
-       "term": "displicere",
+       "term": "displicēre",
        "def": "to displease"
       },
       {
-       "term": "eo quod",
+       "term": "eō quod",
        "def": "because"
       },
       {
@@ -25654,15 +25654,15 @@ window.COURSE_DATA.courses.push({
        "def": "to cast aside, reject"
       },
       {
-       "term": "alienus",
+       "term": "aliēnus",
        "def": "foreign"
       },
       {
-       "term": "verumtamen",
+       "term": "vērumtamen",
        "def": "however"
       },
       {
-       "term": "ius",
+       "term": "iūs",
        "def": "right, law"
       },
       {
@@ -25670,27 +25670,27 @@ window.COURSE_DATA.courses.push({
        "def": "chariot"
       },
       {
-       "term": "equites",
+       "term": "equitēs",
        "def": "horsemen"
       },
       {
-       "term": "praecursores",
+       "term": "praecursōrēs",
        "def": "running footmen of his chariots"
       },
       {
-       "term": "tribuni",
+       "term": "tribūnī",
        "def": "tribunes"
       },
       {
-       "term": "centuriones",
+       "term": "centuriōnēs",
        "def": "centurions"
       },
       {
-       "term": "aratores",
+       "term": "arātōrēs",
        "def": "plowers"
       },
       {
-       "term": "messores",
+       "term": "messōrēs",
        "def": "harvesters"
       },
       {
@@ -25698,23 +25698,23 @@ window.COURSE_DATA.courses.push({
        "def": "maker"
       },
       {
-       "term": "unguentarias",
+       "term": "unguentāriās",
        "def": "makers of ointments"
       },
       {
-       "term": "focarias",
+       "term": "focārias",
        "def": "cooks"
       },
       {
-       "term": "panificas",
+       "term": "pānificās",
        "def": "bakers"
       },
       {
-       "term": "vineas",
+       "term": "vīneās",
        "def": "vineyards"
       },
       {
-       "term": "oliveta",
+       "term": "olīvēta",
        "def": "oliveyards"
       },
       {
@@ -25722,11 +25722,11 @@ window.COURSE_DATA.courses.push({
        "def": "best"
       },
       {
-       "term": "segetes",
+       "term": "segetēs",
        "def": "crops"
       },
       {
-       "term": "addecimare",
+       "term": "addecimāre",
        "def": "to take 10%, take a tithe"
       },
       {
@@ -25734,11 +25734,11 @@ window.COURSE_DATA.courses.push({
        "def": "youth"
       },
       {
-       "term": "exaudire",
+       "term": "exaudīre",
        "def": "to hear"
       },
       {
-       "term": "nequaquam",
+       "term": "nēquāquam",
        "def": "by no means"
       },
       {
@@ -25746,19 +25746,19 @@ window.COURSE_DATA.courses.push({
        "def": "also (comes after its word)"
       },
       {
-       "term": "unusquisque",
+       "term": "ūnusquisque",
        "def": "each and every one"
       },
       {
-       "term": "avertere",
+       "term": "āvertere",
        "def": "to turn aside"
       },
       {
-       "term": "persuadere",
+       "term": "persuādēre",
        "def": "to persuade"
       },
       {
-       "term": "regnum",
+       "term": "rēgnum",
        "def": "kingship, kingdom"
       }
      ],
@@ -25900,11 +25900,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cui erat filius",
+       "term": "cui erat fīlius",
        "def": "who had a son (dative of possession)"
       },
       {
-       "term": "ab humero ... sursum",
+       "term": "ab humerō ... sūrsum",
        "def": "from head and shoulders, stood out"
       },
       {
@@ -25924,19 +25924,19 @@ window.COURSE_DATA.courses.push({
        "def": "troubled, worried"
       },
       {
-       "term": "ambiguitas",
+       "term": "ambiguitās",
        "def": "doubt"
       },
       {
-       "term": "illuc",
+       "term": "illūc",
        "def": "to that place"
       },
       {
-       "term": "indicare",
+       "term": "indicāre",
        "def": "to tell, indicate"
       },
       {
-       "term": "deficere",
+       "term": "dēficere",
        "def": "to fail, lack, faint"
       },
       {
@@ -25944,7 +25944,7 @@ window.COURSE_DATA.courses.push({
        "def": "basket"
       },
       {
-       "term": "stater",
+       "term": "statēr",
        "def": "stater (a small piece of silver)"
       },
       {
@@ -25952,7 +25952,7 @@ window.COURSE_DATA.courses.push({
        "def": "silver"
       },
       {
-       "term": "ambulare",
+       "term": "ambulāre",
        "def": "to walk"
       },
       {
@@ -25960,7 +25960,7 @@ window.COURSE_DATA.courses.push({
        "def": "to anoint"
       },
       {
-       "term": "salvare",
+       "term": "salvāre",
        "def": "to save"
       },
       {
@@ -25968,19 +25968,19 @@ window.COURSE_DATA.courses.push({
        "def": "to look back on, look on with favor"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "shout"
       },
       {
-       "term": "dominari",
+       "term": "dominārī",
        "def": "to be lord over"
       },
       {
-       "term": "metus, -us",
+       "term": "metus, -ūs",
        "def": "fear"
       },
       {
-       "term": "videns",
+       "term": "vidēns",
        "def": "seer"
       },
       {
@@ -25992,7 +25992,7 @@ window.COURSE_DATA.courses.push({
        "def": "to lose, ruin, destroy"
       },
       {
-       "term": "cognatio",
+       "term": "cognātiō",
        "def": "relationship, kindred"
       },
       {
@@ -26004,15 +26004,15 @@ window.COURSE_DATA.courses.push({
        "def": "this, that"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "to take"
       },
       {
-       "term": "triclinium",
+       "term": "trīclīnium",
        "def": "dining room"
       },
       {
-       "term": "invitare",
+       "term": "invītāre",
        "def": "to invite"
       },
       {
@@ -26020,7 +26020,7 @@ window.COURSE_DATA.courses.push({
        "def": "cook"
       },
       {
-       "term": "reponere",
+       "term": "repōnere",
        "def": "to put aside"
       },
       {
@@ -26032,11 +26032,11 @@ window.COURSE_DATA.courses.push({
        "def": "shoulder (joint)"
       },
       {
-       "term": "de industria",
+       "term": "dē industriā",
        "def": "on purpose"
       },
       {
-       "term": "eminere",
+       "term": "ēminēre",
        "def": "to stand out, project"
       }
      ],
@@ -26141,7 +26141,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "antecedere",
+       "term": "antecēdere",
        "def": "to go before"
       },
       {
@@ -26161,19 +26161,19 @@ window.COURSE_DATA.courses.push({
        "def": "to pour out"
       },
       {
-       "term": "osculari",
+       "term": "ōsculārī",
        "def": "to kiss"
       },
       {
-       "term": "hereditas",
+       "term": "hērēditās",
        "def": "inheritance"
       },
       {
-       "term": "tribulatio",
+       "term": "trībulātiō",
        "def": "trouble"
       },
       {
-       "term": "evenire",
+       "term": "ēvenīre",
        "def": "to come out"
       },
       {
@@ -26181,7 +26181,7 @@ window.COURSE_DATA.courses.push({
        "def": "lot"
       },
       {
-       "term": "utrum venturus esset",
+       "term": "utrum ventūrus esset",
        "def": "whether he would come"
       },
       {
@@ -26189,15 +26189,15 @@ window.COURSE_DATA.courses.push({
        "def": "taller than"
       },
       {
-       "term": "despicere",
+       "term": "dēspicere",
        "def": "to despise"
       },
       {
-       "term": "dissimulare",
+       "term": "dissimulāre",
        "def": "to pretend that ... not"
       },
       {
-       "term": "invadere",
+       "term": "invādere",
        "def": "to invade"
       },
       {
@@ -26205,15 +26205,15 @@ window.COURSE_DATA.courses.push({
        "def": "Ammonites"
       },
       {
-       "term": "obtinere",
+       "term": "obtinēre",
        "def": "to obtain, win"
       },
       {
-       "term": "congregare",
+       "term": "congregāre",
        "def": "to gather"
       },
       {
-       "term": "bellare",
+       "term": "bellāre",
        "def": "to make war"
       },
       {
@@ -26221,11 +26221,11 @@ window.COURSE_DATA.courses.push({
        "def": "chariot"
       },
       {
-       "term": "litus",
+       "term": "lītus",
        "def": "shore"
       },
       {
-       "term": "castrametari",
+       "term": "castramētārī",
        "def": "to pitch camp"
       },
       {
@@ -26233,15 +26233,15 @@ window.COURSE_DATA.courses.push({
        "def": "difficulty, tight spot"
       },
       {
-       "term": "spelunca",
+       "term": "spēlunca",
        "def": "cave"
       },
       {
-       "term": "perterrere",
+       "term": "perterrēre",
        "def": "to terrify greatly"
       },
       {
-       "term": "dilabi",
+       "term": "dīlābī",
        "def": "to slip away"
       },
       {
@@ -26257,15 +26257,15 @@ window.COURSE_DATA.courses.push({
        "def": "to meet"
       },
       {
-       "term": "salutare",
+       "term": "salūtāre",
        "def": "to greet"
       },
       {
-       "term": "constitutus",
+       "term": "constitūtus",
        "def": "set, fixed"
       },
       {
-       "term": "placare",
+       "term": "plācāre",
        "def": "to appease"
       },
       {
@@ -26273,7 +26273,7 @@ window.COURSE_DATA.courses.push({
        "def": "to compel"
       },
       {
-       "term": "stulte",
+       "term": "stultē",
        "def": "foolishly"
       },
       {
@@ -26281,7 +26281,7 @@ window.COURSE_DATA.courses.push({
        "def": "forever"
       },
       {
-       "term": "secretus",
+       "term": "sēcrētus",
        "def": "secret, hidden, remote"
       }
      ],
@@ -26439,23 +26439,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "superare",
+       "term": "superāre",
        "def": "overcome"
       },
       {
-       "term": "verumtamen",
+       "term": "vērumtamen",
        "def": "however"
       },
       {
-       "term": "idololatria",
+       "term": "īdōlolatrīa",
        "def": "worship of idols"
       },
       {
-       "term": "nocere (w. dat.)",
+       "term": "nocēre (w. dat.)",
        "def": "harm"
       },
       {
-       "term": "vilis",
+       "term": "vīlis",
        "def": "cheap"
       },
       {
@@ -26471,7 +26471,7 @@ window.COURSE_DATA.courses.push({
        "def": "anoint"
       },
       {
-       "term": "internecio",
+       "term": "internecīo",
        "def": "extermination"
       },
       {
@@ -26479,11 +26479,11 @@ window.COURSE_DATA.courses.push({
        "def": "plunder, booty"
       },
       {
-       "term": "primitiae",
+       "term": "prīmitiae",
        "def": "first fruits"
       },
       {
-       "term": "immolare",
+       "term": "immolāre",
        "def": "immolate, sacrifice"
       },
       {
@@ -26499,15 +26499,15 @@ window.COURSE_DATA.courses.push({
        "def": "fat of rams"
       },
       {
-       "term": "ariolari",
+       "term": "āriolārī",
        "def": "practice witchcraft"
       },
       {
-       "term": "repugnare (w. dat.)",
+       "term": "repugnāre (w. dat.)",
        "def": "resist"
       },
       {
-       "term": "summitas",
+       "term": "summitās",
        "def": "top, edge"
       },
       {
@@ -26519,15 +26519,15 @@ window.COURSE_DATA.courses.push({
        "def": "rent, tear"
       },
       {
-       "term": "lugere",
+       "term": "lūgēre",
        "def": "mourn"
       },
       {
-       "term": "usquequo",
+       "term": "ūsquequō",
        "def": "how long"
       },
       {
-       "term": "cornu",
+       "term": "cornū",
        "def": "horn"
       },
       {
@@ -26539,15 +26539,15 @@ window.COURSE_DATA.courses.push({
        "def": "of Bethlehem"
       },
       {
-       "term": "providere",
+       "term": "prōvidēre",
        "def": "provide"
       },
       {
-       "term": "admirari",
+       "term": "admīrārī",
        "def": "admire, wonder"
       },
       {
-       "term": "pacificus",
+       "term": "pācificus",
        "def": "peaceful"
       },
       {
@@ -26555,7 +26555,7 @@ window.COURSE_DATA.courses.push({
        "def": "coming"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "sanctify"
       },
       {
@@ -26563,7 +26563,7 @@ window.COURSE_DATA.courses.push({
        "def": "Jesse"
       },
       {
-       "term": "christus",
+       "term": "chrīstus",
        "def": "anointed one"
       },
       {
@@ -26571,7 +26571,7 @@ window.COURSE_DATA.courses.push({
        "def": "face, appearance"
       },
       {
-       "term": "statura",
+       "term": "statūra",
        "def": "height"
       },
       {
@@ -26579,7 +26579,7 @@ window.COURSE_DATA.courses.push({
        "def": "look"
       },
       {
-       "term": "iudicare",
+       "term": "iūdicāre",
        "def": "judge"
       },
       {
@@ -26688,7 +26688,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "instruere",
+       "term": "īnstruere",
        "def": "draw up"
       },
       {
@@ -26696,31 +26696,31 @@ window.COURSE_DATA.courses.push({
        "def": "low born"
       },
       {
-       "term": "altitudo",
+       "term": "altitūdō",
        "def": "height"
       },
       {
-       "term": "singulare certamen",
+       "term": "singulāre certāmen",
        "def": "single combat"
       },
       {
-       "term": "praevalere",
+       "term": "praevalēre",
        "def": "prevail, overcome"
       },
       {
-       "term": "aiebat",
+       "term": "āiēbat",
        "def": "he kept saying"
       },
       {
-       "term": "exprobrare (w. dat.)",
+       "term": "exprobrāre (w. dat.)",
        "def": "reproach"
       },
       {
-       "term": "inire",
+       "term": "inīre",
        "def": "go into"
       },
       {
-       "term": "stupere",
+       "term": "stupēre",
        "def": "be amazed"
       },
       {
@@ -26728,7 +26728,7 @@ window.COURSE_DATA.courses.push({
        "def": "fear"
       },
       {
-       "term": "primogenitus",
+       "term": "prīmōgenitus",
        "def": "first born"
       },
       {
@@ -26740,15 +26740,15 @@ window.COURSE_DATA.courses.push({
        "def": "harp"
       },
       {
-       "term": "palatium",
+       "term": "palātium",
        "def": "palace"
       },
       {
-       "term": "procedere",
+       "term": "prōcēdere",
        "def": "come forth"
       },
       {
-       "term": "vero",
+       "term": "vērō",
        "def": "but"
       },
       {
@@ -26756,39 +26756,39 @@ window.COURSE_DATA.courses.push({
        "def": "in the evening"
       },
       {
-       "term": "visitare",
+       "term": "vīsitāre",
        "def": "visit"
       },
       {
-       "term": "recte",
+       "term": "rēctē",
        "def": "rightly"
       },
       {
-       "term": "ordinare",
+       "term": "ōrdināre",
        "def": "arrange"
       },
       {
-       "term": "vociferari",
+       "term": "vōciferārī",
        "def": "shout"
       },
       {
-       "term": "certamen",
+       "term": "certāmen",
        "def": "battle"
       },
       {
-       "term": "custos",
+       "term": "custōs",
        "def": "guard"
       },
       {
-       "term": "ditare",
+       "term": "dītāre",
        "def": "make rich"
       },
       {
-       "term": "divitiae",
+       "term": "dīvitiae",
        "def": "riches"
       },
       {
-       "term": "tributum",
+       "term": "tribūtum",
        "def": "tribute"
       },
       {
@@ -26796,7 +26796,7 @@ window.COURSE_DATA.courses.push({
        "def": "reproach"
       },
       {
-       "term": "incircumcisus",
+       "term": "incircumcīsus",
        "def": "uncircumcised"
       },
       {
@@ -26808,11 +26808,11 @@ window.COURSE_DATA.courses.push({
        "def": "pride"
       },
       {
-       "term": "nequitia",
+       "term": "nēquitia",
        "def": "wickedness"
       },
       {
-       "term": "pascere",
+       "term": "pāscere",
        "def": "feed"
       },
       {
@@ -26820,7 +26820,7 @@ window.COURSE_DATA.courses.push({
        "def": "sheep"
       },
       {
-       "term": "rufus",
+       "term": "rūfus",
        "def": "ruddy"
       },
       {
@@ -26828,15 +26828,15 @@ window.COURSE_DATA.courses.push({
        "def": "appearance"
       },
       {
-       "term": "invadere",
+       "term": "invādere",
        "def": "invade"
       },
       {
-       "term": "unctio",
+       "term": "ūnctiō",
        "def": "anointing"
       },
       {
-       "term": "maledicere (w. dat.)",
+       "term": "maledīcere (w. dat.)",
        "def": "curse"
       }
      ],
@@ -26983,7 +26983,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "annuntiare",
+       "term": "annūntiāre",
        "def": "report, announce"
       },
       {
@@ -26991,11 +26991,11 @@ window.COURSE_DATA.courses.push({
        "def": "anyone"
       },
       {
-       "term": "bellator",
+       "term": "bellātor",
        "def": "warrior"
       },
       {
-       "term": "pascere",
+       "term": "pāscere",
        "def": "feed, pasture"
       },
       {
@@ -27003,7 +27003,7 @@ window.COURSE_DATA.courses.push({
        "def": "flock"
       },
       {
-       "term": "leo",
+       "term": "leō",
        "def": "lion"
       },
       {
@@ -27011,11 +27011,11 @@ window.COURSE_DATA.courses.push({
        "def": "bear"
       },
       {
-       "term": "aries",
+       "term": "ariēs",
        "def": "ram"
       },
       {
-       "term": "eruere",
+       "term": "ēruere",
        "def": "dig out, deliver"
       },
       {
@@ -27023,19 +27023,19 @@ window.COURSE_DATA.courses.push({
        "def": "throat"
       },
       {
-       "term": "suffocare",
+       "term": "suffōcāre",
        "def": "choke"
       },
       {
-       "term": "maledicere",
+       "term": "maledīcere",
        "def": "curse (with dative)"
       },
       {
-       "term": "eripere",
+       "term": "ēripere",
        "def": "snatch, deliver"
       },
       {
-       "term": "vestimentum",
+       "term": "vestīmentum",
        "def": "clothes, garment"
       },
       {
@@ -27043,19 +27043,19 @@ window.COURSE_DATA.courses.push({
        "def": "bronze helmet"
       },
       {
-       "term": "lorica",
+       "term": "lōrīca",
        "def": "corslet"
       },
       {
-       "term": "armatus",
+       "term": "armātus",
        "def": "armed"
       },
       {
-       "term": "tentare",
+       "term": "tentāre",
        "def": "try, test"
       },
       {
-       "term": "incedere",
+       "term": "incēdere",
        "def": "go, walk"
       },
       {
@@ -27067,11 +27067,11 @@ window.COURSE_DATA.courses.push({
        "def": "smooth"
       },
       {
-       "term": "torrens",
+       "term": "torrēns",
        "def": "brook"
       },
       {
-       "term": "pera pastoralis",
+       "term": "pēra pāstōrālis",
        "def": "shepherd's pouch"
       },
       {
@@ -27087,7 +27087,7 @@ window.COURSE_DATA.courses.push({
        "def": "catch sight of"
       },
       {
-       "term": "adolescens",
+       "term": "adolēscēns",
        "def": "youth"
       },
       {
@@ -27095,11 +27095,11 @@ window.COURSE_DATA.courses.push({
        "def": "dog"
       },
       {
-       "term": "volatile",
+       "term": "volātile",
        "def": "bird, flying thing"
       },
       {
-       "term": "bestia",
+       "term": "bēstia",
        "def": "beast"
       },
       {
@@ -27211,43 +27211,43 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cadaver",
+       "term": "cadāver",
        "def": "corpse"
       },
       {
-       "term": "festinare",
+       "term": "festīnāre",
        "def": "hasten"
       },
       {
-       "term": "frons",
+       "term": "frōns",
        "def": "forehead"
       },
       {
-       "term": "infigere",
+       "term": "īnfīgere",
        "def": "drive in"
       },
       {
-       "term": "praevalere",
+       "term": "praevalēre",
        "def": "prevail, overcome"
       },
       {
-       "term": "vociferari",
+       "term": "vōciferārī",
        "def": "shout"
       },
       {
-       "term": "persequi",
+       "term": "persequī",
        "def": "follow up, pursue"
       },
       {
-       "term": "donec",
+       "term": "dōnec",
        "def": "until"
       },
       {
-       "term": "invadere",
+       "term": "invādere",
        "def": "go in, invade"
       },
       {
-       "term": "assumere",
+       "term": "assūmere",
        "def": "take up"
       },
       {
@@ -27255,7 +27255,7 @@ window.COURSE_DATA.courses.push({
        "def": "bring to"
       },
       {
-       "term": "per se",
+       "term": "per sē",
        "def": "by himself"
       },
       {
@@ -27263,11 +27263,11 @@ window.COURSE_DATA.courses.push({
        "def": "understand"
       },
       {
-       "term": "insufficiens",
+       "term": "īnsufficiēns",
        "def": "insufficient"
       },
       {
-       "term": "infirmus",
+       "term": "īnfirmus",
        "def": "weak, sick"
       },
       {
@@ -27275,11 +27275,11 @@ window.COURSE_DATA.courses.push({
        "def": "gladly"
       },
       {
-       "term": "gloriari",
+       "term": "glōriārī",
        "def": "boast, glory"
       },
       {
-       "term": "infirmitas",
+       "term": "īnfirmitās",
        "def": "weakness, sickness"
       },
       {
@@ -27291,11 +27291,11 @@ window.COURSE_DATA.courses.push({
        "def": "confound"
       },
       {
-       "term": "sapiens",
+       "term": "sapiēns",
        "def": "wise"
       },
       {
-       "term": "ignobilis",
+       "term": "ignōbilis",
        "def": "ignoble"
       },
       {
@@ -27303,11 +27303,11 @@ window.COURSE_DATA.courses.push({
        "def": "contemptible"
       },
       {
-       "term": "palatium",
+       "term": "palātium",
        "def": "palace"
       },
       {
-       "term": "conglutinare",
+       "term": "conglūtināre",
        "def": "glue, bind"
       },
       {
@@ -27315,7 +27315,7 @@ window.COURSE_DATA.courses.push({
        "def": "soul"
       },
       {
-       "term": "diligere",
+       "term": "dīligere",
        "def": "love"
       },
       {
@@ -27327,15 +27327,15 @@ window.COURSE_DATA.courses.push({
        "def": "tunic"
       },
       {
-       "term": "prudenter",
+       "term": "prūdenter",
        "def": "prudently"
       },
       {
-       "term": "maxime",
+       "term": "maximē",
        "def": "especially"
       },
       {
-       "term": "cantare",
+       "term": "cantāre",
        "def": "sing"
       },
       {
@@ -27343,11 +27343,11 @@ window.COURSE_DATA.courses.push({
        "def": "very much, too much"
       },
       {
-       "term": "displicere",
+       "term": "displicēre",
        "def": "displease (with dative)"
       },
       {
-       "term": "rectus",
+       "term": "rēctus",
        "def": "right, straight"
       },
       {
@@ -27371,19 +27371,19 @@ window.COURSE_DATA.courses.push({
        "def": "lance"
       },
       {
-       "term": "declinare",
+       "term": "dēclīnāre",
        "def": "dodge"
       },
       {
-       "term": "amovere",
+       "term": "āmovēre",
        "def": "remove"
       },
       {
-       "term": "cavere",
+       "term": "cavēre",
        "def": "beware, shun"
       },
       {
-       "term": "tribunus",
+       "term": "tribūnus",
        "def": "tribune"
       },
       {
@@ -27391,7 +27391,7 @@ window.COURSE_DATA.courses.push({
        "def": "only"
       },
       {
-       "term": "proeliari",
+       "term": "proeliārī",
        "def": "fight"
       },
       {
@@ -27547,15 +27547,15 @@ window.COURSE_DATA.courses.push({
        "def": "wife"
       },
       {
-       "term": "ultio",
+       "term": "ultiō",
        "def": "vengeance"
       },
       {
-       "term": "porro",
+       "term": "porrō",
        "def": "then, moreover"
       },
       {
-       "term": "quaeso",
+       "term": "quaesō",
        "def": "I ask, I pray"
       },
       {
@@ -27563,7 +27563,7 @@ window.COURSE_DATA.courses.push({
        "def": "wherever"
       },
       {
-       "term": "gratus",
+       "term": "grātus",
        "def": "pleasing"
       },
       {
@@ -27571,23 +27571,23 @@ window.COURSE_DATA.courses.push({
        "def": "fault"
       },
       {
-       "term": "placare",
+       "term": "plācāre",
        "def": "appease"
       },
       {
-       "term": "placere",
+       "term": "placēre",
        "def": "please, be decided"
       },
       {
-       "term": "vivit Dominus",
+       "term": "vīvit Dominus",
        "def": "as the Lord lives (form of oath)"
       },
       {
-       "term": "introducere",
+       "term": "intrōdūcere",
        "def": "lead in"
       },
       {
-       "term": "heri",
+       "term": "herī",
        "def": "yesterday"
       },
       {
@@ -27607,7 +27607,7 @@ window.COURSE_DATA.courses.push({
        "def": "lance"
       },
       {
-       "term": "declinare",
+       "term": "dēclīnāre",
        "def": "dodge, turn aside"
       },
       {
@@ -27623,11 +27623,11 @@ window.COURSE_DATA.courses.push({
        "def": "bed"
       },
       {
-       "term": "operire",
+       "term": "operīre",
        "def": "cover"
       },
       {
-       "term": "aegrotare",
+       "term": "aegrōtāre",
        "def": "be sick"
       }
      ],
@@ -27731,7 +27731,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "iniquitas",
+       "term": "inīquitās",
        "def": "iniquity, sin"
       },
       {
@@ -27747,15 +27747,15 @@ window.COURSE_DATA.courses.push({
        "def": "only"
       },
       {
-       "term": "celare",
+       "term": "cēlāre",
        "def": "hide (with two objects)"
       },
       {
-       "term": "profecto",
+       "term": "profectō",
        "def": "surely"
       },
       {
-       "term": "tristari",
+       "term": "trīstārī",
        "def": "be made sad, grieve"
       },
       {
@@ -27763,7 +27763,7 @@ window.COURSE_DATA.courses.push({
        "def": "step"
       },
       {
-       "term": "observare",
+       "term": "observāre",
        "def": "watch"
       },
       {
@@ -27771,7 +27771,7 @@ window.COURSE_DATA.courses.push({
        "def": "wickedness"
       },
       {
-       "term": "osculari",
+       "term": "ōsculārī",
        "def": "kiss"
       },
       {
@@ -27787,7 +27787,7 @@ window.COURSE_DATA.courses.push({
        "def": "more"
       },
       {
-       "term": "spelunca",
+       "term": "spēlunca",
        "def": "cave"
       },
       {
@@ -27795,23 +27795,23 @@ window.COURSE_DATA.courses.push({
        "def": "difficulty, tight place"
       },
       {
-       "term": "aes alienum",
+       "term": "aes aliēnum",
        "def": "debt"
       },
       {
-       "term": "amarus",
+       "term": "amārus",
        "def": "bitter"
       },
       {
-       "term": "persequi",
+       "term": "persequī",
        "def": "follow up, persecute, pursue"
       },
       {
-       "term": "praecidere",
+       "term": "praecīdere",
        "def": "cut off (the hem of a robe)"
       },
       {
-       "term": "christus",
+       "term": "chrīstus",
        "def": "anointed one"
       },
       {
@@ -27819,11 +27819,11 @@ window.COURSE_DATA.courses.push({
        "def": "merciful"
       },
       {
-       "term": "inclinare",
+       "term": "inclīnāre",
        "def": "bow down, bend"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
@@ -27835,7 +27835,7 @@ window.COURSE_DATA.courses.push({
        "def": "extend, stretch out"
       },
       {
-       "term": "insidiae",
+       "term": "īnsidiae",
        "def": "ambush"
       },
       {
@@ -27843,7 +27843,7 @@ window.COURSE_DATA.courses.push({
        "def": "dog"
       },
       {
-       "term": "pulex",
+       "term": "pūlex",
        "def": "flea"
       },
       {
@@ -27851,15 +27851,15 @@ window.COURSE_DATA.courses.push({
        "def": "assign, give"
       },
       {
-       "term": "vicissitudo",
+       "term": "vicissitūdō",
        "def": "exchange, turn (in return)"
       },
       {
-       "term": "tutus",
+       "term": "tūtus",
        "def": "safe"
       },
       {
-       "term": "negare",
+       "term": "negāre",
        "def": "say no, refuse, deny"
       },
       {
@@ -27867,7 +27867,7 @@ window.COURSE_DATA.courses.push({
        "def": "death"
       },
       {
-       "term": "ora",
+       "term": "ōra",
        "def": "edge, border, hem"
       },
       {
@@ -27997,7 +27997,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "misit qui...",
+       "term": "mīsit quī...",
        "def": "sent (some) to observe"
       },
       {
@@ -28005,7 +28005,7 @@ window.COURSE_DATA.courses.push({
        "def": "secretly"
       },
       {
-       "term": "tabernaculum",
+       "term": "tabernāculum",
        "def": "tent, tabernacle"
       },
       {
@@ -28013,7 +28013,7 @@ window.COURSE_DATA.courses.push({
        "def": "spear (symbol of authority)"
       },
       {
-       "term": "fixus",
+       "term": "fīxus",
        "def": "fixed"
       },
       {
@@ -28021,7 +28021,7 @@ window.COURSE_DATA.courses.push({
        "def": "circuit, circle (in circuitu = round about)"
       },
       {
-       "term": "concludere",
+       "term": "conclūdere",
        "def": "shut up"
       },
       {
@@ -28041,7 +28041,7 @@ window.COURSE_DATA.courses.push({
        "def": "cup"
       },
       {
-       "term": "vigilare",
+       "term": "vigilāre",
        "def": "wake up"
       },
       {
@@ -28053,11 +28053,11 @@ window.COURSE_DATA.courses.push({
        "def": "rush on, attack"
       },
       {
-       "term": "intervallum",
+       "term": "intervāllum",
        "def": "interval"
       },
       {
-       "term": "inquietare",
+       "term": "inquiētāre",
        "def": "disturb"
       },
       {
@@ -28069,11 +28069,11 @@ window.COURSE_DATA.courses.push({
        "def": "crowd, mob"
       },
       {
-       "term": "filius mortis",
+       "term": "fīlius mortis",
        "def": "one who deserves death"
       },
       {
-       "term": "pulex",
+       "term": "pūlex",
        "def": "flea"
       },
       {
@@ -28081,15 +28081,15 @@ window.COURSE_DATA.courses.push({
        "def": "(w. dat.) do evil to"
       },
       {
-       "term": "pretiosus",
+       "term": "pretiōsus",
        "def": "precious, rare"
       },
       {
-       "term": "stulte",
+       "term": "stultē",
        "def": "foolishly"
       },
       {
-       "term": "ignorare",
+       "term": "ignōrāre",
        "def": "not know, be ignorant"
       }
      ],
@@ -28192,15 +28192,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "cantare",
+       "term": "cantāre",
        "def": "sing"
       },
       {
-       "term": "comburere",
+       "term": "combūrere",
        "def": "burn"
       },
       {
-       "term": "consequi",
+       "term": "consequī",
        "def": "follow up, overtake"
       },
       {
@@ -28208,7 +28208,7 @@ window.COURSE_DATA.courses.push({
        "def": "once"
       },
       {
-       "term": "desiderare",
+       "term": "dēsīderāre",
        "def": "desire"
       },
       {
@@ -28220,7 +28220,7 @@ window.COURSE_DATA.courses.push({
        "def": "fall into or upon"
       },
       {
-       "term": "iuvare",
+       "term": "iuvāre",
        "def": "help, please"
       },
       {
@@ -28228,7 +28228,7 @@ window.COURSE_DATA.courses.push({
        "def": "fall, rush"
       },
       {
-       "term": "vastare",
+       "term": "vāstāre",
        "def": "lay waste"
       },
       {
@@ -28240,7 +28240,7 @@ window.COURSE_DATA.courses.push({
        "def": "what do they mean"
       },
       {
-       "term": "proeliari",
+       "term": "proeliārī",
        "def": "battle"
       },
       {
@@ -28248,11 +28248,11 @@ window.COURSE_DATA.courses.push({
        "def": "weight"
       },
       {
-       "term": "sagittarius",
+       "term": "sagittārius",
        "def": "archer"
       },
       {
-       "term": "vulnerare",
+       "term": "vulnerāre",
        "def": "wound"
       },
       {
@@ -28260,15 +28260,15 @@ window.COURSE_DATA.courses.push({
        "def": "armor bearer"
       },
       {
-       "term": "evaginare",
+       "term": "ēvāgināre",
        "def": "unsheathe"
       },
       {
-       "term": "incircumcisus",
+       "term": "incircumcīsus",
        "def": "uncircumcised"
       },
       {
-       "term": "illudere",
+       "term": "illūdere",
        "def": "(w. dat.) mock"
       },
       {
@@ -28276,15 +28276,15 @@ window.COURSE_DATA.courses.push({
        "def": "snatch"
       },
       {
-       "term": "spoliare",
+       "term": "spoliāre",
        "def": "despoil"
       },
       {
-       "term": "annuntiare",
+       "term": "annūntiāre",
        "def": "report"
       },
       {
-       "term": "idolum",
+       "term": "īdōlum",
        "def": "idol"
       },
       {
@@ -28292,7 +28292,7 @@ window.COURSE_DATA.courses.push({
        "def": "Philistine goddess"
       },
       {
-       "term": "murus",
+       "term": "mūrus",
        "def": "wall"
       },
       {
@@ -28304,23 +28304,23 @@ window.COURSE_DATA.courses.push({
        "def": "city across the Jordan"
       },
       {
-       "term": "cadaver",
+       "term": "cadāver",
        "def": "corpse"
       },
       {
-       "term": "sepelire",
+       "term": "sepelīre",
        "def": "bury"
       },
       {
-       "term": "ieiunare",
+       "term": "iēiūnāre",
        "def": "fast"
       },
       {
-       "term": "finis",
+       "term": "fīnis",
        "def": "boundary"
       },
       {
-       "term": "custos",
+       "term": "custōs",
        "def": "guard"
       }
      ],
@@ -28490,11 +28490,11 @@ window.COURSE_DATA.courses.push({
        "def": "sprinkled on"
       },
       {
-       "term": "interire",
+       "term": "interīre",
        "def": "perish"
       },
       {
-       "term": "casu",
+       "term": "cāsū",
        "def": "by chance"
       },
       {
@@ -28518,7 +28518,7 @@ window.COURSE_DATA.courses.push({
        "def": "since, that"
       },
       {
-       "term": "diadema",
+       "term": "diadēma",
        "def": "diadem, crown"
       },
       {
@@ -28526,7 +28526,7 @@ window.COURSE_DATA.courses.push({
        "def": "bracelet"
       },
       {
-       "term": "brachium",
+       "term": "brāchium",
        "def": "arm"
       },
       {
@@ -28534,7 +28534,7 @@ window.COURSE_DATA.courses.push({
        "def": "mourn, lament"
       },
       {
-       "term": "ieiunare",
+       "term": "iēiūnāre",
        "def": "fast"
       },
       {
@@ -28546,7 +28546,7 @@ window.COURSE_DATA.courses.push({
        "def": "youth, young man"
       },
       {
-       "term": "mendacium",
+       "term": "mendācium",
        "def": "lie"
       },
       {
@@ -28554,7 +28554,7 @@ window.COURSE_DATA.courses.push({
        "def": "armor bearer"
       },
       {
-       "term": "latro",
+       "term": "latrō",
        "def": "thief"
       },
       {
@@ -28562,15 +28562,15 @@ window.COURSE_DATA.courses.push({
        "def": "spoils"
       },
       {
-       "term": "quo",
+       "term": "quō",
        "def": "to what place"
       },
       {
-       "term": "Iuda",
+       "term": "Iūda",
        "def": "Juda (indeclinable)"
       },
       {
-       "term": "circumducere",
+       "term": "circumdūcere",
        "def": "lead around"
       },
       {
@@ -28578,15 +28578,15 @@ window.COURSE_DATA.courses.push({
        "def": "quarrel"
       },
       {
-       "term": "amicitia",
+       "term": "amīcitia",
        "def": "friendship"
       },
       {
-       "term": "reducere",
+       "term": "redūcere",
        "def": "lead back"
       },
       {
-       "term": "heri",
+       "term": "herī",
        "def": "yesterday"
       },
       {
@@ -28598,7 +28598,7 @@ window.COURSE_DATA.courses.push({
        "def": "the day before yesterday"
       },
       {
-       "term": "ludere",
+       "term": "lūdere",
        "def": "play"
       },
       {
@@ -28614,11 +28614,11 @@ window.COURSE_DATA.courses.push({
        "def": "cymbal"
       },
       {
-       "term": "introducere",
+       "term": "intrōdūcere",
        "def": "lead in"
       },
       {
-       "term": "imponere",
+       "term": "impōnere",
        "def": "place in or on"
       },
       {
@@ -28743,7 +28743,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "requies",
+       "term": "requiēs",
        "def": "rest"
       },
       {
@@ -28763,15 +28763,15 @@ window.COURSE_DATA.courses.push({
        "def": "however"
       },
       {
-       "term": "providentia",
+       "term": "prōvidentia",
        "def": "providence"
       },
       {
-       "term": "tentorium",
+       "term": "tentōrium",
        "def": "tent"
       },
       {
-       "term": "pascuum",
+       "term": "pāscuum",
        "def": "pasture"
       },
       {
@@ -28783,7 +28783,7 @@ window.COURSE_DATA.courses.push({
        "def": "rule"
       },
       {
-       "term": "plantare",
+       "term": "plantāre",
        "def": "plant, settle"
       },
       {
@@ -28795,19 +28795,19 @@ window.COURSE_DATA.courses.push({
        "def": "earlier, before"
       },
       {
-       "term": "praedicere",
+       "term": "praedīcere",
        "def": "foretell"
       },
       {
-       "term": "firmare",
+       "term": "firmāre",
        "def": "strengthen"
       },
       {
-       "term": "stabilire",
+       "term": "stabilīre",
        "def": "make stable"
       },
       {
-       "term": "inique",
+       "term": "inīquē",
        "def": "wickedly"
       },
       {
@@ -28819,19 +28819,19 @@ window.COURSE_DATA.courses.push({
        "def": "stretch, strive"
       },
       {
-       "term": "convenire",
+       "term": "convenīre",
        "def": "fit, come together (with dative)"
       },
       {
-       "term": "pro",
+       "term": "prō",
        "def": "in place of (with ablative)"
       },
       {
-       "term": "prophetia",
+       "term": "prophētīa",
        "def": "prophecy"
       },
       {
-       "term": "ecclesia",
+       "term": "ecclēsia",
        "def": "church"
       },
       {
@@ -28972,7 +28972,7 @@ window.COURSE_DATA.courses.push({
        "def": "cross"
       },
       {
-       "term": "recitare",
+       "term": "recitāre",
        "def": "recite"
       },
       {
@@ -28980,7 +28980,7 @@ window.COURSE_DATA.courses.push({
        "def": "predicted, foretold"
       },
       {
-       "term": "passio",
+       "term": "passiō",
        "def": "suffering"
       },
       {
@@ -28988,11 +28988,11 @@ window.COURSE_DATA.courses.push({
        "def": "prayer"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "cry"
       },
       {
-       "term": "exaudire",
+       "term": "exaudīre",
        "def": "hear, grant prayer"
       },
       {
@@ -29004,15 +29004,15 @@ window.COURSE_DATA.courses.push({
        "def": "worm"
       },
       {
-       "term": "deridere",
+       "term": "dērīdēre",
        "def": "laugh at"
       },
       {
-       "term": "arere",
+       "term": "ārēre",
        "def": "be dry"
       },
       {
-       "term": "testa",
+       "term": "tēsta",
        "def": "earthenware vessel"
       },
       {
@@ -29020,15 +29020,15 @@ window.COURSE_DATA.courses.push({
        "def": "throat"
       },
       {
-       "term": "adhaerere",
+       "term": "adhaerēre",
        "def": "stick to, adhere to"
       },
       {
-       "term": "fauces",
+       "term": "faucēs",
        "def": "throat"
       },
       {
-       "term": "deducere",
+       "term": "dēdūcere",
        "def": "lead down"
       },
       {
@@ -29036,11 +29036,11 @@ window.COURSE_DATA.courses.push({
        "def": "pierce, dig"
       },
       {
-       "term": "dinumerare",
+       "term": "dīnumerāre",
        "def": "count"
       },
       {
-       "term": "laetari",
+       "term": "laetārī",
        "def": "be glad"
       },
       {
@@ -29048,11 +29048,11 @@ window.COURSE_DATA.courses.push({
        "def": "lot"
       },
       {
-       "term": "prophetare",
+       "term": "prophētāre",
        "def": "prophesy"
       },
       {
-       "term": "inferi",
+       "term": "īnferī",
        "def": "sheol, region of the dead"
       },
       {
@@ -29060,19 +29060,19 @@ window.COURSE_DATA.courses.push({
        "def": "allow"
       },
       {
-       "term": "interpretari",
+       "term": "interpretārī",
        "def": "interpret"
       },
       {
-       "term": "defungi",
+       "term": "dēfungī",
        "def": "die"
       },
       {
-       "term": "sepelire",
+       "term": "sepelīre",
        "def": "bury"
       },
       {
-       "term": "providere",
+       "term": "prōvidēre",
        "def": "foresee"
       },
       {
@@ -29096,7 +29096,7 @@ window.COURSE_DATA.courses.push({
        "def": "take away"
       },
       {
-       "term": "blasphemare",
+       "term": "blasphēmāre",
        "def": "blaspheme"
       },
       {
@@ -29200,7 +29200,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "praestans",
+       "term": "praestāns",
        "def": "outstanding"
       },
       {
@@ -29208,31 +29208,31 @@ window.COURSE_DATA.courses.push({
        "def": "chariot"
       },
       {
-       "term": "qui praecederent",
+       "term": "quī praecēderent",
        "def": "to go before"
       },
       {
-       "term": "salutare",
+       "term": "salūtāre",
        "def": "greet"
       },
       {
-       "term": "osculari",
+       "term": "ōsculārī",
        "def": "kiss"
       },
       {
-       "term": "sollicitare",
+       "term": "sollicitāre",
        "def": "win over, entice"
       },
       {
-       "term": "reddere vota",
+       "term": "reddere vōta",
        "def": "pay vows"
       },
       {
-       "term": "vovere",
+       "term": "vovēre",
        "def": "vow, promise"
       },
       {
-       "term": "reducere",
+       "term": "redūcere",
        "def": "lead back"
       },
       {
@@ -29252,7 +29252,7 @@ window.COURSE_DATA.courses.push({
        "def": "by chance"
       },
       {
-       "term": "occupare",
+       "term": "occupāre",
        "def": "seize"
       },
       {
@@ -29264,43 +29264,43 @@ window.COURSE_DATA.courses.push({
        "def": "gladly"
       },
       {
-       "term": "exsequi",
+       "term": "exsequī",
        "def": "follow up"
       },
       {
-       "term": "legio",
+       "term": "legiō",
        "def": "legion"
       },
       {
-       "term": "Levita",
+       "term": "Levīta",
        "def": "Levite"
       },
       {
-       "term": "reportare",
+       "term": "reportāre",
        "def": "carry back"
       },
       {
-       "term": "praesto",
+       "term": "praestō",
        "def": "ready"
       },
       {
-       "term": "Videns",
+       "term": "Vidēns",
        "def": "Seer"
       },
       {
-       "term": "nudus",
+       "term": "nūdus",
        "def": "bare"
       },
       {
-       "term": "plorare",
+       "term": "plōrāre",
        "def": "wail"
       },
       {
-       "term": "cognatio",
+       "term": "cognātiō",
        "def": "relationship"
       },
       {
-       "term": "bellator",
+       "term": "bellātor",
        "def": "warrior"
       },
       {
@@ -29316,11 +29316,11 @@ window.COURSE_DATA.courses.push({
        "def": "press"
       },
       {
-       "term": "amputare",
+       "term": "amputāre",
        "def": "cut off"
       },
       {
-       "term": "mandare",
+       "term": "mandāre",
        "def": "order, send word"
       },
       {
@@ -29328,15 +29328,15 @@ window.COURSE_DATA.courses.push({
        "def": "punishment"
       },
       {
-       "term": "quanto magis",
+       "term": "quantō magis",
        "def": "by how much more"
       },
       {
-       "term": "filius Iemini",
+       "term": "fīlius Iemini",
        "def": "son of Jemini"
       },
       {
-       "term": "si forte",
+       "term": "sī forte",
        "def": "if perhaps"
       }
      ],
@@ -29488,7 +29488,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "sive... sive",
+       "term": "sīve... sīve",
        "def": "whether ... or"
       },
       {
@@ -29500,7 +29500,7 @@ window.COURSE_DATA.courses.push({
        "def": "it makes a difference"
       },
       {
-       "term": "computare",
+       "term": "computāre",
        "def": "count, consider"
       },
       {
@@ -29508,11 +29508,11 @@ window.COURSE_DATA.courses.push({
        "def": "forest"
       },
       {
-       "term": "mulus",
+       "term": "mūlus",
        "def": "mule"
       },
       {
-       "term": "condensus",
+       "term": "condēnsus",
        "def": "thick"
       },
       {
@@ -29532,7 +29532,7 @@ window.COURSE_DATA.courses.push({
        "def": "silver piece"
       },
       {
-       "term": "aggredi",
+       "term": "aggredī",
        "def": "attack"
       },
       {
@@ -29540,7 +29540,7 @@ window.COURSE_DATA.courses.push({
        "def": "lance"
       },
       {
-       "term": "infigere",
+       "term": "īnfīgere",
        "def": "drive in"
       },
       {
@@ -29552,15 +29552,15 @@ window.COURSE_DATA.courses.push({
        "def": "pit"
       },
       {
-       "term": "contristatus",
+       "term": "contristātus",
        "def": "saddened"
       },
       {
-       "term": "senescere",
+       "term": "senēscere",
        "def": "grow old"
       },
       {
-       "term": "inclinare",
+       "term": "inclīnāre",
        "def": "bend"
       },
       {
@@ -29572,11 +29572,11 @@ window.COURSE_DATA.courses.push({
        "def": "throne"
       },
       {
-       "term": "introire",
+       "term": "intrōīre",
        "def": "enter"
       },
       {
-       "term": "pronus",
+       "term": "prōnus",
        "def": "prostrate"
       },
       {
@@ -29588,7 +29588,7 @@ window.COURSE_DATA.courses.push({
        "def": "(expects answer: no)"
       },
       {
-       "term": "sessurus",
+       "term": "sessūrus",
        "def": "(from sedere) about to sit"
       }
      ],
@@ -29691,11 +29691,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "mula",
+       "term": "mūla",
        "def": "she-mule"
       },
       {
-       "term": "cornu",
+       "term": "cornū",
        "def": "horn, strength"
       },
       {
@@ -29703,31 +29703,31 @@ window.COURSE_DATA.courses.push({
        "def": "oil"
       },
       {
-       "term": "cecinerunt buccina",
+       "term": "cecinērunt buccinā",
        "def": "sounded the trumpet"
       },
       {
-       "term": "curare",
+       "term": "cūrāre",
        "def": "take care (of)"
       },
       {
-       "term": "ceremonia",
+       "term": "cēremōnia",
        "def": "ceremony"
       },
       {
-       "term": "confirmare",
+       "term": "confirmāre",
        "def": "confirm, strengthen"
       },
       {
-       "term": "egressus",
+       "term": "ēgressus",
        "def": "going out"
       },
       {
-       "term": "introitus",
+       "term": "intrōitus",
        "def": "entry"
       },
       {
-       "term": "supputare",
+       "term": "supputāre",
        "def": "count"
       },
       {
@@ -29743,7 +29743,7 @@ window.COURSE_DATA.courses.push({
        "def": "distinguish"
       },
       {
-       "term": "divitiae",
+       "term": "dīvitiae",
        "def": "riches"
       },
       {
@@ -29751,7 +29751,7 @@ window.COURSE_DATA.courses.push({
        "def": "according to"
       },
       {
-       "term": "sapiens",
+       "term": "sapiēns",
        "def": "wise"
       },
       {
@@ -29759,11 +29759,11 @@ window.COURSE_DATA.courses.push({
        "def": "to such an extent"
       },
       {
-       "term": "scilicet",
+       "term": "scīlicet",
        "def": "that is, namely"
       },
       {
-       "term": "surrecturus",
+       "term": "surrēctūrus",
        "def": "(from surgere) about to rise"
       },
       {
@@ -29771,11 +29771,11 @@ window.COURSE_DATA.courses.push({
        "def": "past"
       },
       {
-       "term": "vere",
+       "term": "vērē",
        "def": "truly"
       },
       {
-       "term": "mirari",
+       "term": "mīrārī",
        "def": "wonder, admire"
       },
       {
@@ -29932,7 +29932,7 @@ window.COURSE_DATA.courses.push({
        "def": "Tyre"
       },
       {
-       "term": "imminens",
+       "term": "imminēns",
        "def": "threatening"
       },
       {
@@ -29948,15 +29948,15 @@ window.COURSE_DATA.courses.push({
        "def": "Mt. Lebanon"
       },
       {
-       "term": "merces",
+       "term": "mercēs",
        "def": "pay, reward"
       },
       {
-       "term": "noverit... caedere",
+       "term": "nōverit... caedere",
        "def": "knows how to cut"
       },
       {
-       "term": "Sidonii",
+       "term": "Sīdōniī",
        "def": "Sidonians"
       },
       {
@@ -29964,7 +29964,7 @@ window.COURSE_DATA.courses.push({
        "def": "of cedar"
       },
       {
-       "term": "componere",
+       "term": "compōnere",
        "def": "put together"
       },
       {
@@ -29972,19 +29972,19 @@ window.COURSE_DATA.courses.push({
        "def": "raft"
       },
       {
-       "term": "applicare",
+       "term": "applicāre",
        "def": "bring to, land, apply"
       },
       {
-       "term": "praebere",
+       "term": "praebēre",
        "def": "furnish, provide"
       },
       {
-       "term": "fundare",
+       "term": "fundāre",
        "def": "found"
       },
       {
-       "term": "inferre",
+       "term": "īnferre",
        "def": "bring in"
       },
       {
@@ -29992,31 +29992,31 @@ window.COURSE_DATA.courses.push({
        "def": "silver"
       },
       {
-       "term": "dedicare",
+       "term": "dēdicāre",
        "def": "dedicate"
       },
       {
-       "term": "reponere",
+       "term": "repōnere",
        "def": "set aside"
       },
       {
-       "term": "thesaurus",
+       "term": "thēsaurus",
        "def": "treasure, treasury"
       },
       {
-       "term": "deferre",
+       "term": "dēferre",
        "def": "bring"
       },
       {
-       "term": "vas",
+       "term": "vās",
        "def": "vessel"
       },
       {
-       "term": "sanctuarium",
+       "term": "sānctuārium",
        "def": "sanctuary"
       },
       {
-       "term": "Levita",
+       "term": "Levīta",
        "def": "Levite"
       },
       {
@@ -30024,7 +30024,7 @@ window.COURSE_DATA.courses.push({
        "def": "sheep"
       },
       {
-       "term": "Sanctum sanctorum",
+       "term": "Sanctum sanctōrum",
        "def": "Holy of Holies"
       },
       {
@@ -30032,7 +30032,7 @@ window.COURSE_DATA.courses.push({
        "def": "cloud"
       },
       {
-       "term": "aequitas",
+       "term": "aequitās",
        "def": "uprightness"
       },
       {
@@ -30040,27 +30040,27 @@ window.COURSE_DATA.courses.push({
        "def": "race, line"
       },
       {
-       "term": "aversione aversi",
+       "term": "āversiōne āversī",
        "def": "really turn aside"
       },
       {
-       "term": "superficies",
+       "term": "superficiēs",
        "def": "surface"
       },
       {
-       "term": "proverbium",
+       "term": "prōverbium",
        "def": "proverb"
       },
       {
-       "term": "fabula",
+       "term": "fābula",
        "def": "story"
       },
       {
-       "term": "sibilare",
+       "term": "sībilāre",
        "def": "whistle"
       },
       {
-       "term": "idcirco",
+       "term": "idcircō",
        "def": "for that reason"
       }
      ],
@@ -30163,23 +30163,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "inducere",
+       "term": "indūcere",
        "def": "bring on"
       },
       {
-       "term": "avertere",
+       "term": "āvertere",
        "def": "turn aside, avert"
       },
       {
-       "term": "depravare",
+       "term": "dēprāvāre",
        "def": "corrupt"
       },
       {
-       "term": "adimplere",
+       "term": "adimplēre",
        "def": "carry out, fulfill"
       },
       {
-       "term": "fanum",
+       "term": "fānum",
        "def": "shrine"
       },
       {
@@ -30187,23 +30187,23 @@ window.COURSE_DATA.courses.push({
        "def": "Chamos, idol of Moab"
       },
       {
-       "term": "contra",
+       "term": "contrā",
        "def": "opposite (with object)"
       },
       {
-       "term": "alienigenus",
+       "term": "aliēnigenus",
        "def": "foreign"
       },
       {
-       "term": "adolere",
+       "term": "adolēre",
        "def": "burn"
       },
       {
-       "term": "thus",
+       "term": "thūs",
        "def": "incense"
       },
       {
-       "term": "pactum",
+       "term": "pāctum",
        "def": "pact, agreement, covenant"
       },
       {
@@ -30223,35 +30223,35 @@ window.COURSE_DATA.courses.push({
        "def": "stand by"
       },
       {
-       "term": "petitio",
+       "term": "petītiō",
        "def": "request"
       },
       {
-       "term": "cedere",
+       "term": "cēdere",
        "def": "yield"
       },
       {
-       "term": "lenis",
+       "term": "lēnis",
        "def": "mild"
       },
       {
-       "term": "adhibere",
+       "term": "adhibēre",
        "def": "employ, use, apply"
       },
       {
-       "term": "adolescens",
+       "term": "adolēscēns",
        "def": "youth"
       },
       {
-       "term": "nutrire",
+       "term": "nūtrīre",
        "def": "raise"
       },
       {
-       "term": "aggravare",
+       "term": "aggravāre",
        "def": "make heavy"
       },
       {
-       "term": "relevare",
+       "term": "relevāre",
        "def": "lighten"
       },
       {
@@ -30275,7 +30275,7 @@ window.COURSE_DATA.courses.push({
        "def": "whip"
       },
       {
-       "term": "scorpio",
+       "term": "scorpiō",
        "def": "scorpion"
       }
      ],
@@ -30409,31 +30409,31 @@ window.COURSE_DATA.courses.push({
        "def": "according to, following"
       },
       {
-       "term": "hereditas",
+       "term": "hērēditās",
        "def": "inheritance"
       },
       {
-       "term": "septentrionalis",
+       "term": "septentriōnālis",
        "def": "northern"
       },
       {
-       "term": "meridionalis",
+       "term": "merīdiōnālis",
        "def": "southern"
       },
       {
-       "term": "finire",
+       "term": "fīnīre",
        "def": "finish"
       },
       {
-       "term": "Assyrii",
+       "term": "Assyriī",
        "def": "Assyrians"
       },
       {
-       "term": "bellare",
+       "term": "bellāre",
        "def": "make war"
       },
       {
-       "term": "festum",
+       "term": "fēstum",
        "def": "feast"
       },
       {
@@ -30441,7 +30441,7 @@ window.COURSE_DATA.courses.push({
        "def": "turn, convert"
       },
       {
-       "term": "excogitare",
+       "term": "excōgitāre",
        "def": "think out"
       },
       {
@@ -30453,11 +30453,11 @@ window.COURSE_DATA.courses.push({
        "def": "golden"
       },
       {
-       "term": "fanum",
+       "term": "fānum",
        "def": "shrine"
       },
       {
-       "term": "in excelsis",
+       "term": "in excelsīs",
        "def": "in high places (prohibited by the law of Moses)"
       },
       {
@@ -30465,7 +30465,7 @@ window.COURSE_DATA.courses.push({
        "def": "name of a prophet"
       },
       {
-       "term": "idololatria",
+       "term": "īdōlolatrīa",
        "def": "idol worship"
       },
       {
@@ -30568,11 +30568,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "irritare",
+       "term": "irrītāre",
        "def": "provoke"
       },
       {
-       "term": "ros",
+       "term": "rōs",
        "def": "dew"
       },
       {
@@ -30584,7 +30584,7 @@ window.COURSE_DATA.courses.push({
        "def": "hide (passive imperative 'abscondere')"
       },
       {
-       "term": "torrens",
+       "term": "torrēns",
        "def": "stream"
       },
       {
@@ -30592,15 +30592,15 @@ window.COURSE_DATA.courses.push({
        "def": "raven"
       },
       {
-       "term": "deferre",
+       "term": "dēferre",
        "def": "bring"
       },
       {
-       "term": "vesperi",
+       "term": "vesperī",
        "def": "in the evening"
       },
       {
-       "term": "siccare",
+       "term": "siccāre",
        "def": "make dry"
       },
       {
@@ -30620,11 +30620,11 @@ window.COURSE_DATA.courses.push({
        "def": "a little"
       },
       {
-       "term": "vas",
+       "term": "vās",
        "def": "vessel, utensil"
       },
       {
-       "term": "obsecrare",
+       "term": "obsecrāre",
        "def": "beg"
       },
       {
@@ -30632,7 +30632,7 @@ window.COURSE_DATA.courses.push({
        "def": "morsel"
       },
       {
-       "term": "farina",
+       "term": "farīna",
        "def": "meal, flour"
       },
       {
@@ -30640,7 +30640,7 @@ window.COURSE_DATA.courses.push({
        "def": "handful"
       },
       {
-       "term": "lecythus",
+       "term": "lēcythus",
        "def": "flask"
       },
       {
@@ -30652,7 +30652,7 @@ window.COURSE_DATA.courses.push({
        "def": "diminish"
       },
       {
-       "term": "aegrotare",
+       "term": "aegrōtāre",
        "def": "be sick"
       },
       {
@@ -30660,7 +30660,7 @@ window.COURSE_DATA.courses.push({
        "def": "weakness"
       },
       {
-       "term": "halitus",
+       "term": "hālitus",
        "def": "breath"
       },
       {
@@ -30668,11 +30668,11 @@ window.COURSE_DATA.courses.push({
        "def": "what have I to do with you? (idiom: lit. what to me and to you?)"
       },
       {
-       "term": "rememorare",
+       "term": "rememorāre",
        "def": "remember"
       },
       {
-       "term": "coenaculum",
+       "term": "coenāculum",
        "def": "upper room"
       },
       {
@@ -30684,7 +30684,7 @@ window.COURSE_DATA.courses.push({
        "def": "in whatever way, somehow"
       },
       {
-       "term": "sustinere",
+       "term": "sustinēre",
        "def": "sustain, bear"
       },
       {
@@ -30696,11 +30696,11 @@ window.COURSE_DATA.courses.push({
        "def": "entrails"
       },
       {
-       "term": "reviviscere",
+       "term": "revīvīscere",
        "def": "come back to life"
       },
       {
-       "term": "cognoscere",
+       "term": "cognōscere",
        "def": "learn, recognize"
       }
      ],
@@ -30858,23 +30858,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "conturbare",
+       "term": "conturbāre",
        "def": "disturb"
       },
       {
-       "term": "lucus",
+       "term": "lūcus",
        "def": "grove (sacred)"
       },
       {
-       "term": "mensa",
+       "term": "mēnsa",
        "def": "table"
       },
       {
-       "term": "ne... quidem",
+       "term": "nē... quidem",
        "def": "not even"
       },
       {
-       "term": "torrens, enti",
+       "term": "torrēns, entī",
        "def": "brook, stream"
       },
       {
@@ -30890,35 +30890,35 @@ window.COURSE_DATA.courses.push({
        "def": "servant, boy"
       },
       {
-       "term": "genu",
+       "term": "genū",
        "def": "knee"
       },
       {
-       "term": "prospicere",
+       "term": "prōspicere",
        "def": "look forth"
       },
       {
-       "term": "septem vices",
+       "term": "septem vicēs",
        "def": "seven times"
       },
       {
-       "term": "nubecula",
+       "term": "nūbēcula",
        "def": "little cloud"
       },
       {
-       "term": "vestigium, o",
+       "term": "vestīgium, o",
        "def": "sole of the foot, footprint, track"
       },
       {
-       "term": "huc",
+       "term": "hūc",
        "def": "to this place"
       },
       {
-       "term": "contenebrare",
+       "term": "contenebrāre",
        "def": "darken"
       },
       {
-       "term": "arare",
+       "term": "arāre",
        "def": "plow"
       },
       {
@@ -30930,7 +30930,7 @@ window.COURSE_DATA.courses.push({
        "def": "disciple"
       },
       {
-       "term": "nosti (= novisti)",
+       "term": "nōstī (= nōvistī)",
        "def": "you know"
       },
       {
@@ -30938,11 +30938,11 @@ window.COURSE_DATA.courses.push({
        "def": "that (in indirect discourse)"
       },
       {
-       "term": "silere, siluit",
+       "term": "silēre, siluit",
        "def": "be silent"
       },
       {
-       "term": "ambo",
+       "term": "ambō",
        "def": "both"
       },
       {
@@ -30950,7 +30950,7 @@ window.COURSE_DATA.courses.push({
        "def": "together"
       },
       {
-       "term": "a longe",
+       "term": "ā longē",
        "def": "from afar"
       },
       {
@@ -30958,7 +30958,7 @@ window.COURSE_DATA.courses.push({
        "def": "roll, fold"
       },
       {
-       "term": "duplex spiritus tuus",
+       "term": "duplex spīritus tuus",
        "def": "double portion of your spirit"
       },
       {
@@ -30970,11 +30970,11 @@ window.COURSE_DATA.courses.push({
        "def": "fiery"
       },
       {
-       "term": "turbo, inem",
+       "term": "turbō, inem",
        "def": "whirlwind"
       },
       {
-       "term": "auriga",
+       "term": "aurīga",
        "def": "chariot-driver"
       }
      ],
@@ -31131,7 +31131,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "Semiticus",
+       "term": "Sēmīticus",
        "def": "Semitic"
       },
       {
@@ -31139,7 +31139,7 @@ window.COURSE_DATA.courses.push({
        "def": "mixed"
       },
       {
-       "term": "potens, enti",
+       "term": "potēns, entī",
        "def": "powerful"
       },
       {
@@ -31147,7 +31147,7 @@ window.COURSE_DATA.courses.push({
        "def": "power"
       },
       {
-       "term": "debilis, e",
+       "term": "dēbilis, e",
        "def": "weak"
       },
       {
@@ -31155,31 +31155,31 @@ window.COURSE_DATA.courses.push({
        "def": "at least"
       },
       {
-       "term": "aequalis, e",
+       "term": "aequālis, e",
        "def": "equal"
       },
       {
-       "term": "excipere, cepit, ceptus",
+       "term": "excipere, cēpit, ceptus",
        "def": "except, take out"
       },
       {
-       "term": "crudelitas",
+       "term": "crūdēlitās",
        "def": "cruelty"
       },
       {
-       "term": "annales",
+       "term": "annālēs",
        "def": "annals"
       },
       {
-       "term": "gloriari",
+       "term": "glōriārī",
        "def": "boast, glory"
       },
       {
-       "term": "lavare",
+       "term": "lavāre",
        "def": "wash"
       },
       {
-       "term": "tributum",
+       "term": "tribūtum",
        "def": "tribute"
       },
       {
@@ -31187,27 +31187,27 @@ window.COURSE_DATA.courses.push({
        "def": "talent"
       },
       {
-       "term": "firmare",
+       "term": "firmāre",
        "def": "strengthen"
       },
       {
-       "term": "coniuratio",
+       "term": "coniūrātiō",
        "def": "conspiracy"
       },
       {
-       "term": "recusare",
+       "term": "recūsāre",
        "def": "refuse"
       },
       {
-       "term": "obsidere, sedit, sessus",
+       "term": "obsidēre, sēdit, sessus",
        "def": "besiege"
       },
       {
-       "term": "nonnullus",
+       "term": "nōnnūllus",
        "def": "some"
       },
       {
-       "term": "miliarium",
+       "term": "mīliārium",
        "def": "millennium"
       }
      ],
@@ -31367,15 +31367,15 @@ window.COURSE_DATA.courses.push({
        "def": "pleasing"
       },
       {
-       "term": "permanere",
+       "term": "permanēre",
        "def": "remain"
       },
       {
-       "term": "certitudo",
+       "term": "certitūdō",
        "def": "certitude"
       },
       {
-       "term": "tentare",
+       "term": "tentāre",
        "def": "tempt"
       },
       {
@@ -31399,7 +31399,7 @@ window.COURSE_DATA.courses.push({
        "def": "line"
       },
       {
-       "term": "prophetia",
+       "term": "prophētīa",
        "def": "prophecy"
       },
       {
@@ -31411,7 +31411,7 @@ window.COURSE_DATA.courses.push({
        "def": "little one"
       },
       {
-       "term": "principatus",
+       "term": "prīncipātus",
        "def": "government"
       },
       {
@@ -31423,15 +31423,15 @@ window.COURSE_DATA.courses.push({
        "def": "world, age"
       },
       {
-       "term": "multiplicare",
+       "term": "multiplicāre",
        "def": "multiply"
       },
       {
-       "term": "corroborare",
+       "term": "corrōborāre",
        "def": "strengthen"
       },
       {
-       "term": "iustitia",
+       "term": "iūstitia",
        "def": "justice"
       },
       {
@@ -31439,7 +31439,7 @@ window.COURSE_DATA.courses.push({
        "def": "henceforth"
       },
       {
-       "term": "notare",
+       "term": "notāre",
        "def": "note, mark"
       },
       {
@@ -31451,11 +31451,11 @@ window.COURSE_DATA.courses.push({
        "def": "past"
       },
       {
-       "term": "Trinitas",
+       "term": "Trīnitās",
        "def": "Trinity"
       },
       {
-       "term": "species",
+       "term": "speciēs",
        "def": "beauty"
       },
       {
@@ -31463,7 +31463,7 @@ window.COURSE_DATA.courses.push({
        "def": "comeliness"
       },
       {
-       "term": "despectus",
+       "term": "dēspectus",
        "def": "despised"
       },
       {
@@ -31471,23 +31471,23 @@ window.COURSE_DATA.courses.push({
        "def": "grief, pain"
       },
       {
-       "term": "infirmitas",
+       "term": "īnfirmitās",
        "def": "weakness"
       },
       {
-       "term": "reputare",
+       "term": "reputāre",
        "def": "esteem"
       },
       {
-       "term": "leprosus",
+       "term": "leprōsus",
        "def": "leper"
       },
       {
-       "term": "vulnerare",
+       "term": "vulnerāre",
        "def": "wound"
       },
       {
-       "term": "iniquitas",
+       "term": "inīquitās",
        "def": "iniquity"
       },
       {
@@ -31499,27 +31499,27 @@ window.COURSE_DATA.courses.push({
        "def": "crime"
       },
       {
-       "term": "livor",
+       "term": "līvor",
        "def": "bruise"
       },
       {
-       "term": "errare",
+       "term": "errāre",
        "def": "wander"
       },
       {
-       "term": "declinare",
+       "term": "dēclīnāre",
        "def": "turn aside"
       },
       {
-       "term": "occisio",
+       "term": "occīsiō",
        "def": "slaughter"
       },
       {
-       "term": "tondens",
+       "term": "tondēns",
        "def": "shearer"
       },
       {
-       "term": "obmutescere",
+       "term": "obmūtēscere",
        "def": "be silent"
       }
      ],
@@ -31618,7 +31618,7 @@ window.COURSE_DATA.courses.push({
      "explanation": "The grammar focus of this Lectio is word order in the ablative absolute, especially placing the participle first and the noun second. After the practice clauses, Most adds a Scramble Exercise built from this same story (the prophecy to Achaz) and an English to Latin set drawn from the deliverance of Ezechias from Sennacherib. Watch how the perfect participle (for example, visis corporibus, the bodies having been seen) and the present participle (for example, protegente angelo, with the angel protecting) shape these absolutes when verb and noun change places.",
      "keyTerms": [
       {
-       "term": "mundare",
+       "term": "mundāre",
        "def": "cleanse, purify"
       },
       {
@@ -31630,19 +31630,19 @@ window.COURSE_DATA.courses.push({
        "def": "back"
       },
       {
-       "term": "concitare",
+       "term": "concitāre",
        "def": "arouse"
       },
       {
-       "term": "en",
+       "term": "ēn",
        "def": "look"
       },
       {
-       "term": "coniux",
+       "term": "coniūx",
        "def": "husband, wife, spouse"
       },
       {
-       "term": "protegere",
+       "term": "prōtegere",
        "def": "protect"
       },
       {
@@ -31650,7 +31650,7 @@ window.COURSE_DATA.courses.push({
        "def": "construct"
       },
       {
-       "term": "ara",
+       "term": "āra",
        "def": "altar"
       },
       {
@@ -31662,19 +31662,19 @@ window.COURSE_DATA.courses.push({
        "def": "pay attention"
       },
       {
-       "term": "superinducere",
+       "term": "superindūcere",
        "def": "bring down on"
       },
       {
-       "term": "catena",
+       "term": "catēna",
        "def": "chain"
       },
       {
-       "term": "compes",
+       "term": "compēs",
        "def": "chains for the feet"
       },
       {
-       "term": "coangustare",
+       "term": "coangustāre",
        "def": "put in a tight spot"
       },
       {
@@ -31682,11 +31682,11 @@ window.COURSE_DATA.courses.push({
        "def": "penance, repentance"
       },
       {
-       "term": "simulacrum",
+       "term": "simulācrum",
        "def": "statue, idol"
       },
       {
-       "term": "coniurare",
+       "term": "coniūrāre",
        "def": "conspire"
       },
       {
@@ -31694,15 +31694,15 @@ window.COURSE_DATA.courses.push({
        "def": "devout"
       },
       {
-       "term": "rectus",
+       "term": "rēctus",
        "def": "right"
       },
       {
-       "term": "destruere",
+       "term": "dēstruere",
        "def": "destroy"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "make holy"
       }
      ],
@@ -31848,31 +31848,31 @@ window.COURSE_DATA.courses.push({
        "def": "tablet; table, picture"
       },
       {
-       "term": "inscriptio",
+       "term": "īnscrīptiō",
        "def": "inscription"
       },
       {
-       "term": "bibliotheca",
+       "term": "bibliothēca",
        "def": "library"
       },
       {
-       "term": "Medi",
+       "term": "Mēdī",
        "def": "Medes"
       },
       {
-       "term": "Scythi",
+       "term": "Scythī",
        "def": "Scythians"
       },
       {
-       "term": "principalis",
+       "term": "prīncipālis",
        "def": "principal"
       },
       {
-       "term": "retinere",
+       "term": "retinēre",
        "def": "retain, keep back"
       },
       {
-       "term": "ad meridiem",
+       "term": "ad merīdiem",
        "def": "to the south"
       },
       {
@@ -31880,15 +31880,15 @@ window.COURSE_DATA.courses.push({
        "def": "Tigris river"
       },
       {
-       "term": "ad septentriones",
+       "term": "ad septentriōnēs",
        "def": "to the north"
       },
       {
-       "term": "amovere",
+       "term": "āmovēre",
        "def": "remove, move away"
       },
       {
-       "term": "abducere",
+       "term": "abdūcere",
        "def": "lead away"
       },
       {
@@ -31896,11 +31896,11 @@ window.COURSE_DATA.courses.push({
        "def": "Babylonians"
       },
       {
-       "term": "transferre",
+       "term": "trānsferre",
        "def": "carry over"
       },
       {
-       "term": "munitio",
+       "term": "mūnītiō",
        "def": "fortification"
       },
       {
@@ -31908,7 +31908,7 @@ window.COURSE_DATA.courses.push({
        "def": "receive, sustain"
       },
       {
-       "term": "regius",
+       "term": "rēgius",
        "def": "royal"
       },
       {
@@ -31928,7 +31928,7 @@ window.COURSE_DATA.courses.push({
        "def": "uncle"
       },
       {
-       "term": "destruere",
+       "term": "dēstruere",
        "def": "destroy"
       },
       {
@@ -31940,7 +31940,7 @@ window.COURSE_DATA.courses.push({
        "def": "dig out"
       },
       {
-       "term": "provincia",
+       "term": "prōvincia",
        "def": "province"
       }
      ],
@@ -32096,11 +32096,11 @@ window.COURSE_DATA.courses.push({
        "def": "chief, one in charge"
       },
       {
-       "term": "eunuchus",
+       "term": "eunūchus",
        "def": "eunuch"
       },
       {
-       "term": "introducere",
+       "term": "intrōdūcere",
        "def": "bring in, introduce"
       },
       {
@@ -32108,7 +32108,7 @@ window.COURSE_DATA.courses.push({
        "def": "spot"
       },
       {
-       "term": "annona",
+       "term": "annōna",
        "def": "food supply"
       },
       {
@@ -32116,7 +32116,7 @@ window.COURSE_DATA.courses.push({
        "def": "from which"
       },
       {
-       "term": "enutrire",
+       "term": "ēnūtrīre",
        "def": "nourish"
       },
       {
@@ -32124,15 +32124,15 @@ window.COURSE_DATA.courses.push({
        "def": "defile"
       },
       {
-       "term": "mensa",
+       "term": "mēnsa",
        "def": "table"
       },
       {
-       "term": "contaminare",
+       "term": "contāmināre",
        "def": "defile"
       },
       {
-       "term": "potus",
+       "term": "pōtus",
        "def": "drink"
       },
       {
@@ -32144,7 +32144,7 @@ window.COURSE_DATA.courses.push({
        "def": "more than"
       },
       {
-       "term": "adolescens",
+       "term": "adolēscēns",
        "def": "youth"
       },
       {
@@ -32152,23 +32152,23 @@ window.COURSE_DATA.courses.push({
        "def": "of the same age"
       },
       {
-       "term": "condemnare",
+       "term": "condemnāre",
        "def": "condemn"
       },
       {
-       "term": "tentare",
+       "term": "tentāre",
        "def": "test, try, tempt"
       },
       {
-       "term": "legumen",
+       "term": "legūmen",
        "def": "legume, pulse"
       },
       {
-       "term": "vesci (w. abl.)",
+       "term": "vēscī (w. abl.)",
        "def": "eat"
       },
       {
-       "term": "contemplari",
+       "term": "contemplārī",
        "def": "look at"
       },
       {
@@ -32184,7 +32184,7 @@ window.COURSE_DATA.courses.push({
        "def": "knowledge"
       },
       {
-       "term": "disciplina",
+       "term": "disciplīna",
        "def": "learning"
       },
       {
@@ -32192,11 +32192,11 @@ window.COURSE_DATA.courses.push({
        "def": "understanding"
       },
       {
-       "term": "visio",
+       "term": "vīsiō",
        "def": "vision"
       },
       {
-       "term": "intellectus",
+       "term": "intellēctus",
        "def": "understanding (of mind)"
       },
       {
@@ -32204,7 +32204,7 @@ window.COURSE_DATA.courses.push({
        "def": "ten fold"
       },
       {
-       "term": "ariolus",
+       "term": "āriolus",
        "def": "diviner"
       },
       {
@@ -32373,15 +32373,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "Most perfect participles have a passive feeling, e.g., interfectus means, in crude basic translation, \"having been killed.\" But the perfect participle of a deponent verb has, of course, active meaning. So we drop the word \"been,\" e.g., locutus means \"having spoken.\" So let us practice a few ablative absolutes using such deponent participles. To make it more interesting, we will put in some examples of normal verbs too. Show that you understand the following examples by giving an expanded Latin form for each. You need not repeat the main clause with each. Sample: Rege locuto, captivi interfecti sunt. Answer: Quia rex locutus est. Or: Postquam rex locutus est. It would be good to translate each example twice: once in crude literal form, once in good expanded English form.",
      "keyTerms": [
       {
-       "term": "conterrere",
+       "term": "conterrēre",
        "def": "terrify greatly"
       },
       {
-       "term": "spiritus",
+       "term": "spīritus",
        "def": "spirit, breath"
       },
       {
-       "term": "arioli",
+       "term": "āriolī",
        "def": "diviners, magicians"
       },
       {
@@ -32389,19 +32389,19 @@ window.COURSE_DATA.courses.push({
        "def": "Chaldeans"
       },
       {
-       "term": "confusus",
+       "term": "confūsus",
        "def": "confused"
       },
       {
-       "term": "publicare",
+       "term": "pūblicāre",
        "def": "confiscate"
       },
       {
-       "term": "donum",
+       "term": "dōnum",
        "def": "gift"
       },
       {
-       "term": "secundo",
+       "term": "secundō",
        "def": "a second time"
       },
       {
@@ -32409,23 +32409,23 @@ window.COURSE_DATA.courses.push({
        "def": "try to gain time"
       },
       {
-       "term": "fallax",
+       "term": "fallāx",
        "def": "deceptive, false"
       },
       {
-       "term": "deceptio",
+       "term": "dēceptiō",
        "def": "deception"
       },
       {
-       "term": "plenus (w. abl.)",
+       "term": "plēnus (w. abl.)",
        "def": "full of"
       },
       {
-       "term": "componere",
+       "term": "compōnere",
        "def": "put together"
       },
       {
-       "term": "conversatio",
+       "term": "conversātiō",
        "def": "dealing, association"
       },
       {
@@ -32437,7 +32437,7 @@ window.COURSE_DATA.courses.push({
        "def": "sentence"
       },
       {
-       "term": "interpretatio",
+       "term": "interpretātiō",
        "def": "interpretation"
       }
      ],
@@ -32543,23 +32543,23 @@ window.COURSE_DATA.courses.push({
        "def": "why"
       },
       {
-       "term": "solutio",
+       "term": "solūtiō",
        "def": "solution"
       },
       {
-       "term": "mysterium",
+       "term": "mystērium",
        "def": "mystery"
       },
       {
-       "term": "revelare",
+       "term": "revēlāre",
        "def": "reveal"
       },
       {
-       "term": "confiteri",
+       "term": "confitērī",
        "def": "confess, praise (w. dat.)"
       },
       {
-       "term": "transferre",
+       "term": "trānsferre",
        "def": "take away"
       },
       {
@@ -32567,7 +32567,7 @@ window.COURSE_DATA.courses.push({
        "def": "to those who understand"
       },
       {
-       "term": "disciplina",
+       "term": "disciplīna",
        "def": "learning"
       },
       {
@@ -32575,11 +32575,11 @@ window.COURSE_DATA.courses.push({
        "def": "deep"
       },
       {
-       "term": "constituta in tenebris",
+       "term": "constitūta in tenebrīs",
        "def": "placed in darkness"
       },
       {
-       "term": "festinus",
+       "term": "festīnus",
        "def": "speedy, fast"
       },
       {
@@ -32587,7 +32587,7 @@ window.COURSE_DATA.courses.push({
        "def": "soothsayer"
       },
       {
-       "term": "cubile",
+       "term": "cubīle",
        "def": "bedroom"
       },
       {
@@ -32599,15 +32599,15 @@ window.COURSE_DATA.courses.push({
        "def": "statue"
       },
       {
-       "term": "statura",
+       "term": "statūra",
        "def": "stature"
       },
       {
-       "term": "sublimis",
+       "term": "sublīmis",
        "def": "lofty, sublime"
       },
       {
-       "term": "contra (w. obj.)",
+       "term": "contrā (w. obj.)",
        "def": "opposite"
       },
       {
@@ -32631,7 +32631,7 @@ window.COURSE_DATA.courses.push({
        "def": "bronze"
       },
       {
-       "term": "tibia",
+       "term": "tībia",
        "def": "leg"
       },
       {
@@ -32651,7 +32651,7 @@ window.COURSE_DATA.courses.push({
        "def": "equally, likewise, together"
       },
       {
-       "term": "testa",
+       "term": "tēsta",
        "def": "clay"
       },
       {
@@ -32663,7 +32663,7 @@ window.COURSE_DATA.courses.push({
        "def": "chaff"
       },
       {
-       "term": "aestiva area",
+       "term": "aestīva ārea",
        "def": "summer threshing floor"
       },
       {
@@ -32671,11 +32671,11 @@ window.COURSE_DATA.courses.push({
        "def": "bird"
       },
       {
-       "term": "ditio",
+       "term": "dītiō",
        "def": "sway, power"
       },
       {
-       "term": "minus te",
+       "term": "minus tē",
        "def": "less than you"
       },
       {
@@ -32683,11 +32683,11 @@ window.COURSE_DATA.courses.push({
        "def": "as"
       },
       {
-       "term": "quomodo",
+       "term": "quōmodo",
        "def": "just as"
       },
       {
-       "term": "domare",
+       "term": "domāre",
        "def": "subdue"
       },
       {
@@ -32703,11 +32703,11 @@ window.COURSE_DATA.courses.push({
        "def": "in part"
       },
       {
-       "term": "dissipare",
+       "term": "dissipāre",
        "def": "scatter"
       },
       {
-       "term": "consumere",
+       "term": "consūmere",
        "def": "consume"
       },
       {
@@ -32719,11 +32719,11 @@ window.COURSE_DATA.courses.push({
        "def": "chief, magistrate"
       },
       {
-       "term": "disputare",
+       "term": "disputāre",
        "def": "dispute"
       },
       {
-       "term": "superare",
+       "term": "superāre",
        "def": "overcome"
       }
      ],
@@ -32879,7 +32879,7 @@ window.COURSE_DATA.courses.push({
      "explanation": "Often participles are used outside of ablative absolutes in such a way that they have the feeling of sidetracks. In the following kinds of sentences, you can expand the participle into a suitable sidetrack clause in Latin, without repeating the whole sentence. For example, Daniel erat vir qui, interrogatus a rege, somnium explicavit can become Quia interrogatus est, or Postquam interrogatus est, or Cum interrogatus esset. It is good to translate each such example in two ways, as you did in lesson 27.",
      "keyTerms": [
       {
-       "term": "idolum",
+       "term": "īdōlum",
        "def": "idol"
       },
       {
@@ -32887,7 +32887,7 @@ window.COURSE_DATA.courses.push({
        "def": "with, at, among, at the house of, in the works of"
       },
       {
-       "term": "impendere",
+       "term": "impendēre",
        "def": "expend"
       },
       {
@@ -32903,11 +32903,11 @@ window.COURSE_DATA.courses.push({
        "def": "vessel"
       },
       {
-       "term": "vinum",
+       "term": "vīnum",
        "def": "wine"
       },
       {
-       "term": "manufactus",
+       "term": "manūfactus",
        "def": "made by hands"
       },
       {
@@ -32915,15 +32915,15 @@ window.COURSE_DATA.courses.push({
        "def": "how great"
       },
       {
-       "term": "arridere (w. dat.)",
+       "term": "arrīdēre (w. dat.)",
        "def": "smile at"
       },
       {
-       "term": "errare",
+       "term": "errāre",
        "def": "err, wander"
       },
       {
-       "term": "intrinsecus",
+       "term": "intrīnsecus",
        "def": "on the inside"
       },
       {
@@ -32931,11 +32931,11 @@ window.COURSE_DATA.courses.push({
        "def": "of clay"
       },
       {
-       "term": "forinsecus",
+       "term": "forīnsecus",
        "def": "on the outside"
       },
       {
-       "term": "aliquando",
+       "term": "aliquandō",
        "def": "at any time"
       },
       {
@@ -32943,11 +32943,11 @@ window.COURSE_DATA.courses.push({
        "def": "that (in indirect discourse)"
       },
       {
-       "term": "blasphemare",
+       "term": "blasphēmāre",
        "def": "blaspheme"
       },
       {
-       "term": "foras",
+       "term": "forās",
        "def": "to the outside"
       },
       {
@@ -32955,27 +32955,27 @@ window.COURSE_DATA.courses.push({
        "def": "food"
       },
       {
-       "term": "signare",
+       "term": "signāre",
        "def": "seal"
       },
       {
-       "term": "anulus",
+       "term": "ānulus",
        "def": "ring"
       },
       {
-       "term": "comestus",
+       "term": "comēstus",
        "def": "eaten"
       },
       {
-       "term": "mentiri",
+       "term": "mentīrī",
        "def": "lie"
       },
       {
-       "term": "introitus",
+       "term": "intrōitus",
        "def": "entrance"
       },
       {
-       "term": "devorare",
+       "term": "dēvorāre",
        "def": "devour"
       },
       {
@@ -32983,11 +32983,11 @@ window.COURSE_DATA.courses.push({
        "def": "ashes"
       },
       {
-       "term": "cribrare",
+       "term": "crībrāre",
        "def": "sift"
       },
       {
-       "term": "ostium",
+       "term": "ōstium",
        "def": "door"
       },
       {
@@ -32999,19 +32999,19 @@ window.COURSE_DATA.courses.push({
        "def": "deception"
       },
       {
-       "term": "intro",
+       "term": "intrō",
        "def": "within"
       },
       {
-       "term": "pavimentum",
+       "term": "pavīmentum",
        "def": "floor"
       },
       {
-       "term": "ostiolum",
+       "term": "ōstiolum",
        "def": "little door"
       },
       {
-       "term": "consumere",
+       "term": "consūmere",
        "def": "consume"
       }
      ],
@@ -33110,15 +33110,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "Practice expanding the participles into suitable Latin sidetrack clauses, just as in the previous lesson. For instance, a phrase like a Deo servatum (saved by God) can be turned into Quia a Deo servatus est, or Postquam a Deo servatus est, or Cum a Deo servatus esset. Translate each example in two ways for good practice.",
      "keyTerms": [
       {
-       "term": "draco",
+       "term": "dracō",
        "def": "dragon, serpent"
       },
       {
-       "term": "fustis",
+       "term": "fūstis",
        "def": "club"
       },
       {
-       "term": "concedere",
+       "term": "concēdere",
        "def": "grant, concede"
       },
       {
@@ -33142,19 +33142,19 @@ window.COURSE_DATA.courses.push({
        "def": "lump"
       },
       {
-       "term": "dirumpere",
+       "term": "dīrumpere",
        "def": "break apart, break open"
       },
       {
-       "term": "indignari",
+       "term": "indignārī",
        "def": "be indignant"
       },
       {
-       "term": "destruere",
+       "term": "dēstruere",
        "def": "destroy"
       },
       {
-       "term": "alioquin",
+       "term": "aliōquīn",
        "def": "otherwise"
       },
       {
@@ -33162,7 +33162,7 @@ window.COURSE_DATA.courses.push({
        "def": "den"
       },
       {
-       "term": "leo",
+       "term": "leō",
        "def": "lion"
       },
       {
@@ -33182,7 +33182,7 @@ window.COURSE_DATA.courses.push({
        "def": "rush"
       },
       {
-       "term": "diligentes",
+       "term": "dīligentēs",
        "def": "those who love"
       },
       {
@@ -33190,11 +33190,11 @@ window.COURSE_DATA.courses.push({
        "def": "at once"
       },
       {
-       "term": "lugere",
+       "term": "lūgēre",
        "def": "grieve for, mourn"
       },
       {
-       "term": "introspicere",
+       "term": "intrōspicere",
        "def": "look within"
       },
       {
@@ -33210,27 +33210,27 @@ window.COURSE_DATA.courses.push({
        "def": "draw out"
       },
       {
-       "term": "perditio",
+       "term": "perditiō",
        "def": "ruin"
       },
       {
-       "term": "pavere",
+       "term": "pavēre",
        "def": "dread"
       },
       {
-       "term": "Salvator",
+       "term": "Salvātor",
        "def": "Savior"
       },
       {
-       "term": "principium",
+       "term": "prīncipium",
        "def": "beginning"
       },
       {
-       "term": "auctoritas",
+       "term": "auctōritās",
        "def": "authority"
       },
       {
-       "term": "Medi",
+       "term": "Mēdī",
        "def": "Medes"
       },
       {
@@ -33238,31 +33238,31 @@ window.COURSE_DATA.courses.push({
        "def": "Persians"
       },
       {
-       "term": "succedere (w. dat.)",
+       "term": "succēdere (w. dat.)",
        "def": "succeed, follow"
       },
       {
-       "term": "conciliare",
+       "term": "conciliāre",
        "def": "win over"
       },
       {
-       "term": "prohibitio",
+       "term": "prohibitiō",
        "def": "prohibition"
       },
       {
-       "term": "memoria tenere",
+       "term": "memoriā tenēre",
        "def": "remember, hold in memory"
       },
       {
-       "term": "distinctus",
+       "term": "distīnctus",
        "def": "distinct"
       },
       {
-       "term": "Iudaea",
+       "term": "Iūdaea",
        "def": "Judea"
       },
       {
-       "term": "reaedificare",
+       "term": "reaedificāre",
        "def": "rebuild"
       },
       {
@@ -33270,11 +33270,11 @@ window.COURSE_DATA.courses.push({
        "def": "remake, restore"
       },
       {
-       "term": "aedificatio",
+       "term": "aedificātiō",
        "def": "building"
       },
       {
-       "term": "accusatio",
+       "term": "accūsātiō",
        "def": "accusation"
       },
       {
@@ -33282,7 +33282,7 @@ window.COURSE_DATA.courses.push({
        "def": "interrupt"
       },
       {
-       "term": "momentum",
+       "term": "mōmentum",
        "def": "moment, instant"
       }
      ],
@@ -33445,15 +33445,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "Present participles can be very handy to replace relative clauses, among other things. Often, though not always, these participles stand alone and mean 'the one who does something.' So we can expand a present participle into a relative clause in Latin. For example, Credentes venerunt becomes Illi qui credebant venerunt. Notice that we use the nominative of ille because the participle was nominative; is, ea, id could be used instead of ille. When the participle is in the objective case, the form of ille follows it: Vidit credentes becomes Vidit illos qui credebant. When the participle is dative or ablative, ille takes that case too: Dedit dona laborantibus becomes Dedit dona illis qui laborabant.",
      "keyTerms": [
       {
-       "term": "laqueatus",
+       "term": "laqueātus",
        "def": "with panelled ceiling"
       },
       {
-       "term": "ponite corda",
+       "term": "pōnite corda",
        "def": "consider your ways"
       },
       {
-       "term": "seminare",
+       "term": "sēmināre",
        "def": "sow"
       },
       {
@@ -33461,7 +33461,7 @@ window.COURSE_DATA.courses.push({
        "def": "you have brought in little"
       },
       {
-       "term": "satiare",
+       "term": "satiāre",
        "def": "satisfy"
       },
       {
@@ -33469,11 +33469,11 @@ window.COURSE_DATA.courses.push({
        "def": "make warm"
       },
       {
-       "term": "sacculum pertusum",
+       "term": "sacculum pertūsum",
        "def": "bag with holes"
       },
       {
-       "term": "acceptabilis",
+       "term": "acceptābilis",
        "def": "acceptable"
       },
       {
@@ -33481,7 +33481,7 @@ window.COURSE_DATA.courses.push({
        "def": "Thathanai"
       },
       {
-       "term": "regio",
+       "term": "regiō",
        "def": "region"
       },
       {
@@ -33489,23 +33489,23 @@ window.COURSE_DATA.courses.push({
        "def": "build"
       },
       {
-       "term": "ante annos multos",
+       "term": "ante annōs multōs",
        "def": "many years ago"
       },
       {
-       "term": "provocare",
+       "term": "prōvocāre",
        "def": "provoke"
       },
       {
-       "term": "transferre",
+       "term": "trānsferre",
        "def": "carry over"
       },
       {
-       "term": "edictum",
+       "term": "ēdictum",
        "def": "edict, order"
       },
       {
-       "term": "recensere",
+       "term": "recēnsēre",
        "def": "review, examine"
       },
       {
@@ -33513,7 +33513,7 @@ window.COURSE_DATA.courses.push({
        "def": "whether"
       },
       {
-       "term": "reponere",
+       "term": "repōnere",
        "def": "put away"
       },
       {
@@ -33521,19 +33521,19 @@ window.COURSE_DATA.courses.push({
        "def": "Ecbatana (city)"
       },
       {
-       "term": "volumen",
+       "term": "volūmen",
        "def": "volume"
       },
       {
-       "term": "commentarius",
+       "term": "commentārius",
        "def": "record"
       },
       {
-       "term": "decernere",
+       "term": "dēcernere",
        "def": "decree"
       },
       {
-       "term": "impedire",
+       "term": "impedīre",
        "def": "hinder, impede"
       }
      ],
@@ -33737,19 +33737,19 @@ window.COURSE_DATA.courses.push({
        "def": "gay, merry"
       },
       {
-       "term": "potatio",
+       "term": "pōtātiō",
        "def": "drinking"
       },
       {
-       "term": "incalescere",
+       "term": "incalēscere",
        "def": "grow warm"
       },
       {
-       "term": "diadema",
+       "term": "diadēma",
        "def": "crown"
       },
       {
-       "term": "pulchritudo",
+       "term": "pulchritūdō",
        "def": "beauty"
       },
       {
@@ -33757,11 +33757,11 @@ window.COURSE_DATA.courses.push({
        "def": "rage"
       },
       {
-       "term": "succensus",
+       "term": "succēnsus",
        "def": "enkindled"
       },
       {
-       "term": "mos",
+       "term": "mōs",
        "def": "custom (in pl.: character, morals)"
       },
       {
@@ -33773,11 +33773,11 @@ window.COURSE_DATA.courses.push({
        "def": "treat as of little importance"
       },
       {
-       "term": "maritus",
+       "term": "marītus",
        "def": "husband"
       },
       {
-       "term": "indignatio",
+       "term": "indignātiō",
        "def": "indignation"
       },
       {
@@ -33785,23 +33785,23 @@ window.COURSE_DATA.courses.push({
        "def": "forbidden"
       },
       {
-       "term": "quiescere",
+       "term": "quiēscere",
        "def": "become quiet, rest"
       },
       {
-       "term": "speciosus",
+       "term": "speciōsus",
        "def": "beautiful, handsome"
       },
       {
-       "term": "considerare",
+       "term": "consīderāre",
        "def": "look for"
       },
       {
-       "term": "nutritius",
+       "term": "nūtrītius",
        "def": "foster father"
       },
       {
-       "term": "tacere",
+       "term": "tacēre",
        "def": "be silent"
       },
       {
@@ -33809,15 +33809,15 @@ window.COURSE_DATA.courses.push({
        "def": "reject, throw back"
       },
       {
-       "term": "deambulare",
+       "term": "deambulāre",
        "def": "walk"
       },
       {
-       "term": "curam agere",
+       "term": "cūram agere",
        "def": "take care of"
       },
       {
-       "term": "instare",
+       "term": "īnstāre",
        "def": "press on, be near"
       },
       {
@@ -33825,35 +33825,35 @@ window.COURSE_DATA.courses.push({
        "def": "womanly"
       },
       {
-       "term": "ornamentum",
+       "term": "ōrnāmentum",
        "def": "ornament"
       },
       {
-       "term": "adamare",
+       "term": "adamāre",
        "def": "fall in love with"
       },
       {
-       "term": "permagnificus",
+       "term": "permāgnificus",
        "def": "very magnificent"
       },
       {
-       "term": "nuptiae",
+       "term": "nūptiae",
        "def": "wedding"
       },
       {
-       "term": "ianitor",
+       "term": "iānitor",
        "def": "doorkeeper"
       },
       {
-       "term": "praesidere",
+       "term": "praesidēre",
        "def": "guard"
       },
       {
-       "term": "insurgere",
+       "term": "īnsurgere",
        "def": "rise up"
       },
       {
-       "term": "deferre",
+       "term": "dēferre",
        "def": "report"
       },
       {
@@ -33865,15 +33865,15 @@ window.COURSE_DATA.courses.push({
        "def": "gibbet"
       },
       {
-       "term": "annales",
+       "term": "annālēs",
        "def": "annals"
       },
       {
-       "term": "convivium",
+       "term": "convīvium",
        "def": "banquet"
       },
       {
-       "term": "divitiae",
+       "term": "dīvitiae",
        "def": "riches"
       }
      ],
@@ -34036,15 +34036,15 @@ window.COURSE_DATA.courses.push({
      "explanation": "Nihil novi hodie, veteribus studeamus. Nothing new today; let us study the old. This Lectio adds no new grammar and instead asks us to review what we have been practicing in the last five lessons. As you read, notice the ablative absolute constructions (for example, rege et Aman celebrante convivium, cunctis Iudaeis flentibus) and the indirect statements introduced by verbs of saying and perceiving (dixerat se esse Iudaeum; audierat quod esset gentis Iudaeae). Keep watching how the relative pronoun agrees with its antecedent in gender and number while taking its case from its own clause.",
      "keyTerms": [
       {
-       "term": "exaltare",
+       "term": "exaltāre",
        "def": "exalt"
       },
       {
-       "term": "foris",
+       "term": "forīs",
        "def": "door"
       },
       {
-       "term": "genu",
+       "term": "genū",
        "def": "knee"
       },
       {
@@ -34052,15 +34052,15 @@ window.COURSE_DATA.courses.push({
        "def": "bend"
       },
       {
-       "term": "praesidere",
+       "term": "praesidēre",
        "def": "guard"
       },
       {
-       "term": "observare",
+       "term": "observāre",
        "def": "observe"
       },
       {
-       "term": "experimentum",
+       "term": "experīmentum",
        "def": "trial"
       },
       {
@@ -34068,23 +34068,23 @@ window.COURSE_DATA.courses.push({
        "def": "scattered"
       },
       {
-       "term": "ceremonia",
+       "term": "cēremōnia",
        "def": "ceremony"
       },
       {
-       "term": "scitum",
+       "term": "scītum",
        "def": "ordinance"
       },
       {
-       "term": "nosti (=novisti)",
+       "term": "nōstī (=nōvistī)",
        "def": "you know"
       },
       {
-       "term": "expedire",
+       "term": "expedīre",
        "def": "be expedient"
       },
       {
-       "term": "insolescere",
+       "term": "īnsolēscere",
        "def": "be haughty"
       },
       {
@@ -34092,15 +34092,15 @@ window.COURSE_DATA.courses.push({
        "def": "talent"
       },
       {
-       "term": "anulus",
+       "term": "ānulus",
        "def": "ring"
       },
       {
-       "term": "scriba",
+       "term": "scrība",
        "def": "scribe"
       },
       {
-       "term": "signare",
+       "term": "signāre",
        "def": "sign"
       },
       {
@@ -34112,11 +34112,11 @@ window.COURSE_DATA.courses.push({
        "def": "scatter"
       },
       {
-       "term": "platea",
+       "term": "platēa",
        "def": "broad street"
       },
       {
-       "term": "amaritudo",
+       "term": "amāritūdō",
        "def": "bitterness"
       },
       {
@@ -34128,31 +34128,31 @@ window.COURSE_DATA.courses.push({
        "def": "hang"
       },
       {
-       "term": "deprecari",
+       "term": "dēprecārī",
        "def": "beg"
       },
       {
-       "term": "regredi",
+       "term": "regredī",
        "def": "go back"
       },
       {
-       "term": "ditio",
+       "term": "dītiō",
        "def": "rule"
       },
       {
-       "term": "norunt (=noverunt)",
+       "term": "nōrunt (=nōverunt)",
        "def": "they know"
       },
       {
-       "term": "atrium",
+       "term": "ātrium",
        "def": "inner court"
       },
       {
-       "term": "cunctatio",
+       "term": "cunctātiō",
        "def": "delay"
       },
       {
-       "term": "creber",
+       "term": "crēber",
        "def": "frequent"
       }
      ],
@@ -34290,7 +34290,7 @@ window.COURSE_DATA.courses.push({
        "def": "golden scepter"
       },
       {
-       "term": "clementia",
+       "term": "clēmentia",
        "def": "clemency"
       },
       {
@@ -34298,15 +34298,15 @@ window.COURSE_DATA.courses.push({
        "def": "handmaid, slave girl"
       },
       {
-       "term": "regalis",
+       "term": "rēgālis",
        "def": "royal"
       },
       {
-       "term": "salvator",
+       "term": "salvātor",
        "def": "savior"
       },
       {
-       "term": "fulgere",
+       "term": "fulgēre",
        "def": "gleam"
       },
       {
@@ -34314,7 +34314,7 @@ window.COURSE_DATA.courses.push({
        "def": "sight"
       },
       {
-       "term": "ardens",
+       "term": "ārdēns",
        "def": "burning"
       },
       {
@@ -34330,23 +34330,23 @@ window.COURSE_DATA.courses.push({
        "def": "pale"
       },
       {
-       "term": "reclinare",
+       "term": "reclīnāre",
        "def": "lean"
       },
       {
-       "term": "mansuetudo",
+       "term": "mānsuētūdō",
        "def": "meekness"
       },
       {
-       "term": "exsilire",
+       "term": "exsilīre",
        "def": "leap forth"
       },
       {
-       "term": "sustentare",
+       "term": "sustentāre",
        "def": "hold up"
       },
       {
-       "term": "blandiri",
+       "term": "blandīrī",
        "def": "soothe"
       },
       {
@@ -34354,27 +34354,27 @@ window.COURSE_DATA.courses.push({
        "def": "neck"
       },
       {
-       "term": "conturbare",
+       "term": "conturbāre",
        "def": "disturb"
       },
       {
-       "term": "valde",
+       "term": "valdē",
        "def": "greatly"
       },
       {
-       "term": "exanimari",
+       "term": "exanimārī",
        "def": "faint"
       },
       {
-       "term": "consolari",
+       "term": "consōlārī",
        "def": "console"
       },
       {
-       "term": "petitio (=request)",
+       "term": "petītiō (=request)",
        "def": "request"
       },
       {
-       "term": "dimidius",
+       "term": "dīmidius",
        "def": "half"
       },
       {
@@ -34382,7 +34382,7 @@ window.COURSE_DATA.courses.push({
        "def": "abundantly"
       },
       {
-       "term": "impetrare",
+       "term": "impetrāre",
        "def": "obtain (by asking)"
       },
       {
@@ -34390,15 +34390,15 @@ window.COURSE_DATA.courses.push({
        "def": "prayer"
       },
       {
-       "term": "exponere",
+       "term": "expōnere",
        "def": "explain"
       },
       {
-       "term": "magnitudo",
+       "term": "magnitūdō",
        "def": "greatness"
       },
       {
-       "term": "quamdiu",
+       "term": "quamdiū",
        "def": "as long as"
       },
       {
@@ -34410,7 +34410,7 @@ window.COURSE_DATA.courses.push({
        "def": "hang"
       },
       {
-       "term": "insomnis",
+       "term": "īnsomnis",
        "def": "sleepless"
       },
       {
@@ -34418,7 +34418,7 @@ window.COURSE_DATA.courses.push({
        "def": "they came"
       },
       {
-       "term": "regius",
+       "term": "rēgius",
        "def": "royal"
       },
       {
@@ -34434,7 +34434,7 @@ window.COURSE_DATA.courses.push({
        "def": "worthy of"
       },
       {
-       "term": "evenire",
+       "term": "ēvenīre",
        "def": "happen, come out"
       },
       {
@@ -34442,7 +34442,7 @@ window.COURSE_DATA.courses.push({
        "def": "compel, gather"
       },
       {
-       "term": "occasio",
+       "term": "occāsiō",
        "def": "occasion, opportunity"
       },
       {
@@ -34450,7 +34450,7 @@ window.COURSE_DATA.courses.push({
        "def": "splendid, shining"
       },
       {
-       "term": "sceptrum",
+       "term": "scēptrum",
        "def": "scepter"
       },
       {
@@ -34598,11 +34598,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "incalescere",
+       "term": "incalēscere",
        "def": "grow warm"
       },
       {
-       "term": "dimidius",
+       "term": "dīmidius",
        "def": "half"
       },
       {
@@ -34614,7 +34614,7 @@ window.COURSE_DATA.courses.push({
        "def": "I wish, if only"
       },
       {
-       "term": "tolerabilis",
+       "term": "tolerābilis",
        "def": "bearable"
       },
       {
@@ -34622,19 +34622,19 @@ window.COURSE_DATA.courses.push({
        "def": "groan"
       },
       {
-       "term": "crudelitas",
+       "term": "crūdēlitās",
        "def": "cruelty"
       },
       {
-       "term": "redundare",
+       "term": "redundāre",
        "def": "overflow"
       },
       {
-       "term": "cuius auctoritatis",
+       "term": "cuius auctōritātis",
        "def": "of what authority"
       },
       {
-       "term": "obstupescere",
+       "term": "obstupēscere",
        "def": "be struck dumb"
       },
       {
@@ -34642,7 +34642,7 @@ window.COURSE_DATA.courses.push({
        "def": "garden"
       },
       {
-       "term": "en",
+       "term": "ēn",
        "def": "look!"
       },
       {
@@ -34654,15 +34654,15 @@ window.COURSE_DATA.courses.push({
        "def": "hang"
       },
       {
-       "term": "anulus",
+       "term": "ānulus",
        "def": "ring"
       },
       {
-       "term": "petitio",
+       "term": "petītiō",
        "def": "request, petition"
       },
       {
-       "term": "convivium",
+       "term": "convīvium",
        "def": "banquet"
       }
      ],
@@ -34766,19 +34766,19 @@ window.COURSE_DATA.courses.push({
        "def": "Ptolemy"
       },
       {
-       "term": "privilegium",
+       "term": "prīvilēgium",
        "def": "privilege"
       },
       {
-       "term": "unitas",
+       "term": "ūnitās",
        "def": "unity"
       },
       {
-       "term": "inducere",
+       "term": "indūcere",
        "def": "bring in, lead in"
       },
       {
-       "term": "Hellenicus",
+       "term": "Hellēnicus",
        "def": "Greek"
       },
       {
@@ -34786,19 +34786,19 @@ window.COURSE_DATA.courses.push({
        "def": "manifest"
       },
       {
-       "term": "consentire",
+       "term": "consentīre",
        "def": "consent, agree with"
       },
       {
-       "term": "servitus",
+       "term": "servitūs",
        "def": "slavery"
       },
       {
-       "term": "idolum",
+       "term": "īdōlum",
        "def": "idol"
       },
       {
-       "term": "coinquinare",
+       "term": "coinquināre",
        "def": "defile"
       },
       {
@@ -34806,11 +34806,11 @@ window.COURSE_DATA.courses.push({
        "def": "sabbath"
       },
       {
-       "term": "Antiochenus",
+       "term": "Antiochēnus",
        "def": "of Antioch"
       },
       {
-       "term": "transferre",
+       "term": "trānsferre",
        "def": "bring over"
       },
       {
@@ -34818,11 +34818,11 @@ window.COURSE_DATA.courses.push({
        "def": "of the fathers"
       },
       {
-       "term": "scriba",
+       "term": "scrība",
        "def": "scribe"
       },
       {
-       "term": "carnes porcinae",
+       "term": "carnēs porcīnae",
        "def": "pork"
       },
       {
@@ -34830,11 +34830,11 @@ window.COURSE_DATA.courses.push({
        "def": "hateful"
       },
       {
-       "term": "voluntarie",
+       "term": "voluntāriē",
        "def": "voluntarily"
       },
       {
-       "term": "praeire",
+       "term": "praeīre",
        "def": "go ahead"
       },
       {
@@ -34842,27 +34842,27 @@ window.COURSE_DATA.courses.push({
        "def": "punishment"
       },
       {
-       "term": "iniquus",
+       "term": "inīquus",
        "def": "wicked, unjust"
       },
       {
-       "term": "miseratio",
+       "term": "miserātiō",
        "def": "pity"
       },
       {
-       "term": "commotus",
+       "term": "commōtus",
        "def": "moved"
       },
       {
-       "term": "amicitia",
+       "term": "amīcitia",
        "def": "friendship"
       },
       {
-       "term": "dignitas",
+       "term": "dignitās",
        "def": "dignity"
       },
       {
-       "term": "cito",
+       "term": "citō",
        "def": "quickly"
       },
       {
@@ -34870,19 +34870,19 @@ window.COURSE_DATA.courses.push({
        "def": "pretend, form, fashion"
       },
       {
-       "term": "arbitrari",
+       "term": "arbitrārī",
        "def": "think, judge"
       },
       {
-       "term": "alienigena",
+       "term": "aliēnigena",
        "def": "foreigner"
       },
       {
-       "term": "decipere",
+       "term": "dēcipere",
        "def": "deceive"
       },
       {
-       "term": "simulatio",
+       "term": "simulātiō",
        "def": "pretense"
       },
       {
@@ -34894,19 +34894,19 @@ window.COURSE_DATA.courses.push({
        "def": "corruptible"
       },
       {
-       "term": "etsi",
+       "term": "etsī",
        "def": "even if, although"
       },
       {
-       "term": "eripere",
+       "term": "ēripere",
        "def": "deliver, snatch away"
       },
       {
-       "term": "Omnipotens",
+       "term": "Omnipotēns",
        "def": "the Almighty"
       },
       {
-       "term": "defunctus",
+       "term": "dēfūnctus",
        "def": "dead"
       },
       {
@@ -34914,19 +34914,19 @@ window.COURSE_DATA.courses.push({
        "def": "escape"
       },
       {
-       "term": "excedere",
+       "term": "excēdere",
        "def": "go out"
       },
       {
-       "term": "senectus",
+       "term": "senectūs",
        "def": "old age"
       },
       {
-       "term": "promptus",
+       "term": "prōmptus",
        "def": "ready"
       },
       {
-       "term": "adstare",
+       "term": "adstāre",
        "def": "stand by, be present"
       }
      ],
@@ -35029,11 +35029,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "torrere",
+       "term": "torrēre",
        "def": "burn, roast"
       },
       {
-       "term": "cruciare",
+       "term": "cruciāre",
        "def": "torment"
       },
       {
@@ -35041,15 +35041,15 @@ window.COURSE_DATA.courses.push({
        "def": "one another"
       },
       {
-       "term": "hortari",
+       "term": "hortārī",
        "def": "encourage"
       },
       {
-       "term": "consolare",
+       "term": "consōlāre",
        "def": "console"
       },
       {
-       "term": "illudere",
+       "term": "illūdere",
        "def": "mock"
       },
       {
@@ -35065,11 +35065,11 @@ window.COURSE_DATA.courses.push({
        "def": "wicked"
       },
       {
-       "term": "linguam postulatus",
+       "term": "linguam postulātus",
        "def": "asked for his tongue"
       },
       {
-       "term": "fiducia",
+       "term": "fīdūcia",
        "def": "confidence"
       },
       {
@@ -35077,11 +35077,11 @@ window.COURSE_DATA.courses.push({
        "def": "as, just as"
       },
       {
-       "term": "nihilum ducere",
+       "term": "nihilum dūcere",
        "def": "make nothing of it"
       },
       {
-       "term": "cruciatus",
+       "term": "cruciātus",
        "def": "torment"
       },
       {
@@ -35089,15 +35089,15 @@ window.COURSE_DATA.courses.push({
        "def": "groan"
       },
       {
-       "term": "sartagines",
+       "term": "sartāginēs",
        "def": "frying pans"
       },
       {
-       "term": "ollae aeneae",
+       "term": "ollae aēneae",
        "def": "bronze caldrons"
       },
       {
-       "term": "amputare",
+       "term": "amputāre",
        "def": "cut off"
       },
       {
@@ -35113,23 +35113,23 @@ window.COURSE_DATA.courses.push({
        "def": "in all ways"
       },
       {
-       "term": "inutilis",
+       "term": "inūtilis",
        "def": "useless"
       },
       {
-       "term": "admovere",
+       "term": "admovēre",
        "def": "move up"
       },
       {
-       "term": "spirare",
+       "term": "spīrāre",
        "def": "breathe"
       },
       {
-       "term": "praevaricari",
+       "term": "praevāricārī",
        "def": "transgress"
       },
       {
-       "term": "una",
+       "term": "ūnā",
        "def": "together with"
       },
       {
@@ -35281,63 +35281,63 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "vexare",
+       "term": "vexāre",
        "def": "torment"
       },
       {
-       "term": "torquere",
+       "term": "torquēre",
        "def": "torture, twist"
       },
       {
-       "term": "frustra",
+       "term": "frūstrā",
        "def": "in vain"
       },
       {
-       "term": "ne putes...futurum esse",
+       "term": "nē putēs...futūrum esse",
        "def": "do not think the fact that you... will be without punishment for you"
       },
       {
-       "term": "hortari",
+       "term": "hortārī",
        "def": "urge, exhort"
       },
       {
-       "term": "voce repleta sapientia",
+       "term": "vōce replēta sapientia",
        "def": "with a voice filled with wisdom"
       },
       {
-       "term": "masculinum animum femineae cogitationi inserens",
+       "term": "masculīnum animum fēmineae cōgitātiōnī īnserēns",
        "def": "putting a masculine spirit into feminine thought"
       },
       {
-       "term": "formare",
+       "term": "fōrmāre",
        "def": "form"
       },
       {
-       "term": "origo",
+       "term": "orīgō",
        "def": "origin"
       },
       {
-       "term": "vosmetipsos",
+       "term": "vōsmetipsōs",
        "def": "ipsos with emphasis (yourselves)"
       },
       {
-       "term": "iuramentum",
+       "term": "iūrāmentum",
        "def": "oath"
       },
       {
-       "term": "felix",
+       "term": "fēlīx",
        "def": "happy"
       },
       {
-       "term": "inclinare",
+       "term": "inclīnāre",
        "def": "bend"
       },
       {
-       "term": "suadere",
+       "term": "suādēre",
        "def": "persuade"
       },
       {
-       "term": "irridere",
+       "term": "irrīdēre",
        "def": "laugh at"
       },
       {
@@ -35345,7 +35345,7 @@ window.COURSE_DATA.courses.push({
        "def": "of the fathers, ancestral"
       },
       {
-       "term": "misereri",
+       "term": "miserērī",
        "def": "have pity on (with poss. or dat.)"
       },
       {
@@ -35357,7 +35357,7 @@ window.COURSE_DATA.courses.push({
        "def": "make, bring about"
       },
       {
-       "term": "miseratio",
+       "term": "miserātiō",
        "def": "mercy"
       },
       {
@@ -35373,11 +35373,11 @@ window.COURSE_DATA.courses.push({
        "def": "escape"
       },
       {
-       "term": "increpatio",
+       "term": "increpātiō",
        "def": "reproach"
       },
       {
-       "term": "correptio",
+       "term": "correptiō",
        "def": "correction"
       },
       {
@@ -35385,7 +35385,7 @@ window.COURSE_DATA.courses.push({
        "def": "little"
       },
       {
-       "term": "reconciliare",
+       "term": "reconciliāre",
        "def": "reconcile"
       },
       {
@@ -35397,27 +35397,27 @@ window.COURSE_DATA.courses.push({
        "def": "raise up"
       },
       {
-       "term": "vanus",
+       "term": "vānus",
        "def": "vain"
       },
       {
-       "term": "spes",
+       "term": "spēs",
        "def": "hope"
       },
       {
-       "term": "nondum",
+       "term": "nōndum",
        "def": "not yet"
       },
       {
-       "term": "sustentare",
+       "term": "sustentāre",
        "def": "bear"
       },
       {
-       "term": "poenas solvere",
+       "term": "poenās solvere",
        "def": "pay the penalty"
       },
       {
-       "term": "invocare",
+       "term": "invocāre",
        "def": "call on"
       },
       {
@@ -35425,7 +35425,7 @@ window.COURSE_DATA.courses.push({
        "def": "merciful"
       },
       {
-       "term": "purus",
+       "term": "pūrus",
        "def": "pure, clean"
       }
      ],
@@ -35537,7 +35537,7 @@ window.COURSE_DATA.courses.push({
        "def": "here"
       },
       {
-       "term": "ignobilis",
+       "term": "ignōbilis",
        "def": "ignoble, low-born"
       },
       {
@@ -35549,11 +35549,11 @@ window.COURSE_DATA.courses.push({
        "def": "firmly"
       },
       {
-       "term": "ornare",
+       "term": "ōrnāre",
        "def": "adorn"
       },
       {
-       "term": "transgredi",
+       "term": "trānsgredī",
        "def": "transgress, go over"
       },
       {
@@ -35561,7 +35561,7 @@ window.COURSE_DATA.courses.push({
        "def": "tremble"
       },
       {
-       "term": "zelus",
+       "term": "zēlus",
        "def": "zeal"
       },
       {
@@ -35573,11 +35573,11 @@ window.COURSE_DATA.courses.push({
        "def": "witness"
       },
       {
-       "term": "iustificatio",
+       "term": "iūstificātiō",
        "def": "ordinance"
       },
       {
-       "term": "iustitia",
+       "term": "iūstitia",
        "def": "justice"
       },
       {
@@ -35585,11 +35585,11 @@ window.COURSE_DATA.courses.push({
        "def": "favorable, merciful"
       },
       {
-       "term": "contritio",
+       "term": "contrītiō",
        "def": "crushing"
       },
       {
-       "term": "suadere",
+       "term": "suādēre",
        "def": "persuade (with dative)"
       },
       {
@@ -35597,15 +35597,15 @@ window.COURSE_DATA.courses.push({
        "def": "make, bring about"
       },
       {
-       "term": "torquere",
+       "term": "torquēre",
        "def": "twist, torture"
       },
       {
-       "term": "spes",
+       "term": "spēs",
        "def": "hope"
       },
       {
-       "term": "Spartiates",
+       "term": "Spartiātēs",
        "def": "a Spartan"
       }
      ],
@@ -35787,35 +35787,35 @@ window.COURSE_DATA.courses.push({
        "def": "Assideans (a sect of pious Jews)"
       },
       {
-       "term": "indignatio",
+       "term": "indignātiō",
        "def": "indignation"
       },
       {
-       "term": "testamentum",
+       "term": "testāmentum",
        "def": "testament"
       },
       {
-       "term": "tentatio",
+       "term": "tentātiō",
        "def": "temptation"
       },
       {
-       "term": "reputare",
+       "term": "reputāre",
        "def": "think, consider, reckon"
       },
       {
-       "term": "zelus, -i",
+       "term": "zēlus, -ī",
        "def": "zeal, emulation"
       },
       {
-       "term": "zelare",
+       "term": "zēlāre",
        "def": "to be zealous, really be zealous"
       },
       {
-       "term": "simplicitas",
+       "term": "simplicitās",
        "def": "simplicity"
       },
       {
-       "term": "leo, leonis",
+       "term": "leō, leōnis",
        "def": "lion"
       },
       {
@@ -35831,19 +35831,19 @@ window.COURSE_DATA.courses.push({
        "def": "lift up, exalt"
       },
       {
-       "term": "cogitatio",
+       "term": "cōgitātiō",
        "def": "thought"
       },
       {
-       "term": "viriliter",
+       "term": "virīliter",
        "def": "manfully"
       },
       {
-       "term": "gloriosus",
+       "term": "glōriōsus",
        "def": "glorious"
       },
       {
-       "term": "apponere",
+       "term": "appōnere",
        "def": "add to"
       }
      ],
@@ -36004,7 +36004,7 @@ window.COURSE_DATA.courses.push({
        "def": "hammer"
       },
       {
-       "term": "proeliari",
+       "term": "proeliārī",
        "def": "to battle"
       },
       {
@@ -36016,7 +36016,7 @@ window.COURSE_DATA.courses.push({
        "def": "drive back"
       },
       {
-       "term": "perambulare",
+       "term": "perambulāre",
        "def": "go through"
       },
       {
@@ -36024,11 +36024,11 @@ window.COURSE_DATA.courses.push({
        "def": "wicked, impious"
       },
       {
-       "term": "gubernator",
+       "term": "gubernātor",
        "def": "governor"
       },
       {
-       "term": "virtus",
+       "term": "virtūs",
        "def": "strength"
       },
       {
@@ -36040,31 +36040,31 @@ window.COURSE_DATA.courses.push({
        "def": "spoil"
       },
       {
-       "term": "glorificare",
+       "term": "glōrificāre",
        "def": "glorify"
       },
       {
-       "term": "fatigare",
+       "term": "fatīgāre",
        "def": "make weary"
       },
       {
-       "term": "ieiunium",
+       "term": "iēiūnium",
        "def": "fasting"
       },
       {
-       "term": "concludere",
+       "term": "conclūdere",
        "def": "shut up"
       },
       {
-       "term": "vero",
+       "term": "vērō",
        "def": "but"
       },
       {
-       "term": "insilire, -siluit",
+       "term": "īnsilīre, -siluit",
        "def": "leap on, jump on"
       },
       {
-       "term": "subito",
+       "term": "subitō",
        "def": "suddenly"
       },
       {
@@ -36072,19 +36072,19 @@ window.COURSE_DATA.courses.push({
        "def": "fear"
       },
       {
-       "term": "aerarium",
+       "term": "aerārium",
        "def": "treasury"
       },
       {
-       "term": "stipendium",
+       "term": "stīpendium",
        "def": "pay"
       },
       {
-       "term": "tributum",
+       "term": "tribūtum",
        "def": "tribute"
       },
       {
-       "term": "regio, -onis",
+       "term": "regiō, -ōnis",
        "def": "region"
       },
       {
@@ -36092,7 +36092,7 @@ window.COURSE_DATA.courses.push({
        "def": "little, moderate"
       },
       {
-       "term": "regalia",
+       "term": "rēgālia",
        "def": "royal"
       },
       {
@@ -36104,11 +36104,11 @@ window.COURSE_DATA.courses.push({
        "def": "gird, prepare"
       },
       {
-       "term": "pugnare",
+       "term": "pugnāre",
        "def": "fight"
       },
       {
-       "term": "alienigena",
+       "term": "aliēnigena",
        "def": "foreigner"
       },
       {
@@ -36120,15 +36120,15 @@ window.COURSE_DATA.courses.push({
        "def": "sack cloth"
       },
       {
-       "term": "multiplicare",
+       "term": "multiplicāre",
        "def": "multiply"
       },
       {
-       "term": "erigere",
+       "term": "ērigere",
        "def": "lift up"
       },
       {
-       "term": "deiectio",
+       "term": "dēiectiō",
        "def": "dejection"
       },
       {
@@ -36282,11 +36282,11 @@ window.COURSE_DATA.courses.push({
        "def": "attack, onrush"
       },
       {
-       "term": "formidare",
+       "term": "formīdāre",
        "def": "fear"
       },
       {
-       "term": "mementote (memento, plural imperative)",
+       "term": "mementōte (mementō, plural imperative)",
        "def": "remember!"
       },
       {
@@ -36298,7 +36298,7 @@ window.COURSE_DATA.courses.push({
        "def": "red"
       },
       {
-       "term": "misereri (w. dat. or poss.)",
+       "term": "miserērī (w. dat. or poss.)",
        "def": "have mercy or pity on"
       },
       {
@@ -36314,23 +36314,23 @@ window.COURSE_DATA.courses.push({
        "def": "sing, play (on an instrument)"
       },
       {
-       "term": "congredi",
+       "term": "congredī",
        "def": "come together, engage"
       },
       {
-       "term": "spolium, i",
+       "term": "spolium, ī",
        "def": "plunder, spoils"
       },
       {
-       "term": "salvator",
+       "term": "salvātor",
        "def": "savior"
       },
       {
-       "term": "concludere",
+       "term": "conclūdere",
        "def": "shut up"
       },
       {
-       "term": "confundere, fudit, fusus",
+       "term": "confundere, fūdit, fūsus",
        "def": "confound, disturb"
       },
       {
@@ -36338,15 +36338,15 @@ window.COURSE_DATA.courses.push({
        "def": "begin battle"
       },
       {
-       "term": "Antiochia",
+       "term": "Antiochīa",
        "def": "Antioch (city)"
       },
       {
-       "term": "renovare",
+       "term": "renovāre",
        "def": "renew"
       },
       {
-       "term": "profanare",
+       "term": "profānāre",
        "def": "profane"
       },
       {
@@ -36354,27 +36354,27 @@ window.COURSE_DATA.courses.push({
        "def": "praise"
       },
       {
-       "term": "ornare",
+       "term": "ōrnāre",
        "def": "adorn, decorate"
       },
       {
-       "term": "corona",
+       "term": "corōna",
        "def": "crown"
       },
       {
-       "term": "oblatio, onis",
+       "term": "oblātiō, ōnis",
        "def": "offering"
       },
       {
-       "term": "felix, icis",
+       "term": "fēlīx, īcis",
        "def": "happy, successful"
       },
       {
-       "term": "gratias agere, egit, actus",
+       "term": "grātiās agere, ēgit, āctus",
        "def": "give thanks"
       },
       {
-       "term": "optare",
+       "term": "optāre",
        "def": "wish"
       },
       {
@@ -36487,7 +36487,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "exspoliare",
+       "term": "exspoliāre",
        "def": "despoil, plunder"
       },
       {
@@ -36495,27 +36495,27 @@ window.COURSE_DATA.courses.push({
        "def": "run together"
       },
       {
-       "term": "gravare",
+       "term": "gravāre",
        "def": "burden"
       },
       {
-       "term": "congeries",
+       "term": "congeriēs",
        "def": "heap"
       },
       {
-       "term": "insanabilis",
+       "term": "īnsānābilis",
        "def": "incurable"
       },
       {
-       "term": "invisibilis",
+       "term": "invīsibilis",
        "def": "invisible"
       },
       {
-       "term": "dirus",
+       "term": "dīrus",
        "def": "dreadful"
       },
       {
-       "term": "amarus",
+       "term": "amārus",
        "def": "bitter"
       },
       {
@@ -36523,11 +36523,11 @@ window.COURSE_DATA.courses.push({
        "def": "internal organs"
       },
       {
-       "term": "collisio",
+       "term": "collīsiō",
        "def": "bruising"
       },
       {
-       "term": "vexare",
+       "term": "vexāre",
        "def": "pain, harass"
       },
       {
@@ -36535,11 +36535,11 @@ window.COURSE_DATA.courses.push({
        "def": "wave"
       },
       {
-       "term": "gestatorium",
+       "term": "gestātōrium",
        "def": "litter"
       },
       {
-       "term": "contestari",
+       "term": "contestārī",
        "def": "testify to"
       },
       {
@@ -36547,7 +36547,7 @@ window.COURSE_DATA.courses.push({
        "def": "worm"
       },
       {
-       "term": "scaturire",
+       "term": "scaturīre",
        "def": "gush out"
       },
       {
@@ -36559,11 +36559,11 @@ window.COURSE_DATA.courses.push({
        "def": "stench"
       },
       {
-       "term": "deducere, deductus",
+       "term": "dēdūcere, dēductus",
        "def": "bring down"
       },
       {
-       "term": "admonere, admonitus",
+       "term": "admonēre, admonitus",
        "def": "warn"
       },
       {
@@ -36571,7 +36571,7 @@ window.COURSE_DATA.courses.push({
        "def": "subject"
       },
       {
-       "term": "designare",
+       "term": "dēsignāre",
        "def": "choose"
       },
       {
@@ -36579,11 +36579,11 @@ window.COURSE_DATA.courses.push({
        "def": "wicked"
       },
       {
-       "term": "optare",
+       "term": "optāre",
        "def": "wish"
       },
       {
-       "term": "utilitas",
+       "term": "ūtilitās",
        "def": "utility"
       },
       {
@@ -36591,19 +36591,19 @@ window.COURSE_DATA.courses.push({
        "def": "mindful of"
       },
       {
-       "term": "conservare fidem",
+       "term": "conservāre fidem",
        "def": "keep loyalty"
       },
       {
-       "term": "homicida",
+       "term": "homicīda",
        "def": "murderer"
       },
       {
-       "term": "blasphemus",
+       "term": "blasphēmus",
        "def": "blasphemer"
       },
       {
-       "term": "miserabilis",
+       "term": "miserābilis",
        "def": "miserable"
       },
       {
@@ -36611,11 +36611,11 @@ window.COURSE_DATA.courses.push({
        "def": "cause to repent (poenitet eum, he repents)"
       },
       {
-       "term": "etiamsi",
+       "term": "etiamsī",
        "def": "even if"
       },
       {
-       "term": "sidus",
+       "term": "sīdus",
        "def": "star, heavenly body"
       }
      ],
@@ -36775,7 +36775,7 @@ window.COURSE_DATA.courses.push({
        "def": "why, for what reason"
       },
       {
-       "term": "vexare",
+       "term": "vexāre",
        "def": "to trouble"
       },
       {
@@ -36783,7 +36783,7 @@ window.COURSE_DATA.courses.push({
        "def": "Ptolemais (a city)"
       },
       {
-       "term": "propterea",
+       "term": "proptereā",
        "def": "for that reason"
       },
       {
@@ -36803,11 +36803,11 @@ window.COURSE_DATA.courses.push({
        "def": "widow"
       },
       {
-       "term": "nihil certi",
+       "term": "nihil certī",
        "def": "nothing certain"
       },
       {
-       "term": "convivium",
+       "term": "convīvium",
        "def": "banquet, feast"
       },
       {
@@ -36914,23 +36914,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "gradatim",
+       "term": "gradātim",
        "def": "gradually"
       },
       {
-       "term": "Summus Sacerdos",
+       "term": "Summus Sacerdōs",
        "def": "High Priest"
       },
       {
-       "term": "Summum Sacerdotium",
+       "term": "Summum Sacerdōtium",
        "def": "High Priesthood"
       },
       {
-       "term": "mundanus",
+       "term": "mundānus",
        "def": "worldly"
       },
       {
-       "term": "succedere",
+       "term": "succēdere",
        "def": "to succeed (follow in office)"
       },
       {
@@ -36950,11 +36950,11 @@ window.COURSE_DATA.courses.push({
        "def": "favor"
       },
       {
-       "term": "provincia",
+       "term": "prōvincia",
        "def": "province"
       },
       {
-       "term": "favere",
+       "term": "favēre",
        "def": "to favor, support (with dative)"
       }
      ],
@@ -37096,19 +37096,19 @@ window.COURSE_DATA.courses.push({
        "def": "we beg, we beseech"
       },
       {
-       "term": "praesta",
+       "term": "praestā",
        "def": "grant!"
       },
       {
-       "term": "concede",
+       "term": "concēde",
        "def": "grant!"
       },
       {
-       "term": "exaudi",
+       "term": "exaudī",
        "def": "hear!"
       },
       {
-       "term": "omnipotens",
+       "term": "omnipotēns",
        "def": "almighty"
       },
       {
@@ -37116,27 +37116,27 @@ window.COURSE_DATA.courses.push({
        "def": "graciously, favorable"
       },
       {
-       "term": "supplices",
+       "term": "supplicēs",
        "def": "humbly, suppliant"
       },
       {
-       "term": "preces",
+       "term": "precēs",
        "def": "prayers"
       },
       {
-       "term": "clementer",
+       "term": "clēmenter",
        "def": "graciously"
       },
       {
-       "term": "patrocinium,o",
+       "term": "patrōcinium,o",
        "def": "patronage, intercession, help"
       },
       {
-       "term": "sublevare",
+       "term": "sublevāre",
        "def": "to relieve"
       },
       {
-       "term": "laetificare",
+       "term": "laetificāre",
        "def": "to gladden, make joyful"
       },
       {
@@ -37144,11 +37144,11 @@ window.COURSE_DATA.courses.push({
        "def": "to ask"
       },
       {
-       "term": "consequi",
+       "term": "consequī",
        "def": "to obtain, attain"
       },
       {
-       "term": "illuminare",
+       "term": "illūmināre",
        "def": "to enlighten"
       },
       {
@@ -37156,7 +37156,7 @@ window.COURSE_DATA.courses.push({
        "def": "to forgive"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "sin"
       },
       {
@@ -37164,23 +37164,23 @@ window.COURSE_DATA.courses.push({
        "def": "pious, devoted"
       },
       {
-       "term": "munire",
+       "term": "mūnīre",
        "def": "to fortify, protect"
       },
       {
-       "term": "maiestas",
+       "term": "māiestās",
        "def": "majesty"
       },
       {
-       "term": "exorare",
+       "term": "exōrāre",
        "def": "to beg"
       },
       {
-       "term": "unigenitus",
+       "term": "ūnigenitus",
        "def": "only begotten"
       },
       {
-       "term": "ieiunare",
+       "term": "iēiūnāre",
        "def": "to fast"
       },
       {
@@ -37192,19 +37192,19 @@ window.COURSE_DATA.courses.push({
        "def": "to receive"
       },
       {
-       "term": "caritas,tate",
+       "term": "cāritās,tāte",
        "def": "love, charity"
       },
       {
-       "term": "iugiter",
+       "term": "iūgiter",
        "def": "constantly"
       },
       {
-       "term": "augere",
+       "term": "augēre",
        "def": "to increase"
       },
       {
-       "term": "venerari",
+       "term": "venerārī",
        "def": "to venerate"
       }
      ],
@@ -37304,7 +37304,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "beatus,a,um",
+       "term": "beātus,a,um",
        "def": "blessed"
       },
       {
@@ -37316,27 +37316,27 @@ window.COURSE_DATA.courses.push({
        "def": "world"
       },
       {
-       "term": "mereri",
+       "term": "merērī",
        "def": "to merit (deponent)"
       },
       {
-       "term": "excitare",
+       "term": "excitāre",
        "def": "to arouse"
       },
       {
-       "term": "replere",
+       "term": "replēre",
        "def": "to fill"
       },
       {
-       "term": "studere",
+       "term": "studēre",
        "def": "to be eager"
       },
       {
-       "term": "instaurare",
+       "term": "īnstaurāre",
        "def": "to restore"
       },
       {
-       "term": "disgregare",
+       "term": "disgregāre",
        "def": "to disperse, scatter"
       },
       {
@@ -37344,35 +37344,35 @@ window.COURSE_DATA.courses.push({
        "def": "to subject"
       },
       {
-       "term": "roborare",
+       "term": "rōborāre",
        "def": "to strengthen"
       },
       {
-       "term": "certare",
+       "term": "certāre",
        "def": "to struggle"
       },
       {
-       "term": "coronare",
+       "term": "corōnāre",
        "def": "to crown"
       },
       {
-       "term": "illustrare,1",
+       "term": "illūstrāre,1",
        "def": "enlighten, adorn, shed light on"
       },
       {
-       "term": "famulus,o",
+       "term": "famulus,ō",
        "def": "servant"
       },
       {
-       "term": "proficere",
+       "term": "prōficere",
        "def": "to make progress"
       },
       {
-       "term": "diligere",
+       "term": "dīligere",
        "def": "to love"
       },
       {
-       "term": "desiderium",
+       "term": "dēsīderium",
        "def": "desire"
       },
       {
@@ -37380,11 +37380,11 @@ window.COURSE_DATA.courses.push({
        "def": "fittingly"
       },
       {
-       "term": "exsequi",
+       "term": "exsequī",
        "def": "to pursue"
       },
       {
-       "term": "pietas,tate",
+       "term": "pietās,tate",
        "def": "piety, devotedness"
       },
       {
@@ -37400,7 +37400,7 @@ window.COURSE_DATA.courses.push({
        "def": "eternal"
       },
       {
-       "term": "Unigenitus,o",
+       "term": "Ūnigenitus,o",
        "def": "Only begotten (Christ)"
       },
       {
@@ -37510,19 +37510,19 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "communio",
+       "term": "commūniō",
        "def": "communion"
       },
       {
-       "term": "purgare",
+       "term": "pūrgāre",
        "def": "cleanse"
       },
       {
-       "term": "crimen",
+       "term": "crīmen",
        "def": "fault"
       },
       {
-       "term": "intercedere",
+       "term": "intercēdere",
        "def": "intercede"
       },
       {
@@ -37534,7 +37534,7 @@ window.COURSE_DATA.courses.push({
        "def": "sharing in"
       },
       {
-       "term": "gratias exhibere",
+       "term": "grātiās exhibēre",
        "def": "give thanks"
       },
       {
@@ -37550,7 +37550,7 @@ window.COURSE_DATA.courses.push({
        "def": "greater"
       },
       {
-       "term": "largire",
+       "term": "largīre",
        "def": "grant!"
       },
       {
@@ -37558,15 +37558,15 @@ window.COURSE_DATA.courses.push({
        "def": "suppliant, petitioner"
       },
       {
-       "term": "inspirare",
+       "term": "īnspīrāre",
        "def": "inspire"
       },
       {
-       "term": "gubernare",
+       "term": "gubernāre",
        "def": "govern, direct"
       },
       {
-       "term": "oblatus",
+       "term": "oblātus",
        "def": "offered"
       },
       {
@@ -37574,19 +37574,19 @@ window.COURSE_DATA.courses.push({
        "def": "stain"
       },
       {
-       "term": "emundare",
+       "term": "ēmundāre",
        "def": "cleanse"
       },
       {
-       "term": "imminens",
+       "term": "imminēns",
        "def": "imminent"
       },
       {
-       "term": "eripere",
+       "term": "ēripere",
        "def": "deliver"
       },
       {
-       "term": "salvare",
+       "term": "salvāre",
        "def": "save"
       },
       {
@@ -37594,15 +37594,15 @@ window.COURSE_DATA.courses.push({
        "def": "food"
       },
       {
-       "term": "adiuvare",
+       "term": "adiuvāre",
        "def": "help"
       },
       {
-       "term": "infirmitas",
+       "term": "īnfirmitās",
        "def": "weakness"
       },
       {
-       "term": "respirare",
+       "term": "respīrāre",
        "def": "have relief"
       }
      ],
@@ -37708,19 +37708,19 @@ window.COURSE_DATA.courses.push({
        "def": "annual, yearly"
       },
       {
-       "term": "solemnitas",
+       "term": "solemnitās",
        "def": "solemnity"
       },
       {
-       "term": "venerari",
+       "term": "venerārī",
        "def": "venerate, honor"
       },
       {
-       "term": "conversatio",
+       "term": "conversātiō",
        "def": "life"
       },
       {
-       "term": "recreare",
+       "term": "recreāre",
        "def": "restore"
       },
       {
@@ -37728,7 +37728,7 @@ window.COURSE_DATA.courses.push({
        "def": "help, aid"
       },
       {
-       "term": "satiare",
+       "term": "satiāre",
        "def": "satisfy"
       },
       {
@@ -37744,55 +37744,55 @@ window.COURSE_DATA.courses.push({
        "def": "pleasing"
       },
       {
-       "term": "exsequi",
+       "term": "exsequī",
        "def": "carry out"
       },
       {
-       "term": "eruditio",
+       "term": "ērudītiō",
        "def": "learning"
       },
       {
-       "term": "clarificare",
+       "term": "clārificāre",
        "def": "enlighten"
       },
       {
-       "term": "foecundare",
+       "term": "foecundāre",
        "def": "make fruitful"
       },
       {
-       "term": "desinere",
+       "term": "dēsinere",
        "def": "cease, stop"
       },
       {
-       "term": "destituere",
+       "term": "dēstituere",
        "def": "desert"
       },
       {
-       "term": "benignus",
+       "term": "benīgnus",
        "def": "kind"
       },
       {
-       "term": "aggregare",
+       "term": "aggregāre",
        "def": "join to"
       },
       {
-       "term": "imitari",
+       "term": "imitārī",
        "def": "imitate"
       },
       {
-       "term": "exaltatio",
+       "term": "exaltātiō",
        "def": "exaltation"
       },
       {
-       "term": "repletus",
+       "term": "replētus",
        "def": "filled"
       },
       {
-       "term": "celebrare",
+       "term": "celebrāre",
        "def": "celebrate"
       },
       {
-       "term": "oratio",
+       "term": "ōrātiō",
        "def": "prayer, oration"
       },
       {
@@ -37800,27 +37800,27 @@ window.COURSE_DATA.courses.push({
        "def": "joy"
       },
       {
-       "term": "dilectio",
+       "term": "dīlēctiō",
        "def": "love"
       },
       {
-       "term": "gaudere",
+       "term": "gaudēre",
        "def": "rejoice"
       },
       {
-       "term": "exorare",
+       "term": "exōrāre",
        "def": "beg, appease"
       },
       {
-       "term": "mirificus",
+       "term": "mīrificus",
        "def": "wonderful"
       },
       {
-       "term": "erga",
+       "term": "ergā",
        "def": "towards (w. obj.)"
       },
       {
-       "term": "remunerator",
+       "term": "remūnerātor",
        "def": "rewarder"
       },
       {
@@ -37828,11 +37828,11 @@ window.COURSE_DATA.courses.push({
        "def": "taste"
       },
       {
-       "term": "agnitio",
+       "term": "agnitiō",
        "def": "knowledge, recognition"
       },
       {
-       "term": "copulare",
+       "term": "cōpulāre",
        "def": "join, unite"
       }
      ],
@@ -37932,31 +37932,31 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "deprecatio",
+       "term": "dēprecātiō",
        "def": "prayer"
       },
       {
-       "term": "supplicandi affectus",
+       "term": "supplicandī affectus",
        "def": "desire of praying"
       },
       {
-       "term": "defensio",
+       "term": "dēfēnsiō",
        "def": "defense"
       },
       {
-       "term": "petitio",
+       "term": "petītiō",
        "def": "petition"
       },
       {
-       "term": "largiri",
+       "term": "largīrī",
        "def": "give abundantly or freely"
       },
       {
-       "term": "consuetus",
+       "term": "consuētus",
        "def": "accustomed"
       },
       {
-       "term": "exultare",
+       "term": "exultāre",
        "def": "exult"
       },
       {
@@ -37968,7 +37968,7 @@ window.COURSE_DATA.courses.push({
        "def": "grant, give"
       },
       {
-       "term": "concedere",
+       "term": "concēdere",
        "def": "grant, concede"
       }
      ],
@@ -38069,23 +38069,23 @@ window.COURSE_DATA.courses.push({
        "def": "enkindle, arouse, set on fire"
       },
       {
-       "term": "divinitus praemonstratus",
+       "term": "dīvīnitus praemōnstrātus",
        "def": "divinely pointed out"
       },
       {
-       "term": "refovere",
+       "term": "refovēre",
        "def": "restore"
       },
       {
-       "term": "continere",
+       "term": "continēre",
        "def": "contain, restrain"
       },
       {
-       "term": "erigere",
+       "term": "ērigere",
        "def": "lift up, arouse, exalt"
       },
       {
-       "term": "exercere",
+       "term": "exercēre",
        "def": "practice, exercise"
       },
       {
@@ -38093,19 +38093,19 @@ window.COURSE_DATA.courses.push({
        "def": "reject"
       },
       {
-       "term": "replere",
+       "term": "replēre",
        "def": "fill"
       },
       {
-       "term": "sublimare",
+       "term": "sublīmāre",
        "def": "exalt"
       },
       {
-       "term": "dispensare",
+       "term": "dispēnsāre",
        "def": "regulate"
       },
       {
-       "term": "securus",
+       "term": "sēcūrus",
        "def": "safe"
       },
       {
@@ -38113,35 +38113,35 @@ window.COURSE_DATA.courses.push({
        "def": "recall"
       },
       {
-       "term": "assequi",
+       "term": "assequī",
        "def": "attain"
       },
       {
-       "term": "ieiunium",
+       "term": "iēiūnium",
        "def": "fast"
       },
       {
-       "term": "ineffabilis",
+       "term": "ineffābilis",
        "def": "inexpressible"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "sin"
       },
       {
-       "term": "inniti",
+       "term": "innītī",
        "def": "depend on"
       },
       {
-       "term": "roborare",
+       "term": "rōborāre",
        "def": "strengthen"
       },
       {
-       "term": "vereri",
+       "term": "verērī",
        "def": "reverence, fear"
       },
       {
-       "term": "deservire",
+       "term": "dēservīre",
        "def": "serve (w. dat.)"
       },
       {
@@ -38153,23 +38153,23 @@ window.COURSE_DATA.courses.push({
        "def": "pledge"
       },
       {
-       "term": "perfrui",
+       "term": "perfruī",
        "def": "enjoy thoroughly (w. abl.)"
       },
       {
-       "term": "praeco",
+       "term": "praecō",
        "def": "herald"
       },
       {
-       "term": "proles",
+       "term": "prōlēs",
        "def": "offspring, child"
       },
       {
-       "term": "dulcedo",
+       "term": "dulcēdō",
        "def": "sweetness"
       },
       {
-       "term": "esca carnalis",
+       "term": "esca carnālis",
        "def": "meat"
       },
       {
@@ -38189,7 +38189,7 @@ window.COURSE_DATA.courses.push({
        "def": "wash"
       },
       {
-       "term": "largitor",
+       "term": "largītor",
        "def": "giver"
       },
       {
@@ -38197,31 +38197,31 @@ window.COURSE_DATA.courses.push({
        "def": "harmonious"
       },
       {
-       "term": "votivus",
+       "term": "vōtīvus",
        "def": "prayerful, votive"
       },
       {
-       "term": "castigare",
+       "term": "castīgāre",
        "def": "chasten"
       },
       {
-       "term": "mitigare",
+       "term": "mītigāre",
        "def": "lessen, soften"
       },
       {
-       "term": "aptare",
+       "term": "aptāre",
        "def": "make fit for (w. dat.)"
       },
       {
-       "term": "florescere",
+       "term": "flōrēscere",
        "def": "flower, blossom"
       },
       {
-       "term": "collegium",
+       "term": "collēgium",
        "def": "order, company"
       },
       {
-       "term": "abdicare",
+       "term": "abdicāre",
        "def": "resign, give up"
       },
       {
@@ -38229,7 +38229,7 @@ window.COURSE_DATA.courses.push({
        "def": "baptism"
       },
       {
-       "term": "tueri",
+       "term": "tuērī",
        "def": "guard, protect"
       }
      ],
@@ -38329,15 +38329,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "Hieronymus",
+       "term": "Hierōnymus",
        "def": "Jerome"
       },
       {
-       "term": "rhetorica",
+       "term": "rhētorica",
        "def": "rhetoric"
       },
       {
-       "term": "gloriosus",
+       "term": "glōriōsus",
        "def": "glorious"
       },
       {
@@ -38349,15 +38349,15 @@ window.COURSE_DATA.courses.push({
        "def": "bishop"
       },
       {
-       "term": "consecrare",
+       "term": "consecrāre",
        "def": "consecrate"
       },
       {
-       "term": "cogitans futurum",
+       "term": "cōgitāns futūrum",
        "def": "thinking he would be killed if he remained"
       },
       {
-       "term": "curam agere",
+       "term": "cūram agere",
        "def": "take care of"
       },
       {
@@ -38369,43 +38369,43 @@ window.COURSE_DATA.courses.push({
        "def": "document"
       },
       {
-       "term": "quaestio",
+       "term": "quaestiō",
        "def": "question"
       },
       {
-       "term": "labi",
+       "term": "lābī",
        "def": "slip"
       },
       {
-       "term": "lapsi",
+       "term": "lāpsī",
        "def": "lapsed Christians"
       },
       {
-       "term": "ecclesia",
+       "term": "ecclēsia",
        "def": "church"
       },
       {
-       "term": "mortalitas",
+       "term": "mortālitās",
        "def": "mortality, death"
       },
       {
-       "term": "eleemosyna",
+       "term": "eleēmosyna",
        "def": "alms"
       },
       {
-       "term": "Oratio Dominica",
+       "term": "Ōrātiō Dominica",
        "def": "Lord's prayer"
       },
       {
-       "term": "commentarium",
+       "term": "commentārium",
        "def": "commentary"
       },
       {
-       "term": "commentari",
+       "term": "commentārī",
        "def": "explain"
       },
       {
-       "term": "sacramentum",
+       "term": "sacrāmentum",
        "def": "mystery, sacred thing"
       }
      ],
@@ -38491,7 +38491,7 @@ window.COURSE_DATA.courses.push({
        "def": "of the Gospel"
       },
       {
-       "term": "dilectissimus",
+       "term": "dīlēctissimus",
        "def": "most beloved"
       },
       {
@@ -38499,11 +38499,11 @@ window.COURSE_DATA.courses.push({
        "def": "teaching"
       },
       {
-       "term": "gubernaculum",
+       "term": "gubernāculum",
        "def": "rudder"
       },
       {
-       "term": "dirigere",
+       "term": "dīrigere",
        "def": "guide, direct"
       },
       {
@@ -38511,7 +38511,7 @@ window.COURSE_DATA.courses.push({
        "def": "protection"
       },
       {
-       "term": "salus",
+       "term": "salūs",
        "def": "salvation"
       },
       {
@@ -38519,11 +38519,11 @@ window.COURSE_DATA.courses.push({
        "def": "teachable, docile"
       },
       {
-       "term": "credentium",
+       "term": "crēdentium",
        "def": "of those who believe"
       },
       {
-       "term": "instruere",
+       "term": "īnstruere",
        "def": "instruct"
       },
       {
@@ -38531,7 +38531,7 @@ window.COURSE_DATA.courses.push({
        "def": "heavenly"
       },
       {
-       "term": "perducere",
+       "term": "perdūcere",
        "def": "lead through"
       },
       {
@@ -38539,43 +38539,43 @@ window.COURSE_DATA.courses.push({
        "def": "own, proper"
       },
       {
-       "term": "testari",
+       "term": "testārī",
        "def": "bear witness, testify"
       },
       {
-       "term": "non iam",
+       "term": "nōn iam",
        "def": "no longer"
       },
       {
-       "term": "precari",
+       "term": "precārī",
        "def": "pray"
       },
       {
-       "term": "scilicet",
+       "term": "scīlicet",
        "def": "that is, namely"
       },
       {
-       "term": "dignari",
+       "term": "dignārī",
        "def": "deign, see fit"
       },
       {
-       "term": "praedicere",
+       "term": "praedīcere",
        "def": "predict"
       },
       {
-       "term": "adorator",
+       "term": "adōrātor",
        "def": "adorer"
       },
       {
-       "term": "sanctificatio",
+       "term": "sānctificātiō",
        "def": "sanctification"
       },
       {
-       "term": "spiritalis",
+       "term": "spīritālis",
        "def": "spiritual"
       },
       {
-       "term": "precatio",
+       "term": "precātiō",
        "def": "prayer"
       },
       {
@@ -38587,11 +38587,11 @@ window.COURSE_DATA.courses.push({
        "def": "establish, decide"
       },
       {
-       "term": "amicus",
+       "term": "amīcus",
        "def": "friendly"
       },
       {
-       "term": "familiaris",
+       "term": "familiāris",
        "def": "belonging to the family, familiar"
       },
       {
@@ -38599,7 +38599,7 @@ window.COURSE_DATA.courses.push({
        "def": "ear"
       },
       {
-       "term": "agnoscere",
+       "term": "agnōscere",
        "def": "recognize"
       },
       {
@@ -38607,15 +38607,15 @@ window.COURSE_DATA.courses.push({
        "def": "within"
       },
       {
-       "term": "advocatus",
+       "term": "advocātus",
        "def": "advocate"
       },
       {
-       "term": "promere",
+       "term": "prōmere",
        "def": "bring forth"
       },
       {
-       "term": "sacramentum",
+       "term": "sacrāmentum",
        "def": "mystery, sacred thing, sacrament"
       },
       {
@@ -38623,7 +38623,7 @@ window.COURSE_DATA.courses.push({
        "def": "of the Lord, Lord's"
       },
       {
-       "term": "hora",
+       "term": "hōra",
        "def": "hour"
       },
       {
@@ -38724,11 +38724,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "disciplina",
+       "term": "disciplīna",
        "def": "discipline"
       },
       {
-       "term": "quies",
+       "term": "quiēs",
        "def": "quietness"
       },
       {
@@ -38744,7 +38744,7 @@ window.COURSE_DATA.courses.push({
        "def": "attitude"
       },
       {
-       "term": "clamor",
+       "term": "clāmor",
        "def": "shout"
       },
       {
@@ -38752,7 +38752,7 @@ window.COURSE_DATA.courses.push({
        "def": "make noise"
       },
       {
-       "term": "contra",
+       "term": "contrā",
        "def": "on the other hand, on the contrary"
       },
       {
@@ -38760,7 +38760,7 @@ window.COURSE_DATA.courses.push({
        "def": "be fitting, agree with"
       },
       {
-       "term": "verecundus",
+       "term": "verēcundus",
        "def": "respectful"
       },
       {
@@ -38768,7 +38768,7 @@ window.COURSE_DATA.courses.push({
        "def": "gentle, modest, moderate"
       },
       {
-       "term": "denique",
+       "term": "dēnique",
        "def": "moreover"
       },
       {
@@ -38780,7 +38780,7 @@ window.COURSE_DATA.courses.push({
        "def": "hidden"
       },
       {
-       "term": "semotus",
+       "term": "sēmōtus",
        "def": "remote"
       },
       {
@@ -38788,15 +38788,15 @@ window.COURSE_DATA.courses.push({
        "def": "bedroom"
       },
       {
-       "term": "ubique",
+       "term": "ubīque",
        "def": "everywhere"
       },
       {
-       "term": "maiestas",
+       "term": "māiestās",
        "def": "majesty"
       },
       {
-       "term": "plenitudo",
+       "term": "plēnitūdō",
        "def": "fullness"
       },
       {
@@ -38804,23 +38804,23 @@ window.COURSE_DATA.courses.push({
        "def": "secret"
       },
       {
-       "term": "penetrare",
+       "term": "penetrāre",
        "def": "penetrate"
       },
       {
-       "term": "approximare",
+       "term": "approximāre",
        "def": "come near"
       },
       {
-       "term": "de longinquo",
+       "term": "dē longinquō",
        "def": "from afar"
       },
       {
-       "term": "speculari",
+       "term": "speculārī",
        "def": "look at"
       },
       {
-       "term": "verecundia",
+       "term": "verēcundia",
        "def": "modesty"
       },
       {
@@ -38832,7 +38832,7 @@ window.COURSE_DATA.courses.push({
        "def": "indiscriminately"
       },
       {
-       "term": "ventilare",
+       "term": "ventilāre",
        "def": "air, fan out"
       },
       {
@@ -38840,27 +38840,27 @@ window.COURSE_DATA.courses.push({
        "def": "disorderly"
       },
       {
-       "term": "auditor",
+       "term": "audītor",
        "def": "hearer"
       },
       {
-       "term": "nequam",
+       "term": "nēquam",
        "def": "evil (indeclinable)"
       },
       {
-       "term": "scrutator",
+       "term": "scrūtātor",
        "def": "searcher"
       },
       {
-       "term": "renis et cordis",
+       "term": "rēnis et cordis",
        "def": "of reins and heart"
       },
       {
-       "term": "clamosus",
+       "term": "clāmōsus",
        "def": "loud"
       },
       {
-       "term": "intra (w. obj.)",
+       "term": "intrā (w. obj.)",
        "def": "within"
       },
       {
@@ -38868,11 +38868,11 @@ window.COURSE_DATA.courses.push({
        "def": "hiding place"
       },
       {
-       "term": "efficaciter",
+       "term": "efficāciter",
        "def": "effectively"
       },
       {
-       "term": "declarare",
+       "term": "dēclārāre",
        "def": "explain"
       },
       {
@@ -38884,11 +38884,11 @@ window.COURSE_DATA.courses.push({
        "def": "likewise"
       },
       {
-       "term": "cubile",
+       "term": "cubīle",
        "def": "bedroom"
       },
       {
-       "term": "conpungimini",
+       "term": "conpungiminī",
        "def": "repent!"
       },
       {
@@ -39002,11 +39002,11 @@ window.COURSE_DATA.courses.push({
        "def": "how, just as"
       },
       {
-       "term": "publicanus",
+       "term": "pūblicānus",
        "def": "publican, tax collector"
       },
       {
-       "term": "allevare",
+       "term": "allevāre",
        "def": "lift up"
       },
       {
@@ -39014,15 +39014,15 @@ window.COURSE_DATA.courses.push({
        "def": "boldly"
       },
       {
-       "term": "insolenter",
+       "term": "īnsolenter",
        "def": "proudly"
       },
       {
-       "term": "erigere",
+       "term": "ērigere",
        "def": "lift up"
       },
       {
-       "term": "pulsare",
+       "term": "pulsāre",
        "def": "beat"
       },
       {
@@ -39030,19 +39030,19 @@ window.COURSE_DATA.courses.push({
        "def": "within"
       },
       {
-       "term": "inclusus",
+       "term": "inclūsus",
        "def": "shut up"
       },
       {
-       "term": "contestari",
+       "term": "contestārī",
        "def": "bear witness to"
       },
       {
-       "term": "implorare",
+       "term": "implōrāre",
        "def": "beg"
       },
       {
-       "term": "sibi placere",
+       "term": "sibi placēre",
        "def": "be self-satisfied"
       },
       {
@@ -39050,23 +39050,23 @@ window.COURSE_DATA.courses.push({
        "def": "more, rather"
       },
       {
-       "term": "fiducia",
+       "term": "fīdūcia",
        "def": "confidence, trust"
       },
       {
-       "term": "evangelium",
+       "term": "ēvangelium",
        "def": "Gospel"
       },
       {
-       "term": "raptores, adulteri",
+       "term": "raptōrēs, adulterī",
        "def": "robbers, adulterers"
       },
       {
-       "term": "quomodo",
+       "term": "quōmodo",
        "def": "as"
       },
       {
-       "term": "bis in sabbato",
+       "term": "bis in sabbatō",
        "def": "twice a week"
       },
       {
@@ -39074,27 +39074,27 @@ window.COURSE_DATA.courses.push({
        "def": "tithe (10% given to church)"
       },
       {
-       "term": "iustificare",
+       "term": "iūstificāre",
        "def": "justify"
       },
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "make holy"
       },
       {
-       "term": "cottidianus (quotidianus)",
+       "term": "cottīdiānus (quotīdiānus)",
        "def": "daily"
       },
       {
-       "term": "debitor",
+       "term": "dēbitor",
        "def": "debtor (one who offends)"
       },
       {
-       "term": "pati",
+       "term": "patī",
        "def": "allow, suffer"
       },
       {
-       "term": "convenire, venit, venturus",
+       "term": "convenīre, venit, ventūrus",
        "def": "fit with, agree with (w. dat.)"
       },
       {
@@ -39202,15 +39202,15 @@ window.COURSE_DATA.courses.push({
        "def": "teacher"
       },
       {
-       "term": "unitas",
+       "term": "ūnitās",
        "def": "unity"
       },
       {
-       "term": "singillatim",
+       "term": "singillātim",
        "def": "singly"
       },
       {
-       "term": "privatim",
+       "term": "prīvātim",
        "def": "privately"
       },
       {
@@ -39218,19 +39218,19 @@ window.COURSE_DATA.courses.push({
        "def": "harmony, agreement, concord"
       },
       {
-       "term": "sic ... quomodo",
+       "term": "sīc ... quōmodo",
        "def": "thus ... as"
       },
       {
-       "term": "tres pueri",
+       "term": "trēs puerī",
        "def": "the 3 servants (of God)"
       },
       {
-       "term": "consonare",
+       "term": "consonāre",
        "def": "sing together"
       },
       {
-       "term": "consensio",
+       "term": "consensiō",
        "def": "agreement"
       },
       {
@@ -39238,15 +39238,15 @@ window.COURSE_DATA.courses.push({
        "def": "harmonious"
       },
       {
-       "term": "declarare",
+       "term": "dēclārāre",
        "def": "explain, make clear"
       },
       {
-       "term": "scripturae divinae fides",
+       "term": "scrīptūrae dīvīnae fidēs",
        "def": "the faithfulness of divine scripture"
       },
       {
-       "term": "imitari",
+       "term": "imitārī",
        "def": "imitate"
       },
       {
@@ -39254,15 +39254,15 @@ window.COURSE_DATA.courses.push({
        "def": "as"
       },
       {
-       "term": "impetrabilis",
+       "term": "impetrābilis",
        "def": "successful"
       },
       {
-       "term": "efficax",
+       "term": "efficāx",
        "def": "effective"
       },
       {
-       "term": "pacificus",
+       "term": "pācificus",
        "def": "peaceful"
       },
       {
@@ -39270,31 +39270,31 @@ window.COURSE_DATA.courses.push({
        "def": "simple"
       },
       {
-       "term": "ascensus",
+       "term": "ascēnsus",
        "def": "ascension"
       },
       {
-       "term": "perseverare",
+       "term": "persevērāre",
        "def": "persevere"
       },
       {
-       "term": "unanimis",
+       "term": "ūnanimis",
        "def": "of one soul"
       },
       {
-       "term": "instantia",
+       "term": "īnstantia",
        "def": "perseverance"
       },
       {
-       "term": "inhabitare",
+       "term": "inhabitāre",
        "def": "dwell"
       },
       {
-       "term": "qualis",
+       "term": "quālis",
        "def": "of what sort"
       },
       {
-       "term": "copiosus",
+       "term": "cōpiōsus",
        "def": "abundant"
       },
       {
@@ -39306,7 +39306,7 @@ window.COURSE_DATA.courses.push({
        "def": "compendium, abridgement"
       },
       {
-       "term": "renatus",
+       "term": "renātus",
        "def": "reborn"
       },
       {
@@ -39314,7 +39314,7 @@ window.COURSE_DATA.courses.push({
        "def": "as many as"
       },
       {
-       "term": "agnoscere",
+       "term": "agnōscere",
        "def": "recognize"
       },
       {
@@ -39322,15 +39322,15 @@ window.COURSE_DATA.courses.push({
        "def": "likewise"
       },
       {
-       "term": "scilicet",
+       "term": "scīlicet",
        "def": "that is, namely"
       },
       {
-       "term": "mentio",
+       "term": "mentiō",
        "def": "mention"
       },
       {
-       "term": "vivus",
+       "term": "vīvus",
        "def": "living"
       }
      ],
@@ -39424,11 +39424,11 @@ window.COURSE_DATA.courses.push({
        "def": "we continue, we join"
       },
       {
-       "term": "nativitas",
+       "term": "nātīvitās",
        "def": "birth"
       },
       {
-       "term": "reparare",
+       "term": "reparāre",
        "def": "restore, repair"
       },
       {
@@ -39440,11 +39440,11 @@ window.COURSE_DATA.courses.push({
        "def": "scorn, reject, despise"
       },
       {
-       "term": "infideliter",
+       "term": "īnfidēliter",
        "def": "faithlessly"
       },
       {
-       "term": "necare",
+       "term": "necāre",
        "def": "kill"
       },
       {
@@ -39452,11 +39452,11 @@ window.COURSE_DATA.courses.push({
        "def": "refute"
       },
       {
-       "term": "concupiscentia",
+       "term": "concupīscentia",
        "def": "desire"
       },
       {
-       "term": "homicida",
+       "term": "homicīda",
        "def": "murderer"
       },
       {
@@ -39464,15 +39464,15 @@ window.COURSE_DATA.courses.push({
        "def": "Isaias (the prophet)"
       },
       {
-       "term": "indignari",
+       "term": "indignārī",
        "def": "be angry or indignant"
       },
       {
-       "term": "generare",
+       "term": "generāre",
        "def": "beget"
       },
       {
-       "term": "exaltare",
+       "term": "exaltāre",
        "def": "exalt"
       },
       {
@@ -39484,7 +39484,7 @@ window.COURSE_DATA.courses.push({
        "def": "ass"
       },
       {
-       "term": "praesepe",
+       "term": "praesēpe",
        "def": "manger"
       },
       {
@@ -39492,11 +39492,11 @@ window.COURSE_DATA.courses.push({
        "def": "woe"
       },
       {
-       "term": "peccatrix",
+       "term": "peccātrīx",
        "def": "sinner, sinful"
       },
       {
-       "term": "nequam",
+       "term": "nēquam",
        "def": "wicked, evil (indeclinable)"
       },
       {
@@ -39504,15 +39504,15 @@ window.COURSE_DATA.courses.push({
        "def": "wicked, criminal"
       },
       {
-       "term": "indignatio",
+       "term": "indignātiō",
        "def": "indignation, anger"
       },
       {
-       "term": "aeternitas",
+       "term": "aeternitās",
        "def": "eternity"
       },
       {
-       "term": "repromittere",
+       "term": "reprōmittere",
        "def": "promise"
       },
       {
@@ -39520,23 +39520,23 @@ window.COURSE_DATA.courses.push({
        "def": "kindness"
       },
       {
-       "term": "dignatio",
+       "term": "dignātiō",
        "def": "condescension, kindness"
       },
       {
-       "term": "bonitas",
+       "term": "bonitās",
        "def": "goodness"
       },
       {
-       "term": "ubertas",
+       "term": "ūbertās",
        "def": "abundance"
       },
       {
-       "term": "celebrare orationem",
+       "term": "celebrāre ōrātiōnem",
        "def": "make prayer"
       },
       {
-       "term": "nuncupare",
+       "term": "nuncupāre",
        "def": "name"
       },
       {
@@ -39548,23 +39548,23 @@ window.COURSE_DATA.courses.push({
        "def": "that (in indirect discourse)"
       },
       {
-       "term": "conversari",
+       "term": "conversārī",
        "def": "live"
       },
       {
-       "term": "degener",
+       "term": "dēgener",
        "def": "degenerate"
       },
       {
-       "term": "non nisi",
+       "term": "nōn nisi",
        "def": "only"
       },
       {
-       "term": "clarificare",
+       "term": "clārificāre",
        "def": "glorify"
       },
       {
-       "term": "beatus",
+       "term": "beātus",
        "def": "blessed"
       },
       {
@@ -39661,31 +39661,31 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "sanctificare",
+       "term": "sānctificāre",
        "def": "make holy, sanctify"
       },
       {
-       "term": "optare",
+       "term": "optāre",
        "def": "wish"
       },
       {
-       "term": "ceterum",
+       "term": "cēterum",
        "def": "as for the rest, furthermore"
       },
       {
-       "term": "perseverare",
+       "term": "persevērāre",
        "def": "persevere"
       },
       {
-       "term": "cottidie",
+       "term": "cottīdiē",
        "def": "daily"
       },
       {
-       "term": "delinquere",
+       "term": "dēlinquere",
        "def": "fail, sin"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "sin"
       },
       {
@@ -39693,11 +39693,11 @@ window.COURSE_DATA.courses.push({
        "def": "constant"
       },
       {
-       "term": "repurgare",
+       "term": "repūrgāre",
        "def": "cleanse"
       },
       {
-       "term": "consequi",
+       "term": "consequī",
        "def": "obtain"
       },
       {
@@ -39705,19 +39705,19 @@ window.COURSE_DATA.courses.push({
        "def": "wash"
       },
       {
-       "term": "iustificare",
+       "term": "iūstificāre",
        "def": "make just"
       },
       {
-       "term": "deterior",
+       "term": "dēterior",
        "def": "worse"
       },
       {
-       "term": "vivificatio",
+       "term": "vīvificātiō",
        "def": "giving of life"
       },
       {
-       "term": "repraesentare",
+       "term": "repraesentāre",
        "def": "bring, show"
       },
       {
@@ -39729,7 +39729,7 @@ window.COURSE_DATA.courses.push({
        "def": "afterwards"
       },
       {
-       "term": "dominari",
+       "term": "dominārī",
        "def": "rule, be Lord"
       },
       {
@@ -39741,23 +39741,23 @@ window.COURSE_DATA.courses.push({
        "def": "earthly"
       },
       {
-       "term": "renuntiare",
+       "term": "renūntiāre",
        "def": "renounce"
       },
       {
-       "term": "terrenus",
+       "term": "terrēnus",
        "def": "earthly, worldly"
       },
       {
-       "term": "ideo",
+       "term": "ideō",
        "def": "therefore"
       },
       {
-       "term": "appellare",
+       "term": "appellāre",
        "def": "call, name"
       },
       {
-       "term": "ebriosus",
+       "term": "ēbriōsus",
        "def": "drunken"
       },
       {
@@ -39765,7 +39765,7 @@ window.COURSE_DATA.courses.push({
        "def": "slanderous, reviling"
       },
       {
-       "term": "stridor dentium",
+       "term": "strīdor dentium",
        "def": "gnashing of teeth"
       }
      ],
@@ -39863,7 +39863,7 @@ window.COURSE_DATA.courses.push({
        "def": "stand in the way, hinder (w. dat.)"
       },
       {
-       "term": "quo minus",
+       "term": "quō minus",
        "def": "lest"
       },
       {
@@ -39871,7 +39871,7 @@ window.COURSE_DATA.courses.push({
        "def": "will, mind"
       },
       {
-       "term": "obsequi",
+       "term": "obsequī",
        "def": "submit, yield (w. dat.)"
       },
       {
@@ -39887,11 +39887,11 @@ window.COURSE_DATA.courses.push({
        "def": "favor, kindness"
       },
       {
-       "term": "tutus",
+       "term": "tūtus",
        "def": "safe"
       },
       {
-       "term": "denique",
+       "term": "dēnique",
        "def": "therefore, next, then"
       },
       {
@@ -39899,43 +39899,43 @@ window.COURSE_DATA.courses.push({
        "def": "chalice, trial"
       },
       {
-       "term": "obaudire",
+       "term": "obaudīre",
        "def": "obey"
       },
       {
-       "term": "instruere",
+       "term": "īnstruere",
        "def": "instruct, teach"
       },
       {
-       "term": "caritas",
+       "term": "cāritās",
        "def": "love"
       },
       {
-       "term": "concupiscentia",
+       "term": "concupīscentia",
        "def": "desire, concupiscence"
       },
       {
-       "term": "ambitio",
+       "term": "ambitiō",
        "def": "ambition"
       },
       {
-       "term": "conversatio",
+       "term": "conversātiō",
        "def": "life, manner of living"
       },
       {
-       "term": "verecundia",
+       "term": "verēcundia",
        "def": "modesty"
       },
       {
-       "term": "praeponere",
+       "term": "praepōnere",
        "def": "put something ahead of someone"
       },
       {
-       "term": "inseparabiliter",
+       "term": "īnsēparābiliter",
        "def": "inseparably"
       },
       {
-       "term": "fidenter",
+       "term": "fīdenter",
        "def": "confidently"
       },
       {
@@ -39943,15 +39943,15 @@ window.COURSE_DATA.courses.push({
        "def": "stand by, assist (w. dat.)"
       },
       {
-       "term": "cohaeres",
+       "term": "cohaerēs",
        "def": "coheir"
       },
       {
-       "term": "manifestare",
+       "term": "manifestāre",
        "def": "show, manifest"
       },
       {
-       "term": "circa",
+       "term": "circā",
        "def": "about, around, concerning (w. obj.)"
       },
       {
@@ -40062,11 +40062,11 @@ window.COURSE_DATA.courses.push({
        "def": "both (each) of which"
       },
       {
-       "term": "consummatio",
+       "term": "consummātiō",
        "def": "completion"
       },
       {
-       "term": "incolumitas",
+       "term": "incolumitās",
        "def": "safety"
       },
       {
@@ -40078,19 +40078,19 @@ window.COURSE_DATA.courses.push({
        "def": "each, both"
       },
       {
-       "term": "colluctatio",
+       "term": "colluctātiō",
        "def": "struggle (between flesh and spirit)"
       },
       {
-       "term": "saecularis",
+       "term": "saeculāris",
        "def": "worldly"
       },
       {
-       "term": "concupiscere",
+       "term": "concupīscere",
        "def": "desire greatly"
       },
       {
-       "term": "impense",
+       "term": "impēnsē",
        "def": "strongly"
       },
       {
@@ -40102,7 +40102,7 @@ window.COURSE_DATA.courses.push({
        "def": "carry out"
       },
       {
-       "term": "adversari (w. dat.)",
+       "term": "adversārī (w. dat.)",
        "def": "oppose"
       },
       {
@@ -40110,11 +40110,11 @@ window.COURSE_DATA.courses.push({
        "def": "constant"
       },
       {
-       "term": "cedere",
+       "term": "cēdere",
        "def": "move, retreat, yield"
       },
       {
-       "term": "praevalere",
+       "term": "praevalēre",
        "def": "prevail"
       },
       {
@@ -40122,27 +40122,27 @@ window.COURSE_DATA.courses.push({
        "def": "not yet"
       },
       {
-       "term": "redintegrare",
+       "term": "redintegrāre",
        "def": "restore"
       },
       {
-       "term": "appellare",
+       "term": "appellāre",
        "def": "call, name"
       },
       {
-       "term": "sal",
+       "term": "sāl",
        "def": "salt"
       },
       {
-       "term": "limus",
+       "term": "līmus",
        "def": "slime"
       },
       {
-       "term": "vero",
+       "term": "vērō",
        "def": "but"
       },
       {
-       "term": "merito",
+       "term": "meritō",
        "def": "rightly"
       },
       {
@@ -40150,19 +40150,19 @@ window.COURSE_DATA.courses.push({
        "def": "rain"
       },
       {
-       "term": "procedere",
+       "term": "prōcēdere",
        "def": "proceed"
       },
       {
-       "term": "intellectus",
+       "term": "intellēctus",
        "def": "sense, understanding"
       },
       {
-       "term": "utilitas",
+       "term": "ūtilitās",
        "def": "utility, usefulness"
       },
       {
-       "term": "proficere",
+       "term": "prōficere",
        "def": "be profitable, advance"
       },
       {
@@ -40170,11 +40170,11 @@ window.COURSE_DATA.courses.push({
        "def": "touch, happen"
       },
       {
-       "term": "intercedere",
+       "term": "intercēdere",
        "def": "come between, intervene"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "sin"
       },
       {
@@ -40182,11 +40182,11 @@ window.COURSE_DATA.courses.push({
        "def": "held away"
       },
       {
-       "term": "communicare",
+       "term": "commūnicāre",
        "def": "communicate"
       },
       {
-       "term": "praedicare",
+       "term": "praedicāre",
        "def": "preach, proclaim"
       },
       {
@@ -40198,11 +40198,11 @@ window.COURSE_DATA.courses.push({
        "def": "Eucharist, Holy Communion"
       },
       {
-       "term": "communicatio",
+       "term": "commūnicātiō",
        "def": "communion"
       },
       {
-       "term": "comminari",
+       "term": "commināri",
        "def": "warn, threaten"
       },
       {
@@ -40306,7 +40306,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "renuntiare",
+       "term": "renūntiāre",
        "def": "renounce"
       },
       {
@@ -40326,19 +40326,19 @@ window.COURSE_DATA.courses.push({
        "def": "daily"
       },
       {
-       "term": "desiderium",
+       "term": "dēsīderium",
        "def": "desire"
       },
       {
-       "term": "petitio",
+       "term": "petītiō",
        "def": "petition, request"
       },
       {
-       "term": "praescribere",
+       "term": "praescrībere",
        "def": "prescribe"
       },
       {
-       "term": "in crastinum",
+       "term": "in crāstinum",
        "def": "for tomorrow"
       },
       {
@@ -40350,19 +40350,19 @@ window.COURSE_DATA.courses.push({
        "def": "malice, wickedness"
       },
       {
-       "term": "velociter",
+       "term": "vēlōciter",
        "def": "swiftly"
       },
       {
-       "term": "formare",
+       "term": "fōrmāre",
        "def": "form, instruct"
       },
       {
-       "term": "corroborare",
+       "term": "corrōborāre",
        "def": "strengthen"
       },
       {
-       "term": "firmitas",
+       "term": "firmitās",
        "def": "firmness, stability"
       },
       {
@@ -40374,7 +40374,7 @@ window.COURSE_DATA.courses.push({
        "def": "sink"
       },
       {
-       "term": "perditio",
+       "term": "perditiō",
        "def": "ruin"
       },
       {
@@ -40382,19 +40382,19 @@ window.COURSE_DATA.courses.push({
        "def": "destruction, death"
       },
       {
-       "term": "radix",
+       "term": "rādīx",
        "def": "root"
       },
       {
-       "term": "cupiditas",
+       "term": "cupiditās",
        "def": "desire, greed"
       },
       {
-       "term": "naufragare",
+       "term": "naufragāre",
        "def": "be shipwrecked"
       },
       {
-       "term": "inserere",
+       "term": "īnserere",
        "def": "involve"
       },
       {
@@ -40402,15 +40402,15 @@ window.COURSE_DATA.courses.push({
        "def": "to be scorned"
       },
       {
-       "term": "periculosus",
+       "term": "perīculōsus",
        "def": "dangerous"
       },
       {
-       "term": "illic",
+       "term": "illīc",
        "def": "there"
       },
       {
-       "term": "blandiri",
+       "term": "blandīrī",
        "def": "entice, flatter"
       },
       {
@@ -40418,11 +40418,11 @@ window.COURSE_DATA.courses.push({
        "def": "foolish, fool"
       },
       {
-       "term": "copia",
+       "term": "cōpia",
        "def": "supply, abundance (in plural: troops)"
       },
       {
-       "term": "exuberans",
+       "term": "exūberāns",
        "def": "abundant"
       },
       {
@@ -40430,11 +40430,11 @@ window.COURSE_DATA.courses.push({
        "def": "refute, contradict"
       },
       {
-       "term": "expostulare",
+       "term": "expostulāre",
        "def": "demand"
       },
       {
-       "term": "consummatus",
+       "term": "consummātus",
        "def": "perfect"
       },
       {
@@ -40446,11 +40446,11 @@ window.COURSE_DATA.courses.push({
        "def": "lay up, found"
       },
       {
-       "term": "passio",
+       "term": "passiō",
        "def": "passion, suffering"
       },
       {
-       "term": "succinctus",
+       "term": "succīnctus",
        "def": "girded"
       },
       {
@@ -40458,7 +40458,7 @@ window.COURSE_DATA.courses.push({
        "def": "snare"
       },
       {
-       "term": "res familiaris",
+       "term": "rēs familiāris",
        "def": "family affairs"
       },
       {
@@ -40470,7 +40470,7 @@ window.COURSE_DATA.courses.push({
        "def": "loosen, set free, pay"
       },
       {
-       "term": "solutus",
+       "term": "solūtus",
        "def": "set loose"
       },
       {
@@ -40478,11 +40478,11 @@ window.COURSE_DATA.courses.push({
        "def": "free"
       },
       {
-       "term": "facultas",
+       "term": "facultās",
        "def": "possession"
       },
       {
-       "term": "comitari",
+       "term": "comitārī",
        "def": "accompany"
       },
       {
@@ -40490,19 +40490,19 @@ window.COURSE_DATA.courses.push({
        "def": "younger"
       },
       {
-       "term": "senescere",
+       "term": "senēscere",
        "def": "grow old"
       },
       {
-       "term": "vestire",
+       "term": "vestīre",
        "def": "clothe"
       },
       {
-       "term": "indigere (w. poss. or abl.)",
+       "term": "indigēre (w. poss. or abl.)",
        "def": "need"
       },
       {
-       "term": "apponere",
+       "term": "appōnere",
        "def": "add"
       },
       {
@@ -40518,11 +40518,11 @@ window.COURSE_DATA.courses.push({
        "def": "meal"
       },
       {
-       "term": "divinitus",
+       "term": "dīvīnitus",
        "def": "divinely"
       },
       {
-       "term": "procurare",
+       "term": "prōcūrāre",
        "def": "take care of"
       },
       {
@@ -40530,7 +40530,7 @@ window.COURSE_DATA.courses.push({
        "def": "beast"
       },
       {
-       "term": "esurire",
+       "term": "ēsurīre",
        "def": "be hungry"
       },
       {
@@ -40546,15 +40546,15 @@ window.COURSE_DATA.courses.push({
        "def": "bird"
       },
       {
-       "term": "apportare",
+       "term": "apportāre",
        "def": "bring to"
       },
       {
-       "term": "nutrire",
+       "term": "nūtrīre",
        "def": "feed"
       },
       {
-       "term": "detestandus",
+       "term": "dētestandus",
        "def": "detestable"
       },
       {
@@ -40562,11 +40562,11 @@ window.COURSE_DATA.courses.push({
        "def": "bird"
       },
       {
-       "term": "insidiari",
+       "term": "īnsidiārī",
        "def": "plot, lie in ambush"
       },
       {
-       "term": "saevire",
+       "term": "saevīre",
        "def": "rage"
       },
       {
@@ -40668,7 +40668,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "debitor",
+       "term": "dēbitor",
        "def": "debtor, one who offends"
       },
       {
@@ -40680,15 +40680,15 @@ window.COURSE_DATA.courses.push({
        "def": "pardon"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "sin"
       },
       {
-       "term": "donare",
+       "term": "dōnāre",
        "def": "forgive"
       },
       {
-       "term": "necessario",
+       "term": "necessāriō",
        "def": "necessarily"
       },
       {
@@ -40696,7 +40696,7 @@ window.COURSE_DATA.courses.push({
        "def": "kindness, favor, pardon"
       },
       {
-       "term": "recordari",
+       "term": "recordārī",
        "def": "remember, recall"
       },
       {
@@ -40704,11 +40704,11 @@ window.COURSE_DATA.courses.push({
        "def": "conscience"
       },
       {
-       "term": "decipiunt",
+       "term": "dēcipiunt",
        "def": "deceive"
       },
       {
-       "term": "complecti, -plexus est",
+       "term": "complectī, -plexus est",
        "def": "embrace, include"
       },
       {
@@ -40720,15 +40720,15 @@ window.COURSE_DATA.courses.push({
        "def": "join, add"
       },
       {
-       "term": "plane",
+       "term": "plānē",
        "def": "clearly"
       },
       {
-       "term": "conditio",
+       "term": "conditiō",
        "def": "condition"
       },
       {
-       "term": "sponsio",
+       "term": "spōnsiō",
        "def": "engagement, pledge"
       },
       {
@@ -40740,19 +40740,19 @@ window.COURSE_DATA.courses.push({
        "def": "according as"
       },
       {
-       "term": "par, paris",
+       "term": "pār, paris",
        "def": "equal, like"
       },
       {
-       "term": "mensura",
+       "term": "mēnsūra",
        "def": "measure"
       },
       {
-       "term": "metiri",
+       "term": "mētīrī",
        "def": "measure"
       },
       {
-       "term": "remetiri",
+       "term": "remētīrī",
        "def": "measure in return"
       },
       {
@@ -40760,15 +40760,15 @@ window.COURSE_DATA.courses.push({
        "def": "fellow servant"
       },
       {
-       "term": "religare",
+       "term": "religāre",
        "def": "bind again, cast back"
       },
       {
-       "term": "indulgere",
+       "term": "indulgēre",
        "def": "be favorable, forgiving (w. dat.)"
       },
       {
-       "term": "censura",
+       "term": "cēnsūra",
        "def": "rebuke"
       },
       {
@@ -40776,11 +40776,11 @@ window.COURSE_DATA.courses.push({
        "def": "vigor, force"
       },
       {
-       "term": "excusatio",
+       "term": "excūsātiō",
        "def": "excuse"
       },
       {
-       "term": "iudicare",
+       "term": "iūdicāre",
        "def": "judge, condemn"
       },
       {
@@ -40788,35 +40788,35 @@ window.COURSE_DATA.courses.push({
        "def": "remain, be left over"
       },
       {
-       "term": "pacificus",
+       "term": "pācificus",
        "def": "peaceful"
       },
       {
-       "term": "unanimis",
+       "term": "ūnanimis",
        "def": "of one mind"
       },
       {
-       "term": "renatus",
+       "term": "renātus",
        "def": "reborn (by Baptism)"
       },
       {
-       "term": "dissidens",
+       "term": "dissidēns",
        "def": "disagreeing"
       },
       {
-       "term": "pacare",
+       "term": "pācāre",
        "def": "appease"
       },
       {
-       "term": "fraternus",
+       "term": "frāternus",
        "def": "brotherly, of a brother"
       },
       {
-       "term": "adunare",
+       "term": "adūnāre",
        "def": "unite"
       },
       {
-       "term": "intueri",
+       "term": "intuērī",
        "def": "look at"
       },
       {
@@ -40824,7 +40824,7 @@ window.COURSE_DATA.courses.push({
        "def": "simple"
       },
       {
-       "term": "merito",
+       "term": "meritō",
        "def": "rightly"
       },
       {
@@ -40836,27 +40836,27 @@ window.COURSE_DATA.courses.push({
        "def": "martyrdom"
       },
       {
-       "term": "initiare",
+       "term": "initiāre",
        "def": "begin"
       },
       {
-       "term": "coronare",
+       "term": "corōnāre",
        "def": "crown"
       },
       {
-       "term": "testari",
+       "term": "testārī",
        "def": "testify, bear witness"
       },
       {
-       "term": "dissensio",
+       "term": "dissēnsiō",
        "def": "dissension, disagreement"
       },
       {
-       "term": "homicida",
+       "term": "homicīda",
        "def": "murderer"
       },
       {
-       "term": "imitator",
+       "term": "imitātor",
        "def": "imitator"
       },
       {
@@ -40864,7 +40864,7 @@ window.COURSE_DATA.courses.push({
        "def": "wash away"
       },
       {
-       "term": "expiare",
+       "term": "expiāre",
        "def": "expiate, atone for"
       }
      ],
@@ -40958,11 +40958,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "observatio",
+       "term": "observātiō",
        "def": "care"
       },
       {
-       "term": "tentatio",
+       "term": "tentātiō",
        "def": "temptation"
       },
       {
@@ -40970,23 +40970,23 @@ window.COURSE_DATA.courses.push({
        "def": "thence, from God"
       },
       {
-       "term": "expugnare",
+       "term": "expugnāre",
        "def": "take by assault, storm"
       },
       {
-       "term": "praedari",
+       "term": "praedārī",
        "def": "plunder"
       },
       {
-       "term": "in direptionem",
+       "term": "in dīreptiōnem",
        "def": "to plunder"
       },
       {
-       "term": "superducere",
+       "term": "superdūcere",
        "def": "bring upon"
       },
       {
-       "term": "iram animationis",
+       "term": "īram animātiōnis",
        "def": "the force of his wrath"
       },
       {
@@ -40994,11 +40994,11 @@ window.COURSE_DATA.courses.push({
        "def": "it is written, set down"
       },
       {
-       "term": "excitare",
+       "term": "excitāre",
        "def": "arouse"
       },
       {
-       "term": "satanan",
+       "term": "satanān",
        "def": "devil (Greek obj. of satanas)"
       },
       {
@@ -41006,23 +41006,23 @@ window.COURSE_DATA.courses.push({
        "def": "in two ways"
       },
       {
-       "term": "delinquere",
+       "term": "dēlinquere",
        "def": "sin, fail"
       },
       {
-       "term": "desuper",
+       "term": "dēsuper",
        "def": "from above"
       },
       {
-       "term": "admonere",
+       "term": "admonēre",
        "def": "remind"
       },
       {
-       "term": "imbecillitas",
+       "term": "imbēcillitās",
        "def": "weakness"
       },
       {
-       "term": "insolenter",
+       "term": "īnsolenter",
        "def": "boldly"
       },
       {
@@ -41030,23 +41030,23 @@ window.COURSE_DATA.courses.push({
        "def": "arrogantly"
       },
       {
-       "term": "confessio",
+       "term": "confessiō",
        "def": "confession (of faith in persecution)"
       },
       {
-       "term": "passio",
+       "term": "passiō",
        "def": "suffering, passion"
       },
       {
-       "term": "ducere",
+       "term": "dūcere",
        "def": "consider"
       },
       {
-       "term": "vigilare",
+       "term": "vigilāre",
        "def": "be awake, watch"
       },
       {
-       "term": "promptus",
+       "term": "prōmptus",
        "def": "ready"
       },
       {
@@ -41058,11 +41058,11 @@ window.COURSE_DATA.courses.push({
        "def": "humbly"
       },
       {
-       "term": "praestare",
+       "term": "praestāre",
        "def": "grant"
       },
       {
-       "term": "consummatio",
+       "term": "consummātiō",
        "def": "completion"
       },
       {
@@ -41070,7 +41070,7 @@ window.COURSE_DATA.courses.push({
        "def": "clause"
       },
       {
-       "term": "concludere",
+       "term": "conclūdere",
        "def": "conclude"
       },
       {
@@ -41078,31 +41078,31 @@ window.COURSE_DATA.courses.push({
        "def": "opposed"
       },
       {
-       "term": "moliri",
+       "term": "mōlīrī",
        "def": "try, build up"
       },
       {
-       "term": "fida tutela",
+       "term": "fīda tūtēla",
        "def": "faithful protection"
       },
       {
-       "term": "implorare",
+       "term": "implōrāre",
        "def": "beg"
       },
       {
-       "term": "operari",
+       "term": "operārī",
        "def": "work, perform"
       },
       {
-       "term": "securus",
+       "term": "sēcūrus",
        "def": "secure"
       },
       {
-       "term": "tutus",
+       "term": "tūtus",
        "def": "safe"
       },
       {
-       "term": "tutor",
+       "term": "tūtor",
        "def": "protector"
       }
      ],
@@ -41204,23 +41204,23 @@ window.COURSE_DATA.courses.push({
        "def": "teaching"
       },
       {
-       "term": "breviare",
+       "term": "breviāre",
        "def": "shorten"
       },
       {
-       "term": "salutaris",
+       "term": "salūtāris",
        "def": "wholesome, salutary"
       },
       {
-       "term": "praedicere",
+       "term": "praedīcere",
        "def": "foretell"
       },
       {
-       "term": "maiestas",
+       "term": "māiestās",
        "def": "majesty"
       },
       {
-       "term": "consummare",
+       "term": "consummāre",
        "def": "finish"
       },
       {
@@ -41240,15 +41240,15 @@ window.COURSE_DATA.courses.push({
        "def": "summary"
       },
       {
-       "term": "decerpere",
+       "term": "dēcerpere",
        "def": "pluck, cull"
       },
       {
-       "term": "de toto corde",
+       "term": "dē tōtō corde",
        "def": "with whole heart"
       },
       {
-       "term": "virtus",
+       "term": "virtūs",
        "def": "strength"
       },
       {
@@ -41256,27 +41256,27 @@ window.COURSE_DATA.courses.push({
        "def": "as, like"
       },
       {
-       "term": "contestatio",
+       "term": "contestātiō",
        "def": "testimony"
       },
       {
-       "term": "demonstrare",
+       "term": "dēmōnstrāre",
        "def": "show, point out, prove"
       },
       {
-       "term": "secedere",
+       "term": "sēcēdere",
        "def": "withdraw"
       },
       {
-       "term": "pernoctare",
+       "term": "pernoctāre",
        "def": "spend the night"
       },
       {
-       "term": "iugiter",
+       "term": "iūgiter",
        "def": "constantly"
       },
       {
-       "term": "frequentare",
+       "term": "frequentāre",
        "def": "resort to frequently"
       },
       {
@@ -41382,7 +41382,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "triticum",
+       "term": "trīticum",
        "def": "wheat"
       },
       {
@@ -41390,7 +41390,7 @@ window.COURSE_DATA.courses.push({
        "def": "afterwards, shortly"
       },
       {
-       "term": "benignitas",
+       "term": "benīgnitās",
        "def": "kindness"
       },
       {
@@ -41402,7 +41402,7 @@ window.COURSE_DATA.courses.push({
        "def": "redeem, buy back"
       },
       {
-       "term": "scilicet",
+       "term": "scīlicet",
        "def": "that is, namely"
       },
       {
@@ -41414,47 +41414,47 @@ window.COURSE_DATA.courses.push({
        "def": "apply self to"
       },
       {
-       "term": "cogitatio",
+       "term": "cōgitātiō",
        "def": "thought"
       },
       {
-       "term": "carnalis",
+       "term": "carnālis",
        "def": "carnal, of bodily things"
       },
       {
-       "term": "secularis",
+       "term": "seculāris",
        "def": "worldly, secular"
       },
       {
-       "term": "abscedere",
+       "term": "abscēdere",
        "def": "depart"
       },
       {
-       "term": "adversarius",
+       "term": "adversārius",
        "def": "enemy"
       },
       {
-       "term": "adire",
+       "term": "adīre",
        "def": "come to, approach"
       },
       {
-       "term": "obrepere",
+       "term": "obrēpere",
        "def": "creep up"
       },
       {
-       "term": "subtiliter",
+       "term": "subtīliter",
        "def": "subtly"
       },
       {
-       "term": "penetrare",
+       "term": "penetrāre",
        "def": "penetrate"
       },
       {
-       "term": "avocare",
+       "term": "āvocāre",
        "def": "call away from"
       },
       {
-       "term": "intentio",
+       "term": "intentiō",
        "def": "intention, attention"
       },
       {
@@ -41462,15 +41462,15 @@ window.COURSE_DATA.courses.push({
        "def": "sound"
       },
       {
-       "term": "sensus",
+       "term": "sēnsus",
        "def": "perception, attitude"
       },
       {
-       "term": "segnitia",
+       "term": "sēgnitia",
        "def": "laziness"
       },
       {
-       "term": "alienare",
+       "term": "aliēnāre",
        "def": "withdraw"
       },
       {
@@ -41478,7 +41478,7 @@ window.COURSE_DATA.courses.push({
        "def": "unfitting"
       },
       {
-       "term": "profanus",
+       "term": "profānus",
        "def": "worldly"
       },
       {
@@ -41486,19 +41486,19 @@ window.COURSE_DATA.courses.push({
        "def": "mindful of"
       },
       {
-       "term": "patere",
+       "term": "patēre",
        "def": "lie open, be exposed"
       },
       {
-       "term": "quapropter",
+       "term": "quāpropter",
        "def": "wherefore"
       },
       {
-       "term": "sollicite",
+       "term": "sollicitē",
        "def": "carefully"
       },
       {
-       "term": "caute",
+       "term": "cautē",
        "def": "providently"
       },
       {
@@ -41600,15 +41600,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "infructuosus",
+       "term": "īnfrūctuōsus",
        "def": "fruitless"
       },
       {
-       "term": "nudus",
+       "term": "nūdus",
        "def": "bare"
       },
       {
-       "term": "inefficax",
+       "term": "inefficāx",
        "def": "ineffective"
       },
       {
@@ -41628,11 +41628,11 @@ window.COURSE_DATA.courses.push({
        "def": "surely"
       },
       {
-       "term": "promereri Deum",
+       "term": "prōmerērī Deum",
        "def": "deserve well of God"
       },
       {
-       "term": "operatio",
+       "term": "operātiō",
        "def": "work, good work"
       },
       {
@@ -41640,31 +41640,31 @@ window.COURSE_DATA.courses.push({
        "def": "fruitful"
       },
       {
-       "term": "ieiunium",
+       "term": "iēiūnium",
        "def": "fasting"
       },
       {
-       "term": "eleemosyna",
+       "term": "eleēmosyna",
        "def": "alms, almsgiving"
       },
       {
-       "term": "redditurus est",
+       "term": "redditūrus est",
        "def": "will render or pay"
       },
       {
-       "term": "venienti",
+       "term": "venientī",
        "def": "to the one who comes"
       },
       {
-       "term": "benignus",
+       "term": "benīgnus",
        "def": "kind"
       },
       {
-       "term": "auditor",
+       "term": "audītor",
        "def": "hearer"
       },
       {
-       "term": "centurio",
+       "term": "centuriō",
        "def": "centurion"
       },
       {
@@ -41672,7 +41672,7 @@ window.COURSE_DATA.courses.push({
        "def": "present self to (w. dat.)"
       },
       {
-       "term": "testimonium reddens",
+       "term": "testimōnium reddēns",
        "def": "giving testimony"
       },
       {
@@ -41751,23 +41751,23 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "quas... merita... imponunt",
+       "term": "quās... merita... impōnunt",
        "def": "which the merits of our works send up"
       },
       {
-       "term": "revelare",
+       "term": "revēlāre",
        "def": "reveal"
       },
       {
-       "term": "honorificus",
+       "term": "honōrificus",
        "def": "honorable"
       },
       {
-       "term": "claritas",
+       "term": "clāritās",
        "def": "brightness"
       },
       {
-       "term": "cunctari",
+       "term": "cunctārī",
        "def": "hesitate, delay"
       },
       {
@@ -41787,11 +41787,11 @@ window.COURSE_DATA.courses.push({
        "def": "daughter-in-law"
       },
       {
-       "term": "conversari",
+       "term": "conversārī",
        "def": "live"
       },
       {
-       "term": "contestari",
+       "term": "contestārī",
        "def": "testify"
       },
       {
@@ -41799,11 +41799,11 @@ window.COURSE_DATA.courses.push({
        "def": "loose every knot of injustice"
       },
       {
-       "term": "Adesse se repromittit",
+       "term": "Adesse sē repromittit",
        "def": "he promises that he will be there"
       },
       {
-       "term": "nodus",
+       "term": "nōdus",
        "def": "knot"
       },
       {
@@ -41811,15 +41811,15 @@ window.COURSE_DATA.courses.push({
        "def": "member of household"
       },
       {
-       "term": "pressura",
+       "term": "pressūra",
        "def": "affliction"
       },
       {
-       "term": "saturare",
+       "term": "saturāre",
        "def": "fill, satisfy"
       },
       {
-       "term": "odorem suavitatis",
+       "term": "odōrem suāvitātis",
        "def": "a sweet odor"
       },
       {
@@ -41827,7 +41827,7 @@ window.COURSE_DATA.courses.push({
        "def": "acceptable"
       },
       {
-       "term": "quando qui",
+       "term": "quandō quī",
        "def": "when anyone"
       },
       {
@@ -41835,11 +41835,11 @@ window.COURSE_DATA.courses.push({
        "def": "he lends at interest to God"
       },
       {
-       "term": "egenus",
+       "term": "egēnus",
        "def": "needy, poor"
       },
       {
-       "term": "lumen",
+       "term": "lūmen",
        "def": "light"
       }
      ],
@@ -41908,11 +41908,11 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "celebrare",
+       "term": "celebrāre",
        "def": "frequent"
       },
       {
-       "term": "observare",
+       "term": "observāre",
        "def": "keep, respect"
       },
       {
@@ -41920,31 +41920,31 @@ window.COURSE_DATA.courses.push({
        "def": "victor"
       },
       {
-       "term": "Trinitas",
+       "term": "Trīnitās",
        "def": "Trinity"
       },
       {
-       "term": "manifestari habebat",
+       "term": "manifestārī habēbat",
        "def": "was to be revealed"
       },
       {
-       "term": "consummare",
+       "term": "consummāre",
        "def": "complete"
       },
       {
-       "term": "declarat alteram",
+       "term": "dēclārat alteram",
        "def": "makes clear another group of three"
       },
       {
-       "term": "terni",
+       "term": "ternī",
        "def": "three each"
       },
       {
-       "term": "repromissio",
+       "term": "reprōmissiō",
        "def": "promise"
       },
       {
-       "term": "tectum",
+       "term": "tēctum",
        "def": "roof, house"
       },
       {
@@ -41952,23 +41952,23 @@ window.COURSE_DATA.courses.push({
        "def": "above"
       },
       {
-       "term": "emundare",
+       "term": "ēmundāre",
        "def": "cleanse"
       },
       {
-       "term": "gentiles",
+       "term": "gentīlēs",
        "def": "gentiles (non-Jews)"
       },
       {
-       "term": "vivificare",
+       "term": "vīvificāre",
        "def": "make alive"
       },
       {
-       "term": "hora",
+       "term": "hōra",
        "def": "hour"
       },
       {
-       "term": "iam pridem",
+       "term": "iam prīdem",
        "def": "long ago, now for a long time"
       }
      ],
@@ -42043,15 +42043,15 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "antiquitus",
+       "term": "antīquitus",
        "def": "of old"
       },
       {
-       "term": "matutinus",
+       "term": "mātūtīnus",
        "def": "morning (adj.)"
       },
       {
-       "term": "designare",
+       "term": "dēsignāre",
        "def": "foreshadow"
       },
       {
@@ -42059,27 +42059,27 @@ window.COURSE_DATA.courses.push({
        "def": "present self to, appear before (w. dat.)"
       },
       {
-       "term": "contemplari",
+       "term": "contemplārī",
        "def": "contemplate, look at"
       },
       {
-       "term": "denuo",
+       "term": "dēnuō",
        "def": "anew, again"
       },
       {
-       "term": "reprobare",
+       "term": "reprobāre",
        "def": "reject"
       },
       {
-       "term": "in caput anguli",
+       "term": "in caput angulī",
        "def": "the cornerstone"
       },
       {
-       "term": "admirabilis",
+       "term": "admīrābilis",
        "def": "wonderful"
       },
       {
-       "term": "iucundari",
+       "term": "iūcundārī",
        "def": "take pleasure"
       },
       {
@@ -42087,31 +42087,31 @@ window.COURSE_DATA.courses.push({
        "def": "Malachias (the prophet)"
       },
       {
-       "term": "ala",
+       "term": "āla",
        "def": "wing"
       },
       {
-       "term": "curatio",
+       "term": "cūrātiō",
        "def": "healing"
       },
       {
-       "term": "quo minus",
+       "term": "quō minus",
        "def": "so that... not"
       },
       {
-       "term": "insistere",
+       "term": "īnsistere",
        "def": "persist"
       },
       {
-       "term": "decurrere",
+       "term": "dēcurrere",
        "def": "run"
       },
       {
-       "term": "vicibus alternis",
+       "term": "vicibus alternīs",
        "def": "in alternate turns"
       },
       {
-       "term": "nox revoluta",
+       "term": "nox revolūta",
        "def": "the returning night follows"
       },
       {
@@ -42131,11 +42131,11 @@ window.COURSE_DATA.courses.push({
        "def": "widow"
       },
       {
-       "term": "Viderint vel gentiles",
+       "term": "Vīderint vel gentīlēs",
        "def": "let either the gentiles look to it, who are not yet enlightened"
       },
       {
-       "term": "in promerendo Deo",
+       "term": "in prōmerendō Deō",
        "def": "in deserving well of God"
       },
       {
@@ -42143,7 +42143,7 @@ window.COURSE_DATA.courses.push({
        "def": "lazy"
       },
       {
-       "term": "ignavus",
+       "term": "ignāvus",
        "def": "base"
       },
       {
@@ -42151,11 +42151,11 @@ window.COURSE_DATA.courses.push({
        "def": "loss"
       },
       {
-       "term": "recreare",
+       "term": "recreāre",
        "def": "remake, refresh"
       },
       {
-       "term": "imitari",
+       "term": "imitārī",
        "def": "imitate"
       },
       {
@@ -42264,11 +42264,11 @@ window.COURSE_DATA.courses.push({
        "def": "doubtful"
       },
       {
-       "term": "consultare",
+       "term": "consultāre",
        "def": "consult, deliberate"
       },
       {
-       "term": "amicitia",
+       "term": "amīcitia",
        "def": "friendship"
       },
       {
@@ -42284,11 +42284,11 @@ window.COURSE_DATA.courses.push({
        "def": "easily"
       },
       {
-       "term": "verum",
+       "term": "vērum",
        "def": "truth"
       },
       {
-       "term": "providere",
+       "term": "prōvidēre",
        "def": "see, foresee"
       },
       {
@@ -42300,7 +42300,7 @@ window.COURSE_DATA.courses.push({
        "def": "anyone at all"
       },
       {
-       "term": "libido",
+       "term": "libīdō",
        "def": "inclination, lust"
       },
       {
@@ -42316,19 +42316,19 @@ window.COURSE_DATA.courses.push({
        "def": "mind"
       },
       {
-       "term": "valere",
+       "term": "valēre",
        "def": "be effective"
       },
       {
-       "term": "possidere",
+       "term": "possidēre",
        "def": "have power, hold sway"
       },
       {
-       "term": "dominari",
+       "term": "dominārī",
        "def": "rule"
       },
       {
-       "term": "qui reges",
+       "term": "quī rēgēs",
        "def": "what kings"
       },
       {
@@ -42336,15 +42336,15 @@ window.COURSE_DATA.courses.push({
        "def": "driven"
       },
       {
-       "term": "recte atque ordine",
+       "term": "rēctē atque ōrdine",
        "def": "rightly and in proper order"
       },
       {
-       "term": "Bello Macedonico",
+       "term": "Bellō Macedonicō",
        "def": "in the Macedonian war (with Perseus, 171 to 67)"
       },
       {
-       "term": "Rhodii",
+       "term": "Rhodiī",
        "def": "the Rhodians (island near Asia Minor)"
       },
       {
@@ -42352,7 +42352,7 @@ window.COURSE_DATA.courses.push({
        "def": "magnificent"
       },
       {
-       "term": "infidus",
+       "term": "īnfīdus",
        "def": "faithless"
       },
       {
@@ -42368,15 +42368,15 @@ window.COURSE_DATA.courses.push({
        "def": "finished"
       },
       {
-       "term": "impunitus",
+       "term": "impūnītus",
        "def": "unpunished"
       },
       {
-       "term": "indutiae",
+       "term": "indūtiae",
        "def": "truce"
       },
       {
-       "term": "nefarius",
+       "term": "nefārius",
        "def": "wicked"
       },
       {
@@ -42384,7 +42384,7 @@ window.COURSE_DATA.courses.push({
        "def": "magnum deed"
       },
       {
-       "term": "per occasionem",
+       "term": "per occāsiōnem",
        "def": "taking advantage of the opportunity"
       },
       {
@@ -42392,7 +42392,7 @@ window.COURSE_DATA.courses.push({
        "def": "same as esset"
       },
       {
-       "term": "iure",
+       "term": "iūre",
        "def": "rightly"
       }
      ],
@@ -42494,7 +42494,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "providendum est",
+       "term": "prōvidendum est",
        "def": "this is to be looked out for"
       },
       {
@@ -42506,31 +42506,31 @@ window.COURSE_DATA.courses.push({
        "def": "same as et ne (and may you not)"
       },
       {
-       "term": "magnitudo",
+       "term": "magnitūdō",
        "def": "greatness"
       },
       {
-       "term": "exsuperare",
+       "term": "exsuperāre",
        "def": "surpass"
       },
       {
-       "term": "comparare",
+       "term": "comparāre",
        "def": "provide"
       },
       {
-       "term": "plerique",
+       "term": "plērīque",
        "def": "very many, most"
       },
       {
-       "term": "composite atque magnifice",
+       "term": "compositē atque magnificē",
        "def": "elegantly and wonderfully"
       },
       {
-       "term": "casus",
+       "term": "cāsus",
        "def": "misfortune"
       },
       {
-       "term": "miserari",
+       "term": "miserārī",
        "def": "pity"
       },
       {
@@ -42538,7 +42538,7 @@ window.COURSE_DATA.courses.push({
        "def": "savagery"
       },
       {
-       "term": "enumerare",
+       "term": "ēnumerāre",
        "def": "recount"
       },
       {
@@ -42546,7 +42546,7 @@ window.COURSE_DATA.courses.push({
        "def": "carry off"
       },
       {
-       "term": "divellere",
+       "term": "dīvellere",
        "def": "tear away"
       },
       {
@@ -42558,15 +42558,15 @@ window.COURSE_DATA.courses.push({
        "def": "what it pleased the victors"
       },
       {
-       "term": "fanum",
+       "term": "fānum",
        "def": "shrine"
       },
       {
-       "term": "spoliare",
+       "term": "spoliāre",
        "def": "despoil"
       },
       {
-       "term": "postremo",
+       "term": "postrēmō",
        "def": "finally"
       },
       {
@@ -42574,27 +42574,27 @@ window.COURSE_DATA.courses.push({
        "def": "blood"
       },
       {
-       "term": "luctus",
+       "term": "lūctus",
        "def": "grief"
       },
       {
-       "term": "quo pertinuit",
+       "term": "quō pertinuit",
        "def": "what was the purpose of that speech"
       },
       {
-       "term": "uti",
+       "term": "ūtī",
        "def": "same as ut"
       },
       {
-       "term": "infestus",
+       "term": "īnfestus",
        "def": "hostile"
       },
       {
-       "term": "scilicet",
+       "term": "scīlicet",
        "def": "I suppose (ironic tone)"
       },
       {
-       "term": "atrox",
+       "term": "atrōx",
        "def": "horrible"
       },
       {
@@ -42602,23 +42602,23 @@ window.COURSE_DATA.courses.push({
        "def": "enkindle"
       },
       {
-       "term": "cuiquam mortalium",
+       "term": "cuiquam mortālium",
        "def": "to any man (Sallust likes mortalis for homo)"
       },
       {
-       "term": "alia aliis",
+       "term": "alia aliīs",
        "def": "some have one license, other another"
       },
       {
-       "term": "demissi, in obscuro",
+       "term": "dēmissī, in obscūrō",
        "def": "low in obscurity"
       },
       {
-       "term": "iracundia",
+       "term": "īrācundia",
        "def": "anger"
       },
       {
-       "term": "quid delinquere",
+       "term": "quid dēlinquere",
        "def": "fail at all"
       },
       {
@@ -42626,23 +42626,23 @@ window.COURSE_DATA.courses.push({
        "def": "endowed with"
       },
       {
-       "term": "in excelso",
+       "term": "in excelsō",
        "def": "in lofty state"
       },
       {
-       "term": "aetatem agunt",
+       "term": "aetātem agunt",
        "def": "spend life"
       },
       {
-       "term": "studere",
+       "term": "studēre",
        "def": "be partisan"
       },
       {
-       "term": "minime",
+       "term": "minimē",
        "def": "least of all"
       },
       {
-       "term": "dicitur",
+       "term": "dīcitur",
        "def": "is called"
       },
       {
@@ -42650,15 +42650,15 @@ window.COURSE_DATA.courses.push({
        "def": "for my part, surely"
       },
       {
-       "term": "existimare",
+       "term": "exīstimāre",
        "def": "think, judge"
       },
       {
-       "term": "cruciatus",
+       "term": "cruciātus",
        "def": "torment"
       },
       {
-       "term": "postremus",
+       "term": "postrēmus",
        "def": "last"
       },
       {
@@ -42670,19 +42670,19 @@ window.COURSE_DATA.courses.push({
        "def": "discuss"
       },
       {
-       "term": "moderari",
+       "term": "moderārī",
        "def": "regulate, moderate, restrict (with dative)"
       },
       {
-       "term": "necare",
+       "term": "necāre",
        "def": "kill"
       },
       {
-       "term": "reprehendere, hendit, hensus",
+       "term": "reprehendere, hendit, hēnsus",
        "def": "criticize"
       },
       {
-       "term": "profecto",
+       "term": "profectō",
        "def": "surely, definitely"
       },
       {
@@ -42789,7 +42789,7 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "idoneus, a, um",
+       "term": "idōneus, a, um",
        "def": "fitting, suitable"
       },
       {
@@ -42797,39 +42797,39 @@ window.COURSE_DATA.courses.push({
        "def": "light, mild"
       },
       {
-       "term": "libido, dine",
+       "term": "libīdō, dine",
        "def": "lust, whim, inclination"
       },
       {
-       "term": "patres conscripti",
+       "term": "patrēs cōnscrīptī",
        "def": "senators"
       },
       {
-       "term": "postremus, a, um",
+       "term": "postrēmus, a, um",
        "def": "last"
       },
       {
-       "term": "res publica",
+       "term": "rēs pūblica",
        "def": "state"
       },
       {
-       "term": "verbo... alii varie adsentiebantur",
+       "term": "verbō... aliī variē adsentiēbantur",
        "def": "one agreed verbally with another, variously"
       },
       {
-       "term": "rogatus sententiam",
+       "term": "rogātus sententiam",
        "def": "asked for his opinion"
       },
       {
-       "term": "huiusce modi",
+       "term": "huiusce modī",
        "def": "of this sort"
       },
       {
-       "term": "longe mihi alia mens est",
+       "term": "longē mihi alia mēns est",
        "def": "my attitude is far different"
       },
       {
-       "term": "reputare",
+       "term": "reputāre",
        "def": "consider"
       },
       {
@@ -42837,59 +42837,59 @@ window.COURSE_DATA.courses.push({
        "def": "hearth"
       },
       {
-       "term": "res monet... cavere",
+       "term": "rēs monet... cavēre",
        "def": "the situation warns us to take precautions against them rather than to deliberate on what (penalty) we may decide against them"
       },
       {
-       "term": "Nam cetera... persequare, ubi facta sunt",
+       "term": "Nam cētera... persequāre, ubi facta sunt",
        "def": "for you may prosecute (optional 2nd sg. ending) other evil deeds then, when they have been done"
       },
       {
-       "term": "implorare",
+       "term": "implōrāre",
        "def": "beg"
       },
       {
-       "term": "nihil reliqui",
+       "term": "nihil reliquī",
        "def": "nothing left"
       },
       {
-       "term": "villa",
+       "term": "vīlla",
        "def": "country estate"
       },
       {
-       "term": "signa, tabulas",
+       "term": "signa, tabulās",
        "def": "statues, paintings"
       },
       {
-       "term": "pluris quam...",
+       "term": "plūris quam...",
        "def": "make more of them than of the state"
       },
       {
-       "term": "cuiuscumque modi sunt quae amplexamini",
+       "term": "cuiuscumque modī sunt quae amplexāminī",
        "def": "of whatever sort they are which you embrace"
       },
       {
-       "term": "otium",
+       "term": "ōtium",
        "def": "leisure"
       },
       {
-       "term": "expergiscimini aliquando...",
+       "term": "expergīsciminī aliquandō...",
        "def": "wake up sometime, and take care of the state"
       },
       {
-       "term": "Non agitur",
+       "term": "Nōn agitur",
        "def": "there is no question of"
       },
       {
-       "term": "vectigalis",
+       "term": "vectīgālis",
        "def": "tribute-paying (province)"
       },
       {
-       "term": "saepenumero",
+       "term": "saepenumerō",
        "def": "very often"
       },
       {
-       "term": "in hoc ordine",
+       "term": "in hōc ōrdine",
        "def": "in this body (senate)"
       },
       {
@@ -42897,7 +42897,7 @@ window.COURSE_DATA.courses.push({
        "def": "luxury"
       },
       {
-       "term": "avaritia",
+       "term": "avāritia",
        "def": "greed"
       },
       {
@@ -42909,11 +42909,11 @@ window.COURSE_DATA.courses.push({
        "def": "opposed, hostile"
       },
       {
-       "term": "delictum",
+       "term": "dēlictum",
        "def": "fault, crime"
       },
       {
-       "term": "gratiam facere",
+       "term": "grātiam facere",
        "def": "grant pardon"
       },
       {
@@ -42921,19 +42921,19 @@ window.COURSE_DATA.courses.push({
        "def": "not easily"
       },
       {
-       "term": "tametsi",
+       "term": "tametsī",
        "def": "even though"
       },
       {
-       "term": "parvi pendere",
+       "term": "parvī pendere",
        "def": "make little of"
       },
       {
-       "term": "opulentia... neglegentiam tolerabat",
+       "term": "opulentia... neglegentiam tolerābat",
        "def": "the power of the state endured negligence (the state was strong enough to withstand abuse)"
       },
       {
-       "term": "non id agitur",
+       "term": "nōn id agitur",
        "def": "this is not now the question, whether (-ne) we should live..."
       },
       {
@@ -42945,47 +42945,47 @@ window.COURSE_DATA.courses.push({
        "def": "at this point"
       },
       {
-       "term": "mansuetudo",
+       "term": "mānsuētūdō",
        "def": "meekness, mildness"
       },
       {
-       "term": "nominare",
+       "term": "nōmināre",
        "def": "name"
       },
       {
-       "term": "iam pridem",
+       "term": "iam prīdem",
        "def": "now for a long time"
       },
       {
-       "term": "vocabulum",
+       "term": "vocābulum",
        "def": "word, name"
       },
       {
-       "term": "bona aliena largiri",
+       "term": "bona aliēna largīrī",
        "def": "to give away other people's goods (is called) liberality"
       },
       {
-       "term": "audacia",
+       "term": "audācia",
        "def": "boldness"
       },
       {
-       "term": "eo",
+       "term": "eō",
        "def": "because of this"
       },
       {
-       "term": "in extremo sita est",
+       "term": "in extrēmō sita est",
        "def": "is placed in extremity"
       },
       {
-       "term": "Sint sane...",
+       "term": "Sint sānē...",
        "def": "let them be (i.e., even if they are)"
       },
       {
-       "term": "ita se mores habent",
+       "term": "ita sē mōrēs habent",
        "def": "for such are morals"
       },
       {
-       "term": "liberalis",
+       "term": "līberālis",
        "def": "generous"
       },
       {
@@ -42993,11 +42993,11 @@ window.COURSE_DATA.courses.push({
        "def": "merciful"
       },
       {
-       "term": "fures aerari",
+       "term": "fūrēs aerāri",
        "def": "treasury thieves"
       },
       {
-       "term": "sceleratus",
+       "term": "scelerātus",
        "def": "wicked"
       },
       {
@@ -43111,27 +43111,27 @@ window.COURSE_DATA.courses.push({
      },
      "keyTerms": [
       {
-       "term": "composite",
+       "term": "compositē",
        "def": "skillfully"
       },
       {
-       "term": "inferi",
+       "term": "īnferī",
        "def": "the dead"
       },
       {
-       "term": "memorare",
+       "term": "memorāre",
        "def": "tell"
       },
       {
-       "term": "censere",
+       "term": "cēnsēre",
        "def": "propose, judge, estimate"
       },
       {
-       "term": "publicare",
+       "term": "pūblicāre",
        "def": "confiscate"
       },
       {
-       "term": "videlicet",
+       "term": "vidēlicet",
        "def": "I suppose (ironic)"
       },
       {
@@ -43139,11 +43139,11 @@ window.COURSE_DATA.courses.push({
        "def": "hired"
       },
       {
-       "term": "audacia",
+       "term": "audācia",
        "def": "boldness"
       },
       {
-       "term": "vanus",
+       "term": "vānus",
        "def": "vain"
       },
       {
@@ -43151,7 +43151,7 @@ window.COURSE_DATA.courses.push({
        "def": "it is important"
       },
       {
-       "term": "coniuratus",
+       "term": "coniūrātus",
        "def": "conspirator"
       },
       {
@@ -43159,7 +43159,7 @@ window.COURSE_DATA.courses.push({
        "def": "a little"
       },
       {
-       "term": "languere",
+       "term": "languēre",
        "def": "be weak, inactive"
       },
       {
@@ -43167,11 +43167,11 @@ window.COURSE_DATA.courses.push({
        "def": "for"
       },
       {
-       "term": "praeterea",
+       "term": "praetereā",
        "def": "besides, furthermore"
       },
       {
-       "term": "foris",
+       "term": "forīs",
        "def": "abroad"
       },
       {
@@ -43183,15 +43183,15 @@ window.COURSE_DATA.courses.push({
        "def": "sluggishness"
       },
       {
-       "term": "discrimen",
+       "term": "discrīmen",
        "def": "difference"
       },
       {
-       "term": "ambitio",
+       "term": "ambitiō",
        "def": "ambition"
       },
       {
-       "term": "mirus",
+       "term": "mīrus",
        "def": "wonderful, strange"
       },
       {
@@ -43199,19 +43199,19 @@ window.COURSE_DATA.courses.push({
        "def": "since"
       },
       {
-       "term": "separatim",
+       "term": "sēparātim",
        "def": "separately, individually"
       },
       {
-       "term": "voluptas",
+       "term": "voluptās",
        "def": "pleasure"
       },
       {
-       "term": "gratia",
+       "term": "grātia",
        "def": "influence (political)"
       },
       {
-       "term": "eo",
+       "term": "eō",
        "def": "because of this it happens"
       },
       {
@@ -43223,7 +43223,7 @@ window.COURSE_DATA.courses.push({
        "def": "pass by"
       },
       {
-       "term": "coniurare",
+       "term": "coniūrāre",
        "def": "conspire"
       },
       {
@@ -43231,7 +43231,7 @@ window.COURSE_DATA.courses.push({
        "def": "burn"
       },
       {
-       "term": "infestus",
+       "term": "īnfestus",
        "def": "hostile"
       },
       {
@@ -43239,7 +43239,7 @@ window.COURSE_DATA.courses.push({
        "def": "invite"
       },
       {
-       "term": "cunctari",
+       "term": "cunctārī",
        "def": "hesitate"
       },
       {
@@ -43247,15 +43247,15 @@ window.COURSE_DATA.courses.push({
        "def": "city walls"
       },
       {
-       "term": "deprehensus",
+       "term": "dēprehēnsus",
        "def": "caught"
       },
       {
-       "term": "adulescentulus",
+       "term": "adulēscentulus",
        "def": "youth"
       },
       {
-       "term": "armatus",
+       "term": "armātus",
        "def": "armed"
       },
       {
@@ -43267,35 +43267,35 @@ window.COURSE_DATA.courses.push({
        "def": "dangerous, harsh"
       },
       {
-       "term": "votum",
+       "term": "vōtum",
        "def": "prayer"
       },
       {
-       "term": "nequiquam",
+       "term": "nēquīquam",
        "def": "in vain"
       },
       {
-       "term": "implorare",
+       "term": "implōrāre",
        "def": "beg"
       },
       {
-       "term": "immoderatus",
+       "term": "immoderātus",
        "def": "excessive"
       },
       {
-       "term": "parricida",
+       "term": "parricīda",
        "def": "murderer"
       },
       {
-       "term": "verum",
+       "term": "vērum",
        "def": "but"
       },
       {
-       "term": "pudicitia",
+       "term": "pudīcitia",
        "def": "modesty"
       },
       {
-       "term": "adulescentia",
+       "term": "adulēscentia",
        "def": "youth"
       },
       {
@@ -43303,7 +43303,7 @@ window.COURSE_DATA.courses.push({
        "def": "why"
       },
       {
-       "term": "postremo",
+       "term": "postrēmō",
        "def": "finally"
       },
       {
@@ -43319,11 +43319,11 @@ window.COURSE_DATA.courses.push({
        "def": "on all sides"
       },
       {
-       "term": "fauces",
+       "term": "faucēs",
        "def": "throat, jaws"
       },
       {
-       "term": "urgere",
+       "term": "urgēre",
        "def": "press, beset"
       },
       {
@@ -43331,11 +43331,11 @@ window.COURSE_DATA.courses.push({
        "def": "bosom"
       },
       {
-       "term": "properare",
+       "term": "properāre",
        "def": "hasten"
       },
       {
-       "term": "nefarius",
+       "term": "nefārius",
        "def": "wicked"
       },
       {

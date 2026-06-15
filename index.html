@@ -46,6 +46,8 @@
     <div id="courseDash" class="course-dash"></div>
     <div class="quicklinks">
       <button id="reviewLink" class="btn-secondary">🔁 Review</button>
+      <button id="paradigmDrill" class="btn-secondary" style="display:none">⚔ Practice paradigms</button>
+      <button id="paradigmsLink" class="btn-secondary" style="display:none">📐 Paradigms</button>
       <button id="summaryLink" class="btn-secondary">🖨 Print summary</button>
       <button id="creditsLink" class="btn-secondary">📜 Sources &amp; Credits</button>
     </div>
@@ -97,6 +99,13 @@
     <div id="settingsBody" class="settings-body"></div>
   </section>
 
+  <!-- PARADIGMS (Latin reference) -->
+  <section id="screen-paradigms" class="screen">
+    <button class="back-link" data-nav="home">‹ Back</button>
+    <h1 class="page-title">Latin Paradigms</h1>
+    <div id="paradigmsBody"></div>
+  </section>
+
   <!-- CREDITS -->
   <section id="screen-credits" class="screen">
     <button class="back-link" data-nav="home">‹ Back</button>
@@ -110,6 +119,8 @@
 <script src="courses/english.js"></script>
 <script src="courses/composition.js"></script>
 <script src="courses/latin.js"></script>
+<script src="courses/latin-gloss.js"></script>
+<script src="courses/paradigms.js"></script>
 <script src="js/store.js"></script>
 <script src="js/srs.js"></script>
 <script src="js/content.js"></script>
